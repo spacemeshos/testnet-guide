@@ -29,7 +29,7 @@ The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coi
 
 ### CLI-only Linux
 
-Running linux old-school style without any GUI? We got you covered! Just follow [this guide](no_gui_linux.md) to join the testnet from your system.
+Running linux old-school style without any GUI? We got you covered! Just follow [this guide](no_gui_linux.md) to join the Testnet from your system.
 
 ---
 
@@ -40,7 +40,6 @@ Locate the installer you have downloaded in Finder and double click it. Follow t
 
 ### Windows 10
 Locate the installer you have downloaded in Explorer and double click it. Follow the on-screen instructions.
-
 
 ### Linux (Debian, etc.. with UI)
 todo: add instructions here...
