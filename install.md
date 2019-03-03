@@ -2,7 +2,7 @@
 
 Follow this guide to download, install and run a full Spacemesh Testnet p2p node on your desktop computer.
 
-> Before installing, please verify your system meets the [minimum system requirements](system.md).
+> Before installing, please verify your system meets the [minimum system requirements](requirements.md).
 
 ---
 
