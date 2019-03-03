@@ -6,11 +6,11 @@ Follow this guide to download, install and run a full Spacemesh Testnet p2p node
 
 ---
 
-## Step 1 - Download the Installer
+## Step 1 - Downloading the Installer
 
-The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coin wallet and a p2p node dashboard.
+The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coins wallet and a p2p node dashboard. You install the App to setup your p2p full node and you use the wallet to setup an award account for your full node.
 
-> The installer you are downloading was created from code in the Spacemesh open source software repos on github. If you prefer, you can build and the installer [directly from source code](soruce.md) instead of using the provided installer.
+> The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source. We provide this installer to make it convenient for non-developers users to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
 
 
 ### OS X
@@ -25,7 +25,7 @@ The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coi
 [link to installer here]
 [Installer Binary Hash]
 
-> Recommended! follow [these steps](auth.md) to verify that the Installer you have  downloaded is authentic
+> Recommended! follow [these steps](auth.md) to verify that the Installer you have  downloaded is authentic.
 
 ### CLI-only Linux
 
@@ -33,7 +33,7 @@ Running linux old-school style without any GUI? We got you covered! Just follow 
 
 ---
 
-## Step 2 - Install & Run the App
+## Step 2 - Installing & Running the App
 
 ### OS X
 Locate the installer you have downloaded in Finder and double click it. Follow the on-screen instructions.
@@ -46,7 +46,7 @@ todo: add instructions here...
 
 ---
 
-## Step 3 - Create a Wallet
+## Step 3 - Creating a Wallet
 
 ### Create a pin to protected your wallet..
 Explain why you need a wallet...

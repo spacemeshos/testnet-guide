@@ -1,5 +1,5 @@
 Intro
-- [Welcome](intro.md)
+- [Welcome](main.md)
 
 Getting Started Guide
 - [Installing](install.md)
