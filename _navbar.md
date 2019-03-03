@@ -1,2 +1,0 @@
-- [Section 1](1/intro.md)
-- [Section 2](2/intro.md)
