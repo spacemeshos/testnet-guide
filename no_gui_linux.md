@@ -1,0 +1,6 @@
+# Joining the Testnet on a pure-CLI Linux system
+
+
+1. Build full node and CLI wallet from source
+2. Create a coinbase address in the wallet...
+3. Run the full node and proceed with the CLI setup process...
