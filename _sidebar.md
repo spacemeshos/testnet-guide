@@ -3,10 +3,9 @@ Intro
 
 Getting Started Guide
 - [Installing](install.md)
-- [Inspecting](monitor.md)
-- [Transacting](tx.md)
+- [Setting up](setup.md)
 
-Doing More
+Beyond the Basics
 - [Getting Help](help.md)
 - [Joining the Community](comm.md)
 - [System Requirements](requirements.md)
