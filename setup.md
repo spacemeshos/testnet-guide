@@ -21,15 +21,18 @@ Follow the setup progress and look for coin awards notifications in this screen.
 [Screen shot]
 
 ## That's all folks!
+
+[ Toast GIF Anim Here ]
 You did it - you are now up and running and will start receiving coin awards for being part of the Spacemesh p2p blockmesh network.
 
 ## Beyond the basics..
 
-Follow these guides:
+Follow these tutorials to become a Spacemesh master:
 
 - Checking your [Spacemesh Coin balance](balance.md)
 - [Paying someone](pay.md) with Spacemesh coins
 - [Getting paid](getting_paid.md) with Spacemesh coins
+- [Backup up your wallet](backup.md)
 
 ## Community Resources
 Stuck? Needs additional info? Got some cool ideas for the project?
