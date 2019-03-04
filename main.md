@@ -26,7 +26,6 @@ Got stuck? Needs additional info? Got some cool ideas for the project?
 - Learn about Spacemesh on Spacemesh.io
 
 ## Advanced Topics
-- Building and running a Testnet full node and wallet from source code
-- Running on a console-only linux system
-- Running using Docker
-- Testnet FAQ
+- [Building and running](build.md) from source code
+- Running on a [console-only linux system](linux.md)
+- Building and running in a [Docker container](docker.md)
