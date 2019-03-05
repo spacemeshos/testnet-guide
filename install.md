@@ -2,7 +2,7 @@
 
 Follow this guide to download, install and run a full Spacemesh Testnet p2p node on your desktop computer.
 
-> Before installing, please confirm that your system meets the [minimum system requirements](requirements.md).
+!> Before installing, please confirm that your system meets the [minimum system requirements](requirements.md).
 
 ---
 
@@ -12,7 +12,7 @@ The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node
 
 You install the App to setup your p2p full node and you use the wallet to setup an award account for your full node.
 
-> The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source. We provide this installer to make it convenient for non-developers users to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
+?> The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source. We provide this installer to make it convenient for non-developers users to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
 
 Download the App installer for your OS.
 
@@ -25,7 +25,7 @@ Download the App installer for your OS.
 [Installer Binary Hash]
 
 ### Linux with GUI
-> todo: what are the linux distros that support Electron apps?
+!> todo: what are the linux distros that support Electron apps?
 
 [link to installer here]
 [Installer Binary Hash]
@@ -61,7 +61,7 @@ You need a wallet to manage your Spacemesh Coins and to provide the platform wit
 
 The Spacemesh App will prompt you to enter a passphrase to protect your new wallet - proceed and choose a password. You will need to use the passphrase to open your wallet in future app sessions. We recommend that you'll save your passphrase in your computer secure password manager.
 
-> Important: until you backup your wallet from the app, you won't be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up in case you forget your passphrase.
+!> Important: until you backup your wallet from the app, you won't be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up in case you forget your passphrase.
 
 Your new wallet is configured with 1 default address. You can create additional addresses later, but for now, you will use this address as the awards address for coin awards that are due to your p2p node.
 
