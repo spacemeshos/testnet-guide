@@ -1,0 +1,15 @@
+:root {
+    /* Reduce the font size */
+    /* --base-font-size: 14px; */
+
+    --theme-color                       : #00c28b;
+    --link-color                        : #00c28b;
+    --link-color--hover                 : #00c28b;
+
+    /* Change the theme color hue (0-360) */
+    /* --theme-hue: 325; */
+
+    /* Add sidebar navigation bullets */
+    /* --sidebar-nav-link-before-content-l1: '😀'; */
+    /* --sidebar-nav-link-before-content-l2: '💩'; */
+}
