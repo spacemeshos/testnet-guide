@@ -2,6 +2,8 @@
 
 # Welcome to the Spacemesh Testnet Guide
 
+!> The testnet haven't launched yet. This is a work in progress incomplete guide.
+
 We are happy to see you here. To learn the basics about Spacemesh and the Testnet, please read the intro on this page. tl;dr? skip the intro and [get started](install.md)!
 
 ## What is Spacemesh?
@@ -15,13 +17,13 @@ The Spacemesh Testnet is a beta public release of the Spacemesh p2p software pla
 The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainent and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is monopoly money without any real world value. The Testnet is designed to run security and code audits of the Spacemesh software and protocols.
 
 ## Why should I join?
-Joining the Testnet helps Spacemesh launch a high-quality mainent and the Spacemesh Coins cryptocurrency. It also helps you to prepare your for participation in the Spacemesh Mainent once it launches and earn Spacemesh coins validation awards for your participation. Bottom line, if you care about Spacemesh and plan to participate in its Mainnet then you should join that Testnet.
+Joining the Testnet helps Spacemesh launch a high-quality mainent and the Spacemesh Coins cryptocurrency. It also helps you to prepare your for participation in the Spacemesh Mainent once it launches and earn Spacemesh coins validation awards for your participation. Bottom line, if you care about Spacemesh and plan to participate in its Mainnet then you should join the Testnet.
 
 ## How can I join?
-Just follow this interactive guide to join the Testnet. Let's [get started](install.md)!
+Just follow our interactive guide to join the Testnet. Let's [get started](install.md)!
 
 ## Community Resources
-Got stuck? Needs additional info? Got some cool ideas for the project?
+Got stuck? Need additional info? Got some cool ideas for the project?
 - Join the conversation in our [Testnet chat channel](https://gitter.im/spacemesh-os/testnet)
 - Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io)
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
