@@ -10,7 +10,7 @@
 
 You did it - you are now up and running and will start receiving coin awards for being part of the Spacemesh p2p blockmesh network.
 
-[ Toast GIF Anim Here ]
+![](../images/goodjob.gif)
 
 
 ## What to do next?

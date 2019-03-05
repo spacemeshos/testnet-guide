@@ -22,4 +22,4 @@ Follow the setup progress and look for coin awards notifications in this screen.
 
 ## Next Step...
 
-Check your [Full Node Status](status.md)
+You are almost done.. You are now ready to check your [Full Node Status](guide/status.md)

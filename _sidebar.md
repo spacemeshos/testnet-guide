@@ -1,4 +1,3 @@
-**Intro**
 - [Welcome](main.md)
 
 **Getting Started**

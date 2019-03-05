@@ -69,4 +69,4 @@ Your new wallet is configured with 1 default address. You can create additional 
 
 ## Next Step...
 
-We are almost done! You are now ready to [setup your Spacemesh p2p node...](setup.md)
+You are now ready to [setup your Spacemesh p2p node...](guide/setup.md)
