@@ -24,7 +24,7 @@ Follow these tutorials to become a Spacemesh master:
 - [Sending coin](transacting.md) to a friend...
 - Can't wait for your award? [Get some Testnet coins](tap.md) from our chat bot
 
-## Community Resources
+## Join our Community
 Stuck? Needs additional info? Got some cool ideas for the project?
 - Join the conversation in our [Testnet chat channel](https://gitter.im/spacemesh-os/testnet)
 - Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io)

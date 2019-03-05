@@ -5,7 +5,8 @@
 - [Setting up](guide/setup.md)
 - [Checking Status](guide/status.md)
 
-**Going Deep**
+**Doing More**
+- [FAQ](faq.md)
 - [Getting Help](help.md)
 - [Joining the Community](comm.md)
 - [System Requirements](requirements.md)
