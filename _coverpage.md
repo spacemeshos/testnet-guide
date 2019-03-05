@@ -2,4 +2,4 @@
 
 > The Guide
 
-[Let's do this!](#main)
+[Let's do this!](main.md)
