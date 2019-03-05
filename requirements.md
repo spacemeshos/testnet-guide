@@ -24,7 +24,7 @@ Note that the requirements below are tentative and are subject to change pending
 (1) Subject to change pending further testing
 (2) A modern GPU considerably reduces a Spacemesh full node setup time. It is possible to setup a Spacemesh full node on a system without a GPU, but in this case, the setup phase will take up to x100 longer than with the same system with a GPU supporting OpenCL
 
-# Spacemesh App Requirements
+# Spacemesh App (Wallet Only Mode) Requirements
 You can use the Spacemesh App wallet features without running a full node on your computer.
 
-- GUI Linux, OS X or Windows 10 OS
+This configuration requires just a modern computer running OS X, Windows 10 or a GUI Linux.

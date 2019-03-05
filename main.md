@@ -1,3 +1,5 @@
+![](/images/logo.png)
+
 # Welcome to the Spacemesh Testnet Guide
 
 We are happy to see you here. To learn the basics about Spacemesh and the Testnet, please read the intro on this page. tl;dr? skip the intro and [get started](install.md)!
