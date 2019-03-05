@@ -7,7 +7,8 @@ Note that the requirements below are tentative and are subject to change pending
 - 4GB RAM
 - 150GB free space on a magnetic hard-drive or SSD drive (1)
 - An always on unmetered broadband Internet connection
-- Linux, OS X or Windows 10 OS
+- OS X, Windows 10, Ubuntu 12.04 or newer
+Fedora 21, Debian 8
 - Internet connection speed. Download: TBD mbps. Upload: TBD mbps
 - Configuration to accept incoming Internet connections to a port
 
@@ -27,4 +28,9 @@ Note that the requirements below are tentative and are subject to change pending
 # Spacemesh App (Wallet Only Mode) Requirements
 You can use the Spacemesh App wallet features without running a full node on your computer.
 
-This configuration requires just a modern computer running OS X, Windows 10 or a GUI Linux.
+This configuration requires just a modern computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8.
+
+# Linux support
+Spacemesh App distribution (Full Node + GUI Wallet + Full Node Dashboard) is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
+
+If you are running another flavor of Linux then you can install the `Full Node Linux Distro` which includes the full node and a CLI wallet, or build and run the full node and CLI wallet from source code. You may also run the Full Node and the CLI wallet inside a docker container.

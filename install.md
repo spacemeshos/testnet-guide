@@ -4,7 +4,6 @@ Follow this guide to download, install and run a full Spacemesh Testnet p2p node
 
 !> Before installing, please confirm that your system meets the [minimum system requirements](requirements.md).
 
----
 
 ## Step 1 - Download the Installer
 
@@ -24,15 +23,16 @@ Download the App installer for your OS.
 [link to installer here]
 [Installer Binary Hash]
 
-### Linux with GUI
-!> todo: what are the linux distros that support Electron apps?
+### Ubuntu, Fedora or Debian Linux
+
+?> Ubuntu 12.04 and newer, Fedora 21 and Debian 8 distributions are supported
 
 [link to installer here]
 [Installer Binary Hash]
 
-### CLI-only Linux
+### Other Flavors of Linux
 
-> Running linux old-school style without any GUI? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
+> Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
 
 ---
 

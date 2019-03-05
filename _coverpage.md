@@ -2,6 +2,6 @@
 
 > The Guide
 
-[Let's do this!](main.md)
+[Let's do this!](#main)
 
 ![](/images/paralex1.png)
