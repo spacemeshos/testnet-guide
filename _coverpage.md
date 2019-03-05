@@ -1,4 +1,4 @@
-# Spacemesh Testnet <small>0.1</small>
+# Spacemesh Testnet
 
 > The Guide
 
