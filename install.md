@@ -8,10 +8,13 @@ Follow this guide to download, install and run a full Spacemesh Testnet p2p node
 
 ## Step 1 - Download the Installer
 
-The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coins wallet and a p2p node dashboard. You install the App to setup your p2p full node and you use the wallet to setup an award account for your full node.
+The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node dashboard.
+
+You install the App to setup your p2p full node and you use the wallet to setup an award account for your full node.
 
 > The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source. We provide this installer to make it convenient for non-developers users to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
 
+Download the App installer for your OS.
 
 ### OS X
 [link to installer here]
@@ -21,7 +24,9 @@ The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coi
 [link to installer here]
 [Installer Binary Hash]
 
-### Linux (Debian, etc.. with UI)
+### Linux with GUI
+> todo: what are the linux distros that support Electron apps?
+
 [link to installer here]
 [Installer Binary Hash]
 
@@ -31,7 +36,7 @@ The Spacemesh Testnet App includes the Spacemesh p2p node, a basic Spacemesh Coi
 
 ---
 
-## Step 2 - Installing & Running the App
+## Step 2 - Install and Run the App
 
 First, optional but recommended! follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not compromised by a 3rd party.
 
@@ -48,9 +53,12 @@ todo: add instructions here...
 
 ## Step 3 - Create a Wallet
 
-You need a wallet to manage your Spacemesh Coins and to provide the platform with an address to award Spacemesh coins to you for participation in the platform by running a full p2p node. You also use the wallet to transfer coin to other people.
+You need a wallet to manage your Spacemesh Coins and to provide the platform with an address to award Spacemesh coins to you for participation in the platform by running a full p2p node. You also use the wallet to transfer coin to other people. You create a wallet in the Spacemesh App.
 
-### Create a pin to protected your wallet...
+### Protect your wallet with a passphrase
+
+[ Screen Shot - Passphrase]
+
 The Spacemesh App will prompt you to enter a passphrase to protect your new wallet - proceed and choose a password. You will need to use the passphrase to open your wallet in future app sessions. We recommend that you'll save your passphrase in your computer secure password manager.
 
 > Important: until you backup your wallet from the app, you won't be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up in case you forget your passphrase.
@@ -61,4 +69,4 @@ Your new wallet is configured with 1 default address. You can create additional 
 
 ## Next Step...
 
-We are almost done! Please proceed and [setup your p2p node...](setup.md)
+We are almost done! You are now ready to [setup your Spacemesh p2p node...](setup.md)

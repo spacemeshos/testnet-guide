@@ -1,10 +1,10 @@
 # Full Node Setup
 
-The Spacemesh App now prompts you to setup a full node.
+The Spacemesh App now prompts you to setup a full p2p node.
 
 [Screen Shot Here]
 
-A full node is...
+TODO: A full p2p node is...
 
 
 Click on 'Setup' and follow the on-screen instructions.
@@ -25,13 +25,13 @@ Follow the setup progress and look for coin awards notifications in this screen.
 [ Toast GIF Anim Here ]
 You did it - you are now up and running and will start receiving coin awards for being part of the Spacemesh p2p blockmesh network.
 
-## Beyond the basics..
+## What to do next?
 
 Follow these tutorials to become a Spacemesh master:
 
-- Checking your [Spacemesh Coin balance](balance.md)
-- [Paying someone](pay.md) with Spacemesh coins
-- [Getting paid](getting_paid.md) with Spacemesh coins
+- Check your [Spacemesh Coin balance](balance.md)
+- [Pay someone](pay.md) with Spacemesh coins
+- [Get paid](getting_paid.md) with Spacemesh coins
 - [Backup up your wallet](backup.md)
 
 ## Community Resources
@@ -41,7 +41,7 @@ Stuck? Needs additional info? Got some cool ideas for the project?
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
 - Learn about Spacemesh on Spacemesh.io
 
-## Advanced Topics
-- [Building and running](build.md) from source code
-- Running on a [console-only linux system](linux.md)
-- Building and running in a [Docker container](docker.md)
+## Advanced Scenarios
+- [Build and run](build.md) from source code
+- Run a full node on a [console-only linux system](linux.md)
+- Run a full node in a [Docker container](docker.md)
