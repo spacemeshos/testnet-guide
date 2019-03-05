@@ -1,12 +1,12 @@
-### Intro
+**Intro**
 - [Welcome](main.md)
 
-### Getting Started
+**Getting Started**
 - [Installing](install.md)
 - [Setting up](setup.md)
 - [Checking status](status.md)
 
-### Going Deep
+**Going Deep**
 - [Getting Help](help.md)
 - [Joining the Community](comm.md)
 - [System Requirements](requirements.md)
