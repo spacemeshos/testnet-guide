@@ -2,22 +2,23 @@
 
 Follow this guide to download, install and run a full Spacemesh Testnet p2p node on your desktop computer.
 
-!> Before installing, please confirm that your system meets the [minimum system requirements](requirements.md).
 
 
 ## Step 1 - Download the Installer
 
-The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node dashboard.
-
-You install the App to setup your p2p full node and you use the wallet to setup an award account for your full node.
+The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node dashboard. You install the App to setup your p2p node and you use the wallet to setup an award account for your p2p node.
 
 ?> The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source. We provide this installer to make it convenient for non-developers users to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
 
-Download the App installer for your OS.
+First, confirm that your system meets the [minimum system requirements](requirements.md).
+
+Next download the App installer for your OS.
 
 ### OS X
-[link to installer here]
-[Installer Binary Hash]
+
+> [SPACEMESH_INSTALLER](setup.app)
+<Br/><br/>**SHA512 checksum**
+1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ### Windows 10
 [link to installer here]
