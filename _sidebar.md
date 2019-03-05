@@ -1,11 +1,11 @@
 ### Intro
 - [Welcome](main.md)
 
-### Getting Started Guide
+### Getting Started
 - [Installing](install.md)
 - [Setting up](setup.md)
 
-### Beyond the Basics
+### Going Deep
 - [Getting Help](help.md)
 - [Joining the Community](comm.md)
 - [System Requirements](requirements.md)
