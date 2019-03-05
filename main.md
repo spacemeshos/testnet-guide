@@ -4,7 +4,7 @@
 
 !> **Dragons Ahead!** The testnet haven't launched yet. This is a work in progress incomplete guide.
 
-We are happy to see you here. To learn the basics about Spacemesh and the Testnet, please read the intro on this page. tl;dr? skip the intro and [get started](install.md)!
+We are happy to see you here. To learn the basics about Spacemesh and the Testnet, please read the intro on this page. tl;dr? skip the intro and [get started](guide/install.md)!
 
 ## What is Spacemesh?
 Spacemesh is a p2p blockchain open source software for creating a permissionless and scalable cryptocurrency called Spacemesh Coin using a novel proof of space-time based consensus protocol. Spacemesh achieves this without using proof of stake or proof of work protocols, thus it avoids some of the issues involved in such protocol such as massive energy waste and mining pooling and centralization.
@@ -20,7 +20,7 @@ The Testnet is designed to test the Spacemesh protocols and software prior to re
 Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the Spacemesh Coins cryptocurrency. It also helps you to prepare your for participation in the Spacemesh Mainnet once it launches and earn Spacemesh coins validation awards for your participation. Bottom line, if you care about Spacemesh and plan to participate in its Mainnet then you should join the Testnet.
 
 ## How can I join?
-Just follow our interactive guide to join the Testnet. Let's [get started](install.md)!
+Just follow our interactive guide to join the Testnet. Let's [get started](guide/install.md)!
 
 ## Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?

@@ -2,9 +2,9 @@
 - [Welcome](main.md)
 
 **Getting Started**
-- [Installing](install.md)
-- [Setting up](setup.md)
-- [Checking status](status.md)
+- [Installing](guide/install.md)
+- [Setting up](guide/setup.md)
+- [Checking Status](guide/status.md)
 
 **Going Deep**
 - [Getting Help](help.md)
