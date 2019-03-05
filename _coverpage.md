@@ -2,6 +2,6 @@
 
 > The Guide
 
-[Get Started](main.md)
+[Let's do this!](main.md)
 
-![](images/paralex1.png)
+![](/images/paralex1.png)
