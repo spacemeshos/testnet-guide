@@ -3,37 +3,46 @@
 Follow this guide to download, install and run a full Spacemesh Testnet p2p node on your desktop computer.
 
 
-
 ## Step 1 - Download the Installer
 
 The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node dashboard. You install the App to setup your p2p node and you use the wallet to setup an award account for your p2p node.
 
-?> The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source. We provide this installer to make it convenient for non-developers users to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
-
-First, confirm that your system meets the [minimum system requirements](requirements.md).
+First, please confirm that your system meets the [minimum system requirements](requirements.md).
 
 Next download the App installer for your OS.
 
 ### OS X
 
 > [SPACEMESH_INSTALLER](setup.app)
-<Br/><br/>**SHA512 checksum**
+<br/><Br/>**SHA512 checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ### Windows 10
-[link to installer here]
-[Installer Binary Hash]
+
+> [SPACEMESH_INSTALLER](setup.app)
+<Br/><br/>**SHA512 checksum**
+1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ### Ubuntu, Fedora or Debian Linux
 
 ?> Ubuntu 12.04 and newer, Fedora 21 and Debian 8 distributions are supported
 
-[link to installer here]
-[Installer Binary Hash]
+> [SPACEMESH_INSTALLER](setup.app)
+<Br/><br/>**SHA512 checksum**
+1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ### Other Flavors of Linux
 
 > Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
+
+---
+### Security Note
+The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source.
+
+We provide these installers to make it convenient for non-developers users to join Spacemesh.
+
+If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
+
 
 ---
 
@@ -54,7 +63,7 @@ todo: add instructions here...
 
 ## Step 3 - Create a Wallet
 
-You need a wallet to manage your Spacemesh Coins and to provide the platform with an address to award Spacemesh coins to you for participation in the platform by running a full p2p node. You also use the wallet to transfer coin to other people. You create a wallet in the Spacemesh App.
+?> You need a wallet to manage your Spacemesh Coins and to provide the platform with an address to award Spacemesh coins to you for participation in the platform by running a full p2p node. You also use the wallet to transfer coin to other people. You create a wallet in the Spacemesh App.
 
 ### Protect your wallet with a passphrase
 
@@ -68,6 +77,4 @@ Your new wallet is configured with 1 default address. You can create additional 
 
 ---
 
-## Next Step...
-
-You are now ready to [setup your Spacemesh p2p node...](guide/setup.md)
+Well Done! You are now ready to [setup your Spacemesh p2p node...](guide/setup.md)

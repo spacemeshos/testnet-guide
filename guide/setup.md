@@ -6,8 +6,7 @@ The Spacemesh App now prompts you to setup a full p2p node.
 
 TODO: A full p2p node is...
 
-
-Click on 'Setup' and follow the on-screen instructions.
+Click on 'Setup' and follow the on-screen instructions...
 
 ?> You can use the wallet features of the App without running a full Spacemesh node by clicking on 'Later' when prompted to setup a node in the App.
 This is useful if you are running a full node on another computer and wishes to view your balance or transact with Spacemesh Coins using the wallet on another computer.
