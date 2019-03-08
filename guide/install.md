@@ -67,14 +67,19 @@ todo: add instructions here...
 
 ### Protect your wallet with a passphrase
 
-[ Screen Shot - Passphrase]
+[ Screen Shot - Passphrase ]
 
 The Spacemesh App will prompt you to enter a passphrase to protect your new wallet - proceed and choose a password. You will need to use the passphrase to open your wallet in future app sessions. We recommend that you'll save your passphrase in your computer secure password manager.
 
 !> Important: until you backup your wallet from the app, you won't be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up in case you forget your passphrase.
 
-Your new wallet is configured with 1 default address. You can create additional addresses later, but for now, you will use this address as the awards address for coin awards that are due to your p2p node.
+[ Screen Shot - Main Address ]
+
+Your new wallet is configured with a default new main address. You can create additional addresses later, but for now, you will use this address as the address for coin awards that are due to your p2p node.
+
+Coin awards you get due to running a full node will appear as a coin balance for this address.
 
 ---
 
-Well Done! You are now ready to [setup your Spacemesh p2p node...](guide/setup.md)
+## Well Done!
+Now that you have a wallet and an address, you are ready to [setup your Spacemesh p2p node...](guide/setup.md)
