@@ -18,6 +18,8 @@ You did it - you are now up and running a Spacemesh full node, and you will star
 
 ?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contributions.
 
+!> If you restart your computer then remember to start the App to start your full node. Future App releases may include an option to start the full node automatically after a restart.
+
 <center>
 
 ![](../images/goodjob.gif ':size=350px')
