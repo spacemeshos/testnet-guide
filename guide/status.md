@@ -1,9 +1,15 @@
 # Checking Status
 
-!> TODO: explain how to check local full node via the app dashboard
+When the initial setup is done you should see this screen:
 
+![](../images/setup2.png)
 
-!> TODO: explain how to check for testnet awards
+The Full Node App tab is where you view your full node status.
+
+Click on the Wallet command to switch to the Wallet tab and view your current coin balance and main address...
+
+![](../images/main_wallet.png)
+
 
 
 ## That's all folks!
