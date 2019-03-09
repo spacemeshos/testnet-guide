@@ -3,7 +3,7 @@
 Follow this guide to download, install and run a full Spacemesh Testnet p2p node on your desktop computer.
 
 
-## Step 1 - Download the Installer
+## Step 1 - Downloading the Installer
 
 The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node dashboard. You install the App to setup your p2p node and you use the wallet to setup an award account for your p2p node.
 
@@ -46,7 +46,7 @@ If you prefer and technically able, you can build and run the installer [directl
 
 ---
 
-## Step 2 - Install and Run the App
+## Step 2 - Running the App
 
 First, optional but recommended! follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not compromised by a 3rd party.
 
@@ -61,7 +61,7 @@ todo: add instructions here...
 
 ---
 
-## Step 3 - Create a Wallet
+## Step 3 - Creating a Wallet
 
 ?> You need a wallet to manage your Spacemesh Coins and to provide the platform with an address to award Spacemesh coins to you for participation in the platform by running a full p2p node. You also use the wallet to transfer coin to other people. You create a wallet in the Spacemesh App.
 
