@@ -82,7 +82,7 @@ Your new wallet is configured with a new default address. You can create additio
 
 Coin awards you get due to running a full node will appear as a coin balance for this address.
 
-The setup automatically configures your
+The setup automatically configures your full node with your default wallet main address. You can change this later via the App settings tab.
 
 ---
 

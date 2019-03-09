@@ -10,7 +10,7 @@ Click on the Wallet command to switch to the Wallet tab and view your current co
 
 ![](../images/main_wallet.png)
 
-
+You can now close the App. Your full node will keep running the background. Open the App again to access your wallet, view your full node status, to send Spacemesh coins to anyone or to receive Spacemesh Coins from anyone.
 
 ## That's all folks!
 

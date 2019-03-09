@@ -19,7 +19,7 @@ The more storage you commit, the more frequent your Spacemesh coin award frequen
 
 Follow the on-screen setup instructions to specify how much free space from your hard drive you'd like to commit to your Spacemesh identity.
 
-!> The storage you commit to Spacemesh is not used by the platform to store any useful data files. The free space you allocate is filled with cryptographic data by the setup process that is only used to establish your node identity and your awards eligibility according the Spacemesh consensus protocol.
+!> The storage you commit to Spacemesh is not used store any useful data files. The free space you allocate is filled with cryptographic data by the setup process that is only used to establish your node identity and your awards eligibility according the Spacemesh consensus protocol.
 
 Click 'Start Setup' to start the storage setup process. You should now see the setup progress screen...
 
@@ -31,6 +31,7 @@ This may take a while depending on your system, but you should be able to use yo
 
 
 ?> You can minimize the App now and access it again later or even close the App and open it later. The full node runs in the background even when the App is minimized or closed. You will get notified in this screen when the setup is complete and you have been awarded Spacemesh coin for your participation in the platform.
+
 
 ### Learn More
 - About proofs of space time...
