@@ -4,20 +4,25 @@ When the initial setup is done you should see this screen:
 
 ![](../images/setup2.png)
 
-The Full Node App tab is where you view your full node status.
+You view your full node status in the full node screen in the app.
 
-Click on the Wallet command to switch to the Wallet tab and view your current coin balance and main address...
+Click on the Wallet command to switch to the Wallet screen and view your current coin balance and default address...
 
 ![](../images/main_wallet.png)
 
-You can now close the App. Your full node will keep running the background. Open the App again to access your wallet, view your full node status, to send Spacemesh coins to anyone or to receive Spacemesh Coins from anyone.
+You may now close the App. Your full node will keep running the background. Open the App again to access your wallet, view your full node status, to send Spacemesh coins to anyone or to receive Spacemesh Coins from anyone.
 
 ## That's all folks!
 
-You did it - you are now up and running and will start receiving coin awards for being part of the Spacemesh p2p blockmesh network.
+You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
 
-![](../images/goodjob.gif)
+?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contributions.
 
+<center>
+
+![](../images/goodjob.gif ':size=350px')
+
+</center>
 
 ## What to do next?
 

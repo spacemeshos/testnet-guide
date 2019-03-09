@@ -12,27 +12,36 @@ Next download the App installer for your OS.
 
 ### OS X
 
-> [SPACEMESH_INSTALLER](setup.app)
-<br/><Br/>**SHA512 checksum**
+> [SPACEMESH_OS_X_INSTALLER](setup.app)
+<br/><Br/>**SHA512 Checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ### Windows 10
 
-> [SPACEMESH_INSTALLER](setup.app)
+> [SPACEMESH_WIN10_INSTALLER](setup.app)
 <Br/><br/>**SHA512 checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
-### Ubuntu, Fedora or Debian Linux
+## Debian Linux
 
-?> Ubuntu 12.04 and newer, Fedora 21 and Debian 8 distributions are supported
+?> Debian 8 or newer is supported
 
-> [SPACEMESH_INSTALLER](setup.app)
-<Br/><br/>**SHA512 checksum**
+> [SPACEMESH_DEB_INSTALLER](setup.deb)
+<Br/><br/>**SHA512 Checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
+
+### Ubuntu or Fedora Linux
+
+?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported
+
+> [SPACEMESH_UBUNTU_INSTALLER](setup.pkg)
+<Br/><br/>**SHA512 Checksum**
+1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
+
 
 ### Other Flavors of Linux
 
-> Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
+?> Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
 
 ---
 ### Security Note
@@ -50,13 +59,13 @@ If you prefer and technically able, you can build and run the installer [directl
 First, optional but recommended! follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not compromised by a 3rd party.
 
 ### OS X
-Locate the installer you have downloaded in Finder and double click it. Follow the on-screen instructions.
+Locate the installer you have downloaded in Finder and double-click it.
 
 ### Windows 10
-Locate the installer you have downloaded in Explorer and double click it. Follow the on-screen instructions.
+Locate the installer you have downloaded in Explorer and double-click it.
 
-### Linux (Debian, etc.. with UI)
-todo: add instructions here...
+### Debian Ubuntu or Fedora Linux
+Locate the installer you have downloaded and run it.
 
 ---
 
@@ -81,21 +90,21 @@ The App prompts you to enter a passphrase to protect your new wallet. Proceed to
 
 !> You will need to use the passphrase to access your wallet after you close the App. We recommend that you'll save your passphrase in your computer's secure password manager.
 
-!> Important: until you backup your wallet from the app, you will note be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up if you forget your passphrase.
+!> Until you backup your wallet, you will not be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up if you forget your passphrase.
 
-#### About your Wallet
+### About your Wallet
 
 ![](../images/wallet.png)
 
-Your new main wallet is configured with a new `default public address`.
+Your new main wallet is configured with a new `default address`. Each address has Spacemesh Coin balance that you can spend.
 
-You can create additional addresses later, but for now, you will use this address as the address for coin awards that will be awarded to you for running a full node.
+You can create additional addresses later, but for now, you will use this address as the address for coin awards that will be awarded to you for running a full node on your computer.
 
-Coin awards will appear as a coin balance for this address in your wallet.
+Coin awards will appear in the balance of this address in your wallet.
 
-The setup automatically configures your full node with your `default address`. You can change this later via the App settings tab.
+The setup automatically configures your full node with your `default address`. You can change the full node award address later and at any time in the App.
 
 ---
 
 ## Well Done!
-Now that you have a new wallet and a new `default address`, you are ready to [setup your Spacemesh p2p node...](guide/setup.md)
+Now that you have a new wallet and a new `default address`, you are ready to [setup your Spacemesh full node...](guide/setup.md)
