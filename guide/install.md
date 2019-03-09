@@ -62,29 +62,40 @@ todo: add instructions here...
 
 ## Step 3 - Creating a Wallet
 
+You should now see the app's welcome screen.
+
 ![](../images/welcome.png)
 
-Click `Start Setup` in the welcome screen.
+You will now setup a new wallet to manage your Spacemesh Coins and to provide your full node with a `coins awards address`.
 
-?> You need a wallet to manage your Spacemesh Coins and to provide the platform with an address to award Spacemesh coins to you for participation in the platform by running a full p2p node. You also use the wallet to transfer coin to other people. You create a wallet in the Spacemesh App.
+?> A `coins awards address` is where you receive Spacemesh Coins for running a full node.
 
-### Protect your wallet with a passphrase
+You also use your wallet to send coin to anyone and to receive coins from anyone.
+
+
+Click `Start Setup`.
 
 ![](../images/wallet_passphrase.png)
 
-The Spacemesh App will prompt you to enter a passphrase to protect your new wallet - proceed and choose a password. You will need to use the passphrase to open your wallet in future app sessions. We recommend that you'll save your passphrase in your computer secure password manager.
+The App prompts you to enter a passphrase to protect your new wallet. Proceed to choose a passphrase and to confirm it.
 
-!> Important: until you backup your wallet from the app, you won't be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up in case you forget your passphrase.
+!> You will need to use the passphrase to access your wallet after you close the App. We recommend that you'll save your passphrase in your computer's secure password manager.
+
+!> Important: until you backup your wallet from the app, you will note be able to access it without your passphrase. There is no way to restore a wallet that wasn't backed-up if you forget your passphrase.
 
 #### About your Wallet
 
-Your new wallet is configured with a new default address. You can create additional addresses later, but for now, you will use this address as the address for coin awards that are due to your p2p node.
+![](../images/wallet.png)
 
-Coin awards you get due to running a full node will appear as a coin balance for this address.
+Your new main wallet is configured with a new `default public address`.
 
-The setup automatically configures your full node with your default wallet main address. You can change this later via the App settings tab.
+You can create additional addresses later, but for now, you will use this address as the address for coin awards that will be awarded to you for running a full node.
+
+Coin awards will appear as a coin balance for this address in your wallet.
+
+The setup automatically configures your full node with your `default address`. You can change this later via the App settings tab.
 
 ---
 
 ## Well Done!
-Now that you have a new wallet, you are ready to [setup your Spacemesh p2p node...](guide/setup.md)
+Now that you have a new wallet and a new `default address`, you are ready to [setup your Spacemesh p2p node...](guide/setup.md)
