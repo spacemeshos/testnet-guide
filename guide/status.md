@@ -4,13 +4,15 @@ When the initial setup is done you should see this screen:
 
 ![](../images/setup2.png)
 
-You view your full node status in the full node screen in the app.
+You view your full node status in this screen.
 
-Click on the Wallet command to switch to the Wallet screen and view your current coin balance and default address...
+Click on the wallet command at the left side of the screen, to access your Wallet screen, view your current coin balance and default address and to perform coin transactions.
 
 ![](../images/main_wallet.png)
 
-You may now close the App. Your full node will keep running the background. Open the App again to access your wallet, view your full node status, to send Spacemesh coins to anyone or to receive Spacemesh Coins from anyone.
+You may now close the App. Your full node will keep running the background.
+
+Open the App again to access your wallet, view your full node status, to send Spacemesh coins to anyone or to receive Spacemesh Coins from anyone.
 
 ## That's all folks!
 
@@ -43,8 +45,3 @@ Stuck? Needs additional info? Got some cool ideas for the project?
 - Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io)
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
 - Learn about Spacemesh on Spacemesh.io
-
-## Advanced Scenarios
-- [Build and run](build.md) from source code
-- Run a full node on a [console-only linux system](linux.md)
-- Run a full node in a [Docker container](docker.md)

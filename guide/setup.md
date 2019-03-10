@@ -19,7 +19,7 @@ The more storage you commit, the more frequent your Spacemesh coin award frequen
 
 ![](../images/setup1.png)
 
-Follow the on-screen setup instructions to specify how much hard-drive free space you'd like to commit to your Spacemesh identity.
+Follow the on-screen setup instructions to specify how much hard-drive free space you'd like to commit to your Spacemesh identity. Note that Spacemesh requires additional 10GB of free space for mesh data.
 
 !> The free space you commit to your full node is not used store any useful data files. The free space you allocate is filled with cryptographic data by the setup process that is only used to establish your node identity and your awards eligibility according the Spacemesh consensus protocol.
 

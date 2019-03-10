@@ -12,31 +12,43 @@ Next download the App installer for your OS.
 
 ### OS X
 
-> [SPACEMESH_OS_X_INSTALLER](setup.app)
-<br/><Br/>**SHA512 Checksum**
+[SPACEMESH_OS_X_INSTALLER](setup.app)
+
+**SHA512 Checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
+
+---
 
 ### Windows 10
 
-> [SPACEMESH_WIN10_INSTALLER](setup.app)
-<Br/><br/>**SHA512 checksum**
+[SPACEMESH_WIN10_INSTALLER](setup.app)
+
+**SHA512 checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
-## Debian Linux
+---
+
+### Debian Linux
 
 ?> Debian 8 or newer is supported
 
-> [SPACEMESH_DEB_INSTALLER](setup.deb)
-<Br/><br/>**SHA512 Checksum**
+[SPACEMESH_DEB_INSTALLER](setup.deb)
+
+**SHA512 Checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
+
+---
 
 ### Ubuntu or Fedora Linux
 
 ?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported
 
-> [SPACEMESH_UBUNTU_INSTALLER](setup.pkg)
-<Br/><br/>**SHA512 Checksum**
+[SPACEMESH_UBUNTU_INSTALLER](setup.pkg)
+
+**SHA512 Checksum**
 1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
+
+---
 
 
 ### Other Flavors of Linux
@@ -49,20 +61,18 @@ The installer you are downloading was packaged from code in the [Spacemesh open 
 
 We provide these installers in order to make it convenient for non-developers to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using our provided installer.
 
----
-
 ## Step 2 - Running the App
 
 First, optional but recommended! follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not compromised by a 3rd party.
 
 ### OS X
-Locate the installer you have downloaded in Finder and double-click it.
+Locate the installer you downloaded in Finder and double-click it.
 
 ### Windows 10
-Locate the installer you have downloaded in Explorer and double-click it.
+Locate the installer you downloaded in Explorer and double-click it.
 
-### Debian Ubuntu or Fedora Linux
-Locate the installer you have downloaded and run it.
+### Debian, Ubuntu or Fedora Linux
+Locate the installer you downloaded and run it.
 
 ---
 
