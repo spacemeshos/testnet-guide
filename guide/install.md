@@ -4,11 +4,11 @@ Follow this guide to download, install and run a full Spacemesh Testnet p2p node
 
 ## Step 1 - Downloading the Installer
 
-The Spacemesh App includes the Spacemesh p2p node, a basic wallet and a p2p node dashboard. You install the App to setup your p2p node and you use the wallet to setup an award account for your p2p node.
+The Spacemesh App includes the Spacemesh full node, a basic wallet and a full node dashboard. You install the App to setup your p2p node and you use the wallet to setup an award account for your full node.
 
-First, please confirm that your system meets the [minimum system requirements](requirements.md).
+Before installing, please confirm that your system meets the [minimum system requirements](requirements.md).
 
-Next download the App installer for your OS.
+Next download the App installer for your OS using on of the links below:
 
 ### OS X
 
@@ -59,20 +59,14 @@ Next download the App installer for your OS.
 ### Security Note
 The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source.
 
-We provide these installers in order to make it convenient for non-developers to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using our provided installer.
+We provide these installers in order to make it convenient for non-developers to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](build.md) instead of using our provided installer.
 
 ## Step 2 - Running the App
 
 First, optional but recommended! follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not compromised by a 3rd party.
 
-### OS X
-Locate the installer you downloaded in Finder and double-click it.
-
-### Windows 10
-Locate the installer you downloaded in Explorer and double-click it.
-
-### Debian, Ubuntu or Fedora Linux
-Locate the installer you downloaded and run it.
+### All Platforms
+Locate the installer you downloaded and double-click it.
 
 ---
 

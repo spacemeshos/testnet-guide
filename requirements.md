@@ -1,4 +1,4 @@
-# Full p2p Node and App Requirements
+## Spacemesh Full Node and App Requirements
 
 !> Note that the requirements below are tentative and are subject to change pending further testing.
 

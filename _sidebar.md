@@ -10,7 +10,7 @@
 - [Getting Help](help.md)
 - [Joining the Community](comm.md)
 - [System Requirements](requirements.md)
-- [Backing up your Wallet](backup.md)
+- [Using your Wallet](wallet.md)
 - [Building from Source](build.md)
 - [Getting Ready for Mainnet](mainnet.md)
 - [Using the CLI wallet](cli_wallet.md)
