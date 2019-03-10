@@ -13,6 +13,8 @@ Fedora 21, Debian 8
 - Internet connection speed. Download: TBD mbps. Upload: TBD mbps
 - Configuration to accept incoming Internet connections to a port
 
+---
+
 #### Recommended System Requirements
 
 - Desktop computer with modern Intel or AMD multi-core CPU (4 or more cores)
@@ -29,18 +31,30 @@ Fedora 21, Debian 8
 
 (2) A modern GPU considerably reduces a Spacemesh full node setup time. It is possible to setup a Spacemesh full node on a system without a GPU, but in this case, the setup phase will take up to x100 longer than with the same system with a GPU supporting OpenCL
 
+---
+
 #### Operational Notes
-?> As long as your system and configuration meets the recommended  requirements, the Spacemesh Full Node and App use of CPU should be limited during normal operation (after the initial setup phase) to one CPU core
+
+As long as your system and configuration meets the recommended  requirements, the Spacemesh Full Node and App use of CPU should be limited during normal operation (after the initial setup phase) to one CPU core
 
 ?> By default, not all GPU cores are used during the setup phase, so you should be able to use your PC as you normally do
 
 
-# Spacemesh App (Wallet Only Mode) Requirements
-You can use the Spacemesh App wallet features without running a full node on your computer.
+### Spacemesh App (Wallet Only Mode) Requirements
 
-This configuration requires just a modern computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8.
+You can use the Spacemesh App wallet features without running a full node on your laptop or desktop computer.
 
-# Linux support
+This configuration requires any modern computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8.
+
+#### Setting up your Wallet
+Follow these steps to setup your wallet
+1. Install the Spacemesh App on your computer and run it
+2. Click 'Maybe Later' when prompted to setup a full node
+3. Click on the Wallet command in the main menu to access your Wallet
+
+---
+
+### Linux Support
 ?> Spacemesh App distribution (Full Node + GUI Wallet + Full Node Dashboard) is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
 
-If you are running another flavor of Linux then you can install the `Full Node Linux Distro` which includes the full node and a CLI wallet, or build and run the full node and CLI wallet from source code. You may also run the Full Node and the CLI wallet inside a docker container.
+If you are running another flavor of Linux then you can install the `Full Node Linux Distro` which includes the full node and a CLI wallet, or alternatively, build and run the full node and CLI wallet from source code. You may also run the Full Node and the CLI wallet inside a docker container. Learn more [here](linux.md)

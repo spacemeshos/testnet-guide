@@ -1,11 +1,11 @@
 - [Welcome](main.md)
 
-**Getting Started**
+**Quick Start**
 - [Installing](guide/install.md)
 - [Setting up](guide/setup.md)
 - [Checking Status](guide/status.md)
 
-**Doing More**
+**Do More**
 - [FAQ](faq.md)
 - [Getting Help](help.md)
 - [Joining the Community](comm.md)
@@ -14,3 +14,4 @@
 - [Building from Source](build.md)
 - [Getting Ready for Mainnet](mainnet.md)
 - [Using the CLI wallet](cli_wallet.md)
+- [Disclaimer](disclaimer.md)

@@ -47,10 +47,7 @@ Next download the App installer for your OS.
 ### Security Note
 The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source.
 
-We provide these installers to make it convenient for non-developers users to join Spacemesh.
-
-If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using the provided installer.
-
+We provide these installers in order to make it convenient for non-developers to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](soruce.md) instead of using our provided installer.
 
 ---
 

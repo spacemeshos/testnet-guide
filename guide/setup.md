@@ -1,6 +1,6 @@
-# Full Node Setup
+# Setting up a Full Node
 
-The Spacemesh App now prompts you to setup a full  node.
+The Spacemesh App now prompts you to setup a full  node on your computer.
 
 ?> A `Spacemesh full node` is the software you run on your computer to join the Spacemesh global computer. This Spacemesh global computer is created from many p2p full nodes operated by people like you running on personal computers from all over the world. The nodes communicate with each other over the Internet to secure and maintain the Spacemesh Coin cryptocurrency and the Spacemesh computer state.
 
