@@ -19,10 +19,10 @@ docsify serve
 
 Additional info: https://docsify.js.org
 
-## Browsing as a github pages
-Content in the master branch of this repo is automatically deployed to:
-https://spacemeshos.github.io/testnet-guide
+## Browsing
+Content in the master branch of this repo is automatically deployed to https://testnet.spacemesh.io
 
 ## Deploying to a web server
-1. Copy root folder to server
+1. Copy root folder to the server
 2. Configure dns and server to serve index.html
+3. There is no step 3.
