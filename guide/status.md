@@ -10,9 +10,9 @@ Click on the wallet command at the left side of the screen, to access your Walle
 
 ![](../images/main_wallet.png)
 
-You may now close the App. Your full node will keep running the background.
+?> You may now close the App by clicking on the close button. Your full node will keep running the background.
 
-Open the App again to access your wallet, view your full node status, to send Spacemesh coins to anyone or to receive Spacemesh Coins from anyone.
+Just open the App again to access your wallet, view your full node status, to send Spacemesh Coins to anyone or to receive Spacemesh Coins from anyone.
 
 ## That's all folks!
 
@@ -20,7 +20,7 @@ You did it - you are now up and running a Spacemesh full node, and you will star
 
 ?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contributions.
 
-!> If you restart your computer then remember to start the App to start your full node. Future App releases may include an option to start the full node automatically after a restart.
+!> If you restart your computer then remember to start the App to start your full node. Future App releases may include an option to start the full node automatically when your system starts.
 
 <center>
 
@@ -44,4 +44,4 @@ Stuck? Needs additional info? Got some cool ideas for the project?
 - Join the conversation in our [Testnet chat channel](https://gitter.im/spacemesh-os/testnet)
 - Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io)
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
-- Learn about Spacemesh on Spacemesh.io
+- Learn more about Spacemesh on [Spacemesh.io](https://spacemesh.io)

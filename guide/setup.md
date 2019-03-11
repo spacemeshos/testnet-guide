@@ -37,9 +37,10 @@ Setup may take a while depending on your system hardware capabilities, but you s
 
 ?> You may minimize the App and access it again later or even close it by clicking on the main window close button and open it later. Your full node runs in the background even when the App is minimized or closed.
 
-### Learn More about Proofs of Space Time
-- About proofs of space time...
-- Link to light paper here...
+### Learning More about Proofs of Space Time
+!> TODO: About proofs of space time... link to intro blog post here
+
+!> TODO: Link to light paper blog post here...
 
 ## Next Step...
 You are almost done! You are now ready to check your [Full Node Status](guide/status.md)
