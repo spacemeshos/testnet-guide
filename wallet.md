@@ -1,4 +1,4 @@
-# Working with the wallet
+# Using the Spacemesh Wallet
 
 ## Checking Balance
 Passphrase to unlock and view...
@@ -17,4 +17,4 @@ Passphrase to unlock and view...
 
 ## Create a new address
 
-## Create a new wallet 
+## Create a new wallet

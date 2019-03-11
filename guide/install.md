@@ -1,6 +1,6 @@
 # Installing and Running
 
-Follow this guide to download, install and run a full Spacemesh Testnet p2p node on your desktop computer.
+Follow this guide to download, install and run a  Spacemesh Testnet full node and wallet on your desktop computer.
 
 ## Step 1 - Downloading the Installer
 
@@ -14,17 +14,11 @@ Next download the App installer for your OS using on of the links below:
 
 [SPACEMESH_OS_X_INSTALLER](setup.app)
 
-**SHA512 Checksum**
-1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
-
 ---
 
 ### Windows 10
 
 [SPACEMESH_WIN10_INSTALLER](setup.app)
-
-**SHA512 checksum**
-1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ---
 
@@ -34,9 +28,6 @@ Next download the App installer for your OS using on of the links below:
 
 [SPACEMESH_DEB_INSTALLER](setup.deb)
 
-**SHA512 Checksum**
-1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
-
 ---
 
 ### Ubuntu or Fedora Linux
@@ -45,8 +36,6 @@ Next download the App installer for your OS using on of the links below:
 
 [SPACEMESH_UBUNTU_INSTALLER](setup.pkg)
 
-**SHA512 Checksum**
-1b6d41e893868aab9e06e78a9902b925227c82d8e31978ff2c412c18ac99f49f7035471544 1385e0b96e4bd3e861d18fb30433d52e12b15b501fa790f36d0ea0
 
 ---
 
@@ -63,10 +52,9 @@ We provide these installers in order to make it convenient for non-developers to
 
 ## Step 2 - Running the App
 
-First, optional but recommended! follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not compromised by a 3rd party.
+First follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a 3rd party.
 
-### All Platforms
-Locate the installer you downloaded and double-click it.
+Next, locate the installer you downloaded and double-click it.
 
 ---
 

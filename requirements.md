@@ -33,28 +33,34 @@ Fedora 21, Debian 8
 
 ---
 
-#### Operational Notes
+### Operational Notes
 
-As long as your system and configuration meets the recommended  requirements, the Spacemesh Full Node and App use of CPU should be limited during normal operation (after the initial setup phase) to one CPU core
+#### Setup Step GPU Usage
+By default, not all of your GPU cores are used during the one-time setup phase, so you should be able to use your PC as you normally do during the setup phase.
 
-?> By default, not all GPU cores are used during the setup phase, so you should be able to use your PC as you normally do
+#### Full Node CPU Usage
+As long as your system and configuration meets the recommended  requirements, the Spacemesh Full Node and App ongoing usage of your CPU should be limited during normal operation (after the initial setup phase) to one CPU core.
 
+#### Running a Full Node on your laptop
+You can install and run a full node on it if it meets the minimum desktop computer requirements. However, you will need to make sure you leave it open and connected to power and the Internet 24x7. Occasionally shutting down your full node may prevent you from participating in consensus and earning coin awards.
 
-### Spacemesh App (Wallet Only Mode) Requirements
+---
+
+### Spacemesh App (Wallet Only Mode) System Requirements
 
 You can use the Spacemesh App wallet features without running a full node on your laptop or desktop computer.
 
-This configuration requires any modern computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8.
+This configuration requires any modern laptop or desktop computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8.
 
-#### Setting up your Wallet
-Follow these steps to setup your wallet
-1. Install the Spacemesh App on your computer and run it
-2. Click 'Maybe Later' when prompted to setup a full node
-3. Click on the Wallet command in the main menu to access your Wallet
-
+#### Wallet-only Setup
+Follow these steps to setup your wallet without running a full node
+1. [Install the Spacemesh App](guide/install.md) on your computer and run it
+2. Click `Maybe Later` when prompted to setup a full node
+3. Click on the `Wallet command` in the main screen to access your Wallet
+4. Learn about [using your wallet](wallet.md)
 ---
 
 ### Linux Support
 ?> Spacemesh App distribution (Full Node + GUI Wallet + Full Node Dashboard) is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
 
-If you are running another flavor of Linux then you can install the `Full Node Linux Distro` which includes the full node and a CLI wallet, or alternatively, build and run the full node and CLI wallet from source code. You may also run the Full Node and the CLI wallet inside a docker container. Learn more [here](linux.md)
+If you are running another flavor of Linux then you can install the `Full Node Linux Distro` which includes the full node and a CLI wallet, or alternatively, build and run the full node and CLI wallet from source code. You may also run the Full Node and the CLI wallet inside a docker container. [Learn more](linux.md)...
