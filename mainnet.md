@@ -8,4 +8,6 @@ Running a full node on the Mainnet and using the Wallet is going to be very simi
 
 The sooner you and other people like you join the Mainnet on launch date, the more secure and distributed Spacemesh becomes.
 
-You should think about the amount of free space you are planning to allocate for the Spacemesh Mainent and setup the proper drive before Mainnet launch. We also recommend trying to use the same amount of storage in the Testnet. 
+You should think about the amount of free space you are planning to allocate for the Spacemesh Mainent and setup the proper drive before Mainnet launch. We also recommend trying to use the same amount of storage in the Testnet.
+
+When the Mainent launches you'll be able to use the Spacemesh App for the Mainent in the same way you have used it on the Testnet.
