@@ -1,5 +1,1 @@
 # Getting Coin
-
-## Getting Paid
-
-##

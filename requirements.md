@@ -41,7 +41,7 @@ By default, not all of your GPU cores are used during the one-time setup phase, 
 #### CPU Usage
 As long as your system and configuration meets the recommended  requirements, the Spacemesh Full Node and App ongoing usage of your CPU should be limited during normal operation (after the initial setup phase) to one CPU core.
 
-#### Running on a Laptop
+#### Running a Full Node on your Laptop
 You can install and run a full node on it if it meets the minimum desktop computer requirements. However, you will need to make sure you leave it open and connected to power and the Internet 24x7. Occasionally shutting down your full node may prevent you from participating in consensus and earning coin awards.
 
 ---
