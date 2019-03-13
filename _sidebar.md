@@ -5,13 +5,17 @@
 - [Setting up](guide/setup.md)
 - [Checking Status](guide/status.md)
 
-**Do More**
-- [FAQ](faq.md)
-- [Getting Help](help.md)
+**Doing More**
 - [Joining the Community](comm.md)
-- [System Requirements](requirements.md)
 - [Using your Wallet](wallet.md)
-- [Building from Source](build.md)
+- [Sending Coins](send_coin.md)
+- [Getting Coins](get_coin.md)
+- [Getting Help](help.md)
 - [Getting Ready for Mainnet](mainnet.md)
+- [FAQ](faq.md)
+
+**Advanced Stuff**
+- [Building from Source](build.md)
 - [Using the CLI wallet](cli_wallet.md)
+- [System Requirements](requirements.md)
 - [Disclaimer](disclaimer.md)
