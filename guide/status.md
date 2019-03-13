@@ -30,13 +30,11 @@ You did it - you are now up and running a Spacemesh full node, and you will star
 
 ## What to do next?
 
-Follow these tutorials to become a Spacemesh master:
+Follow these tutorials to become a Spacemesh maestro:
 
-- Check your [Spacemesh Coin balance](balance.md)
-- [Pay someone](pay.md) with Spacemesh coins
-- [Get paid](getting_paid.md) with Spacemesh coins
-- [Backup up your wallet](backup.md)
-- [Sending coin](transacting.md) to a friend...
+- [Pay someone](send_coin.md) with Spacemesh coins
+- [Get paid](get_coin.md) with Spacemesh coins
+- Do more with [your wallet](wallet.md)
 - Can't wait for your award? [Get some Testnet coins](tap.md) from our chat bot
 
 ## Join our Community
