@@ -76,7 +76,6 @@ The address info is saved in the wallet file.
 
 You can freely switch between addresses, view the coin balance of any address, send coin from any address, or receive coin to any address.   
 
-
 ## Creating additional wallets
 
 By default, you use one wallet (with one public address).
@@ -85,4 +84,6 @@ You can create additional wallets. Each wallet has its own passphrase, wallet da
 
 To create a new wallet, click on 'New Wallet' command in the settings screen.
 
-You will be prompted to name your new wallet and to provide a passphrase for securing it. 
+You will be prompted to name your new wallet and to provide a passphrase for securing it.
+
+!> Do not use a passphrase you already used for a wallet for your new wallet.
