@@ -1,11 +1,11 @@
 ## Backing up
-The are two main ways to backup your wallet, wallet file backup and a phrases backup.
+The are two main ways to backup your wallet, `File Backup` and `Phrases Backup`.
 
 You will be prompted to backup your wallet until you backup it :-)
 
 ![](images/backup_prompt.png)
 
-### 1. Wallet File Backup
+### Wallet File Backup
 !> A file backup allows you to restore you wallet using the wallet file and your passphrase. You can't restore your wallet without having the file and remember your passphrase.
 
 1. Click the `File Backup` option in the App backup options screen:
@@ -20,7 +20,7 @@ We recommend saving the backup file to a USB drive and storing the drive in a sa
 
 ?> The sensitive data is stored encrypted in your wallet file as a security measure. So your Spacemesh Coin held in the wallet are safe even if someone gains access to the file. That said, please take care and make sure that access to your wallet backup is not provided to others. For example, do not save a backup on the cloud in a location that is accessible to anyone.
 
-### 2. Phrases Backup
+### 12 Words Backup
 
 The phrases backup option allows you to save a list of 12 English words in a safe place. These phrases can be used to restore your wallet even in the case that you forget your wallet passphrase.
 
@@ -53,6 +53,10 @@ If you don't have a safe or a secure location for private documents then follow 
 ![](images/confirm_back_start.png)
 
 Drag the 4 words displayed in the screen to their proper place in the list. e.g. if the word `door` is word 3 in the words list, then drag the word to slot number 3 in the empty list on the screen.
+
+![](images/confirm_backup.png)
+
+Once you dragged the 4 words into their correct place in the list click on `Done`.
 
 ## Restoring from Backup
 

@@ -3,19 +3,20 @@
 **Quick Start**
 - [Installing](guide/install.md)
 - [Setting up](guide/setup.md)
-- [Checking Status](guide/status.md)
+- [Checking status](guide/status.md)
 
 **Doing More**
-- [Joining the Community](comm.md)
+- [Joining the community](comm.md)
 - [Using your Wallet](wallet.md)
-- [Sending Coins](send_coin.md)
-- [Getting Coins](get_coin.md)
-- [Getting Help](help.md)
-- [Getting Ready for Mainnet](mainnet.md)
+- [Sending coins](send_coin.md)
+- [Getting coins](get_coin.md)
+- [Getting help](help.md)
+- [Getting ready for Mainnet](mainnet.md)
+- [Backing up your wallet](backup.md)
 - [FAQ](faq.md)
 
 **Advanced Stuff**
-- [Building from Source](build.md)
-- [Using the CLI wallet](cli_wallet.md)
+- [Building from source](build.md)
+- [Using the CLI Wallet](cli_wallet.md)
 - [System Requirements](requirements.md)
 - [Disclaimer](disclaimer.md)
