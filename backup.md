@@ -58,8 +58,28 @@ Drag the 4 words displayed in the screen to their proper place in the list. e.g.
 
 Once you dragged the 4 words into their correct place in the list click on `Done`.
 
-## Restoring from Backup
+## Restoring your Wallet from backup
 
 ### Restoring from a backup file
+1. Open the App and when prompted to secure a new wallet, click the `Restore Wallet` button
 
-### Restoring from a printed 12 words list
+2. When prompted, click the `Restore from backup File` option
+
+A standard file open dialogue box is displayed.
+
+3. Locate your wallet file backup in the file dialogue box
+
+4. Enter your wallet passphrase when prompted
+
+?> Forgot your wallet passphrase? The only way to restore it is using your 12 words list backup
+
+Congratulations! your wallet is now restored from the backup file.
+
+### Restoring from a 12 words list
+1. Open the App and when prompted to secure a new wallet, click the `Restore Wallet` button
+
+2. When prompted, click the `Restore from words list` option
+
+3. Enter the 12 words from paper or from your password manager item in the same order you wrote them down
+
+Congratulations! your wallet is now restored from your 12 words list backup
