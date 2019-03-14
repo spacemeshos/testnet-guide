@@ -1,4 +1,4 @@
-# Doing More
+# Digging Deeper
 
 Follow these guides to learn more about how to use the wallet, how to get ready for the mainnet launch and more...
 

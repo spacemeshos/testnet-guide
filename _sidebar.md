@@ -6,6 +6,6 @@
 - [Checking status](guide/status.md)
 - [Joining the community](comm.md)
 
-**Doing More**
+**Dive In**
 - [Getting help](help.md)
 - [Additional Guides](more.md)
