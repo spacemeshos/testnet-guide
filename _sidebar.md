@@ -1,11 +1,11 @@
 - [Welcome](main.md)
 
-**Quick Start**
+**Getting Started**
 - [Installing](guide/install.md)
 - [Setting up](guide/setup.md)
 - [Checking status](guide/status.md)
-- [Joining the community](comm.md)
 
-**Dive In**
+**Doing More**
 - [Getting help](help.md)
+- [Joining the community](comm.md)
 - [Additional Guides](more.md)
