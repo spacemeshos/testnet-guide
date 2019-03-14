@@ -45,7 +45,7 @@ Follow [this guide](get_coin.md)
 
 ?> When you are done using the wallet in the App you should `log out` from it to prevent other people with access to your computer from viewing your coin balance, perform transactions or view your transactions history.  
 
-To log-out from you wallet, just click on `log out` or close the App main window by clicking on the close button of the main App Window.
+To log-out from you wallet, just click on `Log Out` in the main menu in the App main screen, or just close the App main window by clicking on the close button of the main App Window.
 
 To log-in again to your wallet, open the app and click on the Wallet command in the left side of the screen. You will need to enter your wallet passphrase again to access your wallet.
 
@@ -61,7 +61,6 @@ By default your wallet is pre-configured with one main address. This suffices fo
 ?> Your wallet main address is the address that appears in your wallet card in the app:
 
 ![](images/wallet.png)
-
 
 You can add up to 256 additional addresses to your wallet.
 

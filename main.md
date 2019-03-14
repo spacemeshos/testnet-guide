@@ -31,7 +31,8 @@ Got stuck? Need additional info? Got some cool ideas for the project?
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
 - Learn about Spacemesh on [Spacemesh.io](https://spacemesh.io)
 
-## Advanced Stuff
+## Additional Resources
 - [Building and running](build.md) from source code
 - Running on a [console-only linux system](linux.md)
 - Building and running in a [Docker container](docker.md)
+- [Additional Guides](more.md)
