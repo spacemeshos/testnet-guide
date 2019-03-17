@@ -1,11 +1,14 @@
-# Diving In
+# Learning More
 
-Follow these guides to learn more about how to use the wallet, how to get ready for the mainnet launch and more...
+Additional resources:
 
 - [Testnet FAQ](faq.md)
 - [Testnet System Requirements](requirements.md)
 
-## Additional Testnet Guides
+## Testnet Guides
+
+Follow these guides to learn more about how to use the wallet, how to get ready for the Spacemesh Mainnet launch and more...
+
 - [Using your wallet](wallet.md)
 - [Sending coins](send_coin.md)
 - [Getting coins](get_coin.md)
