@@ -1,6 +1,4 @@
-# Learning More
-
-Additional resources:
+# Additional resources
 
 - [Testnet FAQ](faq.md)
 - [Testnet System Requirements](requirements.md)
