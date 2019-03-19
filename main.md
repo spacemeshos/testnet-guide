@@ -6,7 +6,9 @@
 
 We are happy to see you here. To learn the basics about Spacemesh and the Testnet, please read the intro on this page.
 
-**tl;dr? skip this intro and [get started](guide/install.md)!**
+**tl;dr? skip this intro** and [get started](guide/install.md)!
+
+**Don't like to read much?** Watch the [Testnet Video Guide](#)
 
 ## What is Spacemesh?
 Spacemesh is a p2p blockchain open source software for creating a permissionless and scalable cryptocurrency called Spacemesh Coin using a novel proof of space-time based consensus protocol. Spacemesh achieves this without using proof of stake or proof of work protocols, thus it avoids some of the issues involved in such protocol such as massive energy waste and mining pooling and centralization.
