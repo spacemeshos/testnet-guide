@@ -13,6 +13,10 @@ We are happy to see you here. To learn the basics about Spacemesh and the Testne
 ## What is Spacemesh?
 Spacemesh is a p2p blockchain open source software for creating a permissionless and scalable cryptocurrency called Spacemesh Coin using a novel proof of space-time based consensus protocol. Spacemesh achieves this without using proof of stake or proof of work protocols, thus it avoids some of the issues involved in such protocol such as massive energy waste and mining pooling and centralization.
 
+<div width="100%" align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL5BszCNLCnMP49lAl2OWX3L8GK50ngq0Y&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 Spacemesh software is designed to run on real people's home PCs and not on dedicated cloud servers or specialized non-commodity hardware. A consensus on a distributed canonical ledger is formed by a protocol running on a home PCs from around the globe and without a central server as long as there's a majority of honest people running the Spacemesh software on their PCs.
 
 ## What is the Spacemesh Testnet?
