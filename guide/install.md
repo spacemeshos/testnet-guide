@@ -54,7 +54,7 @@ We provide these installers in order to make it convenient for non-developers to
 
 First follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a 3rd party.
 
-Next, locate the installer you downloaded and double-click it.
+Next, **locate the installer you downloaded and double-click it**.
 
 ---
 
