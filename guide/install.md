@@ -36,9 +36,7 @@ Next download the App installer for your OS using on of the links below:
 
 [SPACEMESH_UBUNTU_INSTALLER](setup.pkg)
 
-
 ---
-
 
 ### Other Flavors of Linux
 
