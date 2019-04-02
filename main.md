@@ -27,6 +27,12 @@ The Testnet is designed to test the Spacemesh protocols and software prior to re
 ## Why should I join?
 Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the Spacemesh Coins cryptocurrency. It also helps you to prepare your for participation in the Spacemesh Mainnet once it launches and earn Spacemesh coins validation awards for your participation. Bottom line, if you care about Spacemesh and plan to participate in its Mainnet then you should join the Testnet.
 
+In the true spirit of crypto, we launch this testnet so anyone can verify and not trust 3 main promises we make:
+1. The core technology and product works
+2. You don't have do anything after the initial setup to run a full node
+3. You can use your computer normally while running a Spacemesh full node
+
+
 ## How can I join?
 Just follow our interactive guide to join the Testnet. Let's [get started](guide/install.md)!
 
