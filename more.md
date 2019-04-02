@@ -14,4 +14,6 @@ Follow these guides to learn more about how to use the wallet, how to get ready 
 - [Backing up your wallet](backup.md)
 - [Building from source](build.md)
 - [Using the CLI Wallet](cli_wallet.md)
+
+## Legal
 - [Disclaimer](disclaimer.md)

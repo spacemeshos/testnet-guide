@@ -20,3 +20,6 @@ The following list includes guides and information about all the main Testnet fe
 
 - [Testnet FAQ](faq.md)
 - [Testnet System Requirements](requirements.md)
+
+## Legal
+- [Disclaimer](disclaimer.md)
