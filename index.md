@@ -1,6 +1,8 @@
-# Testnet Features
+# Resources index
 
-The following list includes guides and information for all the main Testnet features.
+## All Testnet Guides
+
+The following list includes guides and information about all the main Testnet features.
 
 1. [Installing the app](guide/install.md)
 2. [Setting up a wallet and a full node](guide/setup.md)
@@ -13,3 +15,8 @@ The following list includes guides and information for all the main Testnet feat
 9. [Running a CLI full node](linux.md)
 10. [Building from source](build.md)
 11. [Getting coin from the Tap](tap.md)
+
+## Additional resources
+
+- [Testnet FAQ](faq.md)
+- [Testnet System Requirements](requirements.md)

@@ -9,3 +9,4 @@
 - [Getting help](help.md)
 - [Joining the community](comm.md)
 - [Additional Guides](more.md)
+- [Resources Index](index.md)
