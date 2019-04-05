@@ -14,13 +14,13 @@ Click on the wallet command at the left side of the screen, to access your Walle
 
 Just open the App again to access your wallet, view your full node status, to send Spacemesh Coins to anyone or to receive Spacemesh Coins from anyone.
 
-## That's all folks!
+## OS Configuration
+!> Use your Operating System settings to disable your OS from shutting down or from entering hibernation mode after and idle time period to make sure your Spacemesh Full Node keeps running 24x7.
 
+## That's all folks!
 You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
 
-?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contributions.
-
-!> If you restart your computer then remember to start the App to start your full node. Future App releases may include an option to start the full node automatically when your system starts.
+?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contribution.
 
 <center>
 
