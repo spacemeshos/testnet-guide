@@ -20,11 +20,27 @@ make local-testnet
 
 This should create 4 docker images, one for every node and wallet, and one for the testnet services and symbolic links to the config file, the cli wallet and the log file of each node in the `build` folder:
 
-?> Show tree structure here...
-
 Container 1 - Alice wallet + full node
 Container 2 - Bob wallet + full node
 Container 3 - Charlie wallet + full node
+Container 4 - Services (poet, oracle)...
+
+### Tree Structure Chart
+
+- Build
+    - local-net
+        - node1 - Alice's node container
+        - node2 - Bob's node container
+        - node3 - Charlie's node container
+        - node4 - services (poet, others)...
+        - link to run Alice CLI wallet inside docker
+        - link to run Bob CLI wallet inside docker
+        - link to run Alice CLI wallet inside docker
+        - link to view node1 console log
+        - link to view node2 console log
+        - link to view node3 console log
+        - link to view node4 console log
+
 
 ## Running
 
@@ -51,3 +67,9 @@ You can see each node log output by...
 3. Query tx status from alice CLI Wallet...
 4. Open Bob's CLI wallet and check the balance...
 5. Look at any node log file and find the transaction confirmation...
+
+# Doing more...
+
+- Editing genesis data
+- Restarting nodes
+- Viewing mining awards balance in the wallet...
