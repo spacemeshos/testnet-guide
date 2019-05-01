@@ -1,6 +1,6 @@
 # Local Testnet
 
-Follow this guide to setup and run a local Testent with 3 full nodes and support services on your computer using docker. This is a great way to get a feel of the protocol and the platform.
+Follow this guide to setup and run a local Spacemesh Testent with 3 full nodes and support services on your computer using docker. This is a great way to get a feel of the protocol and the platform.
 
 ?> This guide is geared to developers who are comfortable with the command line, Docker and dev tools.
 
@@ -21,7 +21,7 @@ git clone https://github.com/spacemeshos/go-spacemesh
 make local-net
 ```
 
-This command builds all artifacts, creates 4 docker images, one for each of the 3 full nodes, and one image for the testnet services. It also creates symbolic links to each of the node's config file, and associated cli wallet and the log file of each node in the `build/local-net` folder.
+?> This command builds all artifacts, creates 4 docker images, one for each of the 3 full nodes, and one image for the testnet services. It also creates symbolic links to each of the node's config file, and associated cli wallet and the log file of each node in the `build/local-net` folder.
 
 When the command finishes, your `build/local-net` folder should look similar to this:
 
@@ -59,18 +59,31 @@ To start the local net run this command:
 
 When this script execution is complete, you should the following running docker containers:
 
+```
 - nodeAlice.ctr - Alice wallet + full node
 - nodeBob.ctr - Bob wallet + full node
 - nodeCharlie.ctr - Charlie wallet + full node
 - services.ctt - Services (poet, oracle)...
+```
 
 ### Exploring the config files
-Each node has the same genesis configuration in their config file. Show how to look at the config file.
+Each node has the same genesis configuration in their config file. Show how to look at the config file. Each node has a configured CLI wallet. Show how to access the wallet cli for each node...
 
-Each node has a configured CLI wallet. Show how to access the wallet cli for each node...
+```
+- nodeAlice.conf - link to Alice's node config file
+- nodeBob.con - link to Bob's node config file
+- nodeCharlie.conf - link to Charlie's node config file
+```
 
 ### Looking at node logs
 You can see each node log output by...
+
+```
+- nodeAlice.log - link to view node1 console log
+- nodeBob.log - link to view node2 console log
+- nodeCharlie.log - link to view node3 console log
+- services.log - link to view node4 console log
+```
 
 # Executing a transaction
 
