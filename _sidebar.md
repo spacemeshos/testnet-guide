@@ -10,3 +10,4 @@
 - [Joining the community](comm.md)
 - [Additional Guides](more.md)
 - [Resources Index](all.md)
+- [Local Test](local.md)
