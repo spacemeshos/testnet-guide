@@ -1,59 +1,73 @@
 # Local Testnet
-You can setup and run a local Testent that consists 3 full nodes and the support services on your computer. This is a great way to get a feel of the platform. This guide is geared to developers who are comfortable with the command line and dev tools.
+
+Follow this guide to setup and run a local Testent with 3 full nodes and support services on your computer using docker. This is a great way to get a feel of the protocol and the platform.
+
+?> This guide is geared to developers who are comfortable with the command line, Docker and dev tools.
 
 ## Setup
-Setup go development environment and docker. Clone go-spacemesh to your computer from github. Navigate to your go environment src folder and execute these commands:
+👉 First, set up your go development environment and docker. Next, Git clone go-spacemesh to your Linux or OS X system. Windows is not yet supported.
 
 ```bash
-mkdir src/github.com/spacemeshos
-cd src/github.com/spacemeshos
+mkdir $GOPATH/src/github.com/spacemeshos
+cd $GOPATH/src/github.com/spacemeshos
 git clone https://github.com/spacemeshos/go-spacemesh
 ```
 
 ## Building
 
-Run this from the command line to build the local testnet docker images.
+👉 Now let's build a local testnet with 3 full nodes, 3 end-users and supporting services. Run this from the command line to build the local testnet artifacts:
 
 ```bash
-make local-testnet
+make local-net
 ```
 
-This should create 4 docker images, one for every node and wallet, and one for the testnet services and symbolic links to the config file, the cli wallet and the log file of each node in the `build` folder:
+This command builds all artifacts, creates 4 docker images, one for each of the 3 full nodes, and one image for the testnet services. It also creates symbolic links to each of the node's config file, and associated cli wallet and the log file of each node in the `build/local-net` folder.
 
-Container 1 - Alice wallet + full node
-Container 2 - Bob wallet + full node
-Container 3 - Charlie wallet + full node
-Container 4 - Services (poet, oracle)...
+When the command finishes, your `build/local-net` folder should look similar to this:
 
-### Tree Structure Chart
+```
+- Build/local-net
+    - nodeAlice.img - Alice's node container image
+    - nodeBob.img - Bob's node container image
+    - nodeCharlie.img - Charlie's node container image
+    - services.img - services (poet, others) container image
 
-- Build
-    - local-net
-        - node1 - Alice's node container
-        - node2 - Bob's node container
-        - node3 - Charlie's node container
-        - node4 - services (poet, others)...
-        - link to run Alice CLI wallet inside docker
-        - link to run Bob CLI wallet inside docker
-        - link to run Alice CLI wallet inside docker
-        - link to view node1 console log
-        - link to view node2 console log
-        - link to view node3 console log
-        - link to view node4 console log
+    - alice_wallet - link to run Alice CLI wallet inside docker
+    - bob_wallet - link to run Bob CLI wallet inside docker
+    - charlie_wallet - link to run Alice CLI wallet inside docker
 
+    - nodeAlice.log - link to view node1 console log
+    - nodeBob.log - link to view node2 console log
+    - nodeCharlie.log - link to view node3 console log
+    - services.log - link to view node4 console log
+
+    - nodeAlice.conf - link to Alice's node config file
+    - nodeBob.con - link to Bob's node config file
+    - nodeCharlie.conf - link to Charlie's node config file
+
+    - start.sh - script to start the testnet
+    - stop.sh - script to stop the testnet
+```
 
 ## Running
 
+To start the local net run this command:
+
 ```bash
-cd build
-./local-testnet.sh
+./build/local-net/start.sh
 ```
+
+When this script execution is complete, you should the following running docker containers:
+
+- nodeAlice.ctr - Alice wallet + full node
+- nodeBob.ctr - Bob wallet + full node
+- nodeCharlie.ctr - Charlie wallet + full node
+- services.ctt - Services (poet, oracle)...
 
 ### Exploring the config files
 Each node has the same genesis configuration in their config file. Show how to look at the config file.
 
 Each node has a configured CLI wallet. Show how to access the wallet cli for each node...
-
 
 ### Looking at node logs
 You can see each node log output by...
@@ -67,9 +81,15 @@ You can see each node log output by...
 3. Query tx status from alice CLI Wallet...
 4. Open Bob's CLI wallet and check the balance...
 5. Look at any node log file and find the transaction confirmation...
+6. Check mining awards....
+
+# Stopping
+
+To stop the local net run this script:
+
+```bash
+./build/local-net/stop.sh
+```
 
 # Doing more...
-
 - Editing genesis data
-- Restarting nodes
-- Viewing mining awards balance in the wallet...
