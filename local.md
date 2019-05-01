@@ -32,9 +32,9 @@ When the command finishes, your `build/local-net` folder should look similar to 
     - nodeCharlie.img - Charlie's node container image
     - services.img - services (poet, others) container image
 
-    - alice_wallet - link to run Alice CLI wallet inside docker
-    - bob_wallet - link to run Bob CLI wallet inside docker
-    - charlie_wallet - link to run Alice CLI wallet inside docker
+    - alice_wallet.lnk - link to run Alice CLI wallet inside docker
+    - bob_wallet.lnk - link to run Bob CLI wallet inside docker
+    - charlie_wallet.lnk - link to run Alice CLI wallet inside docker
 
     - nodeAlice.log - link to view node1 console log
     - nodeBob.log - link to view node2 console log
@@ -51,7 +51,7 @@ When the command finishes, your `build/local-net` folder should look similar to 
 
 ## Running
 
-To start the local net run this command:
+👉  Run this script to start the local net:
 
 ```bash
 ./build/local-net/start.sh
@@ -67,7 +67,7 @@ When this script execution is complete, you should the following running docker 
 ```
 
 ### Exploring the config files
-Each node has the same genesis configuration in their config file. Show how to look at the config file. Each node has a configured CLI wallet. Show how to access the wallet cli for each node...
+Each node has the same genesis configuration in their config file. Show how to look at the config file. Each node has a configured CLI wallet.
 
 ```
 - nodeAlice.conf - link to Alice's node config file
@@ -84,6 +84,21 @@ You can see each node log output by...
 - nodeCharlie.log - link to view node3 console log
 - services.log - link to view node4 console log
 ```
+
+# Checking Account Balance
+
+Start the CLI wallet for Alice:
+
+```bash
+./build/local-net/alice_wallet.lnk
+```
+
+```bash
+TODO: wallet command here to unlock it and output the balance
+```
+
+?> You can view Bob's and Charlie's balance in a similar manner.
+Alice should have 10, Bob 9 and Charlie 8 Spacemesh Coins.
 
 # Executing a transaction
 
