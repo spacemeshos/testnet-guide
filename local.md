@@ -51,7 +51,7 @@ When the command finishes, your `build/local-net` folder should look similar to 
 
 ## Running
 
-👉  Run this script to start the local net:
+👉 Run this script to start the local net:
 
 ```bash
 ./build/local-net/start.sh
@@ -69,14 +69,16 @@ When this script execution is complete, you should the following running docker 
 ### Exploring the config files
 Each node has the same genesis configuration in their config file. Show how to look at the config file. Each node has a configured CLI wallet.
 
+👉 click on one of the links to view each node's config file:
+
 ```
 - nodeAlice.conf - link to Alice's node config file
-- nodeBob.con - link to Bob's node config file
+- nodeBob.conf - link to Bob's node config file
 - nodeCharlie.conf - link to Charlie's node config file
 ```
 
 ### Looking at node logs
-You can see each node log output by...
+👉  You can see each node log output by...
 
 ```
 - nodeAlice.log - link to view node1 console log
@@ -87,7 +89,7 @@ You can see each node log output by...
 
 # Checking Account Balance
 
-Start the CLI wallet for Alice:
+👉 Start the CLI wallet for Alice:
 
 ```bash
 ./build/local-net/alice_wallet.lnk
