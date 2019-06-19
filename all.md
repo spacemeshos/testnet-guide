@@ -2,7 +2,7 @@
 
 ## All Testnet Guides
 
-The following list includes guides and information about all the main Testnet features.
+The following is a list of guides for all the main Testnet features.
 
 1. [Installing the app](guide/install.md)
 2. [Setting up a wallet and a full node](guide/setup.md)
@@ -15,6 +15,8 @@ The following list includes guides and information about all the main Testnet fe
 9. [Running a CLI full node](linux.md)
 10. [Building from source](build.md)
 11. [Getting coin from the Tap](tap.md)
+12. [Exploring the Mesh](explorer.md)
+13. [Browsing the Dashboard](dashboard.md)
 
 ## Additional resources
 
