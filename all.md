@@ -15,13 +15,14 @@ The following is a list of guides for all the main Testnet features.
 9. [Running a CLI full node](linux.md)
 10. [Building from source](build.md)
 11. [Getting coin from the Tap](tap.md)
-12. [Exploring the Mesh](explorer.md)
-13. [Browsing the Dashboard](dashboard.md)
 
 ## Additional resources
 
 - [Testnet FAQ](faq.md)
 - [Testnet System Requirements](requirements.md)
+- [Getting ready for Mainnet](mainnet.md)
+- [Exploring the Testnet Mesh](explorer.md)
+- [Browsing the Testnet Dashboard](dashboard.md)
 
 ## Legal
 - [Disclaimer](disclaimer.md)
