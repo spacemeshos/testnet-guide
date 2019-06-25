@@ -77,6 +77,11 @@ Each node has the same genesis configuration in their config file. Show how to l
 - nodeCharlie.conf - link to Charlie's node config file
 ```
 
+# Nodes Setup
+
+!> We need to provide instructions how to setup POST for each node or automatically set POST and submit ATXs when the local testnet starts and explain this... 
+
+
 ### Looking at node logs
 👉  You can see each node log output by...
 
