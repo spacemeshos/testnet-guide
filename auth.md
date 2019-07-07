@@ -5,10 +5,10 @@ Follow the steps to verify the integrity and authenticity of the Spacemesh downl
 ### OS X
 [SPACEMESH_OS_X_INSTALLER](setup.app)
 
-1. Open Terminal and run shasum on the downloadable installer:
+1. Open Terminal and run `shasum` on the downloadable installer:
 
 ```bash
-shasum -a 256 /path/to/installer
+shasum -a 512 /path/to/installer
 ```
 
 2. Verify that the shasum output you got in terminal matches this checksum:
