@@ -1,6 +1,8 @@
 # Spacemesh Local Testnet (Localnet)
 
-Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
+![](/images/logo.png)
+
+👉 Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
 
 ?> This guide is for developers who are comfortable with the command line, Docker and dev tool chains.
 
@@ -102,26 +104,26 @@ Let's check `yosher` and `anton` balances in the CLI wallet and observe that the
 
 4. Enter `account` to view Yosher's balance.
 
-> Yosher balance should now reflect the 500 coins he got from Anton plus any mining awards that he got for mining.
+> Yosher balance should now reflect the 500 coins he got from Anton plus any mining awards that he got for mining with his full node.
 
-TBR
+### Stopping the Testnet
+👉  Just hit `ctrl-c` in the terminal window you started the Testnet from.
+👉  To close the CLI wallet Just hit `ctrl-c` in a running wallet instance terminal window.
 
 ### Connecting the wallet to a different node
 
 TBR
 
+### Hacking on the localnet
+
+👉  The nodes genesis config is set using data from this file `genesis_accounts.json`. It is located in the root of the local testnet github repo you have cloned to your computer.
+
+👉  The localnet log files are located in the `Logs` directory in the local testnet github repo root.
+
+
 ### Exploring config files
 
 - Layers, miners, transactions and epochs....
-
-TBR
-
-### Looking at node logs
-
-👉  You can see each node log output by...
-
-### Stopping the Testnet
-👉  Just hit `ctrl-c` in the terminal window you started the Testnet on
 
 ----
 
