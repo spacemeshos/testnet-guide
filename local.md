@@ -28,6 +28,10 @@ cd $GOPATH/go/src/github.com/spacemeshos/CLIWallet
 ./CLIWallet
 ```
 
+You should see something similar to this:
+
+![](/images/localnet_cliwallet.jpg)
+
 ### Viewing account balances
 
 TBR
