@@ -1,56 +1,30 @@
 # Local Testnet
 
-Follow this guide to setup and run a local Spacemesh Testent with 3 full nodes and support services on your computer using docker. This is a great way to get a feel of the protocol and the platform.
+Follow this guide to build from source and run a local Spacemesh Testent (localent) with 6 full nodes and the POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
 
-?> This guide is geared to developers who are comfortable with the command line, Docker and dev tools.
+?> This guide is for developers who are comfortable with the command line, Docker and dev tool chains.
 
-## Setup
-👉 First, set up your go development environment and docker. Next, Git clone go-spacemesh to your Linux or OS X system. Windows is not yet supported.
+## Prerequisites and Running
+👉 Follow the instructions in the local testnet repo [readme file](https://github.com/spacemeshos/local-testnet) to install the prerequisites and to build and run the testnet.
 
+## Working with the testnet
+👉 Now when you have a local testnet is running on your computer - it is time to execute some transactions.
+Follow these instructions to execute transactions and check balances.
+
+1. Navigate to CLIWallet directory in your go src directory.
 ```bash
-mkdir $GOPATH/src/github.com/spacemeshos
-cd $GOPATH/src/github.com/spacemeshos
-git clone https://github.com/spacemeshos/go-spacemesh
+cd ~/go/src/github.com/spacemeshos/CLIWallet
 ```
-
-## Building
-
-👉 Now let's build a local testnet with 3 full nodes, 3 end-users and supporting services. Run this from the command line to build the local testnet artifacts:
-
+2. Run the wallet.
 ```bash
-make local-net
+./CLIWallet
 ```
 
-?> This command builds all artifacts, creates 4 docker images, one for each of the 3 full nodes, and one image for the testnet services. It also creates symbolic links to each of the node's config file, and associated cli wallet and the log file of each node in the `build/local-net` folder.
 
-When the command finishes, your `build/local-net` folder should look similar to this:
 
-```
-- Build/local-net
-    - nodeAlice.img - Alice's node container image
-    - nodeBob.img - Bob's node container image
-    - nodeCharlie.img - Charlie's node container image
-    - services.img - services (poet, others) container image
+------
 
-    - alice_wallet.lnk - link to run Alice CLI wallet inside docker
-    - bob_wallet.lnk - link to run Bob CLI wallet inside docker
-    - charlie_wallet.lnk - link to run Alice CLI wallet inside docker
-
-    - nodeAlice.log - link to view node1 console log
-    - nodeBob.log - link to view node2 console log
-    - nodeCharlie.log - link to view node3 console log
-    - services.log - link to view node4 console log
-
-    - nodeAlice.conf - link to Alice's node config file
-    - nodeBob.con - link to Bob's node config file
-    - nodeCharlie.conf - link to Charlie's node config file
-
-    - start.sh - script to start the testnet
-    - stop.sh - script to stop the testnet
-```
-
-## Running
-
+Running
 👉 Run this script to start the local net:
 
 ```bash
@@ -79,7 +53,7 @@ Each node has the same genesis configuration in their config file. Show how to l
 
 # Nodes Setup
 
-!> We need to provide instructions how to setup POST for each node or automatically set POST and submit ATXs when the local testnet starts and explain this... 
+!> We need to provide instructions how to setup POST for each node or automatically set POST and submit ATXs when the local testnet starts and explain this...
 
 
 ### Looking at node logs
