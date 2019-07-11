@@ -1,6 +1,6 @@
 # Spacemesh Local Testnet (Localnet)
 
-Follow this guide to build from source and run a local Spacemesh Testent (localent) with 6 full nodes and the POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
+Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 5 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
 
 ?> This guide is for developers who are comfortable with the command line, Docker and dev tool chains.
 
@@ -10,11 +10,13 @@ Follow this guide to build from source and run a local Spacemesh Testent (locale
 
 If all works as expected, you should have a terminal window showing output similar to this:
 
-`TODO: add screen shot of testnet here`
+![](/images/localnet_started.jpg)
+
+?> Got stuck in setup? Got any questions? Join our [Gitter dev channel](https://gitter.im/spacemesh-os/Lobby) and get help.
 
 ## Working with the testnet
 
-### Running a CLI Wallet
+### Running the CLI Wallet
 👉 Now when you have a local testnet is running on your computer - it is time to execute some transactions! Follow these instructions to execute transactions and check balances.
 
 1. Navigate to CLIWallet directory in your go src directory.
@@ -25,29 +27,34 @@ cd $GOPATH/go/src/github.com/spacemeshos/CLIWallet
 ```bash
 ./CLIWallet
 ```
-## Viewing account balances
+
+### Viewing account balances
 
 TBR
 
-## Executing a transaction
+### Executing a transaction
 
 TBR
 
-## Viewing updated account balances
+### Viewing updated account balances
 
 TBR
 
-## Connecting the wallet to a different node
+### Connecting the wallet to a different node
 
 TBR
 
-## Exploring config files
+### Exploring config files
 
 TBR
 
-## Looking at node logs
+### Looking at node logs
 
 👉  You can see each node log output by...
 
-## Stopping the Testnet
+### Stopping the Testnet
 👉  Just hit `ctrl-c` in the terminal window you started the Testnet on
+
+----
+
+?> Got stuck? Got any questions? Join our [Gitter dev channel](https://gitter.im/spacemesh-os/Lobby) and get help.
