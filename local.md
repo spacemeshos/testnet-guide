@@ -7,7 +7,7 @@
 ?> This guide is for developers who are comfortable with the command line, Docker and dev tool chains.
 
 ## Prerequisites and Running
-👉 `OS X`. Linux and Windows support is not fully tested yet.
+👉 OS X. Linux and Windows support is not fully tested yet.
 👉 Follow the setup instructions in the local testnet repo [readme file](https://github.com/spacemeshos/local-testnet) to install the prerequisites and to build and run the testnet.
 
 If all works as expected, you should have a terminal window which looks similar to this:
@@ -107,9 +107,10 @@ Let's check `yosher` and `anton` balances in the CLI wallet and observe that the
 > Yosher balance should now reflect the 500 coins he got from Anton plus any mining awards that he got for mining with his full node.
 
 ### Stopping the Testnet
+
 👉  Just hit `ctrl-c` in the terminal window you started the Testnet from or close that terminal window.
 
-👉  To close the CLI wallet Just hit `ctrl-c` in a running wallet instance terminal window.
+👉  To close the CLI wallet Just hit `ctrl-d` in a running wallet instance terminal window.
 
 ### Connecting the wallet to a different node
 
