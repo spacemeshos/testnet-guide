@@ -110,7 +110,7 @@ Let's check `yosher` and `anton` balances in the CLI wallet and observe that the
 
 👉  Just hit `ctrl-c` in the terminal window you started the Testnet from or close that terminal window.
 
-👉  To close the CLI wallet Just hit `ctrl-d` in a running wallet instance terminal window.
+👉  To close the CLI wallet Just hit `ctrl-d` or enter 'quit' or 'exit' in a running wallet instance terminal window.
 
 ### Connecting the wallet to a different node
 
