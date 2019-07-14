@@ -4,7 +4,7 @@
 
 👉 Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
 
-!> The localtest is an experimental alpha software in active development. It is built for developers who are comfortable with the command line, Docker, and dev env setup. You also need a strong modern dev computer to run it such as a Macbook Pro or a strong modern dev desktop computer. That said, we have tested it to work on all supported platforms and most of the issues we see are env setup.
+!> The local testnet is an experimental alpha software in active development. It is built for developers who are comfortable with the command line, Docker, and dev env setup. You also need a strong modern dev computer to run it such as a Macbook Pro or a strong modern dev desktop computer. That said, we have tested it to work on all supported platforms and most of the issues we see are env setup.
 
 ## Prerequisites and Running
 👉 OS X. Linux and Windows support is not fully tested yet.
