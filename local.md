@@ -1,7 +1,5 @@
 # Spacemesh Local Testnet (Localnet)
 
-![](/images/logo.png)
-
 ![](https://spacemesh.io/content/images/2019/07/localnet_and_wallet.jpg)
 
 👉 Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
