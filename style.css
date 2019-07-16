@@ -8,8 +8,8 @@
 	--base-font-family: 'Source Code Pro', monospace;
 
 	--copycode-background: #F7F7F7;
-	--notice-important-color: #0074C8;
-	--notice-tip-color: #0074C8;
+	--notice-important-color: #65b042;
+	--notice-tip-color: #65b042;
 	----notice-important-background: #EFF6FB;
 	--notice-important-before-background: #0B87DA;
 	--search-input-color: #A1A1A1;
@@ -114,4 +114,8 @@ p {
 .markdown-section p>strong {
 	color: #252429;
 	font-weight: var(--font-weight-bold);
+}
+
+.gitter-open-chat-button, .gitter-open-chat-button:visited {
+	background-color: #65b042;
 }
