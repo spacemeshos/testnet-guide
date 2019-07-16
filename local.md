@@ -35,7 +35,7 @@ cd $GOPATH/go/src/github.com/spacemeshos/CLIWallet
 
 Your terminal window should now look similar to this:
 
-![wallet](https://spacemesh.io/content/images/2019/07/wallet.jpg)
+![](/images/localnet_cliwallet.jpg)
 
 ### Viewing account balance
 
