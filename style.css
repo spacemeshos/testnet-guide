@@ -4,9 +4,8 @@
 	--link-color--hover: #1776e3;
 
 	--cover-heading-color: black;
-
+	--cover-background-color: white;
 	--base-font-family: 'Source Code Pro', monospace;
-
 	--copycode-background: #F7F7F7;
 	--notice-important-color: #252429;
 	--notice-tip-color: #252429;
@@ -119,4 +118,8 @@ p {
 
 .gitter-open-chat-button, .gitter-open-chat-button:visited {
 	background-color: #65b042;
+}
+
+.cover.show {
+	background: linear-gradient(to left bottom, #F0FD37 0%, #ACF260 100%);
 }
