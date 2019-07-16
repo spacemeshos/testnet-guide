@@ -2,6 +2,8 @@
 
 ![](/images/logo.png)
 
+![](https://spacemesh.io/content/images/2019/07/localnet_and_wallet.jpg)
+
 👉 Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
 
 !> The local testnet is an experimental alpha software in active development. It is built for developers who are comfortable with the command line, Docker, and dev env setup. You also need a strong modern dev computer to run it such as a Macbook Pro or a strong modern dev desktop computer. That said, we have tested it to work on all supported platforms and most of the issues we see are env setup.
@@ -12,7 +14,8 @@
 
 If all works as expected, you should have a terminal window which looks similar to this:
 
-![](/images/localnet_started.jpg)
+![local_net](https://spacemesh.io/content/images/2019/07/local_net.jpg)
+
 
 ?> Got stuck in setup? Got any questions? Join our [Gitter dev channel](https://gitter.im/spacemesh-os/Lobby) and get help.
 
@@ -32,7 +35,7 @@ cd $GOPATH/go/src/github.com/spacemeshos/CLIWallet
 
 Your terminal window should now look similar to this:
 
-![](/images/localnet_cliwallet.jpg)
+![wallet](https://spacemesh.io/content/images/2019/07/wallet.jpg)
 
 ### Viewing account balance
 
