@@ -12,13 +12,13 @@ Next download the App installer for your OS using on of the links below:
 
 ### OS X
 
-[SPACEMESH_OS_X_INSTALLER](setup.app)
+[SPACEMESH_OS_X_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/Spacemesh+Wallet-0.0.1.dmg)
 
 ---
 
 ### Windows 10
 
-[SPACEMESH_WIN10_INSTALLER](setup.app)
+[SPACEMESH_WIN10_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/Spacemesh+Wallet+Setup+0.0.1.exe)
 
 ---
 
@@ -26,7 +26,7 @@ Next download the App installer for your OS using on of the links below:
 
 ?> Debian 8 or newer is supported
 
-[SPACEMESH_DEB_INSTALLER](setup.deb)
+[SPACEMESH_DEB_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/smapp_0.0.1_amd64.deb)
 
 ---
 
@@ -34,7 +34,7 @@ Next download the App installer for your OS using on of the links below:
 
 ?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported
 
-[SPACEMESH_UBUNTU_INSTALLER](setup.pkg)
+[SPACEMESH_UBUNTU_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/Spacemesh+Wallet+0.0.1.AppImage)
 
 ---
 
