@@ -1,6 +1,6 @@
 # Installing and Running
 
-Follow this guide to download, install and run a  Spacemesh Testnet full node and wallet on your desktop computer.
+Follow this guide to download, install and run a Spacemesh Testnet full node and wallet on your desktop computer.
 
 ## Step 1 - Downloading the Installer
 
@@ -12,13 +12,13 @@ Next download the App installer for your OS using on of the links below:
 
 ### OS X
 
-[SPACEMESH_OS_X_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/Spacemesh+Wallet-0.0.1.dmg)
+[SPACEMESH_OS_X_INSTALLER](dmg_installer)
 
 ---
 
 ### Windows 10
 
-[SPACEMESH_WIN10_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/Spacemesh+Wallet+Setup+0.0.1.exe)
+[SPACEMESH_WIN10_INSTALLER](exe_installer)
 
 ---
 
@@ -26,7 +26,7 @@ Next download the App installer for your OS using on of the links below:
 
 ?> Debian 8 or newer is supported
 
-[SPACEMESH_DEB_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/smapp_0.0.1_amd64.deb)
+[SPACEMESH_DEB_INSTALLER](deb_installer)
 
 ---
 
@@ -34,7 +34,7 @@ Next download the App installer for your OS using on of the links below:
 
 ?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported
 
-[SPACEMESH_UBUNTU_INSTALLER](https://s3.amazonaws.com/app-binaries.spacemesh.io/Spacemesh+Wallet+0.0.1.AppImage)
+[SPACEMESH_UBUNTU_INSTALLER](AppImage_installer)
 
 ---
 
@@ -43,7 +43,9 @@ Next download the App installer for your OS using on of the links below:
 ?> Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
 
 ---
+
 ### Security Note
+
 The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source.
 
 We provide these installers in order to make it convenient for non-developers to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](build.md) instead of using our provided installer.
@@ -67,7 +69,6 @@ You will now setup a new wallet to manage your Spacemesh Coins and to provide yo
 ?> A `coins awards address` is where you receive Spacemesh Coins for running a full node.
 
 You also use your wallet to send coin to anyone and to receive coins from anyone.
-
 
 Click `Start Setup`.
 
@@ -94,4 +95,5 @@ The setup automatically configures your full node with your `default address`. Y
 ---
 
 ## Well Done!
+
 Now that you have a new wallet and a new `default address`, you are ready to [setup your Spacemesh full node...](guide/setup.md)
