@@ -75,6 +75,7 @@
                 }
               };
               try {
+                window.localStorage.removeItem('fileHashList');
                 const result = await fetch(fileListJson, requestOptions).then(
                   res => res.json()
                 );
