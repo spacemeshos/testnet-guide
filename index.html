@@ -75,20 +75,13 @@
                 }
               };
               try {
-                window.localStorage.removeItem('fileHashList');
                 const result = await fetch(fileListJson, requestOptions).then(
                   res => res.json()
                 );
-                window.localStorage.setItem(
-                  'fileHashList',
-                  JSON.stringify(result)
-                );
+                window.fileHashList = JSON.parse(JSON.stringify(result));
               } catch (error) {
-                console.error(err);
-                window.localStorage.setItem(
-                  'fileHashList',
-                  JSON.stringify({ ...fallbackFileHashList })
-                );
+                console.error(error);
+                window.fileHashList = null;
               }
             });
 
@@ -97,21 +90,19 @@
               const filesToCompile = ['guide/install.md', 'auth.md'];
               const isFileToCompile =
                 filesToCompile.indexOf(vm.route.file) >= 0;
-              const bucketPrefix =
-                'https://downloads.lab.spacemesh.io/';
-              const savedFileHashList = window.localStorage.getItem(
-                'fileHashList'
-              );
-              if (isFileToCompile && savedFileHashList) {
-                // from local storage
-                window.fileHashList = JSON.parse(savedFileHashList);
-              } else if (isFileToCompile) {
-                // from fallback list
-                window.fileHashList = { ...fallbackFileHashList };
-              } else {
+              const bucketPrefix = 'https://downloads.lab.spacemesh.io/';
+              const isSavedFileHashList = !!window.fileHashList;
+
+              if (!isFileToCompile) {
                 // not a compiled page
                 return content;
               }
+
+              if (isFileToCompile && !isSavedFileHashList) {
+                // from fallback list
+                window.fileHashList = { ...fallbackFileHashList };
+              }
+
               const getCompiledContent = content => {
                 const contentArray = content.split('\n').map(contentRow => {
                   if (contentRow.includes('_installer')) {
