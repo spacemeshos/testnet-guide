@@ -10,6 +10,11 @@ Click the orange `Setup` button and follow the on-screen instructions...
 
 ?> You can use the wallet features of the Spacemesh App without running a `Spacemesh Full Node` by clicking on `Maybe Later` when prompted to setup a node in the App. This is useful if you are running a full node on another computer and just want to view your coin balance or transact with Spacemesh Coins.
 
+## Network Configuration
+In order to participate in the Spacemesh network and earn mining awards you need to configure your home network and computer firewall so the App is able to accept incoming Internet connections on port 9091.
+
+Please follow the guidelines in [this guide](netconfig.md).
+
 ## Storage Setup
 Spacemesh is using a novel consensus protocol which instead of constantly solving computational puzzles with your CPU, is using a one-time setup phase that utilizes free space on your hard drive.
 
