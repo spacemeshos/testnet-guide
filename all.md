@@ -15,6 +15,7 @@ The following is a list of guides for all the main Testnet features.
 9. [Running a CLI full node](linux.md)
 10. [Building from source](build.md)
 11. [Getting coin from the Tap](tap.md)
+12. [Configuring your network](netconfig.md)
 
 ## Additional resources
 
