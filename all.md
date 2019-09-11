@@ -27,3 +27,5 @@ The following is a list of guides for all the main Testnet features.
 
 ## Legal
 - [Disclaimer](disclaimer.md)
+- [Terms of Service](terms.md)
+- [Privacy Statement](privacy.md)
