@@ -1,21 +1,25 @@
 ## Step 2 - Setup Wallet + Miner
 
-Double-click the Spacemesh App Icon to launch it. You should now see this welcome screen:
+Double-click the Spacemesh App Icon to launch it.
+
+You should now see this welcome screen:
 
 ![](../images/v1.0/welcome.png)
 
-Let's setup a Spacemesh Miner and Wallet.
+Let's setup a Spacemesh Miner and Wallet. First, some definitions...
 
-> The Spacemesh Miner is a Spacemesh full p2p node which is configured to participate in consensus, maintain the Spacemesh coin ledger, and to earn awards for the participation.
-
-> A wallet is where you manage accounts. A Spacemesh Account is identified by a long unique number such as `0x2012...0a1f`. It allows you to send and receive Spacemesh Coins.
-
-Let's setup a new wallet to manage your Spacemesh Coins and to provide your Miner with a `coins awards account`.
+### Spacemesh Miner
+!> The Spacemesh Miner is a Spacemesh full p2p software which is configured to participate in consensus, maintain the Spacemesh coin ledger, and to earn you Spacemesh Coin awards for your participation in the network and the protocol.
 
 
-?> A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Miner.
+### Spacemesh Wallet and Accounts
+!> A wallet holds one or more accounts. A Spacemesh Account is identified by a long unique address such as `0x2012...0a1f`. It allows you to send and receive Spacemesh Coins and in the future run decentralized applications. Each account has a Spacemesh coins balance which you can spend.
 
-?> Note that you can skip the Miner setup and run the App in a `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your computer when, for example, you run a Miner on another computer. See this guide for more info about this configuration.
+Let's now setup a new wallet to manage your Spacemesh Coins and to provide your Miner with a `coins awards account`.
+
+!> A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Miner.
+
+?> Note that you can skip the Miner setup and run the Spacemesh App in `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your laptop when, for example, you run a Miner on your desktop. See [this guide](#) for more info about this configuration.
 
 Click on `SETUP` to start the Miner + Wallet one-time setup process.
 
@@ -34,8 +38,6 @@ Click `NEXT`. You should now see this screen:
 ![](../images/v1.0/protect_wallet_confirmed.png)
 
 Click `NEXT` again
-
-
 
 ---
 
