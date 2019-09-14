@@ -48,9 +48,9 @@ Next download the App installer for your OS using on of the links below:
 
 The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github and all software released by Spacemesh is 100% open source.
 
-We provide these installers in order to make it convenient for non-developers to join Spacemesh. If you prefer and technically able, you can build and run the installer [directly from source code](build.md) instead of using our provided installer.
+We provide these installers in order to make it convenient for non-developers to join Spacemesh.
 
-You can
+> If you prefer and technically able, you can build and run the installer [directly from source code](build.md) instead of using our provided installer.
 
 ---
 
@@ -67,4 +67,4 @@ When complete, the Spacemesh App should be available in your Apps.
 
 ---
 
-Next, [Follow this guide](guide/setup.md) to setup a Wallet + Miner in the Spacemesh App...
+Next, [Follow this guide](guide/setup.md) to setup a Wallet + Miner in the App...

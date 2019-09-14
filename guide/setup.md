@@ -1,17 +1,23 @@
 ## Step 2 - Setup Wallet + Miner
 
-
-You should now see this welcome screen:
+Double-click the Spacemesh App Icon to launch it. You should now see this welcome screen:
 
 ![](../images/v1.0/welcome.png)
 
+Let's setup a Spacemesh Miner and Wallet.
+
+> The Spacemesh Miner is a Spacemesh full p2p node which is configured to participate in consensus, maintain the Spacemesh coin ledger, and to earn awards for the participation.
+
+> A wallet is where you manage accounts. A Spacemesh Account is identified by a long unique number such as `0x2012...0a1f`. It allows you to send and receive Spacemesh Coins.
+
+Let's setup a new wallet to manage your Spacemesh Coins and to provide your Miner with a `coins awards account`.
+
+
+?> A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Miner.
+
+?> Note that you can skip the Miner setup and run the App in a `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your computer when, for example, you run a Miner on another computer. See this guide for more info about this configuration.
+
 Click on `SETUP` to start the Miner + Wallet one-time setup process.
-
-You will now setup a new wallet to manage your Spacemesh Coins and to provide your Miner with a `coins awards address`.
-
-?> A `coins awards address` is where you receive Spacemesh Coins for running a full node.
-
-You also use your wallet to send coin to anyone and to receive coins from anyone.
 
 The next screen should look like this:
 
