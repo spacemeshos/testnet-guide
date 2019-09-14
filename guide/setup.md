@@ -1,3 +1,42 @@
+## Step 2 - Setup Wallet + Miner
+
+
+You should now see this welcome screen:
+
+![](../images/v1.0/welcome.png)
+
+Click on `SETUP` to start the Miner + Wallet one-time setup process.
+
+You will now setup a new wallet to manage your Spacemesh Coins and to provide your Miner with a `coins awards address`.
+
+?> A `coins awards address` is where you receive Spacemesh Coins for running a full node.
+
+You also use your wallet to send coin to anyone and to receive coins from anyone.
+
+The next screen should look like this:
+
+![](../images/v1.0/protect_wallet.png)
+
+The App prompts you to enter a password to protect your new wallet and access to your Miner. Proceed to choose a password (8 or more characters) and to confirm it.
+
+!> You need to use the password to access your wallet after you lock access to the App. We recommend that you'll save your password in your computer's secure password manager.
+
+!> Until you backup your wallet, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed-up if you forget your password.
+
+Click `NEXT`. You should now see this screen:
+
+![](../images/v1.0/protect_wallet_confirmed.png)
+
+Click `NEXT` again
+
+
+
+---
+
+## Well Done!
+
+Now that you have a new wallet and a new `default address`, you are ready to [setup your Spacemesh full node...](guide/setup.md)
+
 # Setting up a Full Node
 
 The Spacemesh App now prompts you to setup a full  node on your computer.
