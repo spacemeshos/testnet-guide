@@ -1,27 +1,24 @@
-## Step 2 - Setup Wallet + Miner
+# Setup Wallet + Mining
 
-Double-click the Spacemesh App Icon to launch it.
-
-You should now see this welcome screen:
+## Step 1 - Wallet Setup
+Double-click the Spacemesh App Icon to launch it. You should now see this welcome screen:
 
 ![](../images/v1.0/welcome.png)
 
-Let's setup a Spacemesh Miner and Wallet. First, some definitions...
+Let's now proceed to setup a Spacemesh full p2p mode, the mining process, and a Spacemesh Coins Wallet. But first - some definitions...
 
-### Spacemesh Miner
-!> The Spacemesh Miner is a Spacemesh full p2p software which is configured to participate in consensus, maintain the Spacemesh coin ledger, and to earn you Spacemesh Coin awards for your participation in the network and the protocol.
+## About the Spacemesh Wallet
+> A wallet holds one or more coin accounts. An account is identified by a long unique number such as `0x2012...0a1f`. It allows you to send and receive Spacemesh Coins and in the future run decentralized applications. Each account has a Spacemesh coins balance which you can spend.
 
+Let's now setup a new wallet to manage your Spacemesh Coins and to provide your full p2p node with a `coins awards account`.
 
-### Spacemesh Wallet and Accounts
-!> A wallet holds one or more accounts. A Spacemesh Account is identified by a long unique address such as `0x2012...0a1f`. It allows you to send and receive Spacemesh Coins and in the future run decentralized applications. Each account has a Spacemesh coins balance which you can spend.
+> A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Spacemesh full p2p node.
 
-Let's now setup a new wallet to manage your Spacemesh Coins and to provide your Miner with a `coins awards account`.
+?> Note that you can skip the full p2p node and the mining setup and run the Spacemesh App in `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your laptop when, for example, you run a Spacemesh full p2p node on your desktop. See [this guide](wallet_mode.md) for more info about this configuration.
 
-!> A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Miner.
+---
 
-?> Note that you can skip the Miner setup and run the Spacemesh App in `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your laptop when, for example, you run a Miner on your desktop. See [this guide](#) for more info about this configuration.
-
-Click on `SETUP` to start the Miner + Wallet one-time setup process.
+Click on `SETUP` to start the setup process.
 
 The next screen should look like this:
 
@@ -29,27 +26,22 @@ The next screen should look like this:
 
 The App prompts you to enter a password to protect your new wallet and access to your Miner. Proceed to choose a password (8 or more characters) and to confirm it.
 
-!> You need to use the password to access your wallet after you lock access to the App. We recommend that you'll save your password in your computer's secure password manager.
+> You need to use the password to access your wallet after you lock access to the App. We recommend that you'll save your password in your computer's secure password manager.
 
-!> Until you backup your wallet, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed-up if you forget your password.
+> Until you backup your wallet, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed-up if you forget your password.
+
+---
 
 Click `NEXT`. You should now see this screen:
 
 ![](../images/v1.0/protect_wallet_confirmed.png)
 
-Click `NEXT` again
 
----
+## Step 2 - Full Node & Mining Setup
 
-## Well Done!
+The Spacemesh App now prompts you to setup a full node and mining on your computer:
 
-Now that you have a new wallet and a new `default address`, you are ready to [setup your Spacemesh full node...](guide/setup.md)
 
-# Setting up a Full Node
-
-The Spacemesh App now prompts you to setup a full  node on your computer.
-
-?> A `Spacemesh Full Node` is the software you run on your computer to join the Spacemesh global computer. This Spacemesh global computer is created from many p2p full nodes operated by people like you running Spacemesh on personal computers from all over the world. The nodes communicate with each other over the Internet to secure and maintain the Spacemesh Coin cryptocurrency and the Spacemesh computer state.
 
 ![](../images/start_setup.png)
 
