@@ -41,7 +41,7 @@ The Spacemesh Testnet is a beta public release of the Spacemesh p2p software pla
 
 The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is monopoly money without any real world value. The Testnet is designed to run security and code audits of the Spacemesh software and protocols.
 
-## Why should I join?
+## Why should I join the Spacemesh Testnet?
 Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the Spacemesh Coins cryptocurrency. It also helps you to prepare your for participation in the Spacemesh Mainnet once it launches and earn Spacemesh coins validation awards for your participation. Bottom line, if you care about Spacemesh and plan to participate in its Mainnet then you should join the Testnet.
 
 In the true spirit of crypto, we launch this testnet so anyone can verify (and not trust) 3 main promises we make:
@@ -49,17 +49,17 @@ In the true spirit of crypto, we launch this testnet so anyone can verify (and n
 2. You don't have do anything after the initial setup to run a full node
 3. You can use your computer normally while running a Spacemesh full node
 
-## How can I join?
-Just follow our interactive guide to join the Testnet. Let's [get started](guide/install.md)!
+## How can I join the Spacemesh Testnet?
+Just follow the instructions in this guide. Let's [get started](guide/install.md)!
 
-## Community Resources
+## Testnet Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?
 - Join the conversation in our [Testnet chat channel](https://gitter.im/spacemesh-os/testnet) and get some coins from our testnet coins chatbot
 - Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io/c/testnet)
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
 - Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io)
 
-## Additional Resources
+## Additional Testnet Resources
 - [Build and run](build.md) the installer from source code
 - Run the App on a [console-only linux system](linux.md)
 - Build and run the App in a [Docker container](docker.md)
