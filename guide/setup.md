@@ -92,6 +92,9 @@ To finish the one-time mining process and to have your full node participate in 
 
 Follow [this guide](../no_sleep.md) to disable sleep on your computer.
 
+## TODO
+- Need to recommend a way for users to test routability - maybe via a managed endpoint that attempts to connect to a node and say ping to it - show a desktop notification if ping was received... 
+
 
 ## Next...
 You are almost done! You are now ready to check your [Full Node Status](guide/status.md).

@@ -1,38 +1,19 @@
 # Checking Status
 
+Open the App if it is not already open and click on the 'MINING' tab on the top-left of the main window.
+
 You should now see the mining status screen:
 
 ![](../images/v1.0/miner_running.png)
 
-You track your full node operation and can pause or unpause mining from this screen.
-
-> You may now minimize or close the App main window and access it again later. Mining and your full node keeps running in the background even when the App is minimized.
+You track your full node operation and check your full node participation coin awards on this screen. You can also pause (or unpause) your full node by clicking on the 'PAUSE MINING' button.
 
 Click the close button in the App man Window.
 
-You should be prompted to quit the app or to switch it to running in the background. Choose to switch it to the background so mining and your full node keeps running.
-
-Open again the App and click on the 'MINING' tab to view the one-time mining process progress and check for any full node participation awards.
+You will be prompted to quit the app or to switch it to running in the background. Choose `Keep running in background` so mining and your full node keeps running.
 
 
-When the initial setup is done you should see this screen:
-
-![](../images/setup2.png)
-
-You view your full node status in this screen.
-
-Click on the wallet command at the left side of the screen, to access your Wallet screen, view your current coin balance and default address and to perform coin transactions.
-
-![](../images/main_wallet.png)
-
-?> You may now close the App by clicking on the close button. Your full node will keep running the background.
-
-Just open the App again to access your wallet, view your full node status, to send Spacemesh Coins to anyone or to receive Spacemesh Coins from anyone.
-
-## OS Configuration
-!> Use your Operating System settings to disable your OS from shutting down or from entering hibernation mode after and idle time period to make sure your Spacemesh Full Node keeps running 24x7.
-
-## That's all folks!
+## Well Done!
 You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
 
 ?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contribution.
@@ -43,9 +24,9 @@ You did it - you are now up and running a Spacemesh full node, and you will star
 
 </center>
 
-## What to do next?
+## Doing More With the Spacemesh App
 
-Follow these tutorials to become a Spacemesh maestro:
+Follow these guides to become a Spacemesh maestro:
 
 - [Pay someone](send_coin.md) with Spacemesh coins
 - [Get paid](get_coin.md) with Spacemesh coins
