@@ -39,22 +39,7 @@ Click `NEXT`. You should now see this screen:
 
 ## Step 2 - Full Node & Mining Setup
 
-The Spacemesh App now prompts you to setup a full node and mining on your computer:
-
-
-
-![](../images/start_setup.png)
-
-Click the orange `Setup` button and follow the on-screen instructions...
-
-?> You can use the wallet features of the Spacemesh App without running a `Spacemesh Full Node` by clicking on `Maybe Later` when prompted to setup a node in the App. This is useful if you are running a full node on another computer and just want to view your coin balance or transact with Spacemesh Coins.
-
-## Network Configuration
-In order to participate in the Spacemesh network and earn mining awards your computer firewall (and in some cases your home network router) so the Spacemesh App is able to accept incoming Internet connections on port 7153 for both TCP and UDP.
-
-Please follow the instructions in [this guide](netconfig.md).
-
-## Storage Setup
+## About Spacemesh Mining
 Spacemesh is using a novel consensus protocol which instead of constantly solving computational puzzles with your CPU, is using a one-time setup phase that utilizes free space on your hard drive.
 
 The storage you commit defines your identity on the Spacemesh computer and determines your awards eligibility.
@@ -63,28 +48,62 @@ The more free disk space you commit, the more frequent your Spacemesh coin award
 
 This setup is a one-time operation that you only need to do once and it allows Spacemesh to reach consensus on a distributed ledger without using proof of work or proof of stake algorithms.
 
-![](../images/setup1.png)
+The free space you commit to your full node is not used store any useful data files. It is filled with cryptographic data by the setup process that is only used to establish your node identity and your awards eligibility according the Spacemesh consensus protocol rules.
 
-Follow the on-screen setup instructions to specify how much hard-drive free space you'd like to commit to your Spacemesh identity. Note that Spacemesh requires additional 10GB of free space for mesh data.
+---
 
-!> The free space you commit to your full node is not used store any useful data files. It is filled with cryptographic data by the setup process that is only used to establish your node identity and your awards eligibility according the Spacemesh consensus protocol rules.
+The Spacemesh App now prompts you to setup mining on your computer.
 
-Click 'Start Setup' to start the storage setup process. You should now see the setup progress screen...
+You need to specify which hard-drive you would like to use for mining and how much storage to allocate on that drive.
 
-![](../images/setup2.png)
+You should now see this screen:
 
-You will get notified in this screen when the setup is complete and when you have been awarded Spacemesh coin for your participation in the platform.
+![](../images/v1.0/miner_setup_drive.png)
 
-Setup may take a while depending on your system hardware capabilities, but you should be able to use your computer as you normally do while setup is in progress.
+Click on the hard-drive that you would like to use for mining and click 'NEXT':
 
-!> Do not shut down your computer while the setup is in progress. If you do, you will need to restart the setup process.
+You should now see this screen:
 
-?> You may minimize the App and access it again later or even close it by clicking on the main window close button and open it later. Your full node runs in the background even when the App is minimized or closed.
+![](../images/v1.0/miner_setup_size.png)
 
-### Learning More about Proofs of Space Time
-!> TODO: About proofs of space time... link to intro blog post here
+Select on the amount of free space you would like to allocate to Spacemesh and click 'NEXT'.
 
-!> TODO: Link to light paper blog post here...
+> The more storage you allocate for Spacemesh on your drive, the higher your full node participations awards will be. (Add link to read more about POST commitments)
 
-## Next Step...
-You are almost done! You are now ready to check your [Full Node Status](guide/status.md)
+You should now see this screen:
+
+![](../images/v1.0/miner_setup_complete.png)
+
+> The one-time mining setup process is now started, and it may take 24-48 hours depending on your GPU capabilities. Do not turn off your computer until you get a notification about setup completion.
+
+
+Click 'GOT IT`.
+
+You should now see the mining status screen:
+
+![](../images/v1.0/miner_running.png)
+
+You track your full node operation and can pause or unpause mining from this screen.
+
+> You may now minimize or close the App main window and access it again later. Mining and your full node keeps running in the background even when the App is minimized.
+
+Click the close button in the App man Window.
+
+You should be prompted to quit the app or to switch it to running in the background. Choose to switch it to the background so mining and your full node keeps running.
+
+Open again the App and click on the 'MINING' tab to view the one-time mining process progress and check for any full node participation awards.
+
+
+---
+
+## Step 3 - Desktop Computer Configuration
+
+### Network Configuration
+In order to participate in the Spacemesh network and earn mining awards you need to configure your computer firewall (and in some cases your home network router) so the Spacemesh App is able to accept incoming Internet connections on TCP port 7153 and on UDP port 7153. Please follow the instructions in [this guide](netconfig.md).
+
+### Disable Computer Sleep Mode
+To finish the one-time mining process and to have your full node participate in the Spacemesh protocol and earn Spacemesh Coins awards **you need to make sure that your desktop computer doesn't not go to sleep or hibernates**. Follow [this guide](../no_sleep.md) to disable sleep on your computer.
+
+
+## Next...
+You are almost done! You are now ready to check your [Full Node Status](guide/status.md).

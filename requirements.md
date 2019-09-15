@@ -9,7 +9,7 @@
 - 4 GB RAM
 - 150 GB free space on a magnetic hard-drive or SSD drive
 - An always on unmetered broadband Internet connection capable of 5 mbps downloads and 1 mbps uploads.
-- Configuration to accept incoming Internet connections to one UDP and one TCP port
+- Network Configuration that allows the App to accept incoming Internet connections on UDP port 7153 and TCP port 7153
 
 ---
 
@@ -22,7 +22,7 @@
 - An always on unmetered broadband Internet connection
 - A modern AMD or Nvidia GPU
 - An always on Internet connection capable of 10 mbps downloads and 1 mbps uploads.
-- Configuration to accept incoming Internet connections on one UDP and one TCP port
+- Network Configuration that allows the App to accept incoming Internet connections on UDP port 7153 and TCP port 7153
 
 ---
 
