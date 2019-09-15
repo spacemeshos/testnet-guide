@@ -1,11 +1,15 @@
-# Wallet-only Mode
+# Wallet-only App Mode
 
 
-You can use the Spacemesh App wallet features without mining and without running a full node on your laptop or desktop computer.
+You can use the Spacemesh App wallet features without mining and without running a full Spacemesh p2p node on your laptop or desktop computer.
 
 In this mode, you can perform Spacemesh Coin transactions using the wallet but you will not participate in the Spacemesh protocol and will not earn any participation awards.
 
-## Wallet-only Setup
+> When running in wallet-only-mode you do not need to leave your computer on 24x7 or configure your network to accept incoming connections.
+
+> You can always setup mining and start a Spacemesh full p2p node at a later time by clicking on the `MINING` command at the top left of the App main screen.
+
+## Wallet-only App Mode Setup
 Follow these steps to setup your wallet without running a miner or full p2p Spacemesh node:
 
 1. [Install the Spacemesh App](guide/install.md) on your computer and run it
