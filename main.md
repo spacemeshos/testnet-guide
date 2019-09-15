@@ -1,10 +1,10 @@
 ![](/images/logo.png)
 
-# Welcome to the Spacemesh Testnet Guide
+# Welcome to the Spacemesh Open Testnet Guide
 
-> **Dragons Ahead!** The testnet haven't launched yet. This is a work in progress incomplete guide.
+> **WARNING: Dragons Ahead!** The Spacemesh open testnet has not launched yet. This is a work in progress and an incomplete guide.
 
-We are happy to see you here. To learn the basics about Spacemesh and the Testnet, please read the intro on this page.
+We are happy to see you here. Please proceed to read the intro on this page to learn the basics about Spacemesh and the Testnet and proceed to the installation guide to get up and running.
 
 **tl;dr? skip this intro** and [get started](guide/install.md)!
 

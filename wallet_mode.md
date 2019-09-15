@@ -39,5 +39,7 @@ You should now see the main wallet screen:
 
 That's it! you can now send and receive Spacemesh Coins using your wallet.
 
+You only need to open your App when you want to check your account balance, perform transactions and check status of incoming transactions.
+
 ## Next Steps
 - Learn more about [using your wallet](wallet.md)
