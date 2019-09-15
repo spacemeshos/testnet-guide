@@ -90,10 +90,10 @@ Please follow the instructions in [this guide](netconfig.md).
 ### Disable Computer Sleep Mode
 To finish the one-time mining process and to have your full node participate in the Spacemesh protocol and earn Spacemesh Coins awards **you need to make sure that your desktop computer doesn't not go to sleep or hibernates**.
 
-Follow [this guide](../no_sleep.md) to disable sleep on your computer.
+Follow [this guide](no_sleep.md) to disable sleep on your computer.
 
 ## TODO
-- Need to recommend a way for users to test routability - maybe via a managed endpoint that attempts to connect to a node and say ping to it - show a desktop notification if ping was received... 
+- Need to recommend a way for users to test routability - maybe via a managed endpoint that attempts to connect to a node and say ping to it - show a desktop notification if ping was received...
 
 
 ## Next...
