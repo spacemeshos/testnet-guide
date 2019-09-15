@@ -1,4 +1,4 @@
-## Spacemesh Full Node and App Requirements
+## Spacemesh App Requirements
 
 !> Note that the requirements below are tentative and are subject to change pending further testing.
 
@@ -6,24 +6,23 @@
 
 - A computer with modern Intel or AMD multi-core CPU (2 or more cores)
 - OS X, Windows 10, Ubuntu 12.04, Fedora 21, Debian 8
-- 4GB RAM
-- 150GB free space on a magnetic hard-drive or SSD drive
-- An always on unmetered broadband Internet connection
-- Internet connection speed. (Download: 5 mbps. Upload: 1 mbps)
-- Configuration to accept incoming Internet connections to a port
+- 4 GB RAM
+- 150 GB free space on a magnetic hard-drive or SSD drive
+- An always on unmetered broadband Internet connection capable of 5 mbps downloads and 1 mbps uploads.
+- Configuration to accept incoming Internet connections to one UDP and one TCP port
 
 ---
 
 #### Recommended System Requirements
 
-- Desktop computer with modern Intel or AMD multi-core CPU (4 or more cores)
+- A desktop computer with modern Intel or AMD multi-core CPU (4 or more cores)
 - OS X, Windows 10, Ubuntu 12.04 or newer, Fedora 21 or newer, Debian 8 or newer
 - 8 GB RAM
-- 150GB free space on a magnetic hard-drive or SSD drive
+- 150 GB free space on a magnetic hard-drive or SSD drive
 - An always on unmetered broadband Internet connection
-- A modern AMD or Nvidia GPU with OpenCL support
-- Internet connection speed. Download: 10 mbps. Upload: 1 mbps.
-- Configuration to accept incoming Internet connections to a port
+- A modern AMD or Nvidia GPU
+- An always on Internet connection capable of 10 mbps downloads and 1 mbps uploads.
+- Configuration to accept incoming Internet connections on one UDP and one TCP port
 
 ---
 
@@ -31,27 +30,31 @@
 
 #### GPU Usage
 
-It is possible to setup a Spacemesh full node on a system without a GPU, but in this case, the setup phase will take up to x100 longer than with the same system with a GPU supporting OpenCL.
+It is possible to setup the Spacemesh Miner on a system without a GPU, but in this case, the setup phase may take up to x100 longer than with the same system with a supported GPU.
 
-A fast GPU considerably reduces a Spacemesh full node one-time setup phase duration. Your GPU is not used by the full node after the one-time setup phase.
+A fast GPU considerably reduces the Spacemesh Miner one-time setup phase duration. Your GPU is not used by the App after the one-time setup phase is complete.
 
 By default, not all of your GPU cores are used during the one-time setup phase, so you should be able to use your PC as you normally do during the setup phase.
 
 
 #### CPU Usage
-As long as your system and configuration meets the recommended  requirements, the Spacemesh Full Node and App ongoing usage of your CPU should be limited during normal operation (after the initial setup phase) to one CPU core.
+As long as your system and configuration meets the recommended  requirements, the Spacemesh App ongoing usage of your CPU should be limited during normal operation (after the initial setup phase) to one CPU core.
 
 #### Network Configuration
-You must configure your network to allow the Spacemesh App to accept incoming connections. See [this guide](netconfig.md)
+You must configure your network to allow the Spacemesh App to accept incoming connections on one UDP port and on one TCP port. Follow [this guide](netconfig.md) to configure your network.
 
-#### Running a Full Node on your Laptop
-You can install and run a full node on it if it meets the minimum desktop computer requirements. However, you will need to make sure you leave it open and connected to power and the Internet 24x7. Occasionally shutting down your full node may prevent you from participating in consensus and earning coin awards.
+#### Running the App on a Laptop
+You can install and run the App on your laptop if it meets the minimum desktop computer requirements. However, you will need to make sure you leave your laptop open and connected to power and the Internet 24x7. Occasionally shutting down your App may prevent you from participating in consensus and earning coin awards.
 
 ---
 
-### Spacemesh App (Wallet-only Mode) System Requirements
+### Wallet-only Mode System Requirements
 
-You can use the Spacemesh App wallet features without running a full node on your laptop or desktop computer. This configuration requires a modern laptop or desktop computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8.
+You can use the Spacemesh App wallet features without mining and without running a full node on your laptop or desktop computer.
+
+This configuration requires a modern laptop or desktop computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8 with minimum 2GB of RAM. You do not need any specific GPU to run in wallet only mode.
+
+In this mode, you can perform Spacemesh Coin transactions using the wallet but you will not participate in the Spacemesh protocol and will not earn any participation awards.
 
 #### Wallet-only Setup
 Follow these steps to setup your wallet without running a full node

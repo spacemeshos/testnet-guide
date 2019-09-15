@@ -1,12 +1,14 @@
-# Installing and Running
+# Installing and Running the Spacemesh App
 
-Follow this guide to download, install and run a Spacemesh Testnet full node and wallet on your desktop computer.
+To join the Testnet you need to run the Spacemesh App on your desktop computer. Follow the instructions below to download, install and run the Spacemesh App.
 
-## Step 1 - Download the Installer
+## About The Spacemesh App
+The Spacemesh App includes the Spacemesh Miner, a Spacemesh full p2p node, and a basic Spacemesh Coins wallet. You install the App to setup mining and you use the wallet to setup an award account for your Miner and to perform basic Spacemesh Coin transactions.
 
-The Spacemesh App includes the Spacemesh full node, a basic wallet and a full node dashboard. You install the App to setup your p2p node and you use the wallet to setup an award account for your full node.
 
-Before installing, please confirm that your system meets the [minimum system requirements](requirements.md).
+## Step 1 - Download the Spacemesh App Installer
+
+> Before installing, please confirm that your computer meets the [minimum system requirements](requirements.md).
 
 Next download the App installer for your OS using on of the links below:
 
