@@ -1,5 +1,20 @@
 # Checking Status
 
+You should now see the mining status screen:
+
+![](../images/v1.0/miner_running.png)
+
+You track your full node operation and can pause or unpause mining from this screen.
+
+> You may now minimize or close the App main window and access it again later. Mining and your full node keeps running in the background even when the App is minimized.
+
+Click the close button in the App man Window.
+
+You should be prompted to quit the app or to switch it to running in the background. Choose to switch it to the background so mining and your full node keeps running.
+
+Open again the App and click on the 'MINING' tab to view the one-time mining process progress and check for any full node participation awards.
+
+
 When the initial setup is done you should see this screen:
 
 ![](../images/setup2.png)
