@@ -1,33 +1,38 @@
 # Using the Spacemesh Wallet
 
 The Spacemesh App includes a wallet for managing your Spacemesh Coins.
-Follow the instructions on this mini wallet guide to work with your wallet.
+
+Follow the instructions on this page to learn how to use your wallet.
 
 ## Accessing your wallet
-Your wallet is created when you open the Spacemesh App for the first time. You were prompted to secure your wallet with a passphrase which we recommended you store in your `password manager app` such as [1Password](#).
 
-Your wallet data is saved in a wallet file on your hard drive. The wallet file includes sensitive private data which is encrypted in the file.
+A new wallet is created when you open the Spacemesh App for the first time.
 
-When you open the Spacemesh App and click on the wallet command in the main screen for the first time, the App will prompt you for your wallet passphrase in order to load the wallet data from the wallet file.
+You were prompted to secure your wallet with a password which we recommended you store in your `password manager app` such as [1Password](https://1password.com).
 
-Just enter your passphrase to access your wallet.
+> Your wallet data is saved in a `wallet file` on your hard drive. The `wallet file` includes sensitive private data which is encrypted in the file with your password.
 
-!> Remember that until you create a wallet paper backup, you will lose access to your wallet, if you forget your wallet passphrase.
-This is why we recommend you to create a paper backup as soon as possible.
+When you open the Spacemesh App again you should see this screen:
+
+![](images/v1.0/unlock_wallet.png)
+
+Enter your Wallet password to unlock access to your wallet.
+
+> The Wallet data is loaded from the wallet file end decrypted using your provided password.
+
+> IMPORTANT: you will lose access to your wallet if you forget your password. This is the reason we recommend you to create a 12 words backup as soon as possible. See [Wallet Backup](#)
 
 ## Checking your Spacemesh Coin Balance
 
-Click on the wallet command in the menu on the left side of the screen.
+After unlocking your wallet with your password, you should see the wallet screen:
 
-You should see a screen similar to this:
+![](images/v1.0/wallet_screen.png)
 
-![](images/main_wallet.png)
+Your wallet is configured with one main account called `Main Account`. Think of this account as your crypto bank account number. You use this account to hold Spacemesh Coins and to send and receive Spacemesh Coins.
 
-Your wallet is configured with one main address called `Public Address`. Think of this address as your crypto bank account number. You use this address to hold Spacemesh Coins and transact with others.
+Your account balance is displayed at the bottom-left side of the screen:
 
-Your wallet's `public address` balance is displayed below the address:
-
-![](images/wallet.png)
+![](images/v1.0/wallet_details.png ':size=50x50')
 
 Each address has a friendly name (In this case it is `public address`) and a unique set of numbers similar to a unique bank account checking account number.
 
