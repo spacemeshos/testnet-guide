@@ -2,7 +2,7 @@
 
 !> Note that the requirements below are tentative and are subject to change pending further testing.
 
-#### Minimum System Requirements
+### Minimum System Requirements
 
 - A computer with modern Intel or AMD multi-core CPU (2 or more cores)
 - OS X, Windows 10, Ubuntu 12.04, Fedora 21, Debian 8
@@ -13,7 +13,7 @@
 
 ---
 
-#### Recommended System Requirements
+### Recommended System Requirements
 
 - A desktop computer with modern Intel or AMD multi-core CPU (4 or more cores)
 - OS X, Windows 10, Ubuntu 12.04 or newer, Fedora 21 or newer, Debian 8 or newer
@@ -26,9 +26,9 @@
 
 ---
 
-### Operational Notes
+## Operational Notes
 
-#### GPU Usage
+### GPU Usage
 
 It is possible to setup the Spacemesh Miner on a system without a GPU, but in this case, the setup phase may take up to x100 longer than with the same system with a supported GPU.
 
@@ -37,31 +37,25 @@ A fast GPU considerably reduces the Spacemesh Miner one-time setup phase duratio
 By default, not all of your GPU cores are used during the one-time setup phase, so you should be able to use your PC as you normally do during the setup phase.
 
 
-#### CPU Usage
-As long as your system and configuration meets the recommended  requirements, the Spacemesh App ongoing usage of your CPU should be limited during normal operation (after the initial setup phase) to one CPU core.
+### CPU Usage
+As long as your system and configuration meets the recommended  requirements, the Spacemesh App ongoing usage of your CPU should be limited during normal operation (after the initial setup phase) to two CPU cores.
 
-#### Network Configuration
-You must configure your network to allow the Spacemesh App to accept incoming connections on one UDP port and on one TCP port. Follow [this guide](netconfig.md) to configure your network.
+### Network Config
+You must configure your network to allow the Spacemesh App to accept incoming connections on UDP port 7153 and on TCP port 7153. Follow [this guide](netconfig.md) to configure your network.
 
-#### Running the App on a Laptop
-You can install and run the App on your laptop if it meets the minimum desktop computer requirements. However, you will need to make sure you leave your laptop open and connected to power and the Internet 24x7. Occasionally shutting down your App may prevent you from participating in consensus and earning coin awards.
+### Running the App on a Laptop
+You can install and run the App on your laptop if it meets the minimum desktop computer requirements. However, you will need to make sure you leave your laptop open and connected to power and the Internet 24x7. Occasionally shutting down your laptop or the App may prevent you from participating in consensus and earning participation coin awards.
 
 ---
 
-### Wallet-only Mode System Requirements
+### Wallet-only Mode Requirements
 
-You can use the Spacemesh App wallet features without mining and without running a full node on your laptop or desktop computer.
+> You can use the Spacemesh App wallet features without mining and without running a full node on your laptop or desktop computer. We call this wallet-only mode.
 
-This configuration requires a modern laptop or desktop computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8 with minimum 2GB of RAM. You do not need any specific GPU to run in wallet only mode.
+This configuration requires a modern laptop or a desktop computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8 with minimum 4GB of RAM. You do not need any specific GPU to run in wallet only mode as in this mode there is no mining or a running full p2p node in the App.
 
-In this mode, you can perform Spacemesh Coin transactions using the wallet but you will not participate in the Spacemesh protocol and will not earn any participation awards.
+Learn more about the [Wallet Only App Mode](wallet_mode.md)
 
-#### Wallet-only Setup
-Follow these steps to setup your wallet without running a full node
-1. [Install the Spacemesh App](guide/install.md) on your computer and run it
-2. Click `Maybe Later` when prompted to setup a full node
-3. Click on the `Wallet command` in the main screen to access your Wallet
-4. Learn about [using your wallet](wallet.md)
 ---
 
 ### Linux Support
