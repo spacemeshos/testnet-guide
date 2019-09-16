@@ -30,7 +30,7 @@ After unlocking your wallet with your password, you should see the wallet screen
 
 The left side of the screen displays the wallet info:
 
-![](images/v1.0/wallet_details.png ':size=50x50')
+![](images/v1.0/wallet_details.png ':size=310x496')
 
 Your wallet is configured with one main account called `Main Account`. Think of this account as your crypto bank account. You use this account to hold Spacemesh Coins and to send and receive Spacemesh Coins.
 
@@ -51,7 +51,7 @@ Follow the steps in [this guide](send_coin.md) to send Spacemesh Coins to any ot
 ## Getting Spacemesh Coins
 Follow the steps in [this guide](get_coin.md) to get coins to your account.
 
-## Locking Access
+## Locking Access to your Wallet
 
 > When you are done using your wallet in the App you should `log out` from it to prevent other people with direct access to your computer from viewing your coin balance, from performing transactions and from viewing your transactions history.  
 
