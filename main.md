@@ -56,8 +56,9 @@ Just follow the instructions in this guide. Let's [get started](guide/install.md
 
 ## Testnet Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?
-- Join the conversation in our [Testnet chat channel](https://gitter.im/spacemesh-os/testnet) and get some coins from our testnet coins chatbot
-- Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io/c/testnet)
+- Get answers and ask questions in our [Testnet Community Channel](https://discord.gg/Mf8T4Db) on discord
+- Get some Testnet Spacemesh Coins via our [Testnet Tap](https://discord.gg/Mf8T4Db) on discord
+- Get answers and ask questions in our [Testnet community forum](https://discord.gg/ASpy52C)
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
 - Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io)
 

@@ -25,4 +25,4 @@ Content in the master branch of this repo is automatically deployed to https://t
 ## Deploying to a web server
 1. Copy root folder to the server
 2. Configure dns and server to serve index.html
-3. There is no step 3.
+3. There is no step 3
