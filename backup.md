@@ -1,4 +1,4 @@
-## Backing up
+## Backing up your Wallet
 The are two main ways to backup your wallet, `File Backup` and `Phrases Backup`.
 
 You will be prompted to backup your wallet until you backup it :-)

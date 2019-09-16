@@ -1,20 +1,23 @@
-# Getting Coin
+# Getting Testnet Spacemesh Coins
 
 There are 3 ways to get Testnet Spacemesh Coins:
 
-1. Run a full node and receive protocol participation [awards](awards.md) from minted coins
+1. Run a full p2p node, complete the mining one-time setup process, and receive protocol participation [awards](awards.md) from minted coins.
 
-2. Get coins from [the tap chatboat](tap.md)
+2. Get coins from [the tap chatboat](tap.md).
 
-3. Get coins sent by another person to your address
+3. Get coins sent by another person to your account.
 
 ## Getting coins from another person
+
+### About Accounts and Addresses
+Your Spacemesh Wallet has one main default account. That account has one public address you can share with anyone.
 
 1. Click on the `Receive Coins` button in your wallet screen:
 
 ![](images/main_wallet_2.png)
 
-2. Click on the copy button to copy your public address to the clipboard:
+2. Click on the `copy button` to copy your account's public address to the clipboard:
 
 ![](images/get_smc.png)
 

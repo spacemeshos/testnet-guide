@@ -1,6 +1,8 @@
 # Wallet-only Mode
 
-You can use the Spacemesh App wallet features without running a full Spacemesh p2p node on your laptop or desktop computer. In this mode there is no mining and you can only perform Spacemesh Coin transactions using the wallet, check your balance and view  transactions other people have executed which transfer coins to your account.
+You can use the Spacemesh App wallet features without running a full Spacemesh p2p node on your laptop or desktop computer.
+
+In this mode there is no mining and you can only perform Spacemesh Coin transactions using the wallet, check your balance and view  transactions other people have executed which transfer coins to your account.
 
 > When running in wallet-only-mode you do NOT need to leave your computer on 24x7 or configure your network to accept incoming connections.
 
@@ -8,7 +10,7 @@ You can use the Spacemesh App wallet features without running a full Spacemesh p
 
 ## Wallet-only App Mode Setup
 
-Follow these steps to setup your wallet without running a full p2p Spacemesh node:
+Follow these steps to setup your wallet without running a full p2p Spacemesh node and without mining:
 
 1. [Install the Spacemesh App](guide/install.md) on your computer and run it
 
@@ -35,9 +37,11 @@ You should now see the main wallet screen:
 
 ![](/images/v1.0/wallet_only_step_3.png)
 
-That's about it! you can now send and receive Spacemesh Coins using your wallet.
+**That's about it!**
+
+You can now send and receive Spacemesh Coins using your wallet.
 
 You only need to open your App and unlock your wallet with your password, when you want to check your account balance, perform transactions or check check status of incoming transactions.
 
-## Next Steps
-- Learn more about [using your wallet](wallet.md)
+## Next Step
+- Read the [Wallet Guide](wallet.md) to learn how to use your wallet.

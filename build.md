@@ -1,11 +1,10 @@
 # Build Spacemesh Software from Source
 
-## Building the Spacemesh App
-The App includes the Spacemesh p2p Full Node. It includes our reference wallet and a full node dashboard.
+## Building the Spacemesh App Installer
 
-!> TODO: Follow these steps to build the Spacemesh App...
+> TODO: Follow these steps to build the Spacemesh App...
 
-## Building stand-alone Full Node and CLI Wallet
+## Building a stand-alone console Full p2p Node and a CLI Wallet
 You can build the Spacemesh Full Node and CLI wallet and run the node without installing the Spacemesh App.
 
-!> TODO: Follow these steps to build the Spacemesh full node...
+> TODO: Follow these steps to build the Spacemesh full node and CLI wallet...
