@@ -28,66 +28,67 @@ After unlocking your wallet with your password, you should see the wallet screen
 
 ![](images/v1.0/wallet_screen.png)
 
-Your wallet is configured with one main account called `Main Account`. Think of this account as your crypto bank account number. You use this account to hold Spacemesh Coins and to send and receive Spacemesh Coins.
-
-Your account balance is displayed at the bottom-left side of the screen:
+The left side of the screen displays the wallet info:
 
 ![](images/v1.0/wallet_details.png ':size=50x50')
 
-Each address has a friendly name (In this case it is `public address`) and a unique set of numbers similar to a unique bank account checking account number.
+Your wallet is configured with one main account called `Main Account`. Think of this account as your crypto bank account. You use this account to hold Spacemesh Coins and to send and receive Spacemesh Coins.
 
-Your balance is displayed below the public address. SMC is the symbol for Spacemesh Coins. In the image above, the public address as 6.9998 Spacemesh Coins. The estimated USD value of your balance is displayed above the SMC balance amount.
+Your account is identified by a unique `public address`. It is displayed in a short-form like this: `0xebee....ee0443` under the account name.
 
-?> You can copy the address to your computer's clipboard by clicking on the copy icon next to the address. You can also create additional addresses in your wallet at any time.
+Your full account address is a long number such as `0xebee4e63a6b0f829f3ad06fb6c4aa80a6860774bc25e9c1b1b2c69b8b4ee0443`.
 
-## Sending Coins
-Follow [this guide](send_coin.md)
+Your account balance is displayed at the bottom-left side of the screen. `SMC` is the symbol for 'Spacemesh Coins'.
 
-## Getting Coins
-Follow [this guide](get_coin.md)
+You can copy your account public address to your computer's clipboard by clicking on the copy icon on the right side of the displayed  account number.
+
+This is useful if you want to receive SMC from another account holder. In this case you just need to send the copied full account address to that person via any digital means such as a text message.
+
+
+## Sending Spacemesh Coins
+Follow the steps in [this guide](send_coin.md) to send Spacemesh Coins to any other account.
+
+## Getting Spacemesh Coins
+Follow the steps in [this guide](get_coin.md) to get coins to your account.
 
 ## Locking Access
 
-?> When you are done using the wallet in the App you should `log out` from it to prevent other people with access to your computer from viewing your coin balance, perform transactions or view your transactions history.  
+> When you are done using your wallet in the App you should `log out` from it to prevent other people with direct access to your computer from viewing your coin balance, from performing transactions and from viewing your transactions history.  
 
-To log-out from you wallet, just click on `Log Out` in the main menu in the App main screen, or just close the App main window by clicking on the close button of the main App Window.
+To `log out` from your wallet, just click on the `Lock Button` in the top-right-side of the wallet screen. It looks like this:
 
-To log-in again to your wallet, open the app and click on the Wallet command in the left side of the screen. You will need to enter your wallet passphrase again to access your wallet.
+- TODO: ADD ICON HERE
 
-## Backing up and restoring from backup
-- Follow [this guide](backup.md)
+To access you wallet again, open the app and enter your wallet password.
 
-# Advanced Features
+## Backing up and your wallet
+- Follow the steps in [this guide](backup.md) to backup your wallet and to restore your wallet from backup.
 
-## Creating a new address
+---
 
-By default your wallet is pre-configured with one main address. This suffices for performing basic transactions and for receiving awards.
+# Advanced Wallet Features
 
-?> Your wallet main address is the address that appears in your wallet card in the app:
+## Creating a new account
 
-![](images/wallet.png)
+By default your wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving coin awards for running a full node.
 
-You can add up to 256 additional addresses to your wallet.
+You can add up to 256 additional accounts to your wallet.
 
-Each new address has its own coin balance, a friendly name, a display name and a private signing key.
+Each new account has its own unique public address, coin balance and a friendly display name.
 
 Follow these steps to create a new address:
-1. Go to the settings screen
-2. Click `New Address`
-3. Optionally name your new address
+1. Go to the settings screen by clicking on the 'SETTINGS' button on the right-side of the app main screen.
+2. Scroll down to `ACCOUNT SETTINGS` and Click `Add Account`
+3. Optionally name your new account
 
-The address info is saved in the wallet file.  
+TODO: show screen shot here
 
-You can freely switch between addresses, view the coin balance of any address, send coin from any address, or receive coin to any address.   
+Newly added accounts are automatically saved in your wallet.
 
-## Creating additional wallets
+You can easily switch between wallet accounts, view the coin balance of an account, send coin from any account, or receive coin to any account.
 
-By default, you use one wallet (with one public address).
+To switch between accounts use the accounts drop-down in your wallet display area:
 
-You can create additional wallets. Each wallet has its own passphrase, wallet data file and one or more addresses.
+TODO: add screen shot here.
 
-To create a new wallet, click on 'New Wallet' command in the settings screen.
-
-You will be prompted to name your new wallet and to provide a passphrase for securing it.
-
-!> Do not use a passphrase you already used for a wallet for your new wallet.
+---   
