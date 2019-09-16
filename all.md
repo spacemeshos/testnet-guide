@@ -20,7 +20,7 @@ The following is a list of guides for all the main Testnet features.
 
 ## Additional resources
 
-- [Testnet FAQ](faq.md)
+- [Testnet FAQ](https://spacemesh.io/faq/)
 - [Testnet System Requirements](requirements.md)
 - [Getting ready for Mainnet](mainnet.md)
 - [Exploring the Testnet Mesh](explorer.md)

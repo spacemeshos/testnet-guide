@@ -1,6 +1,6 @@
 # Additional resources
 
-- [Testnet FAQ](faq.md)
+- [Testnet FAQ](https://spacemesh.io/faq)
 - [Testnet System Requirements](requirements.md)
 
 ## Testnet Guides
