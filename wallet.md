@@ -62,7 +62,7 @@ To `log out` from your wallet, just click on the `Lock Button` in the top-right-
 To access you wallet again, open the app and enter your wallet password.
 
 ## Backing up and your wallet
-- Follow the steps in [this guide](backup.md) to backup your wallet and to restore your wallet from backup.
+Follow the steps in [this guide](backup.md) to backup your wallet and to restore your wallet from backup.
 
 ---
 
@@ -76,7 +76,7 @@ You can add up to 256 additional accounts to your wallet.
 
 Each new account has its own unique public address, coin balance and a friendly display name.
 
-Follow these steps to create a new address:
+Follow these steps to create a new account:
 1. Go to the settings screen by clicking on the 'SETTINGS' button on the right-side of the app main screen.
 2. Scroll down to `ACCOUNT SETTINGS` and Click `Add Account`
 3. Optionally name your new account
