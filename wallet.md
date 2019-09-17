@@ -57,7 +57,7 @@ Follow the steps in [this guide](get_coin.md) to get coins to your account.
 
 To `log out` from your wallet, just click on the `Lock Button` in the top-right-side of the wallet screen. It looks like this:
 
-- TODO: ADD ICON HERE
+![](images/v1.0/lock_button.png)
 
 To access you wallet again, open the app and enter your wallet password.
 
@@ -77,11 +77,20 @@ You can add up to 256 additional accounts to your wallet.
 Each new account has its own unique public address, coin balance and a friendly display name.
 
 Follow these steps to create a new account:
-1. Go to the settings screen by clicking on the 'SETTINGS' button on the right-side of the app main screen.
-2. Scroll down to `ACCOUNT SETTINGS` and Click `Add Account`
-3. Optionally name your new account
 
-TODO: show screen shot here
+1. Go to the settings screen by clicking on the 'SETTINGS' button on the right-side of the app main screen. It looks like this:
+
+![](images/v1.0/settings_button.png)
+
+2. Scroll down to `ACCOUNT SETTINGS`
+
+Your screen should look like this:
+
+![](images/v1.0/account_settings.png)
+
+3. Click `Add Account`
+3. Name your new account
+
 
 Newly added accounts are automatically saved in your wallet.
 
@@ -89,6 +98,9 @@ You can easily switch between wallet accounts, view the coin balance of an accou
 
 To switch between accounts use the accounts drop-down in your wallet display area:
 
-TODO: add screen shot here.
+![](images/v1.0/wallet_accounts.png)
+
+Select the account you want to use from the drop-down menu.
+
 
 ---   
