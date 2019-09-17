@@ -8,12 +8,12 @@ You will be prompted to backup your wallet until you backup it in the wallet mai
 ![](images/v1.0/wallet_screen.png)
 
 ### Wallet File Backup
-> A file backup allows you to restore you wallet using a backup file and your password. You can only restore your wallet from a backup data file if you remember your password.
 
-> File backup is useful for restoring access to your wallet on another computer, or in case that your wallet data file is corrupted or accidentally deleted.
+A file backup allows you to restore you wallet using a backup file and your password. You can only restore your wallet from a backup data file if you remember your password.
 
-> We recommend you will do a `12 Words Backup` because this kind of backup enables you to restore your wallet even if you lose your wallet data file or if you forgot your password.
+File backup is useful for restoring access to your wallet on another computer, or in case that your wallet data file is corrupted or accidentally deleted.
 
+> We recommend you will also backup your wallet using the `12 Words Backup` method because it enables you to restore your wallet even if you lose your wallet data file or if you forgot your password.
 
 
 1. Click the `BACKUP YOUR WALLET` in the wallet screen or click 'BACKUP' in the wallet settings section of the settings screen.
@@ -46,41 +46,57 @@ A file browser will open up displaying where the backup file is stored on your h
 
 ### 12 Words Backup
 
-The phrases backup option allows you to save a list of 12 English words in a safe place. These phrases can be used to restore your wallet even in the case that you forget your wallet passphrase.
+The 12 words backup method allows you to print or write down on a paper an ordered list of 12 English words that you need to store in a safe place.
 
-In this kind of backup, you print or write down a list of 12 English phrases.
+You can at any time restore your wallet on any computer using the list without having to remember you wallet password or to have access to your wallet data file.
 
-!> Note that the order of the phrases in the list is important and you will need to provide these words in the same order to restore your wallet.
+!> The order of the words in the list is important and you will need to provide the words in the same order when restoring a wallet from the list.
 
-Follow these steps if you have a safe or a secure location for sensitive documents:
-1. Click `Phrases Backup` in the backup options screen:
+Follow these steps to create a 12 words backup:
 
-![](images/backup_options.png)
+
+1. Click the `BACKUP YOUR WALLET` in the wallet screen or click 'BACKUP' in the wallet settings section of the settings screen.
 
 You should see this screen:
 
-![](images/paper_backup.png)
+![](images/v1.0/backup_main_screen.png)
 
-2. Write down or print the `12 words list` displayed on the screen
-3. Store the paper with the words in a safe place such as a safe. Do not leave it next to your computer
-4. Click on `Test Backup` and proceed to confirm you wrote down the words list:
 
-!> Do NOT use your mobile phone camera to take a photo of your computer screen in order to save the words. As anyone with access to your photos will be able to steal your wallet coin balance.
+1. Click the `12 WORDS BACKUP` button.
 
-If you don't have a safe or a secure location for private documents then follow these steps to store the phrases in your password manager app.
+You should now see a screen with an ordered list of 12 words:
 
-2. Click `Copy` to copy the words list to your clipboard from the paper backup screen
-3. Open your password manager app and create a new item. e.g. My Main Wallet
-4. Paste the copied words list into your item details or note
-5. Click on `Test Backup` and proceed to verify that you have access to the printed words list:
+![](images/v1.0/wallet_12_words_backup.png)
 
-![](images/confirm_back_start.png)
+Follow one or more of these steps:
 
-Drag the 4 words displayed in the screen to their proper place in the list. e.g. if the word `door` is word 3 in the words list, then drag the word to slot number 3 in the empty list on the screen.
+- Write down the 12 words with a pen on a paper. Write the number next to each word.
 
-![](images/confirm_backup.png)
+- Click 'PRINT' and print the list using your printer.
 
-Once you dragged the 4 words into their correct place in the list click on `Done`.
+- Click `COPY` and copy and paste the list to a secure note in your password manager app.
+
+> If you printed the list or wrote it down on a paper, store the paper in a safe place such as a safe. Do NOT leave it next to your computer.
+
+> Do NOT use your mobile phone camera to take a photo of your computer screen in order to save the words. Anyone with access to your photos will be able to steal your wallet coins from you.
+
+3. Click 'NEXT' only after you performed one of the actions above.
+
+You will now verify that you have access to the printed words list. The confirmation screen displays 4 words from your list and 12 empty slots:
+
+![](images/v1.0/wallet_12_words_confirm.png)
+
+4. Drag the 4 words displayed in the screen to their proper place in the list.
+
+For example, if the word `impose` is word number 8 in the words list, then drag the word `impose` to slot number 8 in the empty list on the screen.
+
+After dragging the 4 words to their correct location in the list you should see this screen with the confirmation message at the bottom-right side of the screen:
+
+![](images/v1.0/wallet_12_words_done.png)
+
+5. Click 'DONE'
+
+----
 
 ## Restoring your Wallet from backup
 
