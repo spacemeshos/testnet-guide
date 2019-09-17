@@ -101,7 +101,8 @@ After dragging the 4 words to their correct location in the list you should see 
 ## Restoring your Wallet from backup
 
 ### Restoring from a backup file
-1. Open the App and when click `RESTORE WALLET` button:
+
+1. Open the App and in the welcome screen click `RESTORE WALLET` button:
 
 ![](images/v1.0/welcome.png)
 
@@ -111,7 +112,7 @@ You should see the restore wallet screen:
 
 ![](images/v1.0/wallet_restore_options.png)
 
-2. Click 'RESTORE FROM FILE'
+2. Click `RESTORE FROM FILE`.
 
 You should see a screen similar to this:
 
@@ -125,23 +126,41 @@ You should see a screen similar to this:
 
 ![](images/v1.0/unlock_wallet.png)
 
-?> Forgot your wallet password? The only way to restore it is using a 12 words backup.
+> Forgot your wallet password? The only way to restore it is using a 12 words backup.
 
 Congratulations! your wallet is now restored from the backup file.
 
 ---
 
 ### Restoring from a 12 words list
-1. Open the App and when prompted to secure a new wallet, click the `Restore Wallet` button
 
-![](images/welcome.png)
+1. Open the App and when click `RESTORE WALLET` button:
 
-2. When prompted, click the `Restore from 12 words list` button
+![](images/v1.0/welcome.png)
 
-!> TODO: Add screen shot here.
+> Alternatively, click 'RESTORE' from the Wallet Settings section of the Settings Screen.
 
-3. Enter the 12 words from paper or from your password manager item in the same order you wrote them down
+You should see the restore wallet screen:
 
-!> TODO: Add screen shot here.
+![](images/v1.0/wallet_restore_options.png)
 
-Congratulations! your wallet is now restored from your 12 words list backup
+2. Click `RESTORE WITH 12 WORDS`.
+
+You should now see the restore screen:
+
+![](images/v1.0/wallet_12_words_restore.png)
+
+
+3. Enter the 12 words from paper or from your password manager in the same order you wrote them down:
+
+![](images/v1.0/wallet_12_words_filled.png)
+
+4. Click `RESTORE`.
+
+5. Enter new wallet password in this screen:
+
+![](images/v1.0/protect_wallet.png)
+
+6. Click 'NEXT'
+
+Congratulations! your wallet is now restored from your 12 words backup.
