@@ -2,19 +2,19 @@
 
 The following is a list of all available Testnet guides.
 
-1. [Installing the app](guide/install.md)
-2. [Setting up Wallet + Miner](guide/setup.md)
-3. [Checking balance](guide/status.md)
-4. [Using your wallet](wallet.md)
-5. [Sending coins](send_coin.md)
-6. [Getting coins](get_coin.md)
-7. [Backing up your wallet](backup.md)
-8. [Using the CLI wallet](cli_wallet.md)
-9. [Running a CLI full node](linux.md)
-10. [Building from source](build.md)
-11. [Getting coins from the Tap](tap.md)
-12. [Configuring your network](netconfig.md)
-13. [Setting up the App in Wallet-only Mode](wallet_mode.md)
+- [Installing the app](guide/install.md)
+- [Setting up Wallet + Miner](guide/setup.md)
+- [Checking full node status](guide/status.md)
+- [Using your wallet](wallet.md)
+- [Sending coins](send_coin.md)
+- [Getting coins](get_coin.md)
+- [Backing up your wallet](backup.md)
+- [Using the CLI wallet](cli_wallet.md)
+- [Running a CLI full node](linux.md)
+- [Building from source](build.md)
+- [Getting coins from the Tap](tap.md)
+- [Configuring your network](netconfig.md)
+- [Setting up Wallet-only Mode](wallet_mode.md)
 
 ## Additional resources
 

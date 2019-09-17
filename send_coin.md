@@ -40,7 +40,9 @@ Your recent transactions are displayed in the `Transactions` area of your Wallet
 
 ![](images/v1.0/wallet_tx_view.png)
 
-1. Click on `ALL TRANSACTIONS` to view the full transactions log:
+1. Click on `ALL TRANSACTIONS` to view the full transactions log.
+
+2. Click on a transaction to view its details:
 
 ![](images/v1.0/tx_log_details.png)
 
