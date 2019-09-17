@@ -116,10 +116,6 @@ p {
 	font-weight: var(--font-weight-bold);
 }
 
-.gitter-open-chat-button, .gitter-open-chat-button:visited {
-	background-color: #65b042;
-}
-
 .cover.show {
 	background: linear-gradient(to left bottom, #F0FD37 0%, #ACF260 100%);
 }

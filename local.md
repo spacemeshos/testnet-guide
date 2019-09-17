@@ -19,7 +19,7 @@ If all works as expected, you should have a terminal window which looks similar 
 ![local_net](https://spacemesh.io/content/images/2019/07/local_net.jpg)
 
 
-?> Got stuck in setup? Got any questions? Join our [Gitter dev channel](https://gitter.im/spacemesh-os/Lobby) and get help.
+?> Got stuck in setup? Got any questions? Join our [Testnet Chat Channel](https://discord.gg/ASpy52C) and get help.
 
 ## Working with the testnet
 
@@ -134,4 +134,4 @@ TBR
 
 ----
 
-?> Got stuck? Got any questions? Join our [Gitter dev channel](https://gitter.im/spacemesh-os/Lobby) and get help.
+?> Got stuck? Got any questions? Join our [Testnet chat channel](https://discord.gg/ASpy52C) on Discord and get help.

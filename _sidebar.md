@@ -6,6 +6,7 @@
 - [Checking status](guide/status.md)
 
 **Doing More**
+- [Using your wallet](wallet.md)
 - [Getting help](help.md)
 - [Joining the community](comm.md)
 - [Additional guides](all.md)

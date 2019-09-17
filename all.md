@@ -1,20 +1,18 @@
-# Resources index
+# All Testnet Guides
 
-## All Testnet Guides
-
-The following is a list of guides for all the main Testnet features.
+The following is a list of all available Testnet guides.
 
 1. [Installing the app](guide/install.md)
 2. [Setting up Wallet + Miner](guide/setup.md)
 3. [Checking balance](guide/status.md)
-4. [Using the wallet](wallet.md)
+4. [Using your wallet](wallet.md)
 5. [Sending coins](send_coin.md)
 6. [Getting coins](get_coin.md)
 7. [Backing up a wallet](backup.md)
 8. [Using the CLI wallet](cli_wallet.md)
 9. [Running a CLI full node](linux.md)
 10. [Building from source](build.md)
-11. [Getting coin from the Tap](tap.md)
+11. [Getting coins from the Tap](tap.md)
 12. [Configuring your network](netconfig.md)
 13. [Setting up the App in Wallet-only Mode](wallet_mode.md)
 
