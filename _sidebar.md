@@ -8,5 +8,4 @@
 **Doing More**
 - [Getting help](help.md)
 - [Joining the community](comm.md)
-- [Additional Guides](all.md)
-- [Local Testnet](local.md)
+- [Additional guides](all.md)

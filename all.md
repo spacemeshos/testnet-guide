@@ -25,6 +25,7 @@ The following is a list of guides for all the main Testnet features.
 - [Getting ready for Mainnet](mainnet.md)
 - [Exploring the Testnet Mesh](explorer.md)
 - [Browsing the Testnet Dashboard](dashboard.md)
+- [Local Testnet Guide](local.md)
 
 ## Legal
 - [Disclaimer](disclaimer.md)

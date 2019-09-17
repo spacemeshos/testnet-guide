@@ -1,24 +1,48 @@
 ## Backing up your Wallet
-The are two main ways to backup your wallet, `File Backup` and `Phrases Backup`.
+The are two ways to backup your wallet, `File Backup` and `12 Words Backup`.
 
-You will be prompted to backup your wallet until you backup it :-)
+We recommend you to use the more secure and robust `12 Words Backup`.
 
-![](images/backup_prompt.png)
+You will be prompted to backup your wallet until you backup it in the wallet main screen:
+
+![](images/v1.0/wallet_screen.png)
 
 ### Wallet File Backup
-!> A file backup allows you to restore you wallet using the wallet file and your passphrase. You can't restore your wallet without having the file and remember your passphrase.
+> A file backup allows you to restore you wallet using a backup file and your password. You can only restore your wallet from a backup data file if you remember your password.
 
-1. Click the `File Backup` option in the App backup options screen:
+> File backup is useful for restoring access to your wallet on another computer, or in case that your wallet data file is corrupted or accidentally deleted.
 
-![](images/backup_options.png)
+> We recommend you will do a `12 Words Backup` because this kind of backup enables you to restore your wallet even if you lose your wallet data file or if you forgot your password.
 
-A window will open showing where the wallet file is stored on your hard-drive and the wallet file will be selected.
 
-2. Copy the selected wallet file to a USB drive or to another hard drive.
 
-We recommend saving the backup file to a USB drive and storing the drive in a safe place.
+1. Click the `BACKUP YOUR WALLET` in the wallet screen or click 'BACKUP' in the wallet settings section of the settings screen.
 
-?> The sensitive data is stored encrypted in your wallet file as a security measure. So your Spacemesh Coin held in the wallet are safe even if someone gains access to the file. That said, please take care and make sure that access to your wallet backup is not provided to others. For example, do not save a backup on the cloud in a location that is accessible to anyone.
+You should see this screen:
+
+![](images/v1.0/backup_main_screen.png)
+
+2. Click the 'FILE BACKUP' button.
+
+> The App creates a backup file and stores it on your computer's hard-drive.
+
+You should now see this screen:
+
+![](images/v1.0/wallet_file_backup.png)
+
+3. Click `BROWSE FILE LOCATION` to locate the new backup file in your computer's hard-drive.
+
+A file browser will open up displaying where the backup file is stored on your hard-drive and the wallet file will be selected.
+
+> You backup file name should be similar to this wallet file name: `Wallet_Backup_2019-09-17T17/03/22.712Z.json`
+
+4. Copy the selected backup file to a USB drive or to another hard drive.
+
+> We recommend saving the backup file to a USB drive and storing the drive in a safe place.
+
+> Sensitive wallet data is stored encrypted in your wallet file as a security measure. So your Spacemesh Coins held in the wallet are safe even if someone gains access to the file. That said, please take care and make sure that access to your wallet backup file is limited to you. For example, do not save a backup file on the cloud in a location that is publicly accessible.
+
+---
 
 ### 12 Words Backup
 
