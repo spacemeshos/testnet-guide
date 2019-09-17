@@ -34,4 +34,14 @@ You should now see this screen:
 
 Congratulations! You have just sent some Spacemesh Coins (SMC) to a recipient.
 
-- TODO: add instructions on how to track the transactions and about desktop notifications here...
+## Tracking your transaction
+
+Your recent transactions are displayed in the `Transactions` area of your Wallet Screen:
+
+![](images/v1.0/wallet_tx_view.png)
+
+1. Click on `ALL TRANSACTIONS` to view the full transactions log:
+
+![](images/v1.0/tx_log_details.png)
+
+Notice the transaction status. A new transaction you just executed will be in the `PENDING` state and should move to `CONFIRMED` state once it was added to the Spacemesh ledger.
