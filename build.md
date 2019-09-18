@@ -1,10 +1,21 @@
 # Build Spacemesh Software from Source
 
-## Building the Spacemesh App Installer
+You can build the Spacemesh Full Node and CLI wallet directly from source code, and run the node without installing the Spacemesh App.
 
-> TODO: Follow these steps to build the Spacemesh App...
+> You can build on Linux or on OS X. Building on Windows 10 is not yet supported.
 
-## Building a stand-alone console Full p2p Node and a CLI Wallet
-You can build the Spacemesh Full Node and CLI wallet and run the node without installing the Spacemesh App.
+Follow the steps below to build the Spacemesh full node and CLI wallet directly from source code.
 
-> TODO: Follow these steps to build the Spacemesh full node and CLI wallet...
+Alternatively, you can also download a pre-build linux full p2p node and CLI Wallet pre-build docker image and run them using Docker. Follow the steps in [this guide](docker.md).
+
+## Building a full p2p node
+
+## Building the CLI Wallet
+
+## Running the full p2p node
+
+- TODO: add instructions here
+
+## Using the CLI Wallet
+
+- Follow [this guide](cli_wallet.md)
