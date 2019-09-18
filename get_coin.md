@@ -4,7 +4,7 @@ There are 3 ways to get Testnet Spacemesh Coins:
 
 1. Run a full p2p node, complete the mining one-time setup process, and receive participation awards from minted coins and transaction fees from coin transactions. To learn more about these awards follow [this guide](awards.md).
 
-2. Get coins from the [Spacemesh Testnet Tap ] (tap.md) on Discord.
+2. Get coins from the [Spacemesh Testnet Tap](tap.md) on Discord.
 
 3. Get coins sent from another account to your account.
 

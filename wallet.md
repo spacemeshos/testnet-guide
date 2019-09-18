@@ -49,7 +49,7 @@ This is useful if you want to receive SMC from another account holder. In this c
 Follow the steps in [this guide](send_coin.md) to send Spacemesh Coins to any other account.
 
 ## Getting Spacemesh Coins
-Follow the steps in [this guide](get_coin.md) to get coins to your account.
+Follow the steps in [this guide](get_coin.md) to get coins from another account to your account.
 
 ## Locking Access to your Wallet
 
