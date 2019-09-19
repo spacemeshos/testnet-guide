@@ -2,6 +2,8 @@
 
 People who run the Spacemesh full p2p node in the App, have setup mining and participate in the protocol by leaving their App running 24x7 are entitled to Spacemesh Coin awards.
 
+Coin awards are awarded to the Wallet account you have created prior to setting up mining and is associated with your full node identity.
+
 Blocks with transactions are added by full p2p nodes in `layers`. Each layer has a constant time of 5 minutes. Layers are numbered. The first layer after the Testnet goes live is `layer 0`, the next one is `layer 1`, etc...
 
 An `epoch` is a fixed number of layers. Each epoch has XXX layers. So Epoch 0 is the first XXX layers starting with `layer 0` and its last layer is `layer XXX-1`.
