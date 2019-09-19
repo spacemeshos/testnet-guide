@@ -18,6 +18,8 @@ You did it - you are now up and running a Spacemesh full node, and you will star
 
 ?> Remember to leave your computer open 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contribution.
 
+Learn more about [Spacemesh coin awards](../awards.md)
+
 <center>
 
 ![](../images/goodjob.gif ':size=350px')
