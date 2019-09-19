@@ -66,7 +66,7 @@ The installer you are downloading was packaged from code in the [Spacemesh open 
 
 We provide these installers in order to make it convenient for non-developers to join Spacemesh.
 
-> If you prefer and technically able, you can build and run the installer [directly from source code](build.md) instead of using our provided installer.
+> If you prefer and technically able, you can build and run a full p2p node and a CLI wallet [directly from source code](build.md) instead of using our provided installer.
 
 ---
 
