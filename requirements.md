@@ -61,6 +61,6 @@ Learn more about the [Wallet Only App Mode](wallet_mode.md)
 ### Linux Support
 ?> The Spacemesh App is an Electron App. It is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
 
-If you are running another flavor of Linux then you can install the Full Node Linux Distro which includes the full node and a CLI wallet. Alternative your may build and run a full node and a CLI wallet from source code. [Learn more...](linux.md)
+If your Linux system doesn't support Electron apps then you can build and run a full p2p2 node and a CLI wallet using the instructions in  [this guide](build.md).
 
-You may also run the Full Node and the CLI wallet inside a docker container. [Learn more](docker.md)...
+You may also run the Full Node and the CLI wallet inside a docker container on any system which supports docker. [Learn more](docker.md)...

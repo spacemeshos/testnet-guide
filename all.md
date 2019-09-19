@@ -11,7 +11,7 @@ The following is a list of all available Testnet guides:
 - [Getting coins](get_coin.md)
 - [Backing up your Wallet](backup.md)
 - [Using the CLI Wallet](cli_wallet.md)
-- [Running a CLI Full p2p Node](linux.md)
+- [Building and Running from Source Code](build.md)
 - [Building from source](build.md)
 - [Getting coins from the Tap](tap.md)
 - [Configuring your network](netconfig.md)

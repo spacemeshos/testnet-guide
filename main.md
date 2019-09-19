@@ -64,6 +64,6 @@ Got stuck? Need additional info? Got some cool ideas for the project?
 
 ## Additional Testnet Resources
 - [Build and run](build.md) a full p2p node and a CLI wallet from source code
-- Run the App on a [console-only linux system](linux.md)
+- Build and run a full p2p node and a CLI wallet on a [console-only linux system](build.md)
 - Build and run the App in a [Docker container](docker.md)
 - Read [Additional Testnet Guides](all.md)

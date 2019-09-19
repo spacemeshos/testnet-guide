@@ -56,7 +56,7 @@ Next download the App installer for your OS using on of the links below:
 
 ### Other Flavors of Linux
 
-?> Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](linux.md) to join the Testnet from your system.
+?> Running a linux distribution that doesn't support Electron apps? We got you covered! Just follow [this guide](build.md) to join the Testnet from your system.
 
 ---
 
