@@ -14,7 +14,7 @@ Let's now setup a new wallet to manage your Spacemesh Coins and to provide your 
 
 > A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Spacemesh full p2p node.
 
-When setting up a full p2p node, your wallet main account will be used as the `coins awards account` for this full node. 
+When setting up a full p2p node, your wallet main account will be used as the `coins awards account` for this full node.
 
 ?> Note that you can skip the full p2p node and the mining setup and run the Spacemesh App in `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your laptop when, for example, you run a Spacemesh full p2p node on your desktop. See [this guide](wallet_mode.md) for more info about this configuration.
 
@@ -78,13 +78,15 @@ You should now see this screen:
 
 > The one-time mining setup process is now started, and it may take 24-48 hours depending on your GPU capabilities. Do not turn off your computer until you get a notification about setup completion.
 
+> The account currently selected in your wallet will be used as the `coins award address` for mining and full node awards.
+
 Click 'GOT IT`.
 
 ---
 
 ## Step 3 - Desktop Computer Configuration
 
-### Network Configuration
+### Configure your Network
 In order to participate in the Spacemesh network and earn mining awards you need to configure your computer firewall (and in some cases your home network router) so the Spacemesh App is able to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
 
 Please follow the instructions in [this guide](netconfig.md).
@@ -93,9 +95,6 @@ Please follow the instructions in [this guide](netconfig.md).
 To finish the one-time mining process and to have your full node participate in the Spacemesh protocol and earn Spacemesh Coins awards **you need to make sure that your desktop computer doesn't not go to sleep or hibernates**.
 
 Follow [this guide](no_sleep.md) to disable sleep on your computer.
-
-## TODO
-- Need to recommend a way for users to test routability - maybe via a managed endpoint that attempts to connect to a node and say ping to it - show a desktop notification if ping was received...
 
 
 ## Next...
