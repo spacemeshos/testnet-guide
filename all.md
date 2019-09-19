@@ -15,6 +15,7 @@ The following is a list of all available Testnet guides:
 - [Building from source](build.md)
 - [Getting coins from the Tap](tap.md)
 - [Configuring your network](netconfig.md)
+- [Updating your App](update.md)
 
 ## Additional resources
 
