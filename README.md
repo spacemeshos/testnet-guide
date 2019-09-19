@@ -3,7 +3,7 @@
 This repo contains the content for Spacemesh Testnet Guide.
 The guide is going to be available at https://testnet.spacemesh.io .
 
-> IMPORTANT: Please use Chrome, Firefox or Safari to browse the guide. Edge / IE seem to have issues rendering dcosify sites and are not currently supported.
+> IMPORTANT: Please use Chrome, Firefox or Safari to browse the guide. Edge / IE has issues rendering dcosify sites and is not currently supported.
 
 ##  Browsing Locally
 
