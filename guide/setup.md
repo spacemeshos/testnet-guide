@@ -14,6 +14,8 @@ Let's now setup a new wallet to manage your Spacemesh Coins and to provide your 
 
 > A `coins awards account` is a wallet account you setup and use to receive Spacemesh Coins for running a Spacemesh full p2p node.
 
+When setting up a full p2p node, your wallet main account will be used as the `coins awards account` for this full node. 
+
 ?> Note that you can skip the full p2p node and the mining setup and run the Spacemesh App in `wallet-only mode`. This is useful if you only want to transact with Spacemesh Coins on your laptop when, for example, you run a Spacemesh full p2p node on your desktop. See [this guide](wallet_mode.md) for more info about this configuration.
 
 ---

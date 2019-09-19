@@ -63,7 +63,7 @@ Got stuck? Need additional info? Got some cool ideas for the project?
 - Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io)
 
 ## Additional Testnet Resources
-- [Build and run](build.md) the installer from source code
+- [Build and run](build.md) a full p2p node and a CLI wallet from source code
 - Run the App on a [console-only linux system](linux.md)
 - Build and run the App in a [Docker container](docker.md)
 - Read [Additional Testnet Guides](all.md)

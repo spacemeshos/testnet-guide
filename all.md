@@ -1,6 +1,6 @@
 # All Testnet Guides
 
-The following is a list of all available Testnet guides.
+The following is a list of all available Testnet guides:
 
 - [Installing the app](guide/install.md)
 - [Setting up Wallet + Miner](guide/setup.md)
