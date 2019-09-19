@@ -1,4 +1,5 @@
-## Backing up your Wallet
+# Backing up your Wallet
+
 The are two ways to backup your wallet, `File Backup` and `12 Words Backup`.
 
 We recommend you to use the more secure and robust `12 Words Backup`.
@@ -7,7 +8,7 @@ You will be prompted to backup your wallet until you backup it in the wallet mai
 
 ![](images/v1.0/wallet_screen.png)
 
-### Wallet File Backup
+## Wallet File Backup
 
 A file backup allows you to restore you wallet using a backup file and your password. You can only restore your wallet from a backup data file if you remember your password.
 
@@ -44,7 +45,7 @@ A file browser will open up displaying where the backup file is stored on your h
 
 ---
 
-### 12 Words Backup
+## 12 Words Backup
 
 The 12 words backup method allows you to print or write down on a paper an ordered list of 12 English words that you need to store in a safe place.
 

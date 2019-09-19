@@ -12,7 +12,6 @@ The following is a list of all available Testnet guides:
 - [Backing up your Wallet](backup.md)
 - [Using the CLI Wallet](cli_wallet.md)
 - [Building and Running from Source Code](build.md)
-- [Building from source](build.md)
 - [Getting coins from the Tap](tap.md)
 - [Configuring your network](netconfig.md)
 - [Updating your App](update.md)
