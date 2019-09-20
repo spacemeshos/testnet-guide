@@ -30,6 +30,10 @@
 
 ### GPU Usage
 
+>The first version of the App does not perform GPU mining and uses the CPU for mining.
+
+The following notes are only relevant once we release an App update with GPU mining support.
+
 It is possible to setup the Spacemesh Miner on a system without a GPU, but in this case, the setup phase may take up to x100 longer than with the same system with a supported GPU.
 
 A fast GPU considerably reduces the Spacemesh Miner one-time setup phase duration. Your GPU is not used by the App after the one-time setup phase is complete.
@@ -43,18 +47,24 @@ As long as your system and configuration meets the recommended  requirements, th
 ### Network Config
 You must configure your network to allow the Spacemesh App to accept incoming connections on UDP port 7153 and on TCP port 7153. Follow [this guide](netconfig.md) to configure your network.
 
-### Running the App on a Laptop
-You can install and run the App on your laptop if it meets the minimum desktop computer requirements. However, you will need to make sure you leave your laptop open and connected to power and the Internet 24x7. Occasionally shutting down your laptop or the App may prevent you from participating in consensus and earning participation coin awards.
+### Running the App on your Laptop
+You can install the App, run a full p2p node and mine on your laptop if it meets the [minimum desktop computer requirements](requirements.md).
+
+However, you will need to make sure you leave your laptop open and connected to power and to the Internet 24x7.
+
+Occasionally shutting down your laptop or the App may prevent you from participating in consensus and earning participation coin awards.
+
+You can also use your laptop to install the app and run it in [wallet only mode](wallet_mode.md)
 
 ---
 
-### Wallet-only Mode Requirements
+### Wallet-only Mode System Requirements
 
 > You can use the Spacemesh App wallet features without mining and without running a full node on your laptop or desktop computer. We call this wallet-only mode.
 
 This configuration requires a modern laptop or a desktop computer running OS X, Windows 10, Ubuntu 12.04 and newer, Fedora 21 or Debian 8 with minimum 4GB of RAM. You do not need any specific GPU to run in wallet only mode as in this mode there is no mining or a running full p2p node in the App.
 
-Learn more about the [Wallet Only App Mode](wallet_mode.md)
+Learn more about the [Wallet Only App Mode](wallet_mode.md).
 
 ---
 
