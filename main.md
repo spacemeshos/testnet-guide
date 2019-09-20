@@ -54,6 +54,9 @@ In the true spirit of crypto, we launch this testnet so anyone can verify (and n
 ## How can I join the Spacemesh Testnet?
 Just follow the instructions in this guide. Let's [get started](guide/install.md)!
 
+## What do I need to join the Testnet?
+To run a full node, mine and get coin awards you need an always-on desktop computer running Windows 10, OS X or a supported Linux distribution with 150 GB free space (required free space is tentative and subject to change) on your hard-drive. For more info, browse the [ system requirements page](requirements.md)
+
 ## Testnet Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?
 - Get answers and ask questions in our [Testnet Community Channel](https://discord.gg/Mf8T4Db) on discord
