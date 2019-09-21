@@ -20,7 +20,7 @@
 - 8 GB RAM
 - 150 GB free space on a magnetic hard-drive or SSD drive
 - An always on unmetered broadband Internet connection
-- A modern AMD or Nvidia GPU
+- A modern AMD or Nvidia GPU (for GPU mining)
 - An always on Internet connection capable of 10 mbps downloads and 1 mbps uploads.
 - Network Configuration that allows the App to accept incoming Internet connections on UDP port 7153 and TCP port 7153
 
@@ -69,8 +69,8 @@ Learn more about the [Wallet Only App Mode](wallet_mode.md).
 ---
 
 ### Linux Support
-?> The Spacemesh App is an Electron App. It is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
+> The Spacemesh App is an Electron App. It is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
 
-If your Linux system doesn't support Electron apps then you can build and run a full p2p2 node and a CLI wallet using the instructions in  [this guide](build.md).
+If your Linux system doesn't support Electron Apps then you can build and run a full p2p2 node and a CLI wallet using the instructions in  [this guide](build.md).
 
 You may also run the Full Node and the CLI wallet inside a docker container on any system which supports docker. [Learn more](docker.md)...
