@@ -17,7 +17,7 @@ The following is a list of all available Testnet guides:
 - [Updating your App](update.md)
 
 ## Additional resources
-
+- [About Spacemesh Coins and Cents](smc.md)
 - [Testnet FAQ](https://spacemesh.io/faq/)
 - [Testnet System Requirements](requirements.md)
 - [Getting ready for Mainnet](mainnet.md)

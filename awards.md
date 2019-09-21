@@ -3,6 +3,8 @@
 ## Coin Awards
 People who run the Spacemesh full p2p node in the App, have setup mining and participate in the protocol by leaving their App running 24x7 are entitled to Spacemesh Coin awards.
 
+> [Learn more](smc.md) about Spacemesh Coin Units.
+
 ## Coin Awards Accounts
 Coin awards are awarded to the Wallet account you have created prior to setting up mining and is associated with your full node identity.
 
@@ -18,6 +20,7 @@ The Spacemesh protocol guarantees that you will be eligible to submit at least o
 Each layer has a total award of 1 Spacemesh Coins. This award is distributed to the awards account of each miner who contributed at least one block to that layer.
 
 So, for example, if a layer includes 10 blocks, each submitted by a different full node, 1 SMC will be distributed evenly between the coin awards accounts of each of the 10 participating full nodes. So each account will be credited with 0.1 SMCs.
+
 
 This award amount is adjusted by the number of transactions included in blocks. The awards of full nodes who have submitted less than 15 transactions in their submitted block is reduced by 15%. This penalty is distributed as a bonus to all full nodes who have submitted more than 15 transactions in their submitted block.
 
