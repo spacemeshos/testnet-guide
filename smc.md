@@ -10,7 +10,6 @@
 
 - `Spacemesh Silver`. 1,000 Spacemesh silvers equal to one Spacemesh Coin.
 
-
 ## Additional Accounting Units
 - `Killocents (KCents)(GAVRAD)`. One Killocent equals to one thousand (10^3) Spacemesh cents.
 
