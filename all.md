@@ -24,6 +24,7 @@ The following is a list of all available Testnet guides:
 - [Exploring the Testnet Mesh](explorer.md)
 - [Browsing the Testnet Dashboard](dashboard.md)
 - [Local Testnet Guide](local.md)
+- [Spacemesh Terms Dictionary](dictionary.md)
 
 ## Legal
 - [Disclaimer](disclaimer.md)
