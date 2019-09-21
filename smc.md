@@ -4,7 +4,7 @@
 
 
 ## Basic Units
-- `Spacemesh Cent` (LERNER) - the basic unit of accounting in the Spacemesh platform. Used mostly by developers in the code and for transaction fees.
+- `Spacemesh Cent` (LERNER). the basic unit of accounting in the Spacemesh platform. Used mostly by developers in the code and for transaction fees.
 
 - `Spacemesh Coin` (SMC). One Spacemesh Coin equals to 10^18 Spacemesh Cents.
 
