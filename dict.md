@@ -1,13 +1,13 @@
 # Spacemesh Dictionary
 
-## Spacemesh Coins (SMC)
+## Spacemesh Coins (SMC / Shmekels)
 The native cryptocurrency maintained by the Spacemesh distributed ledger.
 One Spacemesh Coin equals to 10^18 Spacemesh Cents.
 
-## Spacemesh Cents
+## Spacemesh Cents (Lerners)
 The basic unit of accounting in the Spacemesh platform. Used mostly by developers in the platform's code and for transaction fees.
 
-## Spacemesh Silver
+## Spacemesh Silver (SMS)
 1,000 Spacemesh Silvers are 1 Spacemesh Coins.
 
 ## Full p2p Node
