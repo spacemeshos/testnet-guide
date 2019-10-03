@@ -5,7 +5,7 @@
 
 ## Basic Units
 
-- `Spacemesh Coin` (SHMEKELS / SMC). One Spacemesh Coin equals to 10^18 Spacemesh Cents.
+- `Spacemesh Coin` (Shmekels / SMC). One Spacemesh Coin equals to 10^18 Spacemesh Cents.
 
 - `Spacemesh Silver` (SMS). 1,000 Spacemesh silvers equal to one Spacemesh Coin.
 
