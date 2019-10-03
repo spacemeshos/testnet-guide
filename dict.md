@@ -35,13 +35,12 @@ Spacemesh Coins awarded to full p2p node operators. People who run the Spacemesh
 Coin awards are always awarded to one wallet account specified by the full p2p node owner. When you use the Spacemesh App, the main account in your wallet is automatically used as your coins award account.
 
 ## Spacemesh Coin Transaction
-A transaction from one account (sender) to another account (recipient) in which a specific amount of Spacemesh Coins is transferred from sender to recipient. Transactions are executed from the wallet. 
+A transaction from one account (sender) to another account (recipient) in which a specific amount of Spacemesh Coins is transferred from sender to recipient. Transactions are executed from the wallet.
 
 ## CLI Wallet
 A `CLI Wallet` is a basic wallet available for users who can't run the App on their computer. It can be built from source code and can be used together with a Spacemesh full p2p node running in as a console app to setup mining and to perform basic Spacemesh Coins transactions.
 
 ## Tap
 The Spacemesh Tap is a Discord channel which allows people to request and receive Spacemesh Coins to their accounts. It is useful for testing Spacemesh Coins transactions.
-
 
 ## Spacemesh Testnet
