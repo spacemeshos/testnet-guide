@@ -4,15 +4,16 @@
 
 
 ## Basic Units
-- `Spacemesh Cent` (LERNER). the basic unit of accounting in the Spacemesh platform. Used mostly by developers in the code and for transaction fees.
 
-- `Spacemesh Coin` (SMC). One Spacemesh Coin equals to 10^18 Spacemesh Cents.
+- `Spacemesh Coin` (SHMEKELS / SMC). One Spacemesh Coin equals to 10^18 Spacemesh Cents.
 
-- `Spacemesh Silver`. 1,000 Spacemesh silvers equal to one Spacemesh Coin.
+- `Spacemesh Silver` (SMS). 1,000 Spacemesh silvers equal to one Spacemesh Coin.
+
+- `Spacemesh Cent` (Lerner). The basic unit of accounting in the Spacemesh platform. Used mostly by developers in the code by users and for transaction fees.
 
 ## Additional Accounting Units
-- `Killocents (KCents)(GAVRAD)`. One Killocent equals to one thousand (10^3) Spacemesh cents.
+- `Killocents` (KCents / Gavrad). One Killocent equals to one thousand (10^3) Spacemesh cents.
 
-- `Megacents (MCents)(YOSHER)`. One Megacent equals to one million (10^6) Spacemesh cents.
+- `Megacent` (MCent / Yosher). One Megacent equals to one million (10^6) Spacemesh cents.
 
-- `Gigacents (GCents)(ALMOG)`. One Gigacent equals to one billion (10^9) Spacemesh cents.
+- `Gigacent` (GCent / Almog). One Gigacent equals to one billion (10^9) Spacemesh cents.
