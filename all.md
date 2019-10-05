@@ -3,7 +3,7 @@
 The following is a list of all available Testnet guides:
 
 - [Installing the app](guide/install.md)
-- [Setting up Wallet + Miner](guide/setup.md)
+- [Setting up Wallet + Mining](guide/setup.md)
 - [Setting up Wallet-only Mode](wallet_mode.md)
 - [Checking your full p2p node status](guide/status.md)
 - [Using your Wallet](wallet.md)
@@ -25,6 +25,7 @@ The following is a list of all available Testnet guides:
 - [Browsing the Testnet Dashboard](dashboard.md)
 - [Local Testnet Guide](local.md)
 - [Spacemesh Terms Dictionary](dict.md)
+- [About Coin Awards](awards.md)
 
 ## Legal
 - [Disclaimer](disclaimer.md)
