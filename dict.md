@@ -45,5 +45,3 @@ A `CLI Wallet` is a basic wallet available for users who can't run the App on th
 
 ## Tap
 The Spacemesh Tap is a Discord channel which allows people to request and receive Spacemesh Coins to their accounts. It is useful for testing Spacemesh Coins transactions.
-
-## Spacemesh Testnet
