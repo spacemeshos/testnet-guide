@@ -23,6 +23,7 @@ Additional info: https://docsify.js.org
 
 ## Browsing
 Content in the master branch of this repo is automatically deployed to https://testnet.spacemesh.io
+
 Please use Chrome, Safari or Firefox to brwose the docs. IE / Edge are currently not supported.
 
 ## Deploying to a web server
