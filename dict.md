@@ -31,6 +31,9 @@ Spacemesh Mining is the process of allocating storage on your computer hard-driv
 ## Coin Awards
 Spacemesh Coins awarded to full p2p node operators. People who run the Spacemesh full p2p node have setup mining and participate in the protocol by leaving their App running 24x7 are entitled to Spacemesh Coin awards.
 
+## Layer Coin awards
+The fixed award amount in SMC. The amount is a protocol constant. It is distributed to all full nodes who have submitted blocks to a layer.
+
 ## Coin Awards Account
 Coin awards are always awarded to one wallet account specified by the full p2p node owner. When you use the Spacemesh App, the main account in your wallet is automatically used as your coins award account.
 
