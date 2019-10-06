@@ -1,7 +1,6 @@
-# All Testnet Guides
+#  Testnet Guides & Resources
 
-The following is a list of all available Testnet guides:
-
+## Testnet guides
 - [Installing the app](guide/install.md)
 - [Setting up Wallet + Mining](guide/setup.md)
 - [Setting up Wallet-only Mode](wallet_mode.md)
@@ -27,7 +26,7 @@ The following is a list of all available Testnet guides:
 - [Spacemesh Terms Dictionary](dict.md)
 - [About Coin Awards](awards.md)
 
-## Legal
+## Legal resources
 - [Disclaimer](disclaimer.md)
 - [Terms of Service](terms.md)
 - [Privacy Statement](privacy.md)
