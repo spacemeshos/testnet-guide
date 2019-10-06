@@ -9,13 +9,13 @@ The Spacemesh App includes the `Spacemesh full p2p node`, and a basic `Spacemesh
 
 - The `Spacemesh Coins Wallet` is a basic wallet that you use to maintain coin accounts, execute transactions and check the status of incoming transactions initiated by other accounts.
 
-- `Spacemesh Mining` is the process of allocating storage on your computer hard-drive for the Spacemesh network. Mining in Spacemesh is a one-time process that you only need to run once. Mining is managed by your Spacemesh full p2p node.
+- `Spacemesh Mining` is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol. To mine you must allocate XXXX free storage on your computer hard-drive to Spacemesh. This allocation is a one-time process you only need to do once. You can use the disk space you allocated to Spacemesh indefinitely. Mining is managed by your Spacemesh full p2p node.
 
-The `Spacemesh App` integrates all of these features into one package which we hope you are going to find delightful and easy to use even without deep technical understanding of cryptocurrency terms and concepts.
+The `Spacemesh App` integrates all of these capabilities into one package which we hope you are going to find delightful and easy-to-use even without having additional technical understanding of cryptocurrency terms and concepts.
 
 > You do NOT need to run any additional software to join the Testnet besides running the App on your computer.
 
-You install the App to setup mining, run the full p2p node, and you use the wallet to setup an award account for your full node and to perform basic Spacemesh Coin transactions.
+You install the Spacemesh App to setup mining and to run the full p2p node. You then use the wallet to setup an award account for your full node and to perform basic Spacemesh Coin transactions.
 
 Follow the instructions on this page to download, install and run the Spacemesh App.
 
