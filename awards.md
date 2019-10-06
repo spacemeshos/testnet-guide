@@ -49,4 +49,4 @@ TODO: add screen shot....
 
 - The transaction fees of transactions included in a layer are evenly distributed between all full nodes who contributed a block to that layer
 
-- Full nodes who submit blocks with less than 15 transactions award is reduced. The penalty is shared between all full nodes who submitted nodes with more than 15 transactions in that layer. 
+- Full nodes who submit blocks with less than 15 transactions award is reduced. The penalty is shared between all full nodes who submitted nodes with more than 15 transactions in that layer.
