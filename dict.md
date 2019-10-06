@@ -26,7 +26,10 @@ Each account is identified by one unique `public address`. An address is display
 The Spacemesh App integrates the Spacemesh Wallet, a full p2p node and mining into one package which we hope you are going to find delightful and easy to use even without deep technical understanding of cryptocurrency terms and concepts. It is available for Linux, OS X and Windows 10.
 
 ## Mining
-Spacemesh Mining is the process of allocating storage on your computer hard-drive for the Spacemesh network. Mining in Spacemesh is a one-time process that you only need to run once. Mining is managed by your Spacemesh full p2p node. You will be prompted to start mining and to configure mining when you run the Spacemesh App for the first time on your computer. You can also setup mining when running a full p2p node in console mode.
+
+Spacemesh Mining is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol. Mining is managed by your Spacemesh full p2p node. Before you can mine, you need to allocate XXXX free storage on your computer hard-drive to Spacemesh. This allocation is a one-time process that you only need to do once. You can use the disk space you allocated to Spacemesh indefinitely.
+
+You will be prompted to start mining and to configure mining when you run the Spacemesh App for the first time on your computer. You can also setup mining when running a full p2p node in console mode.
 
 ## Coin Awards
 Spacemesh Coins awarded to full p2p node operators. People who run the Spacemesh full p2p node have setup mining and participate in the protocol by leaving their App running 24x7 are entitled to Spacemesh Coin awards.
