@@ -9,6 +9,7 @@
 5. Updating the App
 6. Backing up your wallet (file and 12 words backup)
 7. Receiving coins from the tap
+8. Running the App in wallet-only mode
 
 ### Developers Guides
 1. Building go-spacemesh and the CLI wallet from source code
