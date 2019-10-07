@@ -1,16 +1,17 @@
 ## Testnet Video guides
 
 ### App Video Guides
-- Installing the App on Windows, Mac or Linux
-- Setting up wallet and mining
+1. Installing the App on Windows, Mac or Linux
+2. Setting up wallet and mining
     - ends with view of mining awards in the tx log screen
-- Sending coin to another account
-- Updating the App
-- Backing up your wallet
-- Receiving coins from the tap
+3. Sending coins to another account
+4. Receiving coins from another account
+5. Updating the App
+6. Backing up your wallet (file and 12 words backup)
+7. Receiving coins from the tap
 
 ### Developers Guides
-- Building go-spacemesh and the CLI wallet from source code
-- Running go-spacemesh with a CLI wallet and setting up mining
-- Executing a transaction with the CLI wallet
-- Checking balance with the CLI wallet
+1. Building go-spacemesh and the CLI wallet from source code
+2. Running go-spacemesh with a CLI wallet and setting up mining
+3. Executing a transaction with the CLI wallet
+4. Checking balance and coin awards with the CLI wallet
