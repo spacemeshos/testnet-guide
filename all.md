@@ -1,6 +1,7 @@
 #  Testnet Guides & Resources
 
 ## Testnet guides
+- [Testnet Video Guides](videos.md)
 - [Installing the app](guide/install.md)
 - [Setting up Wallet + Mining](guide/setup.md)
 - [Setting up Wallet-only Mode](wallet_mode.md)
@@ -26,7 +27,6 @@
 - [Spacemesh Terms Dictionary](dict.md)
 - [About Coin Awards](awards.md)
 - [Getting ready for Mainnet](mainnet.md)
-- [Using the CLI Wallet](cli_wallet.md)
 
 
 
