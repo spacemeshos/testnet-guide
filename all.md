@@ -1,7 +1,7 @@
 #  Testnet Guides & Resources
 
 ## Testnet guides
-- [Testnet video guides](videos.md)
+- [Watching video guides](videos.md)
 - [Installing the app](guide/install.md)
 - [Setting up wallet and mining](guide/setup.md)
 - [Setting up wallet-only mode](wallet_mode.md)
