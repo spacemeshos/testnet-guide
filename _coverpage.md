@@ -4,4 +4,4 @@
 
 > The Guide
 
-[Don't trust, verify](main.md)
+[Follow the white rabbit](main.md)
