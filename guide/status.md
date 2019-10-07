@@ -12,27 +12,20 @@ Click the close button in the App main Window.
 
 You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that mining will keep running.
 
-
 ## Well Done!
 You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
 
 ?> Remember to leave your computer running 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contribution.
 
-Learn more about [Spacemesh coin awards](../awards.md).
-
-<center>
-
-![](../images/goodjob.gif ':size=350px')
-
-</center>
-
-## Doing More With the Spacemesh App
+### Recommended Next Steps
 
 Follow these guides to become a Spacemesh maestro:
 
+- Learn more about [Spacemesh coin awards](../awards.md).
+- [View your mining awards and transactions status](wallet_logs.md).
 - [Pay someone](send_coin.md) with Spacemesh coins.
 - [Get paid](get_coin.md) with Spacemesh coins.
-- Do more with [your wallet](wallet.md).
+
 - Can't wait for your award? [Get some Testnet coins](tap.md) from our chat bot.
 
 ## Join our Community

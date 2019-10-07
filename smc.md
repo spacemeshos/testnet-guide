@@ -1,4 +1,4 @@
-# About Spacemesh Coins (Testnet timeframe)
+# About Spacemesh Coins
 
 ### TL;DR: 1 Smesh (XSMH) = 1,000 Shmekels = 10^18 Smetoshis
 
