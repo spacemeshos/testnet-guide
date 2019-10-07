@@ -1,19 +1,19 @@
 # About Spacemesh Coins (Testnet timeframe)
 
-**TL;DR: 1 Spacemesh Coin = 1,000 Spacemesh Silver = 10^18 Spacemesh Cents**
+## TL;DR: 1 Smesh (XSMH) = 1,000 Shmekels = 10^18 Smetoshis
 
 
 ## Basic Units
 
-- `Spacemesh Coin` (Shmekels / SMC). One Spacemesh Coin equals to 10^18 Spacemesh Cents.
+- `Smesh` (XSMH) - 10^18 Smetoshis.
 
-- `Spacemesh Silver` (SMS). 1,000 Spacemesh silvers equal to one Spacemesh Coin.
+- `Shmekel`-  1,000 Shmekels equal to one Smesh. One Shmekel is 10^15 Smetoshis.
 
-- `Spacemesh Cent` (Lerner). The basic unit of accounting in the Spacemesh platform. Used mostly by developers in the code by users and for transaction fees.
+- `Smetoshi` - The basic unit of accounting in the Spacemesh platform. Used mostly by developers in the code by users and for transaction fees.
 
 ## Additional Accounting Units
-- `Killocents` (KCents / Gavrad). One Killocent equals to one thousand (10^3) Spacemesh cents.
+- `Killotoshi` (KCents / Gavrad). One Killocent equals to one thousand (10^3) Smetoshis.
 
-- `Megacent` (MCent / Yosher). One Megacent equals to one million (10^6) Spacemesh cents.
+- `Megatoshi` (Yosher). One Megatoshi equals to one million (10^6) Smetoshis.
 
-- `Gigacent` (GCent / Almog). One Gigacent equals to one billion (10^9) Spacemesh cents.
+- `Gigatoshi` (Almog). One Gigatoshi equals to one billion (10^9) Spacemesh cents.
