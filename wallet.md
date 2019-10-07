@@ -45,6 +45,11 @@ You can copy your account public address to your computer's clipboard by clickin
 
 This is useful if you want to receive SMC from another account holder. In this case you just need to send the copied full account address to that person via any digital means such as a text message.
 
+## Viewing transactions and coin awards
+
+Click the `ALL TRANSACTIONS` button to access your wallet transactions log screen.
+
+Follow [this guide](wallet_logs.md) to learn how work with the transactions log screen.
 
 ## Sending Spacemesh Coins
 Follow the steps in [this guide](send_coin.md) to send Spacemesh Coins to any other account.
@@ -64,6 +69,7 @@ To access your wallet again, open the app and enter your wallet password.
 
 ## Backing up and your wallet
 Follow the steps in [this guide](backup.md) to backup your wallet and to restore your wallet from backup.
+
 
 ---
 
