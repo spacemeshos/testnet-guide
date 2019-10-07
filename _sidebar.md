@@ -3,7 +3,7 @@
 **Getting Started**
 - [Installing](guide/install.md)
 - [Setting up](guide/setup.md)
-- [Checking status](guide/status.md)
+- [Mining](guide/status.md)
 - [Using your wallet](wallet.md)
 
 **Doing More**

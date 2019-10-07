@@ -1,6 +1,6 @@
-# Checking Status
+# Mining
 
-Open the App if it is not already open and click on the 'MINING' tab on the top-left of the main window.
+Open the App if it is not already open and click on the `MINING` tab on the top-left of the main window.
 
 You should now see the mining status screen:
 
@@ -16,6 +16,8 @@ You will be prompted to quit the app or to switch it to run in the background. C
 You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
 
 ?> Remember to leave your computer running 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contribution.
+
+---
 
 ### Recommended Next Steps
 
