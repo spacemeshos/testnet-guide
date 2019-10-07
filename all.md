@@ -25,6 +25,10 @@
 - [Local Testnet Guide](local.md)
 - [Spacemesh Terms Dictionary](dict.md)
 - [About Coin Awards](awards.md)
+- [Getting ready for Mainnet](mainnet.md)
+- [Using the CLI Wallet](cli_wallet.md)
+
+
 
 ## Legal resources
 - [Disclaimer](disclaimer.md)
