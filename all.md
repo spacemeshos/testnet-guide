@@ -13,7 +13,7 @@
 - [Backing up your wallet](backup.md)
 - [Using the CLI wallet](cli_wallet.md)
 - [Building and running from source code](build.md)
-- [Getting coins from the Tap](tap.md)
+- [Getting coins from the tap](tap.md)
 - [Configuring your network](netconfig.md)
 - [Updating your App](update.md)
 
