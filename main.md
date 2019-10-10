@@ -15,13 +15,13 @@ Spacemesh is a programmable cryptocurrency open-source platform powered by a nov
 
 ## What does Spacemesh try to achieve?
 Spacemesh  is designed to achieve three main objectives:
-1. Create and maintain the ledger for the `Spacemesh Coin` - a fair cryptocurrency that will become a global means of payment
-2. Ensure fair distribution of the Spacemesh Coin cryptocurrency
-3. Establish a global programmable infrastructure for tokenized apps, communities and economies
+1. Create and maintain the ledger for the `Spacemesh Coin` - a fair cryptocurrency that will become a global means of payment.
+2. Ensure fair distribution of the Spacemesh Coin cryptocurrency.
+3. Establish a global programmable infrastructure for tokenized apps, communities and economies.
 
 ## What problems does Spacemesh plan to solve?
 1. Problem: Mining cryptocurrency today can only be done by a select few. Solution: We aim to create a world in which any interested party can mine Spacemesh cryptocurrency, which will naturally be followed by a fair distribution of coin (i.e., `The People's Coin`).
-2. Problem: Energy consumption due to PoW chains is skyrocketing. Solution: Spacemesh has improved upon PoW by creating a consensus protocol that consumes significantly less energy (i.e., `A Better Bitcoin`)
+2. Problem: Energy consumption due to PoW chains is skyrocketing. Solution: Spacemesh has improved upon PoW by creating a consensus protocol that consumes significantly less energy (i.e., `A Better Bitcoin`).
 3. Problem: Lack of satisfactory smart contracts infrastructure for creation of fair communities and decentralized financial services. Solution: we plan to add a modern smart contracts virtual machine (SVM), a new modern smart contracts language (Smesh) and dev tools designed for developers to build applications on the Spacemesh platform.
 
 ## What makes Spacemesh unique?
@@ -49,9 +49,9 @@ Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Space
 > Bottom line: if you care about Spacemesh and plan to participate in its Mainnet then you should join the Testnet.
 
 In the true spirit of crypto, we have launched this Testnet so that anyone can verify (rather than blindly trust) the 3 main promises we make:
-1. The core technology and product work
-2. You don't have to do anything after the initial setup to run a full node
-3. You can use your computer normally while running a Spacemesh full node
+1. The core technology and product work.
+2. You don't have to do anything after the initial setup to run a full node.
+3. You can use your computer normally while running a Spacemesh full node.
 
 ## How can I join the Spacemesh Testnet?
 Just follow the instructions in this guide. Let's [get started](guide/install.md)!
@@ -61,13 +61,13 @@ To run a full p2p node, mine and to get coin awards you need `an always-on deskt
 
 ## Testnet Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?
-- Get answers and ask questions in our [Testnet Community Channel](https://discord.gg/Mf8T4Db) on discord
-- Get some Testnet Spacemesh Coins via our [Testnet Tap](https://discord.gg/Mf8T4Db) on discord
-- Get answers and ask questions in our [Testnet community forum](https://discord.gg/ASpy52C)
-- Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh)
-- Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io)
+- Get answers and ask questions in our [Testnet Community Channel](https://discord.gg/Mf8T4Db) on discord.
+- Get some Testnet Spacemesh Coins via our [Testnet Tap](https://discord.gg/Mf8T4Db) on discord.
+- Get answers and ask questions in our [Testnet community forum](https://discord.gg/ASpy52C).
+- Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh).
+- Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io).
 
 ## Additional Testnet Resources
-- [Build and run](build.md) a full p2p node and a CLI wallet from source code
-- Build and run a full p2p node and a CLI wallet in a [Docker container](docker.md)
-- Read [Additional Testnet Guides](all.md)
+- [Build and run](build.md) a full p2p node and a CLI wallet from source code.
+- Build and run a full p2p node and a CLI wallet in a [Docker container](docker.md).
+- Read [Additional Testnet Guides](all.md).

@@ -11,7 +11,7 @@ The basic unit of accounting in the Spacemesh platform. Used mostly by developer
 1,000 Spacemesh Silvers are 1 Spacemesh Coins.
 
 ## Spacemesh Full Node (aka Full p2p Node or Full Node)
-The Spacemesh full node (aka full p2p node) is the software that maintains and updates the Spacemesh distributed computer and the Spacemesh Coin distributed ledger and the Spacemesh computer storage. The Spacemesh platform is created by people just like you who run the full p2p node in the App on their desktop computers. Your node participates in the Spacemesh Protocol and you earn mining awards for your participation. The Spacemesh full p2p node is responsible for the mining process. You run a full node by running the Spacemesh App on your computer or by building and running the go-spacemesh full node directly from source code if you are a developer.
+The Spacemesh full node is the software that maintains and updates the Spacemesh distributed computer and the Spacemesh Coin distributed ledger and the Spacemesh computer storage. The Spacemesh platform is created by people just like you who run the full p2p node in the App on their desktop computers. Your node participates in the Spacemesh Protocol and you earn mining awards for your participation. The Spacemesh full p2p node is responsible for the mining process. You run a full node by running the Spacemesh App on your computer or by building and running the go-spacemesh full node directly from source code if you are a developer.
 
 ## Wallet
 The Wallet is a basic Spacemesh Coins wallet that is used to maintain coin accounts, execute transactions and check the status of incoming transactions initiated by other accounts. The wallet is included in the Spacemesh App.
