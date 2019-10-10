@@ -31,7 +31,7 @@ So, for example, if a layer includes 10 blocks, each submitted by a different fu
 ## Layer Awards Adjustment
 This award amount is adjusted by the number of transactions included in blocks. The awards for full nodes who have submitted less than 15 transactions in their submitted block is reduced by 15%. This penalty is distributed as a bonus evenly to all full nodes who have submitted more than 15 transactions in their submitted block in the layer.
 
-## Transaction Fees
+## Transaction Fees Awards
 In addition to the layer award described above, all full nodes who submitted at least one block to a layer are entitled for a share of the transaction fees of valid transactions included in blocks in that layer.
 
 The transaction fees in a layer, are evenly distributed to all the full nodes who have submitted a block in the layer.
