@@ -18,11 +18,41 @@ Alternatively, you can also download a pre-build Linux full p2p node and CLI Wal
 
 ## Building a full p2p node
 
+Install [Go 1.11 or later](https://golang.org/dl/) for your platform, if you haven't already.
+Ensure that $GOPATH is set correctly and that the $GOPATH/bin directory appears in $PATH.
+
+### Clone the `go-spacemesh` full node repo.
+
+```bash
+git clone git@github.com:spacemeshos/go-spacemesh.git
+cd go-spacemesh
+```
+
+### Install tools required for building.
+
+run 
+    ```bash
+    make install
+    ```
+    
+or get the required libs -
+* protoc (the protobuf compiler)
+* protoc-gen-go
+* protoc-gen-grpc-gateway
+* protoc-gen-swagger
+
+### building 
+
+`make build` or `go build` will output `go-spacemesh` executable.
+*NOTE*: `docker build -t spacemesh .` to build a docker image.
+
 ## Building the CLI Wallet
 
 ## Running the full p2p node
 
-- TODO: add instructions here
+```./go-spacemesh```
+
+*TODO:* write about changing important configuration
 
 ## Using the CLI Wallet
 
