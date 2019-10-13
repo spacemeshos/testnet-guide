@@ -32,7 +32,7 @@ A mesh topology combined with a novel consensus PoST protocol that allows anyone
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5BszCNLCnMP49lAl2OWX3L8GK50ngq0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Spacemesh software is designed to run on real people's home PCs and not on dedicated cloud servers or on specialized non-commodity hardware. A consensus on a distributed canonical ledger is formed by a protocol running on home PCs anywhere across the globe. The system remains secure as long as the majority of disk space committed to Spacemesh is by honest participants.
+Spacemesh software is designed to run on real people's home PCs and not on dedicated cloud servers or on specialized non-commodity hardware. A consensus on a distributed canonical ledger is formed by a protocol running on home PCs anywhere across the globe. The system remains secure as long as more than 2/3 majority of disk space committed to Spacemesh is by honest participants.
 
 > To learn more about Spacemesh, read the posts and FAQ on [https://spacemesh.io](https://spacemesh.io).
 
