@@ -14,7 +14,7 @@ If you are running a Linux distribution that doesn't support Electron then you c
 
 Follow the steps below to build the Spacemesh full node and CLI wallet directly from source code.
 
-Alternatively, you can also download a pre-build Linux full p2p node and CLI Wallet pre-build docker image and run them using Docker. Follow the steps in [this guide](docker.md). 
+Alternatively, you can also download pre-built Linux full p2p node and CLI Wallet and a pre-built docker image, and run them using Docker. Follow the steps in [this guide](docker.md). 
 
 ## Building a full p2p node
 
