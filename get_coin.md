@@ -23,7 +23,7 @@ You should see this screen:
 
 ![](images/v1.0/request_coins.png)
 
-2. Click on the `copy button` next to your `account public address` to copy it public address to the clipboard:
+2. Click on the `copy button` next to your `account public address` to copy it public address to the clipboard.
 
 3. Paste the copied address into a text chat session with the person you'd like to receive coins such in a chat app such as Whatsapp, Signal or Telegram.
 
