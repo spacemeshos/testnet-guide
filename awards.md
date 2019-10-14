@@ -37,7 +37,7 @@ In addition to the layer award described above, all full nodes who submitted at 
 The transaction fees in a layer, are evenly distributed to all the full nodes who have submitted a block in the layer.
 
 ## Tracking your Awards
-Awards are added your awards account when 5 layers have passed since a layer that you are entitled to receive an award  for.
+Awards are added your awards account when 5 layers have passed since a layer that you are entitled to receive an award for.
 
 Check your awards account transaction logs in the App to track your awards.
 
