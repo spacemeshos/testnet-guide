@@ -15,7 +15,7 @@ You will be prompted to quit the app or to switch it to run in the background. C
 ## Well Done!
 You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
 
-?> Remember to leave your computer running 24x7 to fully participate in the Spacemesh platform and to win coin awards for your contribution.
+?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and win coin awards for your contribution.
 
 ---
 
