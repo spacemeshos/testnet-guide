@@ -1,8 +1,8 @@
 # Network configuration
 
-In order to participate in the Spacemesh network and to earn mining awards your computer firewall (and in some cases your home network router) so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
+In order to participate in the Spacemesh network and to earn mining awards your computer firewall (and in some cases your home network router) needs to be configured, so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
 
-You only need to configure your network if you are planning to run a Miner and not if you plan to use the App in the custom wallet only mode.
+You only need to configure your network if you are planning to run a full p2p node and not if you plan to use the App in the custom wallet-only mode.
 
 ---
 
@@ -12,7 +12,7 @@ You need to manually permit the Spacemesh App to access the internet by opening 
 1. Navigate to Control Panel, System and Security and Windows Firewall.
 2. Select Advanced settings and highlight Inbound Rules in the left pane.
 3. Right click Inbound Rules and select New Rule.
-4. Add the port you need to open and click Next.
+4. Add the port you need to open and click Next. 
 5. Add the protocol (`TCP`) and use `7153` as the port number and click Next.
 6. Select Allow the connection in the next window and hit Next.
 7. Select the network type as you see fit and click Next.
