@@ -5,14 +5,14 @@ Follow the installer on-screen instruction and proceed to launch the app. You sh
 
 ![](../images/v1.0/welcome.png)
 
-Let's now proceed to setup a Spacemesh full p2p mode, the mining process, and a Spacemesh Coins Wallet. But first, some definitions...
+Let's now proceed to setup the Spacemesh full p2p node, the mining process, and the Spacemesh Coins Wallet. But first, some definitions.
 
 ## About the Spacemesh Wallet
-> A wallet holds one or more coin accounts. An account is identified by a long unique number such as `0x20a5...3a1f`. The wallet enables you to send and receive Spacemesh Coins and in the future, will enable you run decentralized applications. Each account has a Spacemesh coins balance which you may spend.
+> A wallet holds one or more coin accounts. An account is identified by a long unique number such as `0x20a5...3a1f`. The wallet enables you to send and receive Spacemesh Coins and in the future, will enable you to run decentralized applications. Each account has a Spacemesh coin balance which you may spend.
 
 Let's now setup a new wallet to manage your Spacemesh Coins and provide your full p2p node with a `Coins Awards Account`.
 
-> A `Coins Awards Cccount` is a wallet account you setup and use to receive Spacemesh Coins for running a Spacemesh full p2p node.
+> A `Coins Awards Account` is a wallet account you setup and use to receive Spacemesh Coins for running a Spacemesh full p2p node.
 
 When setting up a full p2p node, your wallet's main account will be used as the `Coins Awards Account` for this full node.
 
@@ -26,11 +26,11 @@ The next screen should look like this:
 
 ![](../images/v1.0/protect_wallet.png)
 
-The App prompts you to enter a password to protect access to your new wallet to your full p2p node. Proceed to choose a password (8 or more characters) and to confirm it.
+The App prompts you to enter a password to protect the access to your new wallet to your full p2p node. Proceed by choosing a password (8 or more characters) and confirming it.
 
-> You will need to use the newly created password to access your wallet after you have locked access to the App. We recommend saving the password in a password manager such as 1Password.
+> You will need to use the newly created password to access your wallet after you have locked the access to the App. We recommend saving the password in a password manager such as 1Password.
 
-> Until you backup your wallet, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed up the password has been forgotten.
+> Until you back up your wallet, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed up if the password has been forgotten.
 
 ---
 
@@ -46,9 +46,9 @@ Spacemesh is using a novel consensus protocol. Instead of constantly solving com
 
 The storage you commit to Spacemesh is attached to your identity on the Spacemesh computer. It determines your identity eligibility to submit blocks with transactions to the Spacemesh blockmesh and to receive awards for block submission. The more free disk space you commit, the more frequently you will receive Spacemesh coin awards.
 
-This setup is a one-time process that enables Spacemesh to reach consensus on a distributed ledger without using proof of work or proof of stake algorithms.
+This setup is a one-time process that enables Spacemesh to reach consensus on a distributed ledger without using proof-of-work or proof-of-stake algorithms.
 
-The free space you commit to your full node is not used to store any useful data files. It will be filled with useless cryptographic data that is only used to establish your node identity and your coin awards eligibility.
+The free space you commit to your full node is not used to store any useful data files. It will be filled with cryptographic data that is only used to establish your node identity and your coin awards eligibility.
 
 ---
 
@@ -68,9 +68,9 @@ You should now see this screen:
 
 Select the amount of free space you would like to allocate to Spacemesh and click `NEXT`.
 
-> The more storage you allocate for Spacemesh on your drive, the higher your full node coin awards will be.
+> The more storage you allocate for Spacemesh on your drive, the higher your Spacemesh Coin awards will be.
 
-> Note that for Spacemesh 0.1, the first release of the Testnet, you can only allocate a specific size of XXX GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainent, you will be able to determine how much space you would like to allocate. e.g. 250GB, 500Gb, 750GB, etc...
+> Note that for Spacemesh 0.1, the first release of the Testnet, you can only allocate a fixed-size of XXX GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainent, you will be able to determine how much space you would like to allocate. e.g. 250GB, 500Gb, 750GB, etc.
 
 You should now see this screen:
 
@@ -92,7 +92,7 @@ In order to participate in the Spacemesh network and earn mining awards you need
 Please follow the instructions in [this guide](netconfig.md).
 
 ### Disable Computer Sleep Mode
-To finish the one-time mining process and have your full node participate in the Spacemesh protocol so you can earn `Spacemesh Coins awards` **you need to make sure that your desktop computer does not go to sleep or hibernates**.
+To finish the one-time mining process and have your full node participate in the Spacemesh protocol so you can earn `Spacemesh Coins awards`, **you need to make sure that your desktop computer does not go to sleep or hibernates**.
 
 Follow [this guide](no_sleep.md) to disable sleep on your computer.
 
