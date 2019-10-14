@@ -5,13 +5,13 @@ To join the Testnet you need to run the Spacemesh App on your desktop computer.
 ## About The Spacemesh App
 The Spacemesh App includes the `Spacemesh full p2p node`, and a basic `Spacemesh Coins wallet`.
 
-- The `Spacemesh full p2p node` is the software that maintains and updates the Spacemesh distributed computer and the Spacemesh Coin distributed ledger and the Spacemesh computer storage. The Spacemesh platform is created by people just like you who run the full p2p node in the App on their desktop computers. Your node participates in the Spacemesh Protocol and you earn mining awards for your participation. The Spacemesh full p2p node is responsible for the mining process.
+- The `Spacemesh full p2p node` is the software that maintains and updates the Spacemesh distributed computer, the Spacemesh Coin distributed ledger and the allocated Spacemesh storage. The Spacemesh platform is created by people just like you who run the full p2p node in the App on their desktop computers. Your node participates in the Spacemesh Protocol and you earn mining awards for your participation. The Spacemesh full p2p node is responsible for the mining process.
 
 - The `Spacemesh Coins Wallet` is a basic wallet that you use to maintain coin accounts, execute transactions and check the status of incoming transactions initiated by other accounts.
 
-- `Spacemesh Mining` is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol. Mining is managed by your Spacemesh full p2p node. Before you can mine, you need to allocate XXXX free storage on your computer hard-drive to Spacemesh. This allocation is a one-time process that you only need to do once. You can use the disk space you allocated to Spacemesh indefinitely. You will be prompted to start mining and to configure mining when you run the Spacemesh App for the first time on your computer. You can also setup mining when running a full p2p node in console mode.
+- `Spacemesh Mining` is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol. Mining is managed by your Spacemesh full p2p node. Before you can mine, you need to allocate XXXX free storage on your computer hard-drive to Spacemesh. For continious mining, the process of allocation only happens once. That is, as long as the original disk space is allocated, you can use it for mining indefinitely. You will be prompted to start mining and to configure mining when you run the Spacemesh App for the first time on your computer. You can also setup mining when running a full p2p node in console mode.
 
-The `Spacemesh App` integrates all of these capabilities into one package which we hope you are going to find delightful and easy-to-use even without having additional technical understanding of cryptocurrency terms and concepts.
+The `Spacemesh App` integrates all of these capabilities into one package which we hope you are going to find delightful and easy to use even without having additional technical understanding of cryptocurrency terms and concepts.
 
 > You do NOT need to run any additional software to join the Testnet besides running the App on your computer.
 
@@ -74,7 +74,7 @@ We provide these installers to make it convenient for non-developers to join Spa
 
 ## Step 2 - Verify the Installer
 
-Follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a third party. Don't trust, verify!
+You can follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a third party.
 
 
 ## Step 3 - Run the Installer
