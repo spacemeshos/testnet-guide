@@ -10,6 +10,8 @@ We are happy to see you here. Please read the intro on this page to learn the ba
 
 **Don't like to read?** Watch the [Testnet Video Guide](#) instead.
 
+---
+
 ## What is Spacemesh?
 Spacemesh is a programmable cryptocurrency open-source platform powered by a novel proof-of-space-time (PoST) consensus protocol. Spacemesh does not use proof-of-stake or proof-of-work (PoW) protocols, thus it avoids some of their inherent issues, such as massive energy waste, mining pooling and centralization.
 
@@ -20,9 +22,15 @@ Spacemesh  is designed to achieve three main objectives:
 3. Establish a global programmable infrastructure for tokenized apps, communities and economies.
 
 ## What problems does Spacemesh plan to solve and how?
-1. Problem: Mining cryptocurrency today can only be done by a select few. Solution: We aim to create a world in which any interested party can mine Spacemesh cryptocurrency, which will naturally be followed by a fair distribution of coin (i.e., `The People's Coin`).
-2. Problem: Energy consumption due to PoW chains is skyrocketing. Solution: Spacemesh has improved upon PoW by creating a consensus protocol that consumes significantly less energy (i.e., `A Better Bitcoin`).
-3. Problem: Lack of satisfactory smart contracts infrastructure for creation of fair communities and decentralized financial services. Solution: we plan to add a modern smart contracts virtual machine, called Spacemesh virtual machine (SVM), a new modern smart contracts language (Smesh) and dev tools designed for developers to build applications on the Spacemesh platform.
+
+### Mining cryptocurrency today can only be done by a select few.
+We aim to create a world in which any interested party can mine Spacemesh cryptocurrency, which will naturally be followed by a fair distribution of coin (i.e., `The People's Coin`).
+
+### Energy consumption due to PoW chains is skyrocketing.
+Spacemesh has improved upon PoW by creating a consensus protocol that consumes significantly less energy (i.e., `A Better Bitcoin`).
+
+### Lack of satisfactory smart contracts infrastructure for creation of fair communities and decentralized financial services.
+We plan to add a modern smart contracts virtual machine, called Spacemesh virtual machine (SVM), a new modern smart contracts language (Smesh) and dev tools designed for developers to build applications on the Spacemesh platform.
 
 ## What makes Spacemesh unique?
 A mesh topology combined with a novel consensus PoST protocol that allows anyone to join the decentralized Spacemesh blockchain computer without requiring permission, simply by committing some free hard-drive space.
@@ -67,7 +75,5 @@ Got stuck? Need additional info? Got some cool ideas for the project?
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh).
 - Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io).
 
-## Additional Testnet Resources
-- [Build and run](build.md) a full p2p node and a CLI wallet from source code.
-- Build and run a full p2p node and a CLI wallet in a [Docker container](docker.md).
-- Read [Additional Testnet Guides](all.md).
+## Testnet Resources
+- Browse available [Testnet Guides](all.md).
