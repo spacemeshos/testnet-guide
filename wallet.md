@@ -79,7 +79,7 @@ Follow the steps in [this guide](backup.md) to back up your wallet and to restor
 
 By default your wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving coin awards for running a full node.
 
-You can add up to 256 additional accounts to your wallet.
+You can add up to 256 additional accounts to your wallet. 
 
 Each new account has its own unique public address, coin balance and a friendly display name.
 
