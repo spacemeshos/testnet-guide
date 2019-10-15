@@ -7,7 +7,7 @@ You only need to configure your network if you are planning to run a full p2p no
 ---
 
 ## Windows 10
-You need to manually permit the Spacemesh App to access the internet by opening a firewall port. You will need to know what port it uses and the protocol to make this work.
+You need to manually permit the Spacemesh App to receive connections from the internet on two network ports. Follow these instructions to configure your network.
 
 1. Navigate to Control Panel, System and Security and Windows Firewall.
 2. Select Advanced settings and highlight Inbound Rules in the left pane.
