@@ -21,7 +21,7 @@ So `Epoch 0` is the first XXX layers starting with `layer 0` and its last layer 
 
 Your eligibility to contribute blocks to a specific layer is determined by the Spacemesh protocol, and automatically executed by the App.
 
-The Spacemesh protocol guarantees that you will be eligible to submit at least one block in at least one layer in each and every epoch.
+The Spacemesh protocol guarantees that you will be eligible to submit at least one block in at least one layer in each and every epoch, once you have completed setting up your full Node and as long as your App is running.
 
 ## Layer Awards
 Each layer has a total award of 1 Spacemesh Coins. This award is distributed to the awards account of each miner who contributed at least one block to that layer.
@@ -49,4 +49,4 @@ TODO: add screen shot....
 
 - The transaction fees of transactions included in a layer are evenly distributed between all full nodes who contributed a block to that layer.
 
-- Full nodes who submit blocks with less than 15 transactions award is reduced. The penalty is shared between all full nodes who submitted nodes with more than 15 transactions in that layer.
+- Full nodes who submit blocks with less than 15 transactions award is reduced. The penalty is shared between all full nodes who submitted blocks in that layer.
