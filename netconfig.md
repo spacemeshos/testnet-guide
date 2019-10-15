@@ -7,17 +7,33 @@ You only need to configure your network if you are planning to run a full p2p no
 ---
 
 ## Windows 10
-You need to manually permit the Spacemesh App to receive connections from the internet on two network ports. Follow these instructions to configure your network.
+You need to manually permit the Spacemesh App to receive connections from the internet on TCP port 7153 and on UDP port 7153.
 
-1. Navigate to Control Panel, System and Security and Windows Firewall.
-2. Select Advanced settings and highlight Inbound Rules in the left pane.
-3. Right click Inbound Rules and select `New Rule...`.
-4. Select `PORT` when asked for the new rule type.
-5. Select `TCP` and, enter `7153` for the local port number and click `Next`.
-6. Select `Allow the connection` in the next window and click `Next`.
-7. Don't change the default options in the `Apply Rule` screen and click `Next`.
-8. Name the rule `Spacemesh TCP` and click Finish.
-9. Repeat these steps but in step 4 select `UDP` instead of `TCP` and in step 8 name the rule `Spacemesh UDP`.
+> Follow these instructions to configure incoming connections rules for these two ports.
+
+### TCP Port 7153 Rule
+
+1. Open the `Control Panel`.
+2. Click `System and Security` and click `Windows Defender Firewall`.
+3. Click `Advanced settings`.
+4. Right click Inbound Rules and select `New Rule...`.
+5. Select `PORT` when asked for the new rule type.
+6. Select `TCP` and, enter `7153` for the local port number and click `Next`.
+7. Select `Allow the connection` in the next window and click `Next`.
+8. Don't change the default options in the `Apply Rule` screen and click `Next`.
+9. Name the rule `Spacemesh TCP` and click Finish.
+
+
+### UDP Port 7153 Rule
+1. Open the `Control Panel`.
+2. Click `System and Security` and click `Windows Defender Firewall`.
+3. Click `Advanced settings`.
+4. Right click Inbound Rules and select `New Rule...`.
+5. Select `PORT` when asked for the new rule type.
+6. Select `UDP` and, enter `7153` for the local port number and click `Next`.
+7. Select `Allow the connection` in the next window and click `Next`.
+8. Don't change the default options in the `Apply Rule` screen and click `Next`.
+9. Name the rule `Spacemesh UDP` and click Finish.
 
 This guide is based on the nice guide from [Tomshardware.com](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html).
 
