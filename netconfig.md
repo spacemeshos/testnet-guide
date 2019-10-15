@@ -17,7 +17,7 @@ You need to manually permit the Spacemesh App to receive connections from the in
 2. Click `System and Security` and click `Windows Defender Firewall`.
 3. Click `Advanced settings`.
 4. Right click Inbound Rules and select `New Rule...`.
-5. Select `PORT` when asked for the new rule type.
+5. Select `Port` for the new rule type.
 6. Select `TCP` and, enter `7153` for the local port number and click `Next`.
 7. Select `Allow the connection` in the next window and click `Next`.
 8. Don't change the default options in the `Apply Rule` screen and click `Next`.
@@ -25,11 +25,12 @@ You need to manually permit the Spacemesh App to receive connections from the in
 
 
 ### UDP Port 7153 Rule
+
 1. Open the `Control Panel`.
 2. Click `System and Security` and click `Windows Defender Firewall`.
 3. Click `Advanced settings`.
 4. Right click Inbound Rules and select `New Rule...`.
-5. Select `PORT` when asked for the new rule type.
+5. Select `Port` for the new rule type.
 6. Select `UDP` and, enter `7153` for the local port number and click `Next`.
 7. Select `Allow the connection` in the next window and click `Next`.
 8. Don't change the default options in the `Apply Rule` screen and click `Next`.

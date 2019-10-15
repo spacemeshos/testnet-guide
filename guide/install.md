@@ -3,19 +3,23 @@
 To join the Testnet you need to run the Spacemesh App on your desktop computer.
 
 ## About The Spacemesh App
-The Spacemesh App includes the `Spacemesh full p2p node`, and a basic `Spacemesh Coins wallet`.
+The Spacemesh App includes the `Spacemesh p2p Node`, and a basic `Spacemesh Coins Wallet`.
 
-- The `Spacemesh full p2p node` is the software that maintains and updates the Spacemesh distributed computer, the Spacemesh Coin distributed ledger and the allocated Spacemesh storage. The Spacemesh platform is created by people just like you who run the full p2p node in the App on their desktop computers. Your node participates in the Spacemesh Protocol and you earn mining awards for your participation. The Spacemesh full p2p node is responsible for the mining process.
+- The `Spacemesh p2p Node` (aka Node) is the software that maintains and updates the Spacemesh distributed computer, the Spacemesh Coin distributed ledger and the allocated Spacemesh storage. The Spacemesh platform is created by people just like you who run a Node on their desktop computers. Your Node participates in the Spacemesh Protocol and you earn mining awards for your participation. The Node is responsible for the mining process.
 
 - The `Spacemesh Coins Wallet` is a basic wallet that you use to maintain coin accounts, execute transactions and check the status of incoming transactions initiated by other accounts.
 
-- `Spacemesh Mining` is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol. Mining is managed by your Spacemesh full p2p node. Before you can mine, you need to allocate XXXX free storage on your computer hard-drive to Spacemesh. For continious mining, the process of allocation only happens once. That is, as long as the original disk space is allocated, you can use it for mining indefinitely. You will be prompted to start mining and to configure mining when you run the Spacemesh App for the first time on your computer. You can also setup mining when running a full p2p node in console mode.
+- `Spacemesh Mining` is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol.
+
+Mining is managed by your Node. Before you can mine, you need to allocate XXXX free storage on your computer hard-drive to Spacemesh. For continuous mining, the process of allocation only happens once.
+
+That is, as long as the original disk space is allocated, you can use it for mining indefinitely. You will be prompted to start mining and to configure mining when you run the Spacemesh App for the first time on your computer. You can also setup mining when running a Node in console mode.
 
 The `Spacemesh App` integrates all of these capabilities into one package which we hope you are going to find delightful and easy to use even without having additional technical understanding of cryptocurrency terms and concepts.
 
 > You do NOT need to run any additional software to join the Testnet besides running the App on your computer.
 
-You install the Spacemesh App to setup mining and to run the full p2p node. You then use the wallet to setup an award account for your full node and to perform basic Spacemesh Coin transactions.
+You install the Spacemesh App to setup mining and to run a Node. You then use the Wallet to setup an award account for your Node and to perform basic Spacemesh Coin transactions.
 
 Follow the instructions on this page to download, install and run the Spacemesh App.
 
@@ -24,7 +28,7 @@ Follow the instructions on this page to download, install and run the Spacemesh 
 
 > Before installing, please confirm that your computer meets the [minimum system requirements](requirements.md).
 
-Next download the App installer for your OS using on of the links below:
+Next download the App Installer for your OS using on of the links below:
 
 ### OS X
 
@@ -64,11 +68,11 @@ Next download the App installer for your OS using on of the links below:
 
 All software released by Spacemesh is 100% open source.
 
-The installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github.
+The Installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github.
 
 We provide these installers to make it convenient for non-developers to join Spacemesh.
 
-> If you prefer and are technically able, you can build and run a full p2p node and a CLI wallet [directly from source code](build.md) instead of using our provided installer.
+> If you prefer and are technically able, you can build and run a Node and a CLI Wallet [directly from source code](build.md) instead of using our provided Installer.
 
 ---
 
