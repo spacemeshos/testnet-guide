@@ -40,7 +40,7 @@ Next download the App installer for your OS using on of the links below:
 
 ### Debian Linux
 
-?> Debian 8 or newer is supported
+?> Debian 8 or newer is supported.
 
 [SPACEMESH_DEB_INSTALLER](deb_installer)
 
@@ -48,7 +48,7 @@ Next download the App installer for your OS using on of the links below:
 
 ### Ubuntu or Fedora Linux
 
-?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported
+?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported.
 
 [SPACEMESH_UBUNTU_INSTALLER](AppImage_installer)
 
