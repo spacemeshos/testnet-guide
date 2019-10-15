@@ -11,15 +11,15 @@ You need to manually permit the Spacemesh App to access the internet by opening 
 
 1. Navigate to Control Panel, System and Security and Windows Firewall.
 2. Select Advanced settings and highlight Inbound Rules in the left pane.
-3. Right click Inbound Rules and select New Rule.
-4. Add the port you need to open and click Next. 
-5. Add the protocol (`TCP`) and use `7153` as the port number and click Next.
-6. Select Allow the connection in the next window and hit Next.
-7. Select the network type as you see fit and click Next.
-8. Name the rule something meaningful and click Finish.
-9. Repeat these steps but in step 6 select `UDP` instead of `TCP`.
+3. Right click Inbound Rules and select `New Rule...`.
+4. Select `PORT` when asked for the new rule type.
+5. Select `TCP` and, enter `7153` for the local port number and click `Next`.
+6. Select `Allow the connection` in the next window and click `Next`.
+7. Don't change the default options in the `Apply Rule` screen and click `Next`.
+8. Name the rule `Spacemesh TCP` and click Finish.
+9. Repeat these steps but in step 4 select `UDP` instead of `TCP` and in step 8 name the rule `Spacemesh UDP`.
 
-This guide is based on the nice guide from [Tomshardware.com](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html)
+This guide is based on the nice guide from [Tomshardware.com](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html).
 
 ---
 
