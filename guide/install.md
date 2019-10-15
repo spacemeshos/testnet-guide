@@ -70,20 +70,20 @@ All software released by Spacemesh is 100% open source.
 
 The Installer you are downloading was packaged from code in the [Spacemesh open source software repos](https://github.com/spacemeshos) on github.
 
-We provide these installers to make it convenient for non-developers to join Spacemesh.
+We provide these Installers to make it convenient for non-developers to join Spacemesh.
 
 > If you prefer and are technically able, you can build and run a Node and a CLI Wallet [directly from source code](build.md) instead of using our provided Installer.
 
 ---
 
-## Step 2 - Verify the Installer
+## Step 2 (optional) - Verify the Installer
 
-You can follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a third party.
+You may follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a third party.
 
 
 ## Step 3 - Run the Installer
 
-Next, **locate the installer you downloaded and double-click it** to install the Spacemesh App.
+Next, **locate the Installer you downloaded and double-click it** to install the Spacemesh App.
 
 Follow the on-screen installation instructions. When complete, the `Spacemesh App` should be available in your Apps.
 
