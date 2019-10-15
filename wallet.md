@@ -20,7 +20,7 @@ Enter your Wallet password to unlock access to your wallet.
 
 The Wallet data is loaded from the wallet file to the App and is decrypted using your provided password.
 
-> IMPORTANT: you will lose access to your wallet if you forget your password. For this reason, we recommend that you create a `12-words backup` as soon as possible. See [Wallet Backup](backup.md).
+> IMPORTANT: you will lose access to your wallet if you forget your password. For this reason, we recommend that you create a `12-word backup` as soon as possible. See [Wallet Backup](backup.md).
 
 
 ## Checking your Spacemesh Coin Balance
