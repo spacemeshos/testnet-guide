@@ -8,7 +8,7 @@ Follow the installer on-screen instruction and proceed to launch the app. You sh
 Let's now proceed to setup the Spacemesh full p2p node, the mining process, and the Spacemesh Coins Wallet. But first, some definitions.
 
 ## About the Spacemesh Wallet
-> A wallet holds one or more coin accounts. An account is identified by a long unique number such as `0x20a5...3a1f`. The wallet enables you to send and receive Spacemesh Coins and in the future, will enable you to run decentralized applications. Each account has a Spacemesh coin balance which you may spend.
+> A wallet holds one or more coin accounts. An account is identified by a long unique number such as `0x20a5...3a1f`. The wallet enables you to send and receive Spacemesh Coins and in the future, will enable you to run decentralized applications. Each account has a Spacemesh coin balance. You can send coins from your account up to your coin balance.
 
 Let's now setup a new wallet to manage your Spacemesh Coins and provide your full p2p node with a `Coins Awards Account`.
 
@@ -30,7 +30,7 @@ The App prompts you to enter a password to protect the access to your new wallet
 
 > You will need to use the newly created password to access your wallet after you have locked the access to the App. We recommend saving the password in a password manager such as 1Password.
 
-> Until you back up your wallet, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed up if the password has been forgotten.
+> Until you back up your wallet using the 12 words backup method, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed up if the password has been forgotten.
 
 ---
 
