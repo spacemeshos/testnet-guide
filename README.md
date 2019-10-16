@@ -1,4 +1,4 @@
-# Spacemesh Testnet Guide
+# Testnet Guide - Spacemesh 0.1 Release
 
 This repo contains the content for Spacemesh Testnet Guide.
 The guide is going to be available at https://testnet.spacemesh.io.
