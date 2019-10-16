@@ -6,9 +6,9 @@ Follow these steps to get Spacemesh Coins to your account.
 
 1. Open the Wallet screen in the Spacemesh App and copy your account public address to the clipboard.
 
-2. Join the Spacemesh Tap Channel on Discord by clicking on this invite url: [https://discord.gg/ASpy52C](https://discord.gg/ASpy52C)
+2. Join the Spacemesh Tap Channel on Discord by clicking on this invite url: [https://discord.gg/ASpy52C](https://discord.gg/ASpy52C).
 
-3. After joining to the channel, post the account address you copied to the channel
+3. After joining to the channel, post the account address you copied to the channel.
 
 Please allow for up to 20 minutes for the transaction to appear in your account transaction log and your SMC balance to be updated.
 

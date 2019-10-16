@@ -8,13 +8,13 @@ You can build the Spacemesh Full Node and CLI wallet directly from source code, 
 
 The Spacemesh App which includes the full p2p node and a wallet is supported on any Linux distro that supports [Electron Apps](https://electronjs.org/docs/tutorial/support).
 
-If you are running a Linux that doesn't support Electron than you can build and run a full p2p node and a CLI wallet.
+If you are running a Linux distribution that doesn't support Electron then you need to build and run a full p2p node and a CLI wallet.
 
 --
 
 Follow the steps below to build the Spacemesh full node and CLI wallet directly from source code.
 
-Alternatively, you can also download a pre-build Linux full p2p node and CLI Wallet pre-build docker image and run them using Docker. Follow the steps in [this guide](docker.md).
+Alternatively, you can also download pre-built Linux full p2p node and CLI Wallet and a pre-built docker image, and run them using Docker. Follow the steps in [this guide](docker.md). 
 
 ## Building a full p2p node
 
@@ -31,9 +31,9 @@ cd go-spacemesh
 ### Install tools required for building.
 
 run 
-    ```bash
-    make install
-    ```
+```bash
+make install
+```
     
 or get the required libs -
 * protoc (the protobuf compiler)
@@ -41,7 +41,7 @@ or get the required libs -
 * protoc-gen-grpc-gateway
 * protoc-gen-swagger
 
-### building 
+### Building 
 
 `make build` or `go build` will output `go-spacemesh` executable.
 *NOTE*: `docker build -t spacemesh .` to build a docker image.

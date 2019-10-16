@@ -1,25 +1,42 @@
 # Network configuration
 
-In order to participate in the Spacemesh network and to earn mining awards your computer firewall (and in some cases your home network router) so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
+In order to participate in the Spacemesh network and to earn mining awards your computer firewall (and in some cases your home network router) needs to be configured, so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
 
-You only need to configure your network if you are planning to run a Miner and not if you plan to use the App in the custom wallet only mode.
+You only need to configure your network if you are planning to run a full p2p node and not if you plan to use the App in the custom wallet-only mode.
 
 ---
 
 ## Windows 10
-You need to manually permit the Spacemesh App to access the internet by opening a firewall port. You will need to know what port it uses and the protocol to make this work.
+You need to manually permit the Spacemesh App to receive connections from the internet on TCP port 7153 and on UDP port 7153.
 
-1. Navigate to Control Panel, System and Security and Windows Firewall.
-2. Select Advanced settings and highlight Inbound Rules in the left pane.
-3. Right click Inbound Rules and select New Rule.
-4. Add the port you need to open and click Next.
-5. Add the protocol (`TCP`) and use `7153` as the port number and click Next.
-6. Select Allow the connection in the next window and hit Next.
-7. Select the network type as you see fit and click Next.
-8. Name the rule something meaningful and click Finish.
-9. Repeat these steps but in step 6 select `UDP` instead of `TCP`.
+> Follow these instructions to configure incoming connections rules for these two ports.
 
-This guide is based on the nice guide from [Tomshardware.com](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html)
+### TCP Port 7153 Rule
+
+1. Open the `Control Panel`.
+2. Click `System and Security` and click `Windows Defender Firewall`.
+3. Click `Advanced settings`.
+4. Right click Inbound Rules and select `New Rule...`.
+5. Select `Port` for the new rule type.
+6. Select `TCP` and, enter `7153` for the local port number and click `Next`.
+7. Select `Allow the connection` in the next window and click `Next`.
+8. Don't change the default options in the `Apply Rule` screen and click `Next`.
+9. Name the rule `Spacemesh TCP` and click Finish.
+
+
+### UDP Port 7153 Rule
+
+1. Open the `Control Panel`.
+2. Click `System and Security` and click `Windows Defender Firewall`.
+3. Click `Advanced settings`.
+4. Right click Inbound Rules and select `New Rule...`.
+5. Select `Port` for the new rule type.
+6. Select `UDP` and, enter `7153` for the local port number and click `Next`.
+7. Select `Allow the connection` in the next window and click `Next`.
+8. Don't change the default options in the `Apply Rule` screen and click `Next`.
+9. Name the rule `Spacemesh UDP` and click Finish.
+
+This guide is based on the nice guide from [Tomshardware.com](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html).
 
 ---
 

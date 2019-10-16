@@ -18,7 +18,7 @@ You should see the Send SMC screen:
 
 ![](images/v1.0/send_smc_tx_1.png)
 
-4. Click `NEXT`
+4. Click `NEXT`.
 
 Review the transaction information in the summary screen:
 
@@ -30,7 +30,7 @@ You should now see this screen:
 
 ![](images/v1.0/send_smc_tx_sent.png)
 
-6. Click on 'DONE'
+6. Click on 'DONE'.
 
 Congratulations! You have just sent some Spacemesh Coins (SMC) to a recipient.
 

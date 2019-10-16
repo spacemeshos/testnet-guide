@@ -1,6 +1,6 @@
 # Installer Verification
 
-Follow the steps to verify the integrity and authenticity of the Spacemesh downloadable installer for your platform.
+Follow the steps below to verify the integrity and authenticity of the Spacemesh downloadable installer for your platform.
 
 ### OS X
 
