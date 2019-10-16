@@ -19,7 +19,7 @@ An `epoch` is a fixed number of layers. Each Testnet epoch has XXX layers.
 
 So `Epoch 0` is the first XXX layers starting with `layer 0` and its last layer is `layer XXX-1`, and `Epoch 1` start in `Layer XXX` and ends with `Layer 2xXXX-1`.
 
-Your eligibility to contribute blocks to a specific layer is determined by the Spacemesh protocol, and automatically executed by the App.
+Your eligibility to contribute blocks to a specific layer is determined by the Spacemesh protocol, and automatically executed by the App (as long as you haven't configured your Node to stop producing blocks).
 
 The Spacemesh protocol guarantees that you will be eligible to submit at least one block in at least one layer in each and every epoch, once you have completed setting up your full Node and as long as your App is running.
 
