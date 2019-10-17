@@ -16,7 +16,7 @@
 ## Additional resources
 - [About Smesh coins](smc.md)
 - [About Coin Awards](awards.md)
-- [Release Highlights](spacemesh0.1md)
+- [Release Highlights](spacemesh0.1.md)
 - [Testnet FAQ](https://spacemesh.io/faq/)
 - [Testnet System Requirements](requirements.md)
 - [Getting ready for Mainnet](mainnet.md)
