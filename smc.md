@@ -7,9 +7,11 @@
 
 - `Smesh` (SMCH) - 10^18 Smetoshis.
 
-- `Smidgen` - 10^15 Smetoshis. 1,000 Smidgen equal to one Smesh. 
+- `Smidgen` - 10^15 Smetoshis. 1,000 Smidgens are one Smesh.
 
 - `Smetoshi` - The basic unit of accounting in the Spacemesh platform. Used mostly by developers in smart contracts code and by users and for transaction fees.
+
+---
 
 ## Additional Accounting Units
 
