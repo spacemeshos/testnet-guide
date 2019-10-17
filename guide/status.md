@@ -11,7 +11,6 @@ This screen is where you will track your Node operation, and view your total blo
 You can also pause (or un-pause) your Node by clicking on the `PAUSE NODE` button.
 
 
-
 Click the close button in the App main Window.
 
 You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that your node will keep running and produce blocks.

@@ -51,12 +51,17 @@ The Spacemesh Testnet is a public beta release of the Spacemesh p2p software pla
 
 The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is ``monopoly money'' without any real world value.
 
+## What is Spacemesh 0.1 ?
+Spacemesh 0.1 is the name of the first release of the Testnet. Everything described in this guide is about this release. We are releasing capabilities that we believe are ready for testing. We have much more in the pipeline and we plan to release updates to the Testnet throughout 2020. This guide will be updated as we release new Testnet features.
+
 ## Why should I join the Spacemesh Testnet?
-Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Spacemesh Coin` (SMC) cryptocurrency. It also helps you to prepare for participating in the Spacemesh Mainnet once it is launched. You earn Spacemesh Coins validation awards for your participation.
+Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Spacemesh Coin` (SMC) cryptocurrency. Spacemesh is a decentralized ledger designed to be formed from a large number of home desktop PC owners who run the Spacemesh software on their PCs. To test such a network we need a large number of block producers to join the Testnet in addition to the close Testnets which we have been running.
 
-> Bottom line: if you care about Spacemesh and plan to participate in the Mainnet, you will benefit by joinning the Testnet.
+Joining also helps you to prepare for participating in the Spacemesh Mainnet once it is launched.
 
-In the true spirit of cryptoeconomy, we have launched this Testnet so that anyone can verify (rather than blindly trust) the 3 main promises we make:
+> Bottom line: if you care about Spacemesh and plan to participate in the Mainnet, you will benefit by joining the Testnet.
+
+In the true spirit of crypto-economy, we have launched this Testnet so that anyone can verify (rather than blindly trust) the 3 main promises we make:
 1. The core technology and product work.
 2. Participants don't have to do anything after the initial setup to run a Spacemesh full node.
 3. Participants can their your computer normally while running a Spacemesh full node.
