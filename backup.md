@@ -4,7 +4,7 @@ The are two ways to back up your wallet, `File Backup` and `12-word Backup`.
 
 We recommend you to use the more secure and robust `12-word Backup`.
 
-You will be prompted to backup your wallet until you backup it in the wallet main screen:
+You will be prompted to back up your wallet until you back up it in the wallet main screen:
 
 ![](images/v1.0/wallet_screen.png)
 
@@ -14,7 +14,7 @@ A file backup allows you to restore you wallet using a backup file and your pass
 
 File backup is useful for restoring access to your wallet on another computer, or in case that your wallet data file is corrupted or accidentally deleted.
 
-> We recommend you will also backup your wallet using the `12-words Backup` method because it enables you to restore your wallet even if you lose your wallet data file or if you forget your password.
+> We recommend you will also back up your wallet using the `12-word Backup` method because it enables you to restore your wallet even if you lose your wallet data file or if you forget your password.
 
 
 1. Click the `BACKUP YOUR WALLET` in the wallet screen or click 'BACKUP' in the wallet settings section of the settings screen.
@@ -45,15 +45,15 @@ A file browser will open up displaying where the backup file is stored on your h
 
 ---
 
-## 12 Words Backup
+## 12-word Backup
 
-The 12 words backup method allows you to print or write down on a paper an ordered list of 12 English words that you need to store in a safe place.
+The 12-word-backup method allows you to print or write down on a paper an ordered list of 12 English words that you need to store in a safe place.
 
-You can at any time restore your wallet on any computer using the list without having to remember you wallet password or to have access to your wallet data file.
+You can at any time restore your wallet on any computer using this list without having to remember you wallet password or to have access to your wallet data file.
 
 !> The order of the words in the list is important and you will need to provide the words in the same order when restoring a wallet from the list.
 
-Follow these steps to create a 12 words backup:
+Follow these steps to create a 12-word backup:
 
 
 1. Click the `BACKUP YOUR WALLET` in the wallet screen or click 'BACKUP' in the wallet settings section of the settings screen.
@@ -63,7 +63,7 @@ You should see this screen:
 ![](images/v1.0/backup_main_screen.png)
 
 
-1. Click the `12 WORDS BACKUP` button.
+2. Click the `12 WORDS BACKUP` button.
 
 You should now see a screen with an ordered list of 12 words:
 
@@ -89,13 +89,13 @@ You will now verify that you have access to the printed words list. The confirma
 
 4. Drag the 4 words displayed in the screen to their proper place in the list.
 
-For example, if the word `impose` is word number 8 in the words list, then drag the word `impose` to slot number 8 in the empty list on the screen.
+For example, if the word `guard` is word number 10 in the words list, then drag the word `guard` to slot number 10 in the empty list on the screen.
 
 After dragging the 4 words to their correct location in the list you should see this screen with the confirmation message at the bottom-right side of the screen:
 
 ![](images/v1.0/wallet_12_words_done.png)
 
-5. Click 'DONE'
+5. Click 'DONE'.
 
 ----
 
