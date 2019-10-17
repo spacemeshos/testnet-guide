@@ -1,6 +1,6 @@
-# Setup Wallet + Mining
+# Setting Up your Wallet and Node
 
-## Step 1 - Wallet Setup
+## Step 1 - Setting up your Wallet
 Follow the installer on-screen instruction and proceed to launch the app.
 
 You should now see this welcome screen:
@@ -39,7 +39,7 @@ Click `NEXT`. You should now see this screen:
 ![](../images/v1.0/protect_wallet_confirmed.png)
 
 
-## Step 2 - Node Setup
+## Step 2 - Setting Up Your Node
 
 ## About Spacemesh Block Producing
 
@@ -85,7 +85,7 @@ Click `GOT IT`.
 
 ---
 
-## Step 3 - Desktop Computer Configuration
+## Step 3 - Configuring your Computer
 
 ### Configure your Network
 In order to participate in the Spacemesh network and earn mining awards you need to configure your computer firewall (and in some cases your home network router) to enable Spacemesh App to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
@@ -93,10 +93,10 @@ In order to participate in the Spacemesh network and earn mining awards you need
 Please follow the instructions in [this guide](netconfig.md).
 
 ### Disable Computer Sleep Mode
-To finish the one-time mining process and have your full node participate in the Spacemesh protocol so you can earn `Spacemesh Coins awards`, **you need to make sure that your desktop computer does not go to sleep or hibernates**.
+To finish the one-time mining process and have your Node participate in the Spacemesh protocol so you can earn `Spacemesh Coins awards`, **you need to make sure that your desktop computer does not go to sleep or hibernates**.
 
 Follow [this guide](no_sleep.md) to disable sleep on your computer.
 
 
 ## Next...
-You are almost done! You are now ready to check your [Full Node Status](guide/status.md).
+You are almost done! You are now ready to check your [Node Status](guide/status.md).

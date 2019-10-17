@@ -1,4 +1,4 @@
-# Installing and Running the Spacemesh App
+# Installing and Running the App
 
 To join the Testnet you need to run the Spacemesh App on your desktop computer.
 
@@ -27,7 +27,7 @@ The App integrates a Node and a Wallet  into one package which we hope you are g
 
 Follow the instructions on this page to download, install and run the App.
 
-## Step 1 - Download the App Installer
+## Step 1 - Downloading the Installer
 
 > Before installing, please confirm that your computer meets the [minimum system requirements](requirements.md).
 
@@ -72,12 +72,12 @@ Next download the App Installer for your OS using on of the links below:
 > All software released by Spacemesh is 100% open source. The App Installer you are downloading was packaged from code in the [Spacemesh Open Source Software Repos](https://github.com/spacemeshos) on github. We provide the Installer to make it convenient for non-developers to join the Spacemesh testnet.
 
 
-## Step 2 Verify the Installer (optional)
+## Step 2 Verifying the Installer (optional)
 
 Follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and not has not been modified by a third party.
 
 
-## Step 3 - Run the Installer
+## Step 3 - Installing the App
 
 Next, **locate the Installer you downloaded and double-click it** to install the App.
 
