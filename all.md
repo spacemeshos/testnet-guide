@@ -15,11 +15,11 @@
 
 ## Additional resources
 - [About Smesh coins](smc.md)
+- [About Coin Awards](awards.md)
 - [Testnet FAQ](https://spacemesh.io/faq/)
 - [Testnet System Requirements](requirements.md)
 - [Getting ready for Mainnet](mainnet.md)
 - [Spacemesh Terms Dictionary](dict.md)
-- [About Coin Awards](awards.md)
 
 ## Legal resources
 - [Disclaimer](disclaimer.md)
