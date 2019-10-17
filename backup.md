@@ -71,7 +71,7 @@ You should now see a screen with an ordered list of 12 words:
 
 Follow one or more of these steps:
 
-- Write down the 12 words with a pen on a paper. Write the number next to each word.
+- Write down the 12 words with a pen on a paper. Write the number next to each word. 
 
 - Click 'PRINT' and print the list using your printer.
 
