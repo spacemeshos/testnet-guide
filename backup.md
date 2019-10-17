@@ -121,19 +121,19 @@ You should see a screen similar to this:
 
 3. Drag and drop the wallet backup file you have previously created into the big rectangle area in the screen or click on `Locate backup file` and locate your wallet backup file.
 
-4. Click `RESTORE`
+4. Click `RESTORE`.
 
 5. Enter your wallet password when prompted in the unlock wallet screen:
 
 ![](images/v1.0/unlock_wallet.png)
 
-> Forgot your wallet password? The only way to restore it is using a 12 words backup.
+> Forgot your wallet password? The only way to restore it is using a 12-word backup.
 
 Congratulations! your wallet is now restored from the backup file.
 
 ---
 
-### Restoring from a 12 words list
+### Restoring from a 12-word list
 
 1. Open the App and when click `RESTORE WALLET` button:
 
@@ -162,6 +162,6 @@ You should now see the restore screen:
 
 ![](images/v1.0/protect_wallet.png)
 
-6. Click 'NEXT'
+6. Click 'NEXT'.
 
-Congratulations! your wallet is now restored from your 12 words backup.
+Congratulations! your wallet is now restored from your 12-word backup.
