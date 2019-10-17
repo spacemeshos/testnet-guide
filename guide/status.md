@@ -1,19 +1,27 @@
-# Mining
+# Checking Node Status
 
-Open the App if it is not already open and click on the `MINING` tab on the top-left of the main window.
+Open the App if it is not already open and click on the `NODE` tab on the top-left of the main window.
 
-You should now see the mining status screen:
+You should now see the Node status screen:
 
 ![](../images/v1.0/miner_running.png)
 
-This screen is where you will track your full node operation and check your full node participation coin awards. You can also pause (or unpause) your full node by clicking on the `PAUSE MINING` button.
+This screen is where you will track your Node operation, and view your total block producing coin awards.
+
+You can also pause (or un-pause) your Node by clicking on the `PAUSE NODE` button.
+
+
 
 Click the close button in the App main Window.
 
-You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that mining will keep running.
+You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that your node will keep running and produce blocks.
 
 ## Well Done!
-You did it - you are now up and running a Spacemesh full node, and you will start receiving coin awards for contributing to the Spacemesh platform.
+You did it - you are now up and running a Node, and you will start receiving coin awards for producing blocks to the Spacemesh platform.
+
+
+## Awards Expectancy
+If you have committed storage and leave your app running 24x7 and your network is [properly configured](../netconfig.md) then you should expect your first block producing award in about 49 hours.
 
 ?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and win coin awards for your contribution.
 
@@ -23,12 +31,10 @@ You did it - you are now up and running a Spacemesh full node, and you will star
 
 Follow these guides to become a Spacemesh maestro:
 
-- Learn more about [Spacemesh coin awards](../awards.md).
-- [View your mining awards and transactions status](wallet_logs.md).
-- [Pay someone](send_coin.md) with Spacemesh coins.
-- [Get paid](get_coin.md) with Spacemesh coins.
-
-- Can't wait for your award? [Get some Testnet coins](tap.md) from our chat bot.
+- Learn more about [Coin Awards](../awards.md).
+- [View awards details](wallet_logs.md).
+- [Pay someone](send_coin.md) with Smesh coins.
+- [Get paid](get_coin.md) with Smesh coins.
 
 ## Join our Community
 Stuck? Needs additional info? Got some cool ideas for the project?

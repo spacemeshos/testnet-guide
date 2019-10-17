@@ -67,7 +67,7 @@ You should now see this screen:
 
 ![](../images/v1.0/miner_setup_size.png)
 
-Select the amount of free space you would like to allocate to Spacemesh and click `NEXT`.
+Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
 
 > The more storage you allocate for Spacemesh on your drive, the higher your Spacemesh Coin awards will be.
 

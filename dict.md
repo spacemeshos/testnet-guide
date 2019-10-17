@@ -25,6 +25,9 @@ Each account is identified by one unique `public address`. An address is display
 ## App
 The App integrates the  Wallet, a node and the block producing process into one package which we hope you are going to find delightful and easy to use even without deep technical understanding of cryptocurrency terms and concepts. The App is available for Windows 10, OS X and Linux. (TODO: add sys requirements page link)
 
+## Free Disk Space Commitment
+Explain here...
+
 ## Block Producing
 Block producing is the process of submitting blocks with transactions to the Testnet network, and participating in the Spacemesh consensus protocol by your Node. Before you can produce any blocks, you need to allocate XXXX free storage on your computer hard-drive to Spacemesh. This allocation is a one-time process that you only need to do once. You can use the disk space you allocated to Spacemesh indefinitely.
 
