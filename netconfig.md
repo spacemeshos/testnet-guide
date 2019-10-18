@@ -13,26 +13,26 @@ You need to manually permit the Spacemesh App to receive connections from the in
 
 ### TCP Port 7153 Rule
 
-1. Open the `Control Panel`.
-2. Click `System and Security` and click `Windows Defender Firewall`.
-3. Click `Advanced settings`.
-4. Right click Inbound Rules and select `New Rule...`.
-5. Select `Port` for the new rule type.
-6. Select `TCP` and, enter `7153` for the local port number and click `Next`.
-7. Select `Allow the connection` in the next window and click `Next`.
+1. Type `Firewall` in your Windows task bar search box.
+2. Open the `Windows Defender Firewall` app from the search results.
+3. Click on `Advanced settings`.
+4. Right-click `Inbound Rules` and select `New Rule...`.
+5. Select `Port` for the new rule type and click `Next`.
+6. Select `TCP` and, enter `7153` in the `Specific local ports` text box click `Next`.
+7. Select `Allow the connection` in the next screen and click `Next`.
 8. Don't change the default options in the `Apply Rule` screen and click `Next`.
 9. Name the rule `Spacemesh TCP` and click Finish.
 
 
 ### UDP Port 7153 Rule
 
-1. Open the `Control Panel`.
-2. Click `System and Security` and click `Windows Defender Firewall`.
-3. Click `Advanced settings`.
-4. Right click Inbound Rules and select `New Rule...`.
-5. Select `Port` for the new rule type.
-6. Select `UDP` and, enter `7153` for the local port number and click `Next`.
-7. Select `Allow the connection` in the next window and click `Next`.
+1. Type `Firewall` in your Windows task bar search box.
+2. Open the `Windows Defender Firewall` app from the search results.
+3. Click on `Advanced settings`.
+4. Right-click `Inbound Rules` and select `New Rule...`.
+5. Select `Port` for the new rule type and click `Next`.
+6. Select `UDP` and, enter `7153` in the `Specific local ports` text box click `Next`.
+7. Select `Allow the connection` in the next screen and click `Next`.
 8. Don't change the default options in the `Apply Rule` screen and click `Next`.
 9. Name the rule `Spacemesh UDP` and click Finish.
 
