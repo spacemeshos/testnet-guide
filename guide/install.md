@@ -7,7 +7,7 @@ To join the Testnet you need to run the Spacemesh App on your desktop computer.
 The Spacemesh App (aka The App) includes a Spacemesh full p2p Node which we call `the Node`, and a basic Smesh coins Wallet which we call `the Wallet`.
 
 ### Node
-The Node is the software that creates and updates the [Smesh coins](../smc.md) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you who run a Node on their own desktop computers.
+The Node is the software that creates and updates the [Smesh coins](../coins.md) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you who run a Node on their own desktop computers.
 
 Your Node participates in the Spacemesh decentralized consensus Protocol and is responsible for the block producing process. Block Producing is the process of submitting blocks with transactions to the Testnet network. You earn block producing awards for submitting blocks with transactions to the Testnet network according to the rules of the Spacemesh protocol.
 

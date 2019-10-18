@@ -16,8 +16,8 @@ Here are some scenarios that are not yet supported in the Spacemesh 0.1 Testnet 
 
 1. Join the Testnet from a Node and a CLI wallet built directly from source code.
 2. Get Smesh coins from a tap.
-3. Browse the Testnet using a block explorer and a dashboard
-4. Run the App in Wallet-only mode without a Node
+3. Browse the Testnet using a block explorer and a dashboard.
+4. Run the App in Wallet-only mode without a Node.
 5. Run a node without producing blocks.
 
 We plan to introduce these roll out software to support these use cases in subsequent Spacemesh Testnet releases throughout 2020.

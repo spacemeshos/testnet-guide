@@ -14,7 +14,7 @@
 - [Updating the App](update.md)
 
 ## Additional resources
-- [About Smesh coins](smc.md)
+- [About Smesh coins](coins.md)
 - [About Coin Awards](awards.md)
 - [Release Highlights](spacemesh0.1.md)
 - [Testnet FAQ](https://spacemesh.io/faq/)

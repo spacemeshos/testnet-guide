@@ -36,7 +36,6 @@ You need to manually permit the Spacemesh App to receive connections from the in
 8. Don't change the default options in the `Apply Rule` screen and click `Next`.
 9. Name the rule `Spacemesh UDP` and click Finish.
 
-This guide is based on the nice guide from [Tomshardware.com](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html).
 
 ---
 

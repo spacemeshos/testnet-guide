@@ -2,7 +2,7 @@
 
 Users who run the Node in the App and submit blocks to the network are entitled to Smesh Coin awards.
 
-> Learn more about [Smesh Coin Units](smc.md).
+> Learn more about [Smesh Coin Units](couns.md).
 
 ## Coin Awards Account
 
