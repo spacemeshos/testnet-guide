@@ -21,9 +21,10 @@ If you have committed storage and leave your app running 24x7 and your network i
 ?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and win coin awards for your contribution.
 
 ## Well Done!
+
 You did it - you are now up and running a Node, and you will start receiving coin awards for producing blocks to the Spacemesh platform.
 
-## Next Step...
+## Recommended Next Step...
 
 Learn how to view coin awards details and transactions status in [your Wallet](wallet_logs.md).
 

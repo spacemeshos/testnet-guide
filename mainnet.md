@@ -8,6 +8,6 @@ Running a Smesher on the Mainnet and using the Wallet is going to be very simila
 
 The sooner you and other people like you join the Mainnet on launch date, the more secure and distributed Spacemesh becomes and the more you help us to get to Mainent.
 
-You should think about the amount of free space you are planning to commit for the Spacemesh Mainnet and setup the proper drive with suffient free disk space before Mainnet launch. We also recommend trying to use the same amount of storage in the Testnet.
+You should think about the amount of free space you are planning to commit for the Spacemesh Mainnet and setup the proper drive with sufficient free disk space before Mainnet launch.
 
 When the Mainnet launches you'll be able to use the Spacemesh App for the Mainnet in the same way you have used it on the Testnet.

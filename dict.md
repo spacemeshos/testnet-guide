@@ -16,14 +16,14 @@ The Node is the software that maintains and updates the Spacemesh distributed co
 ## Wallet
 The Wallet is a basic Spacemesh Coins wallet that is used to maintain coin accounts, execute transactions and check the status of incoming transactions initiated by other accounts. The wallet is included in the Spacemesh App.
 
-## Accounts
+## Account
 Think of this account as your crypto bank account. The Wallet is configured with one main account called `Main Account`. You use this account to hold Spacemesh Coins and to send and receive Spacemesh Coins. You can create additional accounts in the Spacemesh Wallet or in the CLI Wallet.
 
-## Addresses
+## Address
 Each account is identified by one unique `public address`. An address is displayed in a short-form such as this: `0xebee....ee0443`. The full account address is a long number such as: `0xebee4e63a6b0f829f3ad06fb6c4aa80a6860774bc25e9c1b1b2c69b8b4ee0443`.
 
 ## App
-The App integrates the  Wallet, a node and the block producing process into one package which we hope you are going to find delightful and easy to use even without deep technical understanding of cryptocurrency terms and concepts. The App is available for Windows 10, OS X and Linux. (TODO: add sys requirements page link)
+The App integrates the Wallet, the Node and the block producing process into one package which we hope you are going to find delightful and easy to use even without deep technical understanding of cryptocurrency terms and concepts. The App is available for Windows 10, OS X and Linux. (TODO: add sys requirements page link)
 
 ## Free Disk Space Commitment
 Explain here...
