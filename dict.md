@@ -46,3 +46,7 @@ Coin awards are always awarded to a specific wallet account which is associated 
 A transaction from one account (sender) to another account (recipient) in which a specific amount of Smesh coins is transferred from sender to recipient. Transactions are executed from the wallet.
 
 ## Smesh Transaction Fee
+TBR
+
+## PoST Generator
+TBR

@@ -55,7 +55,7 @@ The Testnet is designed to test the Spacemesh protocols and software prior to re
 Spacemesh 0.1 is the name of the first release of the Testnet. Everything described in this guide is about this release. We are releasing capabilities that we believe are ready for testing. We have much more in the pipeline and we plan to release updates to the Testnet throughout 2020. This guide will be updated as we release new Testnet features.
 
 ## Why should I join the Spacemesh Testnet?
-Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Spacemesh Coin` (SMC) cryptocurrency. Spacemesh is a decentralized ledger designed to be formed from a large number of home desktop PC owners who run the Spacemesh software on their PCs. To test such a network we need a large number of block producers to join the Testnet in addition to the close Testnets which we have been running.
+Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Spacemesh Coin` (SMC) cryptocurrency. Spacemesh is a decentralized ledger designed to be formed from a large number of home desktop PC owners who run the Spacemesh software on their PCs. To test such a network we need a large number of block producers to join the Testnet.
 
 Joining also helps you to prepare for participating in the Spacemesh Mainnet once it is launched.
 
