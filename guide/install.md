@@ -79,10 +79,10 @@ Follow [these steps](auth.md) to verify that the Installer you have downloaded i
 
 ## Step 3 - Installing the App
 
-Next, **locate the Installer you downloaded and double-click it** to install the App.
+Next, **locate the Installer you downloaded and double click it** to install the App.
 
 Follow the on-screen installation instructions. When complete, the `Spacemesh App` should be available in your Apps.
 
 ---
 
-Next, [Follow this guide](guide/setup.md) to setup a wallet and block producing in the App.
+Next, [Follow this guide](guide/setup.md) to set up a wallet and block producing in the App.

@@ -8,7 +8,7 @@ Follow the instructions on this page to learn how to use your wallet.
 
 A new wallet is created when you open the Spacemesh App for the first time.
 
-You are prompted to secure your wallet with a password, and we recommended you store it in a password manager app, such as [1Password](https://1password.com).
+You are prompted to secure your wallet with a password, and we recommend that you store it in a password manager app, such as [1Password](https://1password.com).
 
 > Your wallet data is saved in a `wallet file` on your hard drive. The `wallet file` includes sensitive private data that is encrypted in the file with your password.
 
@@ -23,7 +23,7 @@ The Wallet data is loaded from the wallet file to the App and is decrypted using
 > IMPORTANT: you will lose access to your wallet if you forget your password. For this reason, we recommend that you create a `12-word backup` as soon as possible. See [Wallet Backup](backup.md).
 
 
-## Checking your Spacemesh Coin Balance
+## Checking your Smesh Coin Balance
 
 After unlocking your wallet with your password, you should see the following wallet screen:
 
@@ -33,19 +33,21 @@ The left side of the screen displays the wallet info:
 
 ![](images/v1.0/wallet_details.png ':size=310x496')
 
-Your wallet is configured with one main account called `Main Account`. Think of this account as your crypto bank account. You use this account to hold Spacemesh Coins and to send and receive Spacemesh Coins.
+Your wallet is configured with one main account called `Main Account`.
+
+Think of this account as your crypto bank account. You use this account to hold Spacemesh Coins and to send and receive Smesh Coins.
 
 Your account is identified by a unique `public address`. It is displayed under the account name in a short form that looks like this: `0xebee....ee0443`.
 
 Your full account address is a long number, such as `0xebee4e63a6b0f829f3ad06fb6c4aa80a6860774bc25e9c1b1b2c69b8b4ee0443`.
 
-Your account balance is displayed at the bottom left side of the screen. `SMC` is the symbol for 'Spacemesh Coins'.
+Your account balance is displayed at the bottom left side of the screen. `SMC` is the symbol for `Smesh Coins.`
 
-You can copy your account public address to your computer's clipboard by clicking on the copy icon on the right side of the displayed  account number.
+You can copy your account's public address to your computer's clipboard by clicking on the copy icon on the right side of the displayed  account number.
 
-This is useful if you want to receive SMC from another account holder. In this case you just need to send the copied full account address to that person via any digital means such as a text message.
+This is useful if you want to receive SMC from another account holder. In this case, you just need to send the copied full account address to that person via any digital means, such as a text message or email.
 
-## Viewing transactions and coin awards
+## Viewing Transactions and Coin Awards
 
 Click the `ALL TRANSACTIONS` button to access your wallet transactions log screen.
 
@@ -77,11 +79,11 @@ Follow the steps in [this guide](backup.md) to back up your wallet and to restor
 
 ## Creating a new account
 
-By default your wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving coin awards for running a full node.
+By default, your wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving coin awards for running a full node.
 
 You can also add additional accounts to your wallet.
 
-Each new account has its own unique public address, coin balance and a friendly display name.
+Each new account has its own unique public address, coin balance and friendly display name.
 
 Follow these steps to create a new account:
 
@@ -99,11 +101,11 @@ Your screen should look like this:
 
 4. Name your new account.
 
-> Newly added accounts are automatically saved in your wallet.
+> Newly-added accounts are automatically saved in your wallet.
 
-You can easily switch between wallet accounts, view the coin balance of an account, send coins from any account, or receive coins into any account.
+You can easily switch between accounts, view the coin balance of an account, send coins from any account, or receive coins into any account.
 
-To switch between accounts click the account drop-down icon in your wallet display area. All your accounts should be listed in the drop-down menu:
+To switch between accounts, click the account drop-down icon in your wallet display area. All your accounts should be listed in the drop-down menu:
 
 ![](images/v1.0/wallet_accounts.png)
 

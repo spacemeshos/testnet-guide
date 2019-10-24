@@ -47,6 +47,3 @@ A transaction from one account (sender) to another account (recipient) in which 
 
 ## Smesh Transaction Fee
 TBR
-
-## PoST Generator
-TBR

@@ -12,9 +12,9 @@ You should see the Send SMC screen:
 
 2. Paste the coin recipient public account address that he or she shared with you into the `Send to` field.
 
-3. Enter the Spacemesh Coin (SMC) amount you like to send to the recipient in the `Amount to send` field.
+3. Enter the Smesh Coin (SMC) amount you would like to send to the recipient in the `Amount to send` field.
 
-> The amount must be less than your account coin balance as you can't spend coins you don't have in your account.
+> The amount must be less than your account coin balance, as you cannot spend coins you do not have in your account.
 
 ![](images/v1.0/send_smc_tx_1.png)
 
