@@ -5,7 +5,7 @@
 - [Installing the App](guide/install.md)
 - [Setting up the App](guide/setup.md)
 - [Viewing smesher status](guide/status.md)
-- [Viewing transaction status and coin awards](wallet_log.md)
+- [Viewing transaction status and smesh rewards](wallet_log.md)
 - [Using your wallet](wallet.md)
 - [Sending smesh](send_coin.md)
 - [Getting smesh](get_coin.md)
@@ -14,15 +14,15 @@
 - [Updating the App](update.md)
 
 ## Additional resources
-- [About Smesh](coins.md)
+- [About smesh](coins.md)
 - [Smesh rewards](rewards.md)
-- [Release Highlights](spacemesh0.1.md)
+- [Release highlights](spacemesh0.1.md)
 - [Tech FAQ](https://spacemesh.io/faq/)
-- [System Requirements](requirements.md)
+- [System requirements](requirements.md)
 - [Getting ready for Mainnet](mainnet.md)
 - [Terminology](dict.md)
 
 ## Legal resources
 - [Disclaimer](disclaimer.md)
-- [Terms of Service](terms.md)
-- [Privacy Statement](privacy.md)
+- [Terms of service](terms.md)
+- [Privacy statement](privacy.md)
