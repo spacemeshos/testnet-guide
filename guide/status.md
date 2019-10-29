@@ -33,7 +33,7 @@ Learn how to view coin awards details and transactions statuses in [your Wallet]
 
 Follow these guides to become a Spacemesh maestro:
 
-- Learn more about [Coin Awards](../awards.md).
+- Learn more about [Smesh rewards](../rewards.md).
 - [Pay someone](send_coin.md) with Smesh coins.
 - [Get paid](get_coin.md) with Smesh coins.
 
