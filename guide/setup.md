@@ -10,13 +10,13 @@ You should now see this welcome screen:
 Let's now proceed to set up the Node, Block Smeshing, and the Wallet. But first, some definitions.
 
 ## About the Spacemesh Wallet
-> A wallet holds one or more Smesh accounts. An account is identified by a long, unique number, such as `0x20a5...3a1f`. The wallet enables you to send and receive Smesh coins, and in the future, will enable you to run decentralized applications. Each account has a Smesh balance. You can send Smesh from your account up to your coin balance. So for example, if your account coin balance is 10 Smesh then you can send up 10 Smesh from it to other accounts by executing transactions.
+> A wallet holds one or more Smesh accounts. An account is identified by a long, unique number, such as `0x20a5...3a1f`. The wallet enables you to send and receive Smesh, and in the future, will enable you to run decentralized applications. Each account has a Smesh balance. You can send Smesh from your account up to your coin balance. So for example, if your account coin balance is 10 Smesh then you can send up 10 Smesh from it to other accounts by executing transactions.
 
 Let's now set up a new wallet to manage your Smesh and provide your Node with a `Rewards Account`.
 
 ?> We call the process of producing blocks `smeshing`.
 
-> A `Rewards Account` is a wallet account you set up and use to receive Smesh coins for smeshing blocks.
+> A `Rewards Account` is a wallet account you set up and use to receive Smesh for smeshing blocks.
 
 Your wallet's main account will be used as the `Reward Account` for your Smesher.
 
