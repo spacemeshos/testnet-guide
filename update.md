@@ -1,6 +1,6 @@
 # Updating the App
 
-your App is configured to auto-update with newly released versions which include bug fixes and various improvements. We expect to routinely update the App and the full p2p node during the life of the Open Testnet.
+Your App is configured to auto-update with newly released versions which include bug fixes and various improvements. We expect to routinely update the App and the Smesher during the lifetime of the Open Testnet.
 
 You can also check for updates manually at any time from the App settings screen.
 

@@ -2,8 +2,6 @@
 
 In order to participate in the Spacemesh network and to earn smeshing rewards your computer firewall (and in some cases your home network router) needs to be configured, so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
 
-You only need to configure your network if you are planning to run a full p2p node and not if you plan to use the App in the custom wallet-only mode.
-
 ---
 
 ## Windows 10

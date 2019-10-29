@@ -1,6 +1,6 @@
 # Getting Ready for Mainnet
 
-By running a Testnet node (aka Smesher) and using the wallet to transact with Smesh you are readying yourself for the Spacemesh Mainnet.
+By running a Testnet Smesher and using the wallet to transact with Smesh you are readying yourself for the Spacemesh Mainnet.
 
 The Spacemesh Mainnet is going to launch several months after the Testnet. The main goal of the Testnet is to perform various tests that will enable us to launch a high-quality and secure Mainnet.
 

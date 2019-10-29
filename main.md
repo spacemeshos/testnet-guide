@@ -65,14 +65,14 @@ Joining also helps you to prepare for participating in the Spacemesh Mainnet onc
 
 In the true spirit of crypto-economy, we have launched this Testnet so that anyone can verify (rather than blindly trust) the 3 main promises we make:
 1. The core technology and product work.
-2. Participants don't have to do anything after the initial setup to run a Spacemesh full node.
-3. Participants can their your computer normally while running a Spacemesh full node.
+2. Participants don't have to do anything after the initial setup to run a Smesher.
+3. Participants can their your computer normally while running a Smesher.
 
 ## How can I join the Spacemesh Testnet?
 Just follow the instructions in this guide. Let's [get started](guide/install.md)!
 
 ## What do I need to join the Testnet?
-To run a full p2p node, mine and to get rewards you need `an always-on desktop computer` running Windows 10, OS X or a supported Linux distribution with at least 150 GB of free disk space (required free space is tentative and subject to change) on one of your hard drives. For more information browse the [full system requirements](requirements.md).
+To run a Smesher, smesh blocks, and to get smeshing rewards you need `an always-on desktop computer` running Windows 10, OS X or a supported Linux distribution with at least 150 GB of free disk space (required free space is tentative and subject to change) on one of your hard drives. For more information browse the [full system requirements](requirements.md).
 
 ## Testnet Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?

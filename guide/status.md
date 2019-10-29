@@ -1,19 +1,19 @@
-# Checking Node Status
+# Checking Smesher Status
 
-Open the App, if it is not already open, and click on the `NODE` tab on the top-left of the main window.
+Open the App, if it is not already open, and click on the `SMESHER` tab on the top-left of the main window.
 
-You should now see the Node status screen:
+You should now see your Smesher status screen:
 
 ![](../images/v1.0/miner_running.png)
 
 This screen is where you will track your Smesher operation, and view your total rewards.
 
-You can also pause (or un-pause) your Node by clicking on the `PAUSE NODE` button.
+You can also pause (or un-pause) your Smesher by clicking on the `PAUSE NODE` button.
 
 
 Click the CLOSE button in the App's main Window.
 
-You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that your node will continue to run and to smesh blocks.
+You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that your Smesher will continue to run and to smesh blocks.
 
 ### Smesh rewards Expectancy
 
@@ -23,7 +23,7 @@ You will be prompted to quit the app or to switch it to run in the background. C
 
 ## Well Done!
 
-You did it - you are now up and running a Node, and you will start receiving Smesh rewards for producing blocks to the Spacemesh platform.
+You did it - you are now up and running a Smesher, and you will start receiving Smesh rewards for producing blocks to the Spacemesh platform.
 
 ![](../images/fireworks.gif)
 

@@ -1,24 +1,31 @@
-# Setting Up your Wallet and Node
+# Setting Up Wallet and Smesher
 
-## Step 1 - Setting up your Wallet
+## Step 1 - Setting up a Wallet
 Follow the installer's on-screen instruction and proceed to launch the app.
 
 You should now see this welcome screen:
 
 ![](../images/v1.0/welcome.png)
 
-Let's now proceed to set up the Node, Block Smeshing, and the Wallet. But first, some definitions.
+Let's now proceed to set up the Smesher, Smeshing, and the Wallet. But first, some definitions.
 
-## About the Spacemesh Wallet
-> A wallet holds one or more Smesh accounts. An account is identified by a long, unique number, such as `0x20a5...3a1f`. The wallet enables you to send and receive Smesh, and in the future, will enable you to run decentralized applications. Each account has a Smesh balance. You can send Smesh from your account up to your coin balance. So for example, if your account coin balance is 10 Smesh then you can send up 10 Smesh from it to other accounts by executing transactions.
+## About the Wallet
 
-Let's now set up a new wallet to manage your Smesh and provide your Node with a `Rewards Account`.
+A wallet holds one or more Smesh accounts. An account is identified by a long, unique number, such as `0x20a5...3a1f`.
+
+The wallet enables you to send and receive Smesh, and in the future, will enable you to run decentralized applications. Each account has a Smesh balance.
+
+You can send Smesh from your account up to your coin balance. So for example, if your account coin balance is 10 Smesh then you can send up 10 Smesh from it to other accounts by executing transactions.
+
+?> We call the Spacemesh full p2p node `Smesher`.
 
 ?> We call the process of producing blocks `smeshing`.
 
-> A `Rewards Account` is a wallet account you set up and use to receive Smesh for smeshing blocks.
+?> A `Rewards Account` is a wallet account you set up and use to receive Smesh for smeshing.
 
-Your wallet's main account will be used as the `Reward Account` for your Smesher.
+Your wallet's main account will be used as your Smesher's rewards account. You will receive rewards to this account.
+
+Let's now set up a new wallet to manage your Smesh and provide your Smesher with a `Rewards Account`.
 
 ---
 
@@ -28,7 +35,7 @@ The next screen should look like this:
 
 ![](../images/v1.0/protect_wallet.png)
 
-The App prompts you to enter a password to protect access to your newly-created wallet and to your Node. Proceed by choosing a password (8 or more characters) and confirming it.
+The App prompts you to enter a password to protect access to your newly-created wallet and to your Smesher. Proceed by choosing a password (8 or more characters) and confirming it.
 
 > You will need to use the newly-created password to access your Wallet after you have locked access to the App. We recommend saving the password in a password manager, such as [1Password](https://1password.com).
 
@@ -41,7 +48,7 @@ Click `NEXT`. You should now see this screen:
 ![](../images/v1.0/protect_wallet_confirmed.png)
 
 
-## Step 2 - Setting Up Your Node
+## Step 2 - Setting Up Your Smesher
 
 ## About Block Smeshing
 
@@ -51,7 +58,7 @@ The storage you commit to Spacemesh is attached to your identity on the Spacemes
 
 This one-time storage commitment enables Spacemesh to reach consensus on a distributed ledger without using proof-of-work or proof-of-stake algorithms.
 
-> The free space you commit to your Node is not used to store any useful data. It will be filled with cryptographic data that is only used to establish your node identity and your block smeshing eligibility.
+> The free space you commit to your Smesher is not used to store any useful data. It will be filled with cryptographic data that is only used to establish your node identity and your block smeshing eligibility.
 
 ---
 
@@ -95,10 +102,10 @@ In order to participate in the Spacemesh network and earn Smesh rewards you need
 Please follow the instructions in [this guide](netconfig.md).
 
 ### Disable Computer Sleep Mode
-To finish the one-time mining process and have your Node participate in the Spacemesh protocol so you can earn `Smeshing rewards`, **you need to make sure that your desktop computer does not go to sleep or hibernate**.
+To finish the one-time mining process and have your Smesher participate in the Spacemesh protocol so you can earn `Smeshing rewards`, **you need to make sure that your desktop computer does not go to sleep or hibernate**.
 
 Follow [this guide](no_sleep.md) to disable sleep on your computer.
 
 
 ## Next...
-You are almost done! You are now ready to check your [Node status](guide/status.md).
+You are almost done! You are now ready to check your [Smesher status](guide/status.md).

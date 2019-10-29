@@ -5,18 +5,18 @@ Spacemesh 0.1 is the first release of the Spacemesh Testnet. We plan to release 
 This guide walks you though and describes the features and the supported functionality of this release.
 
 ## Main features
-- Managed Node
-- Storage commitment to participate in block production
-- Block production
-- Wallet
+- Managed Smesher (full p2p node)
+- Setup storage commitment for participating in the Spacemesh protocol
+- Earn rewards for your Smesher submitting blocks to the network according to the Spacemesh protocol
+- A basic Smesh wallet
 
-## Spacemesh 0.1 Cheat Sheet
+## Spacemesh 0.1 Technical Cheat Sheet
 
 - Network id: 0.
-- POST init size per miner:	~20 minutes on a modern CPU.
+- Smesh Storage commitment:	~20 minutes on a modern CPU.
 - Layer mining award: 50 Smesh.
 - Rewards maturity: 4 layers (20 minutes).
-- Non-routable Nodes are not supported.
+- Non-routable Smeshers are not supported.
 - Layer duration: 5	minutes.
 - Number of layers in an epoch:	288.
 - Epoch duration: 24 hours.
@@ -26,12 +26,12 @@ This guide walks you though and describes the features and the supported functio
 
 ## What is not part of Spacemesh 0.1?
 
-Here are some scenarios that are not yet supported in the Spacemesh 0.1 Testnet release:
+These use cases that are not yet supported in the Spacemesh 0.1 Testnet release:
 
-1. Join the Testnet from a Node and a CLI wallet built directly from source code.
+1. Join the Testnet from a Smesher and a CLI wallet built directly from source code.
 2. Get Smesh from a tap.
 3. Browse the Testnet using a block explorer and a dashboard.
-4. Run the App in Wallet-only mode without a Node.
-5. Run a node without producing blocks.
+4. Run the App in Wallet-only mode without a Smesher.
+5. Run a Smesher without submitting blocks to the network.
 
-We plan to introduce these roll out software to support these use cases in subsequent Spacemesh Testnet releases throughout 2020.
+We plan to support these uses cases in subsequent Spacemesh Testnet releases throughout 2020, starting with Spacemesh 0.2.

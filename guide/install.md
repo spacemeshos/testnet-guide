@@ -4,12 +4,12 @@ To join the Testnet you need to run the Spacemesh App on your desktop computer.
 
 ## About The Spacemesh App
 
-The Spacemesh App (aka the App) includes a Spacemesh full p2p Node, which we call Smesher, and a basic Smesh wallet which we call Wallet.
+The Spacemesh App (aka the App) includes a Spacemesh full p2p Node (which we call Smesher), and a basic Smesh wallet which we call Wallet.
 
 ### Smesher
-Smesher is the software that creates and updates [the Smesh](../coins.md) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you, who run a Node on their own desktop computers.
+Smesher is the software that creates and updates [the Smesh](../coins.md) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you, who run a Smesher on their own desktop computers.
 
-Your Node participates in the Spacemesh decentralized consensus Protocol and is responsible for the block-smeshing process. Block Smeshing is the process of submitting blocks with transactions to the Testnet network. You earn block smeshing rewards for submitting blocks with transactions to the Testnet network, according to the rules of the Spacemesh protocol.
+Your Smesher participates in the Spacemesh decentralized consensus Protocol and is responsible for the block-smeshing process. Block Smeshing is the process of submitting blocks with transactions to the Testnet network. You earn block smeshing rewards for submitting blocks with transactions to the Testnet network, according to the rules of the Spacemesh protocol.
 
 Before you can produce blocks, you need to commit XXXX free storage on your computer hard drive to Spacemesh. The commitment process only happens once, when you set up your App, and is used indefinitely to produce more blocks. You will be prompted to start producing blocks and to commit disk storage when you run the Spacemesh App for the first time on your computer.
 

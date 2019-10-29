@@ -42,8 +42,8 @@ Smesh are rewarded to people who run Smeshers on their computes and submit block
 ## Smeshing Rewards Account
 Smeshing rewards are always given to a specific wallet account. For this release of the Spacemesh App, this account is automatically set by the App for you when you set up smeshing on your first app session. When you run the App for the first time and set up smeshing, the app uses your wallet's main account as the rewards account.
 
-## Smesh Transaction
-A transaction from one account (sender) to another account (recipient) in which a specific amount of Smesh is transferred from sender to recipient. Transactions are executed from the wallet.
+## Smesh Transactions
+A Smesh transaction is a transaction from one account (sender) to another account (recipient) in which a specific amount of Smesh is transferred from sender to recipient. Transactions are executed from the wallet.
 
 ## Smesh Transaction Fee
 TBR

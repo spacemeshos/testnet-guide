@@ -1,13 +1,13 @@
 ## Testnet Video guides
 
 ### Spacemesh 0.1 Videos
-1. Installing the App on Windows, Mac or Linux
-2. Setting up wallet and smeshing
+- Installing the App on Windows, Mac or Linux
+- Setting up wallet and smeshing
     - Ends with view of rewards in the tx log screen
-3. Sending Smesh to another account
-4. Receiving Smesh from another account
-5. Updating the App
-6. Backing up your wallet (file and 12 words backup)
+- Sending Smesh to another account
+- Receiving Smesh from another account
+- Updating the App
+- Backing up your wallet (file and 12 words backup)
 
 
 ### Spacemesh 0.2 Videos
