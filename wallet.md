@@ -70,6 +70,7 @@ To `log out` from your wallet, just click on the `Lock Button` in the top right 
 To access your wallet again, open the app and enter your wallet password.
 
 ## Backing up and your wallet
+
 Follow the steps in [this guide](backup.md) to back up your wallet and to restore your wallet from backup.
 
 

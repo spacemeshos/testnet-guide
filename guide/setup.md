@@ -32,7 +32,7 @@ The App prompts you to enter a password to protect access to your newly-created 
 
 > You will need to use the newly-created password to access your Wallet after you have locked access to the App. We recommend saving the password in a password manager, such as [1Password](https://1password.com).
 
-> Until you back up your Wallet using the 12 word backup method, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed up, if the password has been forgotten.
+> Until you back up your Wallet using the 12 words backup method, you will not be able to access it without your password. There is no way to restore a wallet that wasn't backed up, if the password has been forgotten.
 
 ---
 
