@@ -1,4 +1,4 @@
-# Sending Coins
+# Sending Smesh
 
 1. Navigate to the Wallet screen by clicking `WALLET` in the top-left side of the screen.
 
@@ -6,15 +6,15 @@
 
 2. Click on the `SEND` button.
 
-You should see the Send SMC screen:
+You should see the Send SMH screen:
 
 ![](images/v1.0/send_smc_tx.png)
 
 2. Paste the coin recipient public account address that he or she shared with you into the `Send to` field.
 
-3. Enter the Smesh Coin (SMC) amount you would like to send to the recipient in the `Amount to send` field.
+3. Enter the Smesh (SMH) amount you would like to send to the recipient in the `Amount to send` field.
 
-> The amount must be less than your account coin balance, as you cannot spend coins you do not have in your account.
+> The amount must be less than your account's Smesh balance, as you cannot spend Smesh that you do not have in your account.
 
 ![](images/v1.0/send_smc_tx_1.png)
 
@@ -32,7 +32,7 @@ You should now see this screen:
 
 6. Click on 'DONE'.
 
-Congratulations! You have just sent some Spacemesh Coins (SMC) to a recipient.
+Congratulations! You have just sent some Smesh (SMH) to a recipient.
 
 ## Tracking your transaction
 

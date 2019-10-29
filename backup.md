@@ -41,7 +41,7 @@ A file browser will open up displaying where the backup file is stored on your h
 
 > We recommend saving the backup file to a USB drive and storing the drive in a safe place.
 
-> Sensitive wallet data is stored encrypted in your wallet file as a security measure. Your Spacemesh Coins held in the wallet are safe even if someone gains access to the file. That said, please take care and make sure that access to your wallet backup file is limited to you. For example, do not save a backup file on the cloud in a location that is publicly accessible.
+> Sensitive wallet data is stored encrypted in your wallet file as a security measure. Your Smesh held in the wallet are safe even if someone gains access to the file. That said, please take care and make sure that access to your wallet backup file is limited to you. For example, do not save a backup file on the cloud in a location that is publicly accessible.
 
 ---
 
@@ -79,7 +79,7 @@ Follow one or more of these steps:
 
 > If you printed the list or wrote it down on a paper, store the paper in a safe place such as a safe. Do NOT leave it next to your computer.
 
-> Do NOT use your mobile phone camera to take a photo of your computer screen in order to save the words. Anyone with access to your photos will be able to steal your wallet coins from you.
+> Do NOT use your mobile phone camera to take a photo of your computer screen in order to save the words. Anyone with access to your photos will be able to steal your wallet's Smesh.
 
 3. Click 'NEXT' only after you performed one of the actions above.
 

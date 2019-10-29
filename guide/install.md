@@ -4,22 +4,22 @@ To join the Testnet you need to run the Spacemesh App on your desktop computer.
 
 ## About The Spacemesh App
 
-The Spacemesh App (aka the App) includes a Spacemesh full p2p Node, which we call `the Node`, and a basic Smesh coins Wallet which we call `the Wallet`.
+The Spacemesh App (aka the App) includes a Spacemesh full p2p Node, which we call Smesher, and a basic Smesh wallet which we call the Wallet.
 
-### Node
-The Node is the software that creates and updates the [Smesh coins](../coins.md) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you, who run a Node on their own desktop computers.
+### Smesher
+Smesher is the software that creates and updates [the Smesh](../coins.md) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you, who run a Node on their own desktop computers.
 
-Your Node participates in the Spacemesh decentralized consensus Protocol and is responsible for the block-smeshing process. Block Smeshing is the process of submitting blocks with transactions to the Testnet network. You earn block smeshing awards for submitting blocks with transactions to the Testnet network, according to the rules of the Spacemesh protocol.
+Your Node participates in the Spacemesh decentralized consensus Protocol and is responsible for the block-smeshing process. Block Smeshing is the process of submitting blocks with transactions to the Testnet network. You earn block smeshing rewards for submitting blocks with transactions to the Testnet network, according to the rules of the Spacemesh protocol.
 
 Before you can produce blocks, you need to commit XXXX free storage on your computer hard drive to Spacemesh. The commitment process only happens once, when you set up your App, and is used indefinitely to produce more blocks. You will be prompted to start producing blocks and to commit disk storage when you run the Spacemesh App for the first time on your computer.
 
 ### Wallet
-The Wallet is a basic Smesh coins wallet that you use to maintain your Smesh coins accounts, execute transactions and check the status of incoming transactions initiated by other accounts.
+The Wallet is a basic Smesh wallet that you use to maintain your Smesh coins accounts, execute transactions and check the status of incoming transactions initiated by other accounts.
 
-> For this release (Spacemesh 0.1), the wallet works together with your locally-running Node and can't be used without running a Node in your computer. Future releases of the App will enable you to use the wallet without running a Node on your computer.
+> For this release (Spacemesh 0.1), the wallet works together with your locally-running Smesher and can't be used without running a Smesher in your computer. Future releases of the App will enable you to use the wallet without running a Smesher on your computer.
 
 ### App
-The App integrates a Node and a Wallet into one package, which we hope you are going to find delightful and easy to use, even without having additional technical understanding of cryptocurrency terms and concepts.
+The App integrates a Smesher and a Wallet into one package, which we hope you are going to find delightful and easy to use, even without having additional technical understanding of cryptocurrency terms and concepts.
 
 > You do NOT need to run any additional software to join the Testnet, besides running the App on your computer.
 

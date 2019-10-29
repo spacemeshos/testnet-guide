@@ -1,6 +1,6 @@
 # Using the Spacemesh Wallet
 
-The Spacemesh App includes a wallet for managing your Spacemesh Coins.
+The Spacemesh App includes a wallet for managing your Smesh.
 
 Follow the instructions on this page to learn how to use your wallet.
 
@@ -23,7 +23,7 @@ The Wallet data is loaded from the wallet file to the App and is decrypted using
 > IMPORTANT: you will lose access to your wallet if you forget your password. For this reason, we recommend that you create a `12-word backup` as soon as possible. See [Wallet Backup](backup.md).
 
 
-## Checking your Smesh Coin Balance
+## Checking your Smesh Balance
 
 After unlocking your wallet with your password, you should see the following wallet screen:
 
@@ -35,7 +35,7 @@ The left side of the screen displays the wallet info:
 
 Your wallet is configured with one main account called `Main Account`.
 
-Think of this account as your crypto bank account. You use this account to hold Spacemesh Coins and to send and receive Smesh Coins.
+Think of this account as your crypto bank account. You use this account to hold Smesh and to send and receive Smesh.
 
 Your account is identified by a unique `public address`. It is displayed under the account name in a short form that looks like this: `0xebee....ee0443`.
 
@@ -47,21 +47,21 @@ You can copy your account's public address to your computer's clipboard by click
 
 This is useful if you want to receive SMC from another account holder. In this case, you just need to send the copied full account address to that person via any digital means, such as a text message or email.
 
-## Viewing Transactions and Coin Awards
+## Viewing Transactions and Rewards
 
 Click the `ALL TRANSACTIONS` button to access your wallet transactions log screen.
 
 Follow [this guide](wallet_logs.md) to learn how to work with the transactions log screen.
 
-## Sending Spacemesh Coins
-Follow the steps in [this guide](send_coin.md) to send Spacemesh Coins to any other account.
+## Sending Smesh
+Follow the steps in [this guide](send_coin.md) to send Smesh to any other account.
 
-## Getting Spacemesh Coins
-Follow the steps in [this guide](get_coin.md) to receive Spacemesh Coins from another account into your account.
+## Getting Smesh
+Follow the steps in [this guide](get_coin.md) to receive Smesh from another account into your account.
 
 ## Locking Access to your Wallet
 
-> When you are done using your wallet in the App, you should `log out` from it to prevent other people with direct access to your computer from viewing your coin balance, from performing transactions and from viewing your transaction history.  
+> When you are done using your wallet in the App, you should `log out` from it to prevent other people with direct access to your computer from viewing your Smesh balance, from performing transactions and from viewing your transaction history.  
 
 To `log out` from your wallet, just click on the `Lock Button` in the top right side of the wallet screen. It looks like this:
 
@@ -80,7 +80,7 @@ Follow the steps in [this guide](backup.md) to back up your wallet and to restor
 
 ## Creating a new account
 
-By default, your wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving coin awards for running a full node.
+By default, your wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving rewards for running a Smesher.
 
 You can also add additional accounts to your wallet.
 
@@ -104,7 +104,7 @@ Your screen should look like this:
 
 > Newly-added accounts are automatically saved in your wallet.
 
-You can easily switch between accounts, view the coin balance of an account, send coins from any account, or receive coins into any account.
+You can easily switch between accounts, view the another account's Smesh balance, send Smesh from any account, or receive Smesh into any account.
 
 To switch between accounts, click the account drop-down icon in your wallet display area. All your accounts should be listed in the drop-down menu:
 

@@ -5,7 +5,7 @@
 - [Installing the App](guide/install.md)
 - [Setting up the App](guide/setup.md)
 - [Viewing smesher status](guide/status.md)
-- [Viewing transaction status and smesh rewards](wallet_log.md)
+- [Viewing transactions and rewards](wallet_log.md)
 - [Using your wallet](wallet.md)
 - [Sending smesh](send_coin.md)
 - [Getting smesh](get_coin.md)
