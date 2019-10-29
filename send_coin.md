@@ -10,11 +10,11 @@ You should see the Send SMH screen:
 
 ![](images/v1.0/send_smc_tx.png)
 
-2. Paste the coin recipient public account address that he or she shared with you into the `Send to` field.
+2. Paste the Smesh recipient public account address that he or she shared with you into the `Send to` field.
 
 3. Enter the Smesh (SMH) amount you would like to send to the recipient in the `Amount to send` field.
 
-> The amount must be less than your account's Smesh balance, as you cannot spend Smesh that you do not have in your account.
+> The amount must be less than your account's Smesh balance, as you cannot spend Smesh that you do not have.
 
 ![](images/v1.0/send_smc_tx_1.png)
 

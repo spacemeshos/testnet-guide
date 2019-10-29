@@ -41,7 +41,7 @@ Your account is identified by a unique `public address`. It is displayed under t
 
 Your full account address is a long number, such as `0xebee4e63a6b0f829f3ad06fb6c4aa80a6860774bc25e9c1b1b2c69b8b4ee0443`.
 
-Your account balance is displayed at the bottom left side of the screen. `SMC` is the symbol for `Smesh Coins.`
+Your account balance is displayed at the bottom left side of the screen. `SMH' is the symbol for `Smesh.`
 
 You can copy your account's public address to your computer's clipboard by clicking on the copy icon on the right side of the displayed  account number.
 
@@ -84,7 +84,7 @@ By default, your wallet is pre-configured with one main account. This is suffici
 
 You can also add additional accounts to your wallet.
 
-Each new account has its own unique public address, coin balance and friendly display name.
+Each new account has its own unique public address, Smesh balance and friendly display name.
 
 Follow these steps to create a new account:
 

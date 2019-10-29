@@ -26,7 +26,7 @@ Spacemesh is designed to achieve three main objectives:
 ## What problems does Spacemesh plan to solve and how?
 
 ### Mining cryptocurrency today can only be done by a select few.
-We aim to create a world in which any interested party can mine Spacemesh cryptocurrency, which will naturally be followed by a fair distribution of the currency (i.e., `The People's Coin`).
+We aim to create a world in which any interested party can mine Spacemesh cryptocurrency, which will naturally be followed by a fair distribution of the currency (i.e., `The People's Currency`).
 
 ### Energy consumption due to PoW chains is skyrocketing.
 Spacemesh has improved upon PoW by creating a consensus protocol that consumes significantly less energy (i.e., `A Better Bitcoin`).

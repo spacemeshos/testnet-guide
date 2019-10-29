@@ -5,7 +5,7 @@
 2. Setting up wallet and smeshing
     - Ends with view of rewards in the tx log screen
 3. Sending Smesh to another account
-4. Receiving coins from another account
+4. Receiving Smesh from another account
 5. Updating the App
 6. Backing up your wallet (file and 12 words backup)
 

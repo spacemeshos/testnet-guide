@@ -25,6 +25,6 @@ You should see this screen:
 
 4. Ask that person to send Smesh to this address using his or her Spacemesh wallet.
 
-> Once the coins are sent to you, you should see the transaction in the `Transactions` section of your wallet screen, and your account coin balance should be updated to include the received coins.
+> Once Smesh are sent to you, you should see the transaction in the `Transactions` section of your wallet screen, and your account Smesh balance should be updated to include the received Smesh.
 
 Congratulations! you have successfully received Smesh from another account to your account!

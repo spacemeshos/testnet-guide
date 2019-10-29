@@ -19,7 +19,7 @@ You will be prompted to quit the app or to switch it to run in the background. C
 
 > If you have committed storage and left your app running 24/7, and your network is [properly configured](../netconfig.md) then you should expect your first Smesh reward in about 49 hours.
 
-?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and win coin rewards for your contribution.
+?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and get Smesh rewards for your contribution.
 
 ## Well Done!
 
@@ -34,8 +34,8 @@ Learn how to view rewards details and transactions statuses in [your Wallet](wal
 Follow these guides to become a Spacemesh maestro:
 
 - Learn more about [Smesh rewards](../rewards.md).
-- [Pay someone](send_coin.md) with Smesh coins.
-- [Get paid](get_coin.md) with Smesh coins.
+- [Pay someone](send_coin.md) with Smesh.
+- [Get paid](get_coin.md) with Smesh.
 
 ---
 ## Join our Community
