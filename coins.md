@@ -1,10 +1,9 @@
-# About Spacemesh Coins
+# About Smeshes and Shmekels
 
-### TL;DR: 1 Smesh (SMH) = 10^12 Shmekels
+## Overview
+`Smesh` (SMH) is the name of the Spacemesh native cryptocurrency. 1 Smesh equals 10^12 (1 trillion) Shmekels. `Shmekel` is the basic unit of accounting of the Spacemesh platform. It is used mostly by developers in smart contracts code and by users and for transaction fees. One trillion (10^12) Shmekels equal one Smesh.
 
-
-## Basic Units
-
-- `Smesh` (SMH) - 10^12 Shmekels. The name of the Spacemesh native crypto currency.
-
-- `Shmekel` - The basic unit of accounting in the Spacemesh platform. Used mostly by developers in smart contracts code and by users and for transaction fees.
+## Summary
+- Smesh (SMH) - the Spacemesh cryptocurrency.
+- Shmekel - the Spacemesh platform basic accounting unit.
+- 1 Smesh (SMH) = 10^12 Shmekels
