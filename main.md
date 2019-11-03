@@ -1,6 +1,6 @@
 ![](/images/logo.png)
 
-# Welcome to the Spacemesh Open Testnet Guide
+# Welcome to the Spacemesh 0.1
 
 > **WARNING: Dragons ahead!** The Spacemesh open testnet has not been launched yet. This is a work in progress and an incomplete guide.
 

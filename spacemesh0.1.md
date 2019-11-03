@@ -14,14 +14,14 @@ This guide walks you though and describes the features and the supported functio
 
 - Network id: 0.
 - Smesh Storage commitment:	~20 minutes on a modern CPU.
-- Layer mining award: 50 Smesh.
+- Layer smeshing reward: 50 Smesh.
 - Rewards maturity: 4 layers (20 minutes).
 - Non-routable Smeshers are not supported.
 - Layer duration: 5	minutes.
 - Number of layers in an epoch:	288.
 - Epoch duration: 24 hours.
 - Smesh transfer transaction fee: 1-3 Shmkls.
-- Time to first award: ~49 hours.
+- Time to first reward: ~49 hours.
 
 
 ## What is not part of Spacemesh 0.1?
