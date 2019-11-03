@@ -6,7 +6,7 @@ Users who run the Smesher in the App and submit blocks to the network, are entit
 
 ## Rewards Account
 
-Smesh rewards are awarded to the wallet main account that you have created in the App prior to setting up mining. This account is associated with your Smesher's identity and is called the `Rewards Account`.
+Smesh rewards are rewarded to the wallet main account that you have created in the App prior to setting up mining. This account is associated with your Smesher's identity and is called the `Rewards Account`.
 
 ## Layers, Epochs and Blocks
 
@@ -30,12 +30,12 @@ So, for example, if a layer includes 10 blocks, each submitted by a different Sm
 This reward amount is adjusted by the number of transactions included in blocks. The rewards for Smeshers which have submitted less than 15 transactions in their submitted block is reduced by 15%. This penalty is distributed as a bonus evenly to all Smeshers who have submitted more than 15 transactions in their submitted block in the layer.
 
 ## Transaction-Fees
-In addition to the layer award described above, all Smeshers which submitted at least one block to a layer are entitled for a share of the transaction fees of valid transactions included in blocks in that layer.
+In addition to the layer reward described above, all Smeshers which submitted at least one block to a layer are entitled for a share of the transaction fees of valid transactions included in blocks in that layer.
 
 The transaction fees in a layer, are evenly distributed to all the Smeshers who have submitted a block in the layer.
 
 ## Tracking your Rewards
-Rewards are added your rewards account when 4 layers (20 minutes) have passed since a layer that you are entitled to receive an award for.
+Rewards are added your rewards account when 4 layers (20 minutes) have passed since a layer that you are entitled to receive a reward for.
 
 To track your rewards, check your rewards account transactions log in the App.
 
@@ -44,8 +44,8 @@ TODO: add screen shot....
 
 ## Summary
 
-- A fixed Smesh amount called the layer award is evenly distributed between all Smeshers which contributed a block to the layer.
+- A fixed Smesh amount called the layer reward is evenly distributed between all Smeshers which contributed a block to the layer.
 
 - The transaction fees of transactions included in a layer are evenly distributed between all the Smeshers that contributed a block to that layer.
 
-- Smeshers which submit blocks with less than 15 transactions award is reduced. The penalty is shared between all Smeshers who submitted blocks in that layer.
+- Smeshers which submit blocks with less than 15 transactions reward is reduced. The penalty is shared between all Smeshers who submitted blocks in that layer.
