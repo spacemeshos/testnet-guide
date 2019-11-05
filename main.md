@@ -51,9 +51,9 @@ Spacemesh software is designed to run on real people's home PCs and not on dedic
 ## What is the Spacemesh Testnet?
 The Spacemesh Testnet is a public beta release of the Spacemesh p2p software platform. Anyone with a computer and an Internet connection can join without any permission from anywhere and participate in the Spacemesh p2p network.
 
-The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is ``monopoly money'' without any real world value.
+The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is monopoly money without any real world value.
 
-## What is Spacemesh 0.1 ?
+## What is Spacemesh 0.1?
 Spacemesh 0.1 is the name of the first release of the Spacemesh Testnet. Everything described in this guide is about Spacemesh 0.1. In Spacemesh 0.1, we releasing platform capabilities that we believe are ready for public testing. We have much more in the pipeline and we plan to launch new releases throughout 2020. This guide will be updated as we make available new releases.
 
 ## Why should I join the Spacemesh Testnet?
