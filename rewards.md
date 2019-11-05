@@ -27,7 +27,7 @@ Each layer has a total reward of 50 Smesh. This reward is distributed to the rew
 So, for example, if a layer includes 10 blocks, each submitted by a different Smesher, 50 SMH will be distributed evenly between the reward accounts of each of the 10 participating Smeshers. Each account will be credited with 5 SMH.
 
 ## Layer Rewards Adjustment
-This reward amount is adjusted by the number of transactions included in blocks. The rewards for Smeshers which have submitted less than 15 transactions in their submitted block is reduced by 15%. This penalty is distributed as a bonus evenly to all Smeshers who have submitted more than 15 transactions in their submitted block in the layer.
+This reward amount is adjusted by the number of transactions included in blocks. The rewards for Smeshers which have submitted less than 15 transactions in their submitted block is reduced by 10%. This penalty is distributed as a bonus evenly to all Smeshers who have submitted more than 15 transactions in their submitted block in the layer.
 
 ## Transaction-Fees
 In addition to the layer reward described above, all Smeshers which submitted at least one block to a layer are entitled for a share of the transaction fees of valid transactions included in blocks in that layer.
