@@ -8,9 +8,10 @@ The basic unit of accounting in the Spacemesh ledger and platform.
 Transaction fees on Smesh transactions are displayed in Shmkl units in the App. One trillion (10^12) Shmkls equals to one Smesh.
 
 ## Smesher
-Smesher is the software package that maintains and updates the Spacemesh distributed ledger according to the Spacemesh protocol.
+Smesher is the software package that maintains and updates the Spacemesh decentralized ledger according to the Spacemesh protocol. Smeshers form a p2p network by communicating with each other over the Internet.
 
 The Spacemesh decentralized ledger is created and secured by people just like you who run a Smesher in the Spacemesh App on their desktop computers.
+
 
 Your Smesher is responsible for submitting blocks with Smesh transactions to the network according to the Spacemesh protocol. We call this Smeshing. You earn smeshing rewards for smeshing.
 
