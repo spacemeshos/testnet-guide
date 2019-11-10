@@ -20,7 +20,7 @@ This guide walks you though and describes the features and the supported functio
 - Layer duration: 5	minutes.
 - Number of layers in an epoch:	288.
 - Epoch duration: 24 hours.
-- Smesh transfer transaction fee: 1-3 Shmkls.
+- Smesh transfer transaction fee: 1-3 Smidge.
 - Time to first reward: ~49 hours.
 
 

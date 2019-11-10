@@ -88,7 +88,7 @@ You should now see this screen:
 
 > Do not turn off your computer at least until you get a notification about setup completion.
 
-> The account currently selected in your wallet will be used as the `Coins Award Address` for block smeshing rewards.
+> The account currently selected in your wallet will be used as the `Rewards Address` for block smeshing rewards.
 
 Click `GOT IT`.
 
