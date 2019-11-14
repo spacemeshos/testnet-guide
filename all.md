@@ -24,5 +24,3 @@
 
 ## Legal resources
 - [Disclaimer](disclaimer.md)
-- [Terms of service](terms.md)
-- [Privacy statement](privacy.md)
