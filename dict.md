@@ -4,8 +4,7 @@
 The name of the Spacemesh cryptocurrency for the Spacemesh Testnets. One Smesh equals to one trillion (10^12) Smidge. The App enables you to send and receive Smesh.
 
 ## Smidge
-The basic unit of accounting in the Spacemesh ledger and platform.
-Transaction fees on Smesh transactions are displayed in Smidge units in the App. One trillion (10^12) Smidge equals to one Smesh.
+The basic unit of accounting in the Spacemesh ledger and platform. Transaction fees on Smesh transactions are displayed in Smidge units in the App. One trillion (10^12) Smidge equals to one Smesh.
 
 ## Smesher
 Smesher is the software package that maintains and updates the Spacemesh decentralized ledger according to the Spacemesh protocol. Smeshers form a p2p network by communicating with each other over the Internet.
