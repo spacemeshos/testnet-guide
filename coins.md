@@ -5,5 +5,5 @@
 
 ## Summary
 - Smesh (SMH) - the Spacemesh cryptocurrency.
-- Smidge- the Spacemesh platform basic accounting unit.
+- Smidge - the Spacemesh platform basic accounting unit.
 - 1 Smesh (SMH) = 10^12 Smidge.

@@ -1,8 +1,26 @@
 # Getting Testnet Smesh
 
-There are 2 ways to get Testnet Smesh:
+There are 3 ways to get Testnet Smesh:
 1. Earn smeshing rewards. To learn more about these rewards follow [this guide](rewards.md).
-2. Get Smesh sent from another account to your account in a transaction.
+2. Get Smesh from the Spacemesh Tap.
+3. Get Smesh sent from another account to your account in a transaction.
+
+---
+## Getting Smesh from the Tap
+
+1. Click on the `REQUEST SMESH` button in your wallet screen:
+
+![](images/v1.0/wallet_screen.png)
+
+You should see this screen:
+
+![](images/v1.0/request_coins.png)
+
+2. Click on the `copy button` next to your `account public address` to copy it public address to the clipboard.
+
+3. Join the [Testnet tap channel](https://discord.gg/ASpy52C) on the Discord.
+
+4. Send a message to the channel with the address you copied. To do so, paste the copied address into the new message text field and click `send`.
 
 ---
 
