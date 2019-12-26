@@ -1,8 +1,8 @@
 # Getting Testnet Smesh
 
 There are 3 ways to get Testnet Smesh:
-1. Earn smeshing rewards. To learn more about these rewards follow [this guide](rewards.md).
-2. Get Smesh from the Spacemesh Tap.
+1. Earn smeshing rewards. Follow [this guide](rewards.md) to set up smeshing.
+2. Get Smesh from the [Spacemesh Tap](https://discord.gg/ASpy52C).
 3. Get Smesh sent from another account to your account in a transaction.
 
 ---
