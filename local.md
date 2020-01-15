@@ -2,7 +2,7 @@
 
 ![](https://spacemesh.io/content/images/2019/07/localnet_and_wallet.jpg)
 
-👉 Follow this guide to build from source code and run a local Spacemesh Testent (localent) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
+👉 Follow this guide to build from source code and run a local Spacemesh Testnet (localnet) with 6 full nodes, 6 user accounts, and 1 POET support service on your computer using docker. This is a great way to get a feel for the protocol and the platform and to start hacking on Spacemesh.
 
 ## Youtube Video Tutorial
 
@@ -12,14 +12,14 @@
 
 ## Prerequisites and Running
 👉 OS X. Linux and Windows support is not fully tested yet.
+
 👉 Follow the setup instructions in the local testnet repo [readme file](https://github.com/spacemeshos/local-testnet) to install the prerequisites and to build and run the testnet.
 
 If all works as expected, you should have a terminal window which looks similar to this:
 
 ![local_net](https://spacemesh.io/content/images/2019/07/local_net.jpg)
 
-
-?> Got stuck in setup? Got any questions? Join our [Testnet Chat Channel](https://discord.gg/ASpy52C) and get help.
+Got stuck in setup? Got any questions? Join our [Testnet Chat Channel](https://discord.gg/ASpy52C) and get help.
 
 ## Working with the testnet
 
@@ -101,7 +101,7 @@ Let's check `yosher` and `anton` balances in the CLI wallet and observe that the
 
 1. Enter `account` to view Anton's current balance. It should reflect the executed transaction amount.
 
-?> Note that as all user accounts are miner accounts of full nodes their balance will periodically increase due to epoch mining awards. This is why Anton's balance may be bigger than what you observed previously.
+Note that as all user accounts are miner accounts of full nodes their balance will periodically increase due to epoch mining awards. This is why Anton's balance may be bigger than what you observed previously.
 
 2. Enter `switch account` to switch an account.
 
@@ -109,7 +109,7 @@ Let's check `yosher` and `anton` balances in the CLI wallet and observe that the
 
 4. Enter `account` to view Yosher's balance.
 
-> Yosher balance should now reflect the 500 coins he got from Anton plus any mining awards that he got for mining with his full node.
+Yosher balance should now reflect the 500 coins he got from Anton plus any mining awards that he got for mining with his full node.
 
 ### Stopping the Testnet
 
@@ -119,7 +119,7 @@ Let's check `yosher` and `anton` balances in the CLI wallet and observe that the
 
 ### Connecting the wallet to a different node
 
-TBR
+Coming soon!
 
 ### Hacking on the localnet
 
@@ -134,4 +134,4 @@ TBR
 
 ----
 
-?> Got stuck? Got any questions? Join our [Testnet chat channel](https://discord.gg/ASpy52C) on Discord and get help.
+Got stuck? Got any questions? Join our [Testnet chat channel](https://discord.gg/ASpy52C) on Discord and get help.

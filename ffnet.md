@@ -1,24 +1,25 @@
 # Friends & Family Net (ffnet)
 
 ## Welcome!
-Welcome dear Spacemesh friend to the Spacemesh f&f net!
-This is an early tech preview of the Spacemesh App and full node and expect things to be rough around the edges and some things that should be automated are manual and sub-optimal.
+Welcome dear Spacemesh friend to the Spacemesh ffnet! This is an early tech preview of the Spacemesh App and full node. Expect things to be rough around the edges and expect some things that should be automated to be manual and sub-optimal, for now.
 
 ## What to expect?
-Chaos, broken things but also a glimpse on an awesome near future where anyone in the world can mine a fair cryptocurrency from home using his existing computer while still being able to play Fortnite on it without understanding what CLI and Terminal mean :-)
+
+Chaos, broken things but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer while still being able to play Fortnite without understanding what CLI and Terminal mean 🤓
 
 ## Why are we doing this?
-We want to give you a sneak peek of the Spacemesh technology and product, test them with your help and improve them by getting good feedback from you!
+
+We want to give you a sneak peek of the Spacemesh technology and product, test them with your help and improve them with your feedback!
 
 ## Joining
 
-1. Join the [ffnet discord channel](https://discord.gg/KyyQKst). We are going to provide additional info, answer your questions, announce app updates and get your feedback on it!
+1. Join the [ffnet discord channel](https://discord.gg/KyyQKst). On this channel we will provide additional info, answer your questions, announce app updates and get your feedback!
 
-2. To join the net you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements).
+2. To join the ffnet you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements).
 
-    *Please do NOT attempt to join from a laptop you often move between different WIFI networks. Things will not work properly*.
+    *Please do NOT attempt to join from a laptop if you often move between different WIFI networks. Things will not work properly.*
 
-    *Please do NOT join if your computer or network connection doesn't meet the recommended requirements*.
+    *Please do NOT join if your computer or network connection doesn't meet the recommended requirements.*
 
 3. Download the App installer and run it to install the App:
 
@@ -36,7 +37,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 ## Getting some Smesh
 You should start getting your first smeshing rewards in 24-48 hours from the time you finish the setup.
 
-You can also request some Smesh from the Tap by copyiing and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute coin transactions before you got any smeshing rewards.
+You can also request some Smesh from the Tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute coin transactions before you got any smeshing rewards.
 
 ## How long will this net run?
 Until we soft launch the open Spacemesh testnet.
