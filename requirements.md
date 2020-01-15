@@ -16,6 +16,7 @@
 
 - A desktop computer with modern Intel or AMD multi-core CPU (4 or more cores).
 - 8 GB RAM.
+- 350GB free space on a magnetic hard-drive or SSD drive.
 - An always on Internet connection capable of 10 mbps downloads and 1 mbps uploads.
 
 
