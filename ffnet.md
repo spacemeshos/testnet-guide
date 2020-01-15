@@ -21,7 +21,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
     *Please do NOT join if your computer or network connection doesn't meet the recommended requirements*.
 
 
-3. Configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](netconfig) but you can use any port and not just 7153.
+3. Configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](netconfig.md) but you can use any port and not just 7153.
 
     *You will NOT be able to join the network unless you have completed this step.*
 
