@@ -1,11 +1,14 @@
 # Friends & Family Net (ffnet)
 
 ## Welcome!
-Welcome dear friends & family to the Spacemesh f&f net!
+Welcome dear Spacemesh friend to the Spacemesh f&f net!
 This is an early tech preview of the Spacemesh App and full node and expect things to be rough around the edges and some things that should be automated are manual and sub-optimal.
 
-## what to expect?
+## What to expect?
 Chaos, broken things but also a glimpse on an awesome near future where anyone in the world can mine a fair cryptocurrency from home using his existing computer while still being able to play Fortnite on it without understanding what CLI and Terminal means :-)
+
+## Why are we doing this?
+We want to give you a sneak peek of the Spacemesh technology and product, test them with your help and improve them by getting good feedback from you!
 
 ## Joining
 
@@ -32,3 +35,9 @@ Chaos, broken things but also a glimpse on an awesome near future where anyone i
 
 ## Getting some Smesh
 You can request Smesh from the App by pasting your account address from your wallet in the f&f discord channel. This should allow you to create coin transactions before you get any smeshing rewards. You should start getting rewards in 48 hours.
+
+## How long will this net run?
+Until we soft launch the open Spacemesh testnet.
+
+## How do I give feedback or get help?
+Use the [ffnet discord channel](https://discord.gg/KyyQKst).
