@@ -4,6 +4,9 @@
 Welcome dear friends & family to the Spacemesh f&f net!
 This is an early tech preview of the Spacemesh App and full node and expect things to be rough around the edges and some things that should be automated are manual and sub-optimal.
 
+## what to expect?
+Chaos, broken things but also a glimpse to an awesome future where anyone in the world can mine a fair cryptocurrency from home using his existing computer while still being able to play Fortnite on it without understanding what CLI and Terminal means :-)
+
 ## Joining
 
 1. Join the [ffnet discord channel](https://discord.gg/KyyQKst). We are going to provide additional info, answer your questions and get your feedback on it!
