@@ -14,14 +14,14 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 1. Join the [ffnet discord channel](https://discord.gg/KyyQKst). We are going to provide additional info, answer your questions, announce app updates and get your feedback on it!
 
-2. To join the net you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements.md).
+2. To join the net you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements).
 
     *Please do NOT attempt to join from a laptop you often move between different WIFI networks. Things will not work properly*.
 
     *Please do NOT join if your computer or network connection doesn't meet the recommended requirements*.
 
 
-3. Configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](http://localhost:3000/#/netconfig) but you can use any port and not just 7153.
+3. Configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](netconfig) but you can use any port and not just 7153.
 
     *You will NOT be able to join the network unless you have completed this step.*
 
