@@ -20,14 +20,14 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
     *Please do NOT join if your computer or network connection doesn't meet the recommended requirements*.
 
+3. Download the App installer and run it to install the App:
 
-3. Configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](netconfig.md) but you can use any port and not just 7153.
+        [Spacemesh App Installer (ffnet release)](#)
+
+
+4. Before running the Spacemesh App, configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](netconfig.md) but you can use any port and not just 7153.
 
     *You will NOT be able to join the network unless you have completed this step.*
-
-4. Download the App installer and run it:
-
-    [Spacemesh App Installer (ffnet release)](#)
 
 5. Run the Spacemesh App. You will be prompted for a port number. Enter the port number you have configured to accept incoming packets from the Internet and proceed to setup smeshing.
 
