@@ -5,7 +5,7 @@ Welcome dear Spacemesh friend to the Spacemesh f&f net!
 This is an early tech preview of the Spacemesh App and full node and expect things to be rough around the edges and some things that should be automated are manual and sub-optimal.
 
 ## What to expect?
-Chaos, broken things but also a glimpse on an awesome near future where anyone in the world can mine a fair cryptocurrency from home using his existing computer while still being able to play Fortnite on it without understanding what CLI and Terminal means :-)
+Chaos, broken things but also a glimpse on an awesome near future where anyone in the world can mine a fair cryptocurrency from home using his existing computer while still being able to play Fortnite on it without understanding what CLI and Terminal mean :-)
 
 ## Why are we doing this?
 We want to give you a sneak peek of the Spacemesh technology and product, test them with your help and improve them by getting good feedback from you!
