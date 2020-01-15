@@ -35,9 +35,9 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 6. Proceed to setup smeshing and your wallet. [Follow this guide](/guide/setup) for step by step instructions.
 
 ## Getting some Smesh
-You should start getting your first smeshing rewards in 24-48 hours from the time you finish the setup.
+You should start getting your first smeshing reward in 24-48 hours from the time you finish the smeshing setup.
 
-You can also request some Smesh from the Tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute coin transactions before you got any smeshing rewards.
+You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
 ## How long will this net run?
 Until we soft launch the open Spacemesh testnet.
