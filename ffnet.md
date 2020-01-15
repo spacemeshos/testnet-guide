@@ -12,7 +12,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 ## Joining
 
-1. Join the [ffnet discord channel](https://discord.gg/KyyQKst). We are going to provide additional info, answer your questions and get your feedback on it!
+1. Join the [ffnet discord channel](https://discord.gg/KyyQKst). We are going to provide additional info, answer your questions, announce app updates and get your feedback on it!
 
 2. To join the net you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements.md).
 
@@ -34,7 +34,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 6. Proceed to setup smeshing and your wallet. [Follow this guide](/guide/setup) for step by step instructions.
 
 ## Getting some Smesh
-You can request Smesh from the App by pasting your account address from your wallet in the f&f discord channel. This should allow you to create coin transactions before you get any smeshing rewards. You should start getting rewards in 48 hours.
+You can request Smesh from the App by pasting your account address from your wallet in the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to create coin transactions before you get any smeshing rewards. You should start getting rewards in 48 hours.
 
 ## How long will this net run?
 Until we soft launch the open Spacemesh testnet.
