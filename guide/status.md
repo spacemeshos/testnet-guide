@@ -40,7 +40,7 @@ Follow these guides to become a Spacemesh maestro:
 ---
 ## Join our Community
 Stuck? Need additional info? Got some cool ideas for the project?
-- Join the conversation in our [Testnet  Chat channel](https://discord.gg/ASpy52C) on Discord.
+- Join the conversation in our [Testnet  Chat channel](https://discord.gg/Mf8T4Db) on Discord.
 - Get some Testnet Smesh from the [tap channel](https://discord.gg/ASpy52C) on the Discord.
 - Ask questions and get answers in our [Testnet community forum](https://community.spacemesh.io/c/testnet).
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh).

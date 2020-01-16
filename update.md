@@ -8,4 +8,4 @@ You can also check for updates manually at any time from the App settings screen
 
 Spacemesh may also occasionally ask you to perform the mining step again after an app update.
 
-Please join the [Testnet Community Channel on Discord](https://discord.gg/ASpy52C) - we will post important update related announcement there and on the [Spacemesh Twitter account](https://twitter.com/teamspacemesh)
+Please join the [Testnet Community Channel on Discord](https://discord.gg/Mf8T4Db) - we will post important update related announcement there and on the [Spacemesh Twitter account](https://twitter.com/teamspacemesh)
