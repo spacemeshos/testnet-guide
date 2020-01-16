@@ -21,6 +21,7 @@
 - [System requirements](requirements.md)
 - [Getting ready for Mainnet](mainnet.md)
 - [Terminology](dict.md)
+- [Report a bug](issues)
 
 ## Legal resources
 - [Disclaimer](disclaimer.md)
