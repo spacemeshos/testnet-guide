@@ -77,7 +77,7 @@ To run a Smesher, smesh blocks, and to get smeshing rewards you need `an always-
 ## Testnet Community Resources
 Got stuck? Need additional info? Got some cool ideas for the project?
 - Get answers and ask questions in our [Testnet Community Channel](https://discord.gg/Mf8T4Db) on Discord.
-- Get answers and ask questions in our [Testnet community forum](https://discord.gg/ASpy52C).
+- Get answers and ask questions in our [Testnet community forum](https://community.spacemesh.io/c/testnet).
 - Follow [Spacemesh on Twitter](https://twitter.com/teamspacemesh).
 - Learn more about Spacemesh on [https://Spacemesh.io](https://spacemesh.io).
 
