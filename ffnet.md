@@ -39,6 +39,9 @@ You should start getting your first smeshing reward in 24-48 hours from the time
 
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
+## Helping us to improve Spacemesh
+You can help us to improve Spacemesh by reporting to us any bug or issue you come across while using the App. Lear how to [submit a bug report](issues).
+
 ## How long will this net run?
 Until we soft launch the open Spacemesh testnet.
 
