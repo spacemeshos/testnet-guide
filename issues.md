@@ -13,7 +13,4 @@ When reporting a bug, please provide a clear description of what you were trying
 
 For example - you got an error message while trying to execute a transaction. You expected to be able to execute the transaction and not get an error message.
 
-Attach any applicable screen shot and please try to include a zip file of your app's log file. Your app's log file `log.txt` is stored in the following path on your hard-drive:
-- Windows 10: [add here]
-- Linux: [add here]
-- OS X: [add here]
+Please add to your report any applicable screen shots and please also try to include a zip file of your app's log file. Your app's log file is called `spacemeshlog.txt` and it is saved in your computer documents folder.
