@@ -3,7 +3,7 @@
 You can help us improve Spacemesh by sending us a report of any issue you come across while running the App.
 
 ### What is an issue?
-Anything you think is unexpected behavior in the Spacemesh App. Anything that prevented you from completing an action that the App supports. For example, executing a transaction or setting up Smeshing.
+Anything you think is unexpected behavior in the Spacemesh App. Anything that prevented you from completing an action that you think the App should support. For example, executing a transaction or setting up Smeshing.
 
 ### Reporting an issue
 There are two ways to report bugs:
