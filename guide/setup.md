@@ -64,21 +64,21 @@ This one-time storage commitment enables Spacemesh to reach consensus on a distr
 
 You should now see this screen:
 
-![](../images/v1.0/miner_setup_drive.png)
+![](../images/v1.0/miner_setup_size.png)
 
-The App now prompts you to setup block smeshing on your computer. You need to specify which hard drive you would like to use and how much storage you wish to commit on that drive to Spacemesh.
+The App prompts you to setup block smeshing on your computer. You need to specify which hard drive you would like to use and how much storage you wish to commit on that drive to Spacemesh.
 
-Click on the hard drive that you would like to use and click `NEXT`.
+Click on the hard drive that you would like to use for smeshing and click `NEXT`.
 
 You should now see this screen:
 
-![](../images/v1.0/miner_setup_size.png)
+![](../images/v1.0/miner_setup_post_size.png)
 
 Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
 
 > The more storage you allocate for Spacemesh on your drive, the higher your Smesh rewards will be.
 
-> Note that for Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of XXX GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainent, you will be able to determine how much space you would like to allocate, e.g., 250GB, 500Gb, 750GB, etc.
+> Note that for Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainent, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100GB, 20Gb, 300GB, etc.
 
 You should now see this screen:
 
@@ -94,12 +94,6 @@ Click `GOT IT`.
 
 ---
 
-## Step 3 - Configuring your Computer
-
-### Configure your Network
-In order to participate in the Spacemesh network and earn Smesh rewards you need to configure your computer firewall (and in some cases your home network router) to enable the App to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
-
-Please follow the instructions in [this guide](netconfig.md).
 
 ### Disable Computer Sleep Mode
 To finish the one-time mining process and have your Smesher participate in the Spacemesh protocol so you can earn `Smeshing rewards`, **you need to make sure that your desktop computer does not go to sleep or hibernate**.
