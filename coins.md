@@ -8,8 +8,8 @@
 ## Additional Display Units
 Additional units are used to display large amounts of smidge which are too small to display in Smesh inits.
 
-- GSmidge (GMSD) - 1 billion smidge.
-- MSmidge (MSD) - 1 million smidge.
+- GSmidge (GSMD) - 1 billion smidge.
+- MSmidge (MSMD) - 1 million smidge.
 
 ## Summary
 - Smesh (SMH) - the Spacemesh cryptocurrency.
