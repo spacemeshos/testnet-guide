@@ -4,6 +4,11 @@ In order to participate in the Spacemesh network and to earn smeshing rewards yo
 
 > Upcoming releases of the Spacemesh App will not have this requirement. This is a temporary requirement for the first release of the Spacemesh App.
 
+## Computer Clock Configuration
+Please make sure that your computer clock is synced to a time server such as time.windows.com or time.apple.com. You must be synced to NTP time to be able to connect to the Spacemesh network.
+
+> Verify you are synced with an NTP server using your computer's `Date & Time` settings.
+
 ---
 
 ## Windows 10
