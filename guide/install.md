@@ -95,4 +95,4 @@ Follow the on-screen installation instructions. When complete, the `Spacemesh Ap
 
 ---
 
-Next, [Follow this guide](guide/setup.md) to set up a wallet and block producing in the App.
+Next, [Follow this guide](guide/setup.md) to set up a wallet and smeshing in the App.

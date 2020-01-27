@@ -36,4 +36,4 @@ You must configure your network to allow the App to accept incoming connections 
 ### Laptop Usage
 You can install the App, run a Smesher and produce blocks on your laptop if it meets the minimum system requirements. However, you will need to make sure you leave your laptop open and connected to power and to the Internet 24/7.
 
-Occasionally shutting down your laptop or the App may prevent you from producing blocks and from earning smeshing rewards.
+Occasionally shutting down your laptop or the App may prevent you from smeshing blocks and from earning smeshing rewards.
