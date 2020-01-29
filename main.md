@@ -15,11 +15,11 @@ We are happy to see you here. Please read the intro on this page to learn the ba
 ---
 
 ## What is Spacemesh?
-Spacemesh is a programmable cryptocurrency open-source platform powered by a novel proof-of-space-time (PoST) consensus protocol. Spacemesh does not use proof-of-stake or proof-of-work (PoW) protocols, thus it avoids some of their inherent issues, such as massive energy waste, mining pooling and centralization.
+Spacemesh is a programmable cryptocurrency open-source platform powered by a novel proof-of-space-time (PoST) consensus protocol. Spacemesh does not use proof-of-stake (PoStake) or proof-of-work (PoW) protocols, thus it avoids some of their inherent issues, such as massive energy waste, mining pooling and centralization.
 
 ## What does Spacemesh try to achieve?
 Spacemesh is designed to achieve three main objectives:
-1. Create and maintain the ledger for the Smesh. Smesh is a fair, a-political cryptocurrency that will become a global means of payment.
+1. Create and maintain the ledger for the Smesh (SMH). Smesh is a fair, a-political cryptocurrency that will become a global means of payment.
 2. Ensure fair distribution of Smesh.
 3. Establish a global programmable infrastructure for tokenized apps, communities and economies.
 
@@ -32,7 +32,7 @@ We aim to create a world in which any interested party can mine Spacemesh crypto
 Spacemesh has improved upon PoW by creating a consensus protocol that consumes significantly less energy (i.e., `A Better Bitcoin`).
 
 ### Lack of satisfactory smart contracts infrastructure for creation of fair communities and decentralized financial services.
-We plan to add a modern smart contracts virtual machine, called Spacemesh virtual machine (SVM), a new modern smart contracts language (Smesh) and dev tools designed for developers to build applications on the Spacemesh platform.
+We plan to add a modern smart contracts virtual machine, called Spacemesh virtual machine (SVM), a new modern smart contracts language and dev tools designed for developers to build applications on the Spacemesh platform.
 
 ## What makes Spacemesh unique?
 A mesh topology combined with a novel consensus PoST protocol that allows anyone to join the decentralized Spacemesh blockchain computer without requiring permission, simply by committing some free hard-drive space.
@@ -54,7 +54,7 @@ The Spacemesh Testnet is a public beta release of the Spacemesh p2p software pla
 The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is monopoly money without any real world value.
 
 ## What is Spacemesh 0.1?
-Spacemesh 0.1 is the name of the first release of the Spacemesh Testnet. Everything described in this guide is about Spacemesh 0.1. In Spacemesh 0.1, we releasing platform capabilities that we believe are ready for public testing. We have much more in the pipeline and we plan to launch new releases throughout 2020. This guide will be updated as we make available new releases.
+Spacemesh 0.1 is the name of the first release of the Spacemesh Testnet. Everything described in this guide is about Spacemesh 0.1. In Spacemesh 0.1, we are releasing platform capabilities that we believe are ready for public testing. We have much more in the pipeline and we plan to launch new releases throughout 2020. This guide will be updated as we make available new releases.
 
 ## Why should I join the Spacemesh Testnet?
 Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Smesh` (SMH) cryptocurrency. Spacemesh is a decentralized ledger designed to be formed from a large number of home desktop PC owners who run the Spacemesh software on their PCs. To test such a network we need a large number of block producers to join the Testnet.
@@ -66,7 +66,7 @@ Joining also helps you to prepare for participating in the Spacemesh Mainnet onc
 In the true spirit of crypto-economy, we have launched this Testnet so that anyone can verify (rather than blindly trust) the 3 main promises we make:
 1. The core technology and product work.
 2. Participants don't have to do anything after the initial setup to run a Smesher.
-3. Participants can their your computer normally while running a Smesher.
+3. Participants can use their computer normally while running a Smesher.
 
 ## How can I join the Spacemesh Testnet?
 Just follow the instructions in this guide. Let's [get started](guide/install.md)!

@@ -96,7 +96,7 @@ Click `GOT IT`.
 
 
 ### Disable Computer Sleep Mode
-To finish the one-time mining process and have your Smesher participate in the Spacemesh protocol so you can earn `Smeshing rewards`, **you need to make sure that your desktop computer does not go to sleep or hibernate**.
+To finish the one-time smeshing process and have your Smesher participate in the Spacemesh protocol so you can earn `Smeshing rewards`, **you need to make sure that your desktop computer does not go to sleep or hibernate**.
 
 Follow [this guide](no_sleep.md) to disable sleep on your computer.
 

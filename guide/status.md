@@ -23,7 +23,7 @@ You will be prompted to quit the app or to switch it to run in the background. C
 
 ## Well Done!
 
-You did it - you are now up and running a Smesher, and you will start receiving Smesh rewards for producing blocks to the Spacemesh platform.
+You did it - you are now up and running a Smesher, and you will start receiving Smesh rewards for producing blocks on the Spacemesh platform.
 
 ![](../images/fireworks.gif)
 
