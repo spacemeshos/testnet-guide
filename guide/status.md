@@ -17,7 +17,7 @@ You will be prompted to quit the app or to switch it to run in the background. C
 
 ### Smesh rewards Expectancy
 
-> If you have committed storage and left your app running 24/7, and your network is [properly configured](../netconfig.md) then you should expect your first Smesh reward in about 49 hours.
+> If you have committed storage and left your app running 24/7, and your network is [properly configured](../netconfig.md) then you should expect your first Smesh reward in about 49 hours, and the subsequent rewards every 24 hours.
 
 ?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and get Smesh rewards for your contribution.
 
