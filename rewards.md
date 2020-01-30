@@ -1,8 +1,17 @@
 # Smesh Rewards
 
-Users who run the Smesher in the App and submit blocks to the network, are entitled to Smesh rewards.
+## Overview
+Users who run the Smesher in the App and submit blocks to the network, are entitled to Smesh rewards. After setting up smeshing on your computer you should get your first reward in up to 49 hours.  Starting with the time of your first reward, you should start getting a reward every 24 hours.
 
-> Learn more about [Smesh](coins.md).
+Every 5 minutes time period, the protocol distributes 50 Smesh (SMH) to all smeshers who contributed one or more block to the mesh in the time period.
+
+Your exact reward amount depends on how many smeshers added blocks to the mesh in that time period. Keep reading this page for a more detailed technical explanation.
+
+
+
+> Learn more about [Smesh (SMH)](coins.md) coin units.
+
+---
 
 ## Rewards Account
 
