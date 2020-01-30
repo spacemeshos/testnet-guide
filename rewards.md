@@ -46,15 +46,14 @@ The transaction fees in a layer, are evenly distributed to all the Smeshers who 
 ## Tracking your Rewards
 Rewards are added your rewards account when 4 layers (20 minutes) have passed since a layer that you are entitled to receive a reward for.
 
-To track your rewards, check your rewards account transactions log in the App.
+To view your rewards, click on `ALL TRANSACTIONS` in the Wallet screen. Rewards appear as special transactions in the transaction log:
 
-TODO: add screen shot....
-
+![](images/v1.0/rewards_display.png)
 
 ## Summary
 
-- A fixed Smesh amount called the layer reward is evenly distributed between all Smeshers which contributed a block to the layer.
+A fixed Smesh amount called the layer reward is evenly distributed between all Smeshers which contributed a block to the layer.
 
-- The transaction fees of transactions included in a layer are evenly distributed between all the Smeshers that contributed a block to that layer.
+The transaction fees of transactions included in a layer are evenly distributed between all the Smeshers that contributed a block to that layer.
 
-- Smeshers which submit blocks with less than 15 transactions reward is reduced. The penalty is shared between all Smeshers who submitted blocks in that layer.
+Smeshers which submit blocks with less than 15 transactions reward is reduced. The penalty is shared between all Smeshers who submitted blocks in that layer.
