@@ -2,7 +2,7 @@
 
 `Smesh` (SMH) is the name of the Spacemesh native cryptocurrency. `Smidge` (SMD) is the basic unit of accounting of the Spacemesh platform. Smidge are used to set transaction fees and in smart contracts. One trillion (10^12) Smidge equals one Smesh.
 
-## Additional Units)
+## Additional Units
 Additional units (denominations) are used for display of large amounts of smidge that are too small to display in Smesh units.
 
 `GSmidge` (GSMD) - 1 billion smidge.
