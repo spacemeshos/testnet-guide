@@ -39,11 +39,19 @@ You should start getting your first smeshing reward in 24-48 hours from the time
 
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
+## Peeking Under the Hood
+The logs of the full node managed by the app are saved as `spacemesh-log.txt` in your documents folder.
+
 ## Helping us to improve Spacemesh
-You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues).
+You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always atatch your log file.
 
 ## How long will this net run?
-Until we soft launch the open Spacemesh testnet.
+Until we soft launch the open Spacemesh testnet. Likely around 2-3 weeks.
 
 ## How do I give feedback or get help?
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
+
+## Known Major Issues 
+### Things we are working on for the first major app update
+- Slow transaction confirmation time - we only report the `confirm` state but not the `approved` state, therefore it will take up to 30 minutes for pending transactions to show as confirmed instead of 5-12 minutes.
+- Insufficient node statuses display in the smeshing tab. We plan to display node sync and network status in this tab so users can tell what their node is doing.
