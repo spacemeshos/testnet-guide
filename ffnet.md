@@ -51,7 +51,7 @@ Until we soft launch the open Spacemesh testnet. Likely around 2-3 weeks.
 ## How do I give feedback or get help?
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
-## Known Major Issues 
+## Known Major Issues
 ### Things we are working on for the first major app update
-- Slow transaction confirmation time - we only report the `confirm` state but not the `approved` state, therefore it will take up to 30 minutes for pending transactions to show as confirmed instead of 5-12 minutes.
+- Slow transaction confirmation time - we only report the `confirmed` state but not the `approved` state, therefore it will take up to 30 minutes for pending transactions to show as confirmed instead of 5-12 minutes.
 - Insufficient node statuses display in the smeshing tab. We plan to display node sync and network status in this tab so users can tell what their node is doing.
