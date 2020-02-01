@@ -5,7 +5,7 @@ Welcome, dear Spacemesh friend, to the Spacemesh ffnet! This is an early tech pr
 
 ## What to expect?
 
-Chaos and broken things, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play Fortnite without understanding what CLI and Terminal mean. 🤓
+Chaos and broken things, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite without understanding what CLI and Terminal mean. 🤓
 
 ## Why are we doing this?
 
@@ -43,7 +43,7 @@ You can also request some Smesh from the ffnet tap by copying and pasting your a
 The logs of the full node managed by the app are saved as `spacemesh-log.txt` in your documents folder.
 
 ## Helping us to improve Spacemesh
-You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always atatch your log file.
+You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always attach your log file.
 
 ## How long will this net run?
 Until we soft launch the open Spacemesh testnet. Likely around 2-3 weeks.
