@@ -41,11 +41,9 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
 ## Peeking Under the Hood
-The logs of the full node managed by the app are saved as `spacemesh-log.txt` in your documents folder.
-
 To view the logs in realtime open a Terminal and type:
-- Windows 10: `Get-Content $HOME/documents/spacemesh-log.txt -Wait -Tail 1`
-- OS X and Linux: `tail -f ~/documents/spacemesh-log.txt`
+- Windows 10: TBD
+- OS X and Linux: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
 
 ## Helping us to improve Spacemesh
 You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always attach your log file.
