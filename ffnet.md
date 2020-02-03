@@ -32,15 +32,20 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 5. Run the Spacemesh App. You will be prompted for a port number. Enter the port number you have configured to accept incoming packets from the Internet.
 
-6. Proceed to set up smeshing and your wallet. [Follow this guide](/guide/setup) for step by step instructions.
+6. Proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
+
+> You should start getting your first smeshing reward in 24-49 hours from the time you finish the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
+
 
 ## Getting some Smesh
-You should start getting your first smeshing reward in 24-48 hours from the time you finish the smeshing setup.
-
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
 ## Peeking Under the Hood
 The logs of the full node managed by the app are saved as `spacemesh-log.txt` in your documents folder.
+
+To view the logs in realtime open a Terminal and type:
+- Windows 10: `Get-Content $HOME/documents/spacemesh-log.txt -Wait -Tail 1`
+- OS X and Linux: `tail -f ~/documents/spacemesh-log.txt`
 
 ## Helping us to improve Spacemesh
 You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always attach your log file.
@@ -51,7 +56,7 @@ Until we soft launch the open Spacemesh testnet. Likely around 2-3 weeks.
 ## How do I give feedback or get help?
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
-## Known Major Issues
-### Things we are working on for the first major app update
-- Slow transaction confirmation time - we only report the `confirmed` state but not the `approved` state, therefore it will take up to 30 minutes for pending transactions to show as confirmed instead of 5-12 minutes.
+## Major Known Issues
+- Slow transaction confirmation time - we only report the `confirmed` state but not the `approved` state, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` state, transactions should be approved in about 3 minutes.
 - Insufficient node statuses display in the smeshing tab. We plan to display node sync and network status in this tab so users can tell what their node is doing.
+- Most of the issues we have are when stopping a running node and trying to sync again. It tis best if you can leave the app open 24x7 on your computer and minimize app restarts.
