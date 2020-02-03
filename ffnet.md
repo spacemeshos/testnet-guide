@@ -43,7 +43,8 @@ You can also request some Smesh from the ffnet tap by copying and pasting your a
 ## Peeking Under the Hood
 To view the logs in realtime open a Terminal and type:
 - Windows 10: TBD
-- OS X and Linux: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
+- OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
+- Linux: TBD
 
 ## Helping us to improve Spacemesh
 You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always attach your log file.
