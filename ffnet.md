@@ -5,7 +5,7 @@ Welcome, dear Spacemesh friend, to the Spacemesh ffnet! This is an early tech pr
 
 ## What to expect?
 
-Chaos and broken things and a sub-optimal user experience, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite without understanding what CLI and Terminal mean. 🤓
+Chaos and broken things and a sub-optimal user experience, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite and without understanding what CLI and Terminal mean. 🤓
 
 ## Why are we doing this?
 
@@ -57,6 +57,6 @@ Until we soft launch the open Spacemesh testnet. Likely around 2-3 weeks.
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
 ## Major Known Issues
-- Slow transaction confirmation time - we only report the `confirmed` state but not the `approved` state, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` state, transactions should be approved in about 3 minutes.
-- Insufficient node statuses display in the smeshing tab. We plan to display node sync and network status in this tab so users can tell what their node is doing.
-- Most of the issues we have are when stopping a running node and trying to sync again. It tis best if you can leave the app open 24x7 on your computer and minimize app restarts.
+- Slow transaction confirmation time. We only report the `confirmed` state but not the `approved` state, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` state, transactions should be approved in about 3 minutes.
+- Insufficient node statuses display in the smeshing tab. We plan to display node sync and network status in this tab, so users can tell what their node is doing.
+- Most of the issues we have occur when stopping a running node and trying to sync again. As such, it's best if you can leave the app open 24x7 on your computer and minimize app restarts.
