@@ -5,7 +5,7 @@ Welcome, dear Spacemesh friend, to the Spacemesh ffnet! This is an early tech pr
 
 ## What to expect?
 
-Chaos and broken things, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite without understanding what CLI and Terminal mean. 🤓
+Chaos and broken things and a sub-optimal user experience, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite without understanding what CLI and Terminal mean. 🤓
 
 ## Why are we doing this?
 
@@ -17,20 +17,20 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 2. To join the ffnet, you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements).
 
-    *Please do NOT attempt to join from a laptop if you often move between different WIFI networks. Things will not work properly.*
+!> Please do NOT attempt to join from a laptop if you often move between different WIFI networks. Things will not work properly.
 
-    *Please do NOT join if your computer or network connection doesn't meet the recommended requirements.*
+!> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
 3. Download the App installer and run it to install the App:
 
         [Spacemesh App Installer (ffnet release)](#)
 
 
-4. Before running the Spacemesh App, configure your network to accept incoming TCP and UDP packets on a specific port number. Please [follow this guide](netconfig.md), but note that you can use any port and not just 7153.
+4. Before running the Spacemesh App for the first time, please configure your network to forward TCP and UDP packets on a specific port number to your computer and your computer firewall to accept incoming TCP and UDP packets on this port. Please [follow this guide](netconfig.md). Note that you can use any port and not just 7153.
 
-    *You will NOT be able to join the network unless you have completed this step.*
+!> You will NOT be able to join the network unless you have completed this step.
 
-5. Run the Spacemesh App. You will be prompted for a port number. Enter the port number you have configured to accept incoming packets from the Internet.
+5. Run the Spacemesh App. You will be prompted to enter a port number. Enter the port number you have configured to be forwarded to your computer and to accept incoming packets from the Internet.
 
 6. Proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
