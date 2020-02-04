@@ -17,7 +17,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 2. To join the ffnet, you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [recommended system requirements](requirements).
 
-!> Please do NOT attempt to join from a laptop if you often move between different WIFI networks. Things will not work properly.
+!> Please do NOT attempt to join from a laptop if you often move between different WIFI networks or put it to sleep. Things will not work properly.
 
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
