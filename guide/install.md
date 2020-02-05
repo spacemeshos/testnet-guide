@@ -79,7 +79,7 @@ Follow [these steps](auth.md) to verify that the Installer you have downloaded i
 
 ## Step 3 - Configuring your Network
 
-In order to participate in the Spacemesh network and earn Smesh rewards you **MUST** configure your home network router to forward network traffic on TCP port 7153 and UDP port 7153 to your computer.
+In order to participate in the Spacemesh network and earn Smesh rewards you **must** configure your home network router to forward network traffic on TCP port 7153 and UDP port 7153 to your computer.
 
 In addition, you **must** configure your computer firewall to enable the App to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
 
@@ -87,7 +87,7 @@ Please follow the instructions in [this guide](netconfig.md).
 
 ?> Upcoming releases of the testnet will support running the App without having to configure port forwarding and your firewall. The network configuration is a temporary requirement.
 
-> IMPORTANT: You should configure your network before running the App for the first time.
+> IMPORTANT: You should configure your network BEFORE running the App for the first time.
 
 ---
 ## Step 4 - Installing the App
