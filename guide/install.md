@@ -35,14 +35,12 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-Windows 10 Spacemesh Installer
 [SPACEMESH_WIN10_INSTALLER](exe_installer)
 
 ---
 
 ### OS X
 
-OS X Spacemesh Installer
 [SPACEMESH_OS_X_INSTALLER](dmg_installer)
 
 ---
@@ -51,7 +49,6 @@ OS X Spacemesh Installer
 
 ?> Debian 8 or newer is supported.
 
-Debian Spacemesh Installer
 [SPACEMESH_DEB_INSTALLER](deb_installer)
 
 ---
@@ -82,11 +79,13 @@ Follow [these steps](auth.md) to verify that the Installer you have downloaded i
 
 ## Step 3 - Configuring your Network
 
-In order to participate in the Spacemesh network and earn Smesh rewards you MUST to configure your home network router to forward network traffic on TCP port 7153 and UDP port 7153 to your computer and configure your computer firewall to enable the App to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
+In order to participate in the Spacemesh network and earn Smesh rewards you **MUST** configure your home network router to forward network traffic on TCP port 7153 and UDP port 7153 to your computer.
+
+In addition, you **must** configure your computer firewall to enable the App to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
 
 Please follow the instructions in [this guide](netconfig.md).
 
-> Upcoming releases of the testnet will support running the App withhout configuring your router and firewall. This is a temporary requirement.
+?> Upcoming releases of the testnet will support running the App without having to configure port forwarding and your firewall. The network configuration is a temporary requirement.
 
 > IMPORTANT: You should configure your network before running the App for the first time.
 
@@ -95,7 +94,12 @@ Please follow the instructions in [this guide](netconfig.md).
 
 Next, **locate the Installer you downloaded and double click it** to install the App.
 
-Follow the on-screen installation instructions. When complete, the `Spacemesh App` should be available in your Apps.
+### OS X
+Drag the Spacemesh app in the installer screen to your Applications folder shortcut. Next, open your Applications folder and double click Spacemesh App to run it.
+
+### Windows or Linux
+The installer defaults to launch Spacemesh as soon as it is the installation is complete.
+
 
 ---
 
