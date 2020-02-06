@@ -42,7 +42,7 @@ You can also request some Smesh from the ffnet tap by copying and pasting your a
 
 ## Peeking Under the Hood
 To view the logs in realtime open a Terminal and type:
-- Windows 10: TBD
+- Windows 10 Poweshell: `Get-Content ~\AppData\Roaming\Spacemesh\spacemesh-log.txt -Wait -Tail 1`
 - OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
 - Linux: TBD
 

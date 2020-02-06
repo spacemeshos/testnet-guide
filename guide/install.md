@@ -100,6 +100,8 @@ Drag the Spacemesh app in the installer screen to your Applications folder short
 ### Windows or Linux
 The installer defaults to launch Spacemesh as soon as it is the installation is complete.
 
+> If you see a Windows security alert then check the checkbox 'Priave networks' and click 'Allow access'.
+
 
 ---
 
