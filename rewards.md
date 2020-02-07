@@ -1,13 +1,11 @@
 # Smesh Rewards
 
 ## Overview
-Users who run the Smesher in the App and submit blocks to the network, are entitled to Smesh rewards. After setting up smeshing on your computer you should get your first reward in up to 49 hours.  Starting with the time of your first reward, you should start getting a reward every 24 hours.
+Users who run the Smesher in the App and submit blocks to the network, are entitled to Smesh rewards. After setting up smeshing on your computer you will get your first reward within a couple of days. After receiving your first reward, you will begin receiving a reward every 24 hours.
 
-Every 5 minutes time period, the protocol distributes 50 Smesh (SMH) to all smeshers who contributed one or more block to the mesh in the time period.
+Every five minutes, the protocol distributes 50 Smesh (SMH) to all smeshers who contributed one or more block to the mesh over the prior five minutes.
 
-Your exact reward amount depends on how many smeshers added blocks to the mesh in that time period. Keep reading this page for a more detailed technical explanation.
-
-
+Your exact reward amount depends on how many smeshers added blocks to the mesh in that time period. Read on for a more detailed technical explanation.
 
 > Learn more about [Smesh (SMH)](coins.md) coin units.
 
@@ -15,13 +13,13 @@ Your exact reward amount depends on how many smeshers added blocks to the mesh i
 
 ## Rewards Account
 
-Smesh rewards are rewarded to the wallet main account that you have created in the App prior to setting up mining. This account is associated with your Smesher's identity and is called the `Rewards Account`.
+Smesh rewards appear in the main wallet account that you created in the Spacemesh App prior to setting up smeshinig. This account is associated with your Smesher's identity and is called the `Rewards Account` (aka, the "coinbase").
 
 ## Layers, Epochs and Blocks
 
 Blocks with transactions are added into `layers`.
 
-In the Spacemesh 0.1 Testnet, every layer has a constant duration of 5 minutes.
+In the Spacemesh 0.1 Testnet, every layer has a constant duration of five minutes.
 Layers are numbered. The first layer after the Testnet goes live is labeled `layer 0`, the next one `layer 1`, etc...
 
 An `epoch` is a fixed number of layers. Each Testnet epoch has 288 layers and is 24 hours long. So, `Epoch 0` is the first 288 layers starting with `layer 0` and its last layer is `layer 287`, and `Epoch 1` start in `Layer 288` and ends with `Layer 575`.
@@ -38,7 +36,7 @@ So, for example, if a layer includes 10 blocks, each submitted by a different Sm
 ## Layer Rewards Adjustment
 This reward amount is adjusted by the number of transactions included in blocks. The rewards for Smeshers which have submitted less than 15 transactions in their submitted block is reduced by 10%. This penalty is distributed as a bonus evenly to all Smeshers who have submitted more than 15 transactions in their submitted block in the layer.
 
-## Transaction-Fees
+## Transaction Fees
 In addition to the layer reward described above, all Smeshers which submitted at least one block to a layer are entitled for a share of the transaction fees of valid transactions included in blocks in that layer.
 
 The transaction fees in a layer, are evenly distributed to all the Smeshers who have submitted a block in the layer.
