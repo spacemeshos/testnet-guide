@@ -2,7 +2,7 @@
 
 ### Minimum System Requirements
 
-- A computer with modern Intel or AMD multi-core CPU (2 or more cores).
+- A computer with modern Intel or AMD multi-core CPU (2 cores / 4 native threads).
 - One of the following operating systems: Windows 10 (Home or Pro), OS X, Ubuntu 12.04, Fedora 21, Debian 8.
 - 4 GB RAM.
 - 150 GB free space on a magnetic hard-drive or SSD drive.
@@ -14,7 +14,7 @@
 
 ### Recommended System Requirements
 
-- A desktop computer with modern Intel or AMD multi-core CPU (4 or more cores).
+- A desktop computer with modern Intel or AMD multi-core CPU (4 cores / 8 native threads or better).
 - 8 GB RAM.
 - 350GB free space on a magnetic hard-drive or SSD drive.
 - An always on Internet connection capable of 10 mbps downloads and 1 mbps uploads.
