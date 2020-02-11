@@ -46,7 +46,8 @@ You can also request some Smesh from the ffnet tap by copying and pasting your a
 To view the logs in realtime open a Terminal and type:
 - Windows 10 Poweshell: `Get-Content ~\AppData\Roaming\Spacemesh\spacemesh-log.txt -Wait -Tail 1`
 - OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
-- Linux: TBD
+- Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
+- Sync status: `curl -X POST localhost:9090/v1/nodestatus`
 
 ## Helping us to improve Spacemesh
 You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always attach your log file.

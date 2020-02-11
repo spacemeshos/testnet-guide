@@ -15,7 +15,7 @@ Read on for a more detailed technical explanation.
 
 ---
 
-## Rewards Account
+## Rewards Accounts
 
 Smesh rewards appear in the main wallet's account that you created in the Spacemesh App prior to setting up smeshinig.
 
