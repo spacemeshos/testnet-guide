@@ -14,10 +14,10 @@ Please make sure that your computer clock is synced to a time server such as tim
 ## Windows 10
 
 ### Security Alert on first run
-If you see a Windows security alert when you launch the app, then check the checkbox 'Priave networks' and click 'Allow access'.
 
-### Network Configuration
-You need to manually permit the Spacemesh App to receive connections from the internet on TCP port 7153 and on UDP port 7153.
+> You should see a Windows security alert when you launch the app for the first time. Check the checkbox 'Private networks' and click 'Allow access'.
+
+If you didn't click on `Allow access` when prompted by Windows, you will need to manually permit the Spacemesh App to receive connections from the internet on TCP port 7153 and on UDP port 7153.
 
 > Follow these instructions to configure incoming connections rules for these two ports.
 
