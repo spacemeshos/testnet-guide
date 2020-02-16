@@ -27,6 +27,9 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
 
+### Running on Linux?
+Please create this directory `/post` prior to running the app for the first time - this is where your proof of space time commitment is saved.
+
 4. Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153`.
 
 5. Wait until the spinning mesh thingy is done spinning, quit the App and copy the file `peers.json` from the installers g drive folder to the following directory:
