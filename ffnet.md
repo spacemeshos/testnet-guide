@@ -23,9 +23,9 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
-3. Download the App installer and run it to install the App:
+3. Download the App installer for your platform and run it to install the App:
 
-        [Spacemesh App Installer (ffnet release)](#)
+[Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
 
 
 4. Before running the Spacemesh App for the first time, please configure your network to forward TCP and UDP packets on a specific port number to your computer and your computer firewall to accept incoming TCP and UDP packets on this port. Please [follow this guide](netconfig.md). Note that you can use any port and not just 7153.
