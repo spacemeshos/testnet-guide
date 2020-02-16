@@ -31,13 +31,13 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 5. Wait until the spinning mesh thingy is done spinning, quit the App and copy the file `peers.json` from the installers g drive folder to the following directory:
 
-- OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p/`
+- OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
 
 - Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
 
 - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
 
-> We know this ia a major PITA - just go online to the [ffnet discord chat channel](https://discord.gg/KyyQKst) if you get stuck and we'll help you out. Upcoming releases are not going to require this hack.
+> We know this is a major PITA - just go online to the [ffnet discord chat channel](https://discord.gg/KyyQKst) if you get stuck and we'll help you out. Upcoming releases are not going to require this hack.
 
 6. Start the app again, enter `7153` as part and Proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
