@@ -78,7 +78,7 @@ Select the amount of free space you would like to commit to Spacemesh and click 
 
 > The more storage you allocate for Spacemesh on your drive, the higher your Smesh rewards will be.
 
-> Note that for Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainent, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100GB, 20Gb, 300GB, etc.
+> Note that for Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainent, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100GB, 200Gb, 300GB, etc.
 
 You should now see this screen:
 
