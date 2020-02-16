@@ -43,7 +43,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 6. Start the app again, enter `7153` as part and Proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
-> You should start getting your first smeshing reward in 24-49 hours from the time you finish the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
+> You should get your first smeshing reward in 24-49 hours from the time you finished the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
 
 
 ## Getting some Smesh
