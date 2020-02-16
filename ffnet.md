@@ -27,14 +27,21 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
 
+4. Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153`.
 
-4. Before running the Spacemesh App for the first time, please configure your network to forward TCP and UDP packets on a specific port number to your computer and your computer firewall to accept incoming TCP and UDP packets on this port. Please [follow this guide](netconfig.md). Note that you can use any port and not just 7153.
+5. Quit the App and copy the file `peers.json` from the installers g drive folder to the following directory:
 
-!> You will NOT be able to join the network unless you have completed this step.
+- OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p/`
 
-5. Run the Spacemesh App. You will be prompted to enter a port number. Enter the port number you have configured to be forwarded to your computer and to accept incoming packets from the Internet.
+- Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
 
-6. Proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
+- Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
+
+> We know this ia a major PITA - just go online to the [ffnet discord chat channel](https://discord.gg/KyyQKst) if you get stuck and we'll help you out. Upcoming releases are not going to require this hack.
+
+
+
+6. Start the app again, enter `7153` as part and Proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
 > You should start getting your first smeshing reward in 24-49 hours from the time you finish the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
 
