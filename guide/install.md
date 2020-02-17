@@ -36,6 +36,7 @@ Next, download the App Installer for your OS using one of the links below:
 ### Windows 10
 
 COMING SOON
+
 ---
 
 ### OS X
@@ -56,7 +57,6 @@ COMING SOON
 
 ?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported.
 
-Ubuntu Spacemesh Installer
 COMING SOON
 
 ---
