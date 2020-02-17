@@ -35,13 +35,12 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-[SPACEMESH_WIN10_INSTALLER](exe_installer)
-
+COMING SOON
 ---
 
 ### OS X
 
-[SPACEMESH_OS_X_INSTALLER](dmg_installer)
+COMING SOON
 
 ---
 
@@ -49,7 +48,7 @@ Next, download the App Installer for your OS using one of the links below:
 
 ?> Debian 8 or newer is supported.
 
-[SPACEMESH_DEB_INSTALLER](deb_installer)
+COMING SOON
 
 ---
 
@@ -58,7 +57,7 @@ Next, download the App Installer for your OS using one of the links below:
 ?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported.
 
 Ubuntu Spacemesh Installer
-[SPACEMESH_UBUNTU_INSTALLER](AppImage_installer)
+COMING SOON
 
 ---
 
