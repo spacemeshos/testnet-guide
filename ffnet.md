@@ -47,13 +47,6 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 ## Getting some Smesh
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
-## Peeking Under the Hood
-To view the logs in realtime open a Terminal and type:
-- Windows 10 Poweshell: `Get-Content ~\AppData\Roaming\Spacemesh\spacemesh-log.txt -Wait -Tail 1`
-- OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
-- Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
-- Node sync status: `curl -d '' localhost:9090/v1/nodestatus`
-
 ## Helping us to improve Spacemesh
 You can help us to improve Spacemesh by reporting any bug or issue you come across while using the App. Learn how to [submit a bug report](issues). When submitting report - please always attach your log file.
 
@@ -65,5 +58,11 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
 ## Major Known Issues
 - Slow transaction confirmation time. We only report the `confirmed` state but not the `approved` state, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` state, transactions should be approved in about 5 minutes (between 3 and 8 minutes).
-- Insufficient node statuses display in the smeshing tab. We plan to display node sync and network status in this tab, so users can tell what their node is doing.
 - Most of the issues we have occur when stopping a running node and trying to sync again. As such, it's best if you can leave the app open 24x7 on your computer and minimize app restarts.
+
+## Peeking Under the Hood
+To view the logs in realtime open a Terminal and type:
+- Windows 10 Powershell: `Get-Content ~\AppData\Roaming\Spacemesh\spacemesh-log.txt -Wait -Tail 1`
+- OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
+- Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
+- Node sync status: `curl -d '' localhost:9090/v1/nodestatus`
