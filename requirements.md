@@ -2,9 +2,9 @@
 
 ### Minimum System Requirements
 
-- A computer with modern Intel or AMD multi-core CPU (2 cores / 4 native threads).
+- A computer with modern Intel or AMD multi-core CPU (3 cores / 6 native threads).
 - One of the following operating systems: Windows 10 (Home or Pro), OS X, Ubuntu 12.04, Fedora 21, Debian 8.
-- 4 GB RAM.
+- 6 GB RAM.
 - 150 GB free space on a magnetic hard-drive or SSD drive.
 - An always on unmetered Internet connection capable of 5 mbps downloads and 1 mbps uploads.
 - Network configuration that allows the App to accept incoming internet connections on UDP port 7153 and TCP port 7153.
