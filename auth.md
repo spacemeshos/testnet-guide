@@ -4,7 +4,7 @@ Follow the steps below to verify the integrity and authenticity of the Spacemesh
 
 ### OS X
 
-[SPACEMESH_OS_X_INSTALLER](dmg_installer)
+COMING SOON
 
 1. Open Terminal and run `shasum` on the downloadable installer:
 
@@ -22,7 +22,7 @@ dmg_sha512
 
 ### Windows 10
 
-[SPACEMESH_WIN10_INSTALLER](exe_installer)
+COMING SOON
 
 1. Run `certutil` from the Windows command line console:
 
@@ -38,7 +38,7 @@ exe_sha512
 
 ### Debian
 
-[SPACEMESH_DEB_INSTALLER](deb_installer)
+COMING SOON
 
 1. Run `sha512sum` from the command line:
 
@@ -54,7 +54,7 @@ deb_sha512
 
 ### Ubuntu or Fedora Linux
 
-[SPACEMESH_UBUNTU_INSTALLER](AppImage_installer)
+COMING SOON
 
 1. Run `sha512sum` from the command line:
 
