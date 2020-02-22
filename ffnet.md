@@ -30,7 +30,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 > OS X: [Spacemesh-0.0.1.dmg](https://storage.googleapis.com/smapp/open_testnet_installers/osx/Spacemesh-0.0.1.dmg)
 
 
-> Linux: [mapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/open_testnet_installers/linux/smapp_0.0.1_amd64.deb)
+> Linux: [smapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/open_testnet_installers/linux/smapp_0.0.1_amd64.deb)
 
 
 > Alternative downloads: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
