@@ -25,7 +25,15 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 3. Download the App installer for your platform and run it to install the App:
 
-># [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
+> Windows 10: [Spacemesh Setup 0.0.1.exe](https://storage.googleapis.com/smapp/open_testnet_installers/windows/Spacemesh%20Setup%200.0.1.exe)
+
+> OS X: [Spacemesh-0.0.1.dmg](https://storage.googleapis.com/smapp/open_testnet_installers/osx/Spacemesh-0.0.1.dmg)
+
+
+> Linux: [mapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/open_testnet_installers/linux/smapp_0.0.1_amd64.deb)
+
+
+> Alternative downloads: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
 
 4. Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153`.
 
