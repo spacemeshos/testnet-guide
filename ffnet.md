@@ -14,7 +14,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 To join the ffnet, you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [minimum system requirements](requirements).
 
-1. Download the App installer for your platform and run it to install the App:
+**Step 1.** Download the App installer for your platform and run it to install the App:
 
 > Windows 10: [Spacemesh Setup 0.0.1.exe](https://storage.googleapis.com/smapp/open_testnet_installers/windows/Spacemesh%20Setup%200.0.1.exe)
 
@@ -26,7 +26,7 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 > If the above links dont work for you, t installers: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
 
-2. Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153` and continue to setup your wallet and smeshing!
+**Step 2.** Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153` and continue to setup your wallet and smeshing!
 
 > You should get your first smeshing reward in 24-49 hours from the time you finished the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
 
