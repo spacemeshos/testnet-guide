@@ -24,7 +24,7 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 > Linux: [smapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/open_testnet_installers/linux/smapp_0.0.1_amd64.deb)
 
 
-> If the above links dont work for you, t installers: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
+> Alternative way to install: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
 
 **Step 2.** Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153` and continue to setup your wallet and smeshing!
 
