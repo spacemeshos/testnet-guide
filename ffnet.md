@@ -23,9 +23,6 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 > Linux: [smapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/open_testnet_installers/linux/smapp_0.0.1_amd64.deb)
 
-
-> Alternative way to install: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
-
 **Step 2.** Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153` and continue to setup your wallet and smeshing!
 
 > You should get your first smeshing reward in 24-49 hours from the time you finished the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
@@ -79,3 +76,7 @@ To view the logs in realtime open a Terminal and type:
 - OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
 - Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
 - Node sync status: `curl -d '' localhost:9090/v1/nodestatus`
+
+---
+
+> Alternative installers: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
