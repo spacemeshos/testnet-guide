@@ -59,7 +59,8 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 - Can't connect to the p2p network or sync.
 
     1. Quit the App
-    2. Copy the file `peers.json` from the installers g drive extras folder to the following directory:
+    2. Browse [peers.json](https://storage.googleapis.com/smapp/open_testnet_installers/peers.json) and save it to your computer.
+    3. Copy peers.json to the following directory:
 
         - OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
 
