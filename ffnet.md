@@ -67,7 +67,7 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
         - Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
 
         - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
-    3. Start the app again, enter `7153` when asked, and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
+    4. Start the app again, enter `7153` when asked, and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
 ---
 
@@ -77,7 +77,3 @@ To view the logs in realtime open a Terminal and type:
 - OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
 - Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
 - Node sync status: `curl -d '' localhost:9090/v1/nodestatus`
-
----
-
-> Alternative installers: [Spacemesh App Installers - (ffnet release)](https://tinyurl.com/sl5jpxc)
