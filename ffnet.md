@@ -16,12 +16,12 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 **Step 1.** Download the App installer for your platform and run it to install the App:
 
-> Windows 10: [Spacemesh Setup 0.0.1.exe](https://storage.googleapis.com/smapp/open_testnet_installers/windows/Spacemesh%20Setup%200.0.1.exe)
+> Windows 10: [Spacemesh Setup 0.0.2.exe](https://storage.googleapis.com/smapp/release_0.0.2/Spacemesh%20Setup%200.0.2.exe)
 
 > OS X: [Spacemesh-0.0.1.dmg](https://storage.googleapis.com/smapp/open_testnet_installers/osx/Spacemesh-0.0.1.dmg)
 
 
-> Linux: [smapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/open_testnet_installers/linux/smapp_0.0.1_amd64.deb)
+> Linux: [smapp_0.0.1_amd64.deb](https://storage.googleapis.com/smapp/release_0.0.2/spacemesh_app_0.0.2_amd64.deb)
 
 **Step 2.** Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153` and continue to setup your wallet and smeshing!
 
@@ -35,6 +35,7 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
+!> If you had a previous version installed on Windows then please first uninstall the App before installing.
 ---
 
 ## Getting some Smesh
