@@ -18,7 +18,7 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 > Windows 10: [Spacemesh Setup 0.0.2.exe](https://storage.googleapis.com/smapp/release_0.0.2/Spacemesh%20Setup%200.0.2.exe)
 
-> OS X: [Spacemesh-0.0.1.dmg](https://storage.googleapis.com/smapp/open_testnet_installers/osx/Spacemesh-0.0.1.dmg)
+> OS X: [Spacemesh-0.0.2.dmg](https://storage.googleapis.com/smapp/release_0.0.2/Spacemesh-0.0.2.dmg)
 
 > Linux: [smapp_0.0.2_amd64.deb](https://storage.googleapis.com/smapp/release_0.0.2/spacemesh_app_0.0.2_amd64.deb)
 
