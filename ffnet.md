@@ -30,7 +30,7 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 ---
 
-## Mini Release Notes
+## Mini Release Notes (Release 0.0.2)
 
 !> Please do NOT attempt to join from a laptop if you often move between different WIFI networks or put it to sleep. Things will not work properly.
 
