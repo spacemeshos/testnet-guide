@@ -24,17 +24,22 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 **Step 2.** Run the Spacemesh App. You will be prompted to enter a port number. Enter `7153` and continue to setup your wallet and smeshing!
 
+---
+
+## Mini Release Notes
+
 > You should get your first smeshing reward in 24-49 hours from the time you finished the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
 
 > Join the [ffnet discord channel](https://discord.gg/KyyQKst). On this channel we provide additional info, answer your questions, announce app updates, and get your feedback!
-
----
 
 !> Please do NOT attempt to join from a laptop if you often move between different WIFI networks or put it to sleep. Things will not work properly.
 
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
 !> If you had a previous version installed on Windows then please first uninstall the App before installing.
+
+!> On Linux, if you had a previous version installed then please remove it first. e.g. `sudo apt-get remove smapp` before installing a new version.
+
 ---
 
 ## Getting some Smesh
