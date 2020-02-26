@@ -17,7 +17,7 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 > Linux: [smapp_0.0.2_amd64.deb](https://storage.googleapis.com/smapp/release_0.0.2/spacemesh_app_0.0.2_amd64.deb)
 
-**Step 2.** Run the app and continue to setup your wallet and smeshing!
+**Step 2.** Run the app and setup your wallet and smeshing!
 
 > You should get your first smeshing reward in 24-49 hours from the time you finished the smeshing setup. Just leave the app open (minimize the main window) until you get your first reward.
 
@@ -36,6 +36,7 @@ Chaos and broken things and a sub-optimal user experience, but also a glimpse of
 
 We want to give you a sneak peek of the Spacemesh technology and product, test them with your help, and improve them with your feedback!
 
+---
 
 ## Release Notes (Release 0.0.2)
 
@@ -69,27 +70,28 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
 - Can't connect to the p2p network or sync.
 
-> Configure your router to forward TCP and UDP traffic to your computer and your computer firewall to not block your computer for accepting TCP or UDP packets on the app's port (defaults to 7153).
+    > Configure your router to forward TCP and UDP traffic to your computer and your computer firewall to not block your computer for accepting TCP or UDP packets on the app's port (defaults to 7153).
 
-If router configuration doesn't work and you still can't connect to the p2p network then try the following:
+    If router configuration doesn't work and you still can't connect to the p2p network then try the following:
 
-1. Quit the App
-2. Browse [peers.json](https://storage.googleapis.com/smapp/release_0.0.2/peers.json) and save it to your computer.
-3. Copy peers.json to the following directory:
+    1. Quit the App
+    2. Browse [peers.json](https://storage.googleapis.com/smapp/release_0.0.2/peers.json) and save it to your computer.
+    3. Copy peers.json to the following directory:
 
-    - OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
+        - OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
 
-    - Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
+        - Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
 
-    - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
+        - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
 
-4. Start the app again and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
+    4. Start the app again and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
 ---
 
 ## Peeking Under the Hood
-To view the logs in realtime open a terminal and type:
+To view the logs in realtime open a terminal and enter:
 - Windows 10 Powershell: `Get-Content ~\AppData\Roaming\Spacemesh\spacemesh-log.txt -Wait -Tail 1`
 - OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
 - Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
-- Node sync status: `curl -d '' localhost:9090/v1/nodestatus`
+
+Display node sync status: `curl -d '' localhost:9090/v1/nodestatus`
