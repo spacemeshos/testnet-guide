@@ -71,37 +71,20 @@ COMING SOON
 
 > All software released by Spacemesh is 100% open source. The App Installer you are downloading was packaged from code in the [Spacemesh Open Source Software Repos](https://github.com/spacemeshos) on github. We provide the Installer to make it convenient for non-developers to join the Spacemesh testnet.
 
+> Follow [these steps](auth.md) if you'd like to verify that the Installer you have downloaded is authentic and has not been modified by a third party.
 
-## Step 2 Verifying the Installer (optional)
+## Step 2 - Installing the App
 
-Follow [these steps](auth.md) to verify that the Installer you have downloaded is authentic and has not been modified by a third party.
-
-## Step 3 - Configuring your Network
-
-In order to participate in the Spacemesh network and earn Smesh rewards you **must** configure your home network router to forward network traffic on TCP port 7153 and UDP port 7153 to your computer.
-
-In addition, you **must** configure your computer firewall to enable the App to accept incoming Internet connections on TCP port 7153 and on UDP port 7153.
-
-Please follow the instructions in [this guide](netconfig.md).
-
-?> Upcoming releases of the testnet will support running the App without having to configure port forwarding and your firewall. The network configuration is a temporary requirement.
-
-> IMPORTANT: You should configure your network BEFORE running the App for the first time.
-
----
-## Step 4 - Installing the App
-
-Next, **locate the Installer you downloaded and double click it** to install the App.
+**Locate the Installer you downloaded and double click it** to install the App.
 
 ### OS X
-Drag the Spacemesh app in the installer screen to your Applications folder shortcut. Next, open your Applications folder and double click Spacemesh App to run it.
+Drag the Spacemesh app icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double click `Spacemesh` to run it.
 
-### Windows or Linux
-The installer defaults to launch Spacemesh as soon as it is the installation is complete.
+### Windows
+Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete.
 
 > If you see a Windows security alert then check the checkbox 'Priave networks' and click 'Allow access'.
 
-
 ---
 
-Next, [Follow this guide](guide/setup.md) to set up a wallet and smeshing in the App.
+Next, [follow this guide](guide/setup.md) to set up a wallet and smeshing in the App.

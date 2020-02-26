@@ -2,8 +2,6 @@
 
 In order to participate in the Spacemesh network and to earn smeshing rewards your computer firewall (and in some cases your home network router) needs to be configured, so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
 
-> Upcoming releases of the Spacemesh App will not have this requirement. This is a temporary requirement for the first release of the Spacemesh App.
-
 ---
 
 ## Computer Clock Configuration
