@@ -28,17 +28,25 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 > Join the [ffnet discord channel](https://discord.gg/KyyQKst). On this channel we provide additional info, answer your questions, announce app updates, and get your feedback!
 
----
-
-## Mini Release Notes (Release 0.0.2)
-
 !> Please do NOT attempt to join from a laptop if you often move between different WIFI networks or put it to sleep. Things will not work properly.
 
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
-!> On Windows, If you have a previous version of the app installed then please first uninstall the App before installing. Search for `Spacemesh Uninstaller` and run it.
+---
 
-!> On Linux, if you have a previous version of the app installed then please remove it first. e.g. `sudo apt-get remove smapp` before installing a new version.
+## Release Notes (Release 0.0.2)
+
+!> The App uses TCP and UDP 7153 by default. You can now change this via the app settings. You should configure your router or firewall only if you can't connect to the p2p network.
+
+!> If you have installed version 0.0.1 on your computer - please delete Spacemesh's local data directory before installing the new version. Directory location:
+
+- OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh`
+- Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh`
+- Linux: `~/.config/Spacemesh`
+
+!> On Windows, If you have a previous version of the app installed then please uninstall the App before installing the new version. Search for `Spacemesh Uninstaller` and run it.
+
+!> On Linux, if you have a previous version of the app installed then please remove it first. e.g. `sudo apt-get remove smapp` before installing this version.
 
 ---
 
@@ -63,21 +71,26 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
 - Can't connect to the p2p network or sync.
 
-    1. Quit the App
-    2. Browse [peers.json](https://storage.googleapis.com/smapp/open_testnet_installers/peers.json) and save it to your computer.
-    3. Copy peers.json to the following directory:
+> Configure your router to forward TCP and UDP traffic to your computer and your computer firewall to not block your computer for accepting TCP or UDP packets on the app's port.
 
-        - OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
+If router configuration doesn't work and you still can't connect to the p2p network then try the following:
 
-        - Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
+1. Quit the App
+2. Browse [peers.json](https://storage.googleapis.com/smapp/open_testnet_installers/peers.json) and save it to your computer.
+3. Copy peers.json to the following directory:
 
-        - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
-    4. Start the app again, enter `7153` when asked, and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
+    - OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
+
+    - Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh\spacemeshtestdata\p2p`
+
+    - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
+
+4. Start the app again and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
 
 ---
 
 ## Peeking Under the Hood
-To view the logs in realtime open a Terminal and type:
+To view the logs in realtime open a terminal and type:
 - Windows 10 Powershell: `Get-Content ~\AppData\Roaming\Spacemesh\spacemesh-log.txt -Wait -Tail 1`
 - OS X: `tail -f ~/Library/Application\ Support/spacemesh/spacemesh-log.txt`
 - Linux: `tail -f ~/.config/Spacemesh/spacemesh-log.txt`
