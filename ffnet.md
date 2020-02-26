@@ -5,13 +5,6 @@ Welcome, dear Spacemesh friend, to the Spacemesh ffnet! This is an early tech pr
 
 ![](/images/v1.0/release0.0.2.png)
 
-## What to expect?
-Chaos and broken things and a sub-optimal user experience, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite and without understanding what CLI and Terminal mean. 🤓
-
-## Why are we doing this?
-
-We want to give you a sneak peek of the Spacemesh technology and product, test them with your help, and improve them with your feedback!
-
 ## How to Join?
 
 To join the ffnet, you need to run the Spacemesh App on an always-on desktop computer. Please ensure that your system meets the [minimum system requirements](requirements).
@@ -35,6 +28,14 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
 ---
+
+## What to expect?
+Chaos and broken things and a sub-optimal user experience, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite and without understanding what CLI and Terminal mean. 🤓
+
+## Why are we doing this?
+
+We want to give you a sneak peek of the Spacemesh technology and product, test them with your help, and improve them with your feedback!
+
 
 ## Release Notes (Release 0.0.2)
 
@@ -64,13 +65,11 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 ---
 
 ## Known Issues
-- Slow transaction confirmation time. We only report the `confirmed` state but not the `approved` state, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` state, transactions should be approved in about 5 minutes (between 3 and 8 minutes).
-
-- Most of the issues we have occur when stopping a running node and trying to sync again. As such, it's best if you can leave the app open 24x7 on your computer and minimize app restarts.
+- Slow transaction confirmation time. We only report the `confirmed` status but not the `approved` status, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` status, transactions should be approved in about 5 minutes (between 3 and 8 minutes).
 
 - Can't connect to the p2p network or sync.
 
-> Configure your router to forward TCP and UDP traffic to your computer and your computer firewall to not block your computer for accepting TCP or UDP packets on the app's port.
+> Configure your router to forward TCP and UDP traffic to your computer and your computer firewall to not block your computer for accepting TCP or UDP packets on the app's port (defaults to 7153).
 
 If router configuration doesn't work and you still can't connect to the p2p network then try the following:
 
