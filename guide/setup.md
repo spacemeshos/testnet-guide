@@ -1,5 +1,6 @@
 # Setting Up Wallet and Smesher
 
+
 ## Step 1 - Setting up a Wallet
 Follow the installer's on-screen instruction and proceed to launch the app.
 
