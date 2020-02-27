@@ -38,22 +38,6 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 ---
 
-## Release Notes (Release 0.0.3)
-
-!> The App uses TCP and UDP 7153 by default. You can now change this via the app settings. You should configure your router or firewall only if you can't connect to the p2p network.
-
-!> If you have installed version 0.0.1 on your computer - please delete Spacemesh's local data directory before installing the new version. Directory location:
-
-- OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh`
-- Windows: `C:\Users\[your_user_name]\AppData\Roaming\Spacemesh`
-- Linux: `~/.config/Spacemesh`
-
-!> On Windows, If you have a previous version of the app installed then please uninstall the App before installing the new version. Search for `Spacemesh Uninstaller` and run it.
-
-!> On Linux, if you have a previous version of the app installed then please remove it first. e.g. `sudo apt-get remove smapp` before installing this version.
-
----
-
 ## Getting some Smesh
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
@@ -62,6 +46,20 @@ Until we soft launch the open Spacemesh Tweedledee testnet. Likely until March 1
 
 ## How do I give feedback, get help or report a bug?
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
+
+
+---
+
+## Release Notes - Release 0.0.3
+
+- Added mesh info section to the settings.
+- Fixed smeshing coinbase address formatting.
+- Misc. minor ui improvements and bug fixes.
+- Remove unused pause / resume smeshing button from Smesher.
+
+Checkout our [issues tracker](https://github.com/orgs/spacemeshos/projects/5) to view additional fiixes and known issues.
+
+---
 
 ---
 
