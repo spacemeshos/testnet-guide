@@ -35,36 +35,21 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-COMING SOON
+[Spacemesh Setup 0.0.3.exe](https://storage.googleapis.com/smapp/0.0.3/Spacemesh%20Setup%200.0.3.exe)
 
 ---
 
 ### OS X
 
-COMING SOON
+[Spacemesh-0.0.3.dmg](https://storage.googleapis.com/smapp/0.0.3/Spacemesh-0.0.3.dmg)
 
 ---
 
-### Debian Linux
+### Linux
 
-?> Debian 8 or newer is supported.
+?> Debian 8 or newer, Ubuntu 12.04 or newer, Fedora 21 or newer, and any other flavor of linux which supports Electron apps are supported.
 
-COMING SOON
-
----
-
-### Ubuntu or Fedora Linux
-
-?> Ubuntu 12.04 or newer and Fedora 21 or newer are supported.
-
-COMING SOON
-
----
-
-### Other Flavors of Linux
-
-?> This release does not support flavors of Linux that don't support Electron Apps.
-
+[smapp_0.0.3_amd64.deb](https://storage.googleapis.com/smapp/0.0.3/spacemesh_app_0.0.3_amd64.deb)
 ---
 
 ### Security Notes
@@ -78,7 +63,7 @@ COMING SOON
 **Locate the Installer you downloaded and double click it** to install the App.
 
 ### OS X
-Drag the Spacemesh app icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double click `Spacemesh` to run it.
+Drag the Spacemesh App icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double click `Spacemesh` to run it.
 
 ### Windows
 Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete.
