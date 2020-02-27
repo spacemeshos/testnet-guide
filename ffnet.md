@@ -11,11 +11,11 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 **Step 1.** Download the App installer for your platform and run it to install the App:
 
-> Windows 10: [Spacemesh Setup 0.0.2.exe](https://storage.googleapis.com/smapp/release_0.0.2/Spacemesh%20Setup%200.0.2.exe)
+> Windows 10: [Spacemesh Setup 0.0.3.exe](https://storage.googleapis.com/smapp/0.0.3/Spacemesh%20Setup%200.0.3.exe)
 
-> OS X: [Spacemesh-0.0.2.dmg](https://storage.googleapis.com/smapp/release_0.0.2/Spacemesh-0.0.2.dmg)
+> OS X: [Spacemesh-0.0.3.dmg](https://storage.googleapis.com/smapp/0.0.3/Spacemesh-0.0.3.dmg)
 
-> Linux: [smapp_0.0.2_amd64.deb](https://storage.googleapis.com/smapp/release_0.0.2/spacemesh_app_0.0.2_amd64.deb)
+> Linux: [smapp_0.0.3_amd64.deb](https://storage.googleapis.com/smapp/0.0.3/spacemesh_app_0.0.3_amd64.deb)
 
 **Step 2.** Run the app and setup your wallet and smeshing!
 
@@ -38,7 +38,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 
 ---
 
-## Release Notes (Release 0.0.2)
+## Release Notes (Release 0.0.3)
 
 !> The App uses TCP and UDP 7153 by default. You can now change this via the app settings. You should configure your router or firewall only if you can't connect to the p2p network.
 
@@ -58,7 +58,7 @@ We want to give you a sneak peek of the Spacemesh technology and product, test t
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
 
 ## How long will this net run?
-Until we soft launch the open Spacemesh testnet. Likely around 1-2 weeks.
+Until we soft launch the open Spacemesh Tweedledee testnet. Likely until March 1st 2020.
 
 ## How do I give feedback, get help or report a bug?
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
@@ -68,7 +68,7 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 ## Known Issues
 - Slow transaction confirmation time. We only report the `confirmed` status but not the `approved` status, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` status, transactions should be approved in about 5 minutes (between 3 and 8 minutes).
 
-- Can't connect to the p2p network or sync.
+- Can't connect to the p2p network or sync
 
     > Configure your router to forward TCP and UDP traffic to your computer and your computer firewall to not block your computer for accepting TCP or UDP packets on the app's port (defaults to 7153).
 
