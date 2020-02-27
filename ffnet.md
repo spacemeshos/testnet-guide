@@ -27,16 +27,12 @@ To join the ffnet, you need to run the Spacemesh App on an always-on desktop com
 
 !> Please do NOT join if your computer or network connection doesn't meet the recommended requirements.
 
----
-
 ## What to expect?
 Chaos and broken things and a sub-optimal user experience, but also a glimpse of an awesome near future where anyone in the world can mine a fair cryptocurrency from home using their existing computer, while still being able to play FortNite and without understanding what CLI and Terminal mean. 🤓
 
 ## Why are we doing this?
 
 We want to give you a sneak peek of the Spacemesh technology and product, test them with your help, and improve them with your feedback!
-
----
 
 ## Getting some Smesh
 You can also request some Smesh from the ffnet tap by copying and pasting your account address from your wallet screen into the [ffnet discord channel](https://discord.gg/KyyQKst). This should allow you to execute Smesh transactions before getting your first reward.
@@ -47,7 +43,6 @@ Until we soft launch the open Spacemesh Tweedledee testnet. Likely until March 1
 ## How do I give feedback, get help or report a bug?
 Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 
-
 ---
 
 ## Release Notes - Release 0.0.3
@@ -57,11 +52,7 @@ Use the [ffnet discord channel](https://discord.gg/KyyQKst).
 - Misc. minor ui improvements and bug fixes.
 - Remove unused pause / resume smeshing button from Smesher.
 
-Checkout our [issues tracker](https://github.com/orgs/spacemeshos/projects/5) to view additional fiixes and known issues.
-
----
-
----
+Check out our [issues tracker](https://github.com/orgs/spacemeshos/projects/5) to view additional fixes and known issues.
 
 ## Known Issues
 - Slow transaction confirmation time. We only report the `confirmed` status but not the `approved` status, therefore it will take up from 15 to 20 minutes for transactions to get confirmed. Once we add the `approved` status, transactions should be approved in about 5 minutes (between 3 and 8 minutes).
@@ -83,8 +74,6 @@ Checkout our [issues tracker](https://github.com/orgs/spacemeshos/projects/5) to
         - Linux: `~/.config/Spacemesh/spacemeshtestdata/p2p`
 
     4. Start the app again and proceed to set up wallet and smeshing. [Follow this guide](/guide/setup) for step by step instructions.
-
----
 
 ## Peeking Under the Hood
 To view the logs in realtime open a terminal and enter:
