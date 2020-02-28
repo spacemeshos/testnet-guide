@@ -51,7 +51,7 @@ Click `NEXT`. You should now see this screen:
 
 ## Step 2 - Setting Up Your Smesher
 
-## About Block Smeshing
+## About Smeshing
 
 Spacemesh uses a novel consensus protocol. Instead of constantly solving computational puzzles with your CPU while you participate in a blockchain, it utilizes free space on your hard drive, following a one-time setup phase.
 
@@ -65,27 +65,29 @@ This one-time storage commitment enables Spacemesh to reach consensus on a distr
 
 You should now see this screen:
 
-![](../images/v1.0/miner_setup_size.png)
+![](../images/v1.0/post_drive.png)
 
-The App prompts you to setup block smeshing on your computer. You need to specify which hard drive you would like to use and how much storage you wish to commit on that drive to Spacemesh.
+The App prompts you to setup block smeshing on your computer. You need to specify the directory that you want Spacemesh to save your PoST init file.
 
-Click on the hard drive that you would like to use for smeshing and click `NEXT`.
+Click `Select Folder` and locate a directory on one of your hard-drive.
 
 You should now see this screen:
 
-![](../images/v1.0/miner_setup_post_size.png)
+![](../images/v1.0/post_size.png)
 
 Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
 
 > The more storage you allocate for Spacemesh on your drive, the higher your Smesh rewards will be.
 
-> Note that for Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainnet, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100GB, 200GB, 300GB, etc.
+> For Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainnet, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100 GB, 200 GB, 300 GB, etc.
 
 You should now see this screen:
 
 ![](../images/v1.0/miner_setup_complete.png)
 
 > The one-time storage commitment setup process has now begun, and it may take from 30 minutes up to one hour to complete, depending on your CPU speed.
+
+> Your CPU usage will go back to normal once the CPU-intensive setup is complete.
 
 > Do not turn off your computer at least until you get a notification about setup completion.
 
