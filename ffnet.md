@@ -64,7 +64,7 @@ Check out our [issues tracker](https://github.com/orgs/spacemeshos/projects/5) t
     If router configuration doesn't work and you still can't connect to the p2p network then try the following:
 
     1. Quit the App
-    2. Browse [peers.json](https://storage.googleapis.com/smapp/release_0.0.2/peers.json) and save it to your computer.
+    2. Browse [peers.json](https://storage.googleapis.com/smapp/0.0.3/peers.json) and save it to your computer.
     3. Copy peers.json to the following directory:
 
         - OS X: `/Users/[your_user_name]/Library/Application Support/Spacemesh/spacemeshtestdata/p2p`
