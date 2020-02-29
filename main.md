@@ -1,6 +1,6 @@
 ![](/images/logo.png)
 
-# Welcome to the Spacemesh 0.1
+# Welcome to the Spacemesh 0.1 (Tweedledee)
 
 > **WARNING: Dragons ahead!** The Spacemesh open testnet has not been launched yet. This is a work in progress and an incomplete guide.
 
@@ -8,9 +8,7 @@ We are happy to see you here. Please read the intro on this page to learn the ba
 
 **tl;dr? Skip the intro** and [get started](guide/install.md)!
 
-**Don't like to read?** Watch the [Testnet Video Guide](#) instead.
-
-> This guide covers what we call `Spacemesh 0.1`. Spacemesh 0.1 is the first and current release of the Spacemesh software platform. Spacemesh 0.1 is what we currently test in an open testnet environment. We will update this guide to reflect new features of future Spacemesh software releases.
+> This guide covers what we call `Spacemesh 0.1 aka Tweedledee`. Spacemesh 0.1 aka Tweedledee is the first and current release of the Spacemesh software platform. It is what we currently test in an open testnet environment. We will update this guide to reflect new features of future Spacemesh software releases.
 
 ---
 
@@ -53,8 +51,8 @@ The Spacemesh Testnet is a public beta release of the Spacemesh p2p software pla
 
 The Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is monopoly money without any real world value.
 
-## What is Spacemesh 0.1?
-Spacemesh 0.1 is the name of the first release of the Spacemesh Testnet. Everything described in this guide is about Spacemesh 0.1. In Spacemesh 0.1, we are releasing platform capabilities that we believe are ready for public testing. We have much more in the pipeline and we plan to launch new releases throughout 2020. This guide will be updated as we make available new releases.
+## What is Spacemesh 0.1 (Tweedledee)?
+Spacemesh 0.1 / Tweedledee is the name of the first release of the Spacemesh Testnet. Everything described in this guide is about Spacemesh 0.1. In Spacemesh 0.1, we are releasing platform capabilities that we believe are ready for public testing. We have much more in the pipeline and we plan to launch new releases throughout 2020. This guide will be updated as we make available new releases.
 
 ## Why should I join the Spacemesh Testnet?
 Joining the Testnet helps Spacemesh launch a high-quality Mainnet and the `Smesh` (SMH) cryptocurrency. Spacemesh is a decentralized ledger designed to be formed from a large number of home desktop PC owners who run the Spacemesh software on their PCs. To test such a network we need a large number of block producers to join the Testnet.
@@ -68,7 +66,7 @@ In the true spirit of crypto-economy, we have launched this Testnet so that anyo
 2. Participants don't have to do anything after the initial setup to run a Smesher.
 3. Participants can use their computer normally while running a Smesher.
 
-## How can I join the Spacemesh Testnet?
+## How can I join the Testnet?
 Just follow the instructions in this guide. Let's [get started](guide/install.md)!
 
 ## What do I need to join the Testnet?
