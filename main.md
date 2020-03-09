@@ -4,21 +4,21 @@
 
 > **WARNING: Dragons ahead!** This is guide is incomplete and a work in progress. Seek help, fellow traveler, using these [Community Resources](#testnet-community-resources).
 
-We are happy to see you here. Please read the intro on this page to learn the basics about Spacemesh and the Spacemesh Testnet and then proceed to the installation guide to get up and running.
+Welcome down the Spacemesh Testnet rabbit hole! Please read the intro on this page to learn the basics about Spacemesh and the Testnet and then proceed to the installation guide to get up and running.
 
 **tl;dr? Skip the intro** and [get started](guide/install.md)!
 
-> This guide covers what we call `Spacemesh 0.1 aka Tweedledee`. Spacemesh 0.1 aka Tweedledee is the first and current release of the Spacemesh software platform. It is what we currently test in an open testnet environment. We will update this guide to reflect new features of future Spacemesh software releases.
+> This guide covers the testnet release we call `Spacemesh 0.1 aka Tweedledee`. Tweedledee is the first and current release of the Spacemesh software platform. It is what we currently test in an open testnet environment. We will update this guide to reflect new features of future Spacemesh software releases.
 
 ---
 
 ## What is Spacemesh?
-Spacemesh is a programmable cryptocurrency open-source platform powered by a novel proof-of-space-time (PoST) consensus protocol. Spacemesh does not use proof-of-stake (PoStake) or proof-of-work (PoW) protocols, thus it avoids some of their inherent issues, such as massive energy waste, mining pooling and centralization.
+Spacemesh is an open-source programmable cryptocurrency platform powered by a novel proof-of-space-time (PoST) consensus protocol. Spacemesh does not use proof-of-stake (PoStake) or proof-of-work (PoW) protocols, thus it avoids some of their inherent issues, such as massive energy waste, mining pooling, and centralization.
 
 ## What does Spacemesh try to achieve?
 Spacemesh is designed to achieve three main objectives:
-1. Create and maintain the ledger for the Smesh (SMH). Smesh is a fair, a-political cryptocurrency that will become a global means of payment.
-2. Ensure fair distribution of Smesh.
+1. Create and maintain the ledger for the Smesh coin (SMH). Smesh is a fair cryptocurrency and a global means of payment.
+2. Ensure fair, wide distribution of Smesh.
 3. Establish a global programmable infrastructure for tokenized apps, communities and economies.
 
 ## What problems does Spacemesh plan to solve and how?
