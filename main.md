@@ -2,7 +2,7 @@
 
 # Welcome to the Spacemesh 0.1 (Tweedledee)
 
-> **WARNING: Dragons ahead!** The Spacemesh open testnet has not been launched yet. This is a work in progress and an incomplete guide.
+> **WARNING: Dragons ahead!** This is guide is incomplete and a work in progress. Seek help, fellow traveler, using these [Community Resources](#testnet-community-resources).
 
 We are happy to see you here. Please read the intro on this page to learn the basics about Spacemesh and the Spacemesh Testnet and then proceed to the installation guide to get up and running.
 
