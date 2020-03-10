@@ -28,10 +28,9 @@ This guide walks you though and describes the features and the supported functio
 
 These use cases that are not yet supported in the Spacemesh 0.1 Testnet release:
 
-1. Join the Testnet from a Smesher and a CLI wallet built directly from source code.
-2. Browse the Testnet using a block explorer and a dashboard.
-3. Run the App in Wallet-only mode without a Smesher.
-4. Run a Smesher without submitting blocks to the network.
+- Browse the Testnet using a block explorer and a dashboard.
+- Run the App in Wallet-only mode without a Smesher.
+- Run a Smesher without submitting blocks to the network.
 
 We plan to support these uses cases in subsequent Spacemesh Testnet releases throughout 2020, starting with Spacemesh 0.2.
 
