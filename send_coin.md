@@ -10,11 +10,11 @@ You should see the Send SMH screen:
 
 ![](images/v1.0/send_smc_tx.png)
 
-2. Paste the Smesh recipient public account address that he or she shared with you into the `Send to` field.
+2. Paste the recipient's account address that he or she shared with you into the `Send to` field.
 
-3. Enter the Smesh (SMH) amount you would like to send to the recipient in the `Amount to send` field.
+3. Enter the Smesh (SMH) amount you would like to send to the recipient in the `Amount` field.
 
-> The amount must be less than your account's Smesh balance, as you cannot spend Smesh that you do not have.
+> The amount must be less than your account's SMH balance, as you cannot spend tokens that you do not have.
 
 ![](images/v1.0/send_smc_tx_1.png)
 
@@ -32,7 +32,7 @@ You should now see this screen:
 
 6. Click on 'DONE'.
 
-Congratulations! You have just sent some Smesh (SMH) to a recipient.
+Congratulations! You have just sent your first SMH!
 
 ## Tracking your transaction
 
@@ -46,4 +46,4 @@ Your recent transactions are displayed in the `Transactions` area of your Wallet
 
 ![](images/v1.0/tx_log_details.png)
 
-Notice the transaction status. A new transaction you just executed will be in the `PENDING` state and should move to `CONFIRMED` state once it was added to the Spacemesh ledger.
+Notice the transaction status. A new transaction you just executed will be in the `PENDING` state and should move to `CONFIRMED` state once it has been added to the Spacemesh ledger.
