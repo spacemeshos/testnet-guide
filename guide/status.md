@@ -10,14 +10,13 @@ This screen is where you will track your Smesher operation, and view your total 
 
 You can also pause (or un-pause) your Smesher by clicking on the `PAUSE NODE` button.
 
-
 Click the CLOSE button in the App's main Window.
 
-You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that your Smesher will continue to run and to smesh blocks.
+You will be prompted to quit the app or to switch it to run in the background. Choose `Keep running in background` so that your Smesher will continue to run and to Smesh blocks.
 
 ### Smesh rewards Expectancy
 
-> If you have committed storage and left your app running 24/7, and your network is [properly configured](../netconfig.md) then you should expect your first Smesh reward in about 49 hours, and the subsequent rewards every 24 hours.
+> If you have committed storage and left your app running 24/7, and your network is [properly configured](../netconfig.md), then you should expect your first Smesh reward in about 49 hours, and subsequent rewards every 24 hours.
 
 ?> Remember to leave your computer running 24/7 to fully participate in the Spacemesh platform and get Smesh rewards for your contribution.
 
