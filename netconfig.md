@@ -2,14 +2,10 @@
 
 In order to participate in the Spacemesh network and to earn smeshing rewards your computer firewall (and in some cases your home network router) needs to be configured, so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
 
----
-
 ## Computer Clock Configuration
-Please make sure that your computer clock is synced to a time server such as time.windows.com or time.apple.com. You must be synced to NTP time to be able to connect to the Spacemesh network.
+Please make sure that your computer clock is synced to a time server such as `time.windows.com` or `time.apple.com`. You must be synced to NTP time to be able to connect to the Spacemesh network.
 
 > Verify you are synced with an NTP server using your computer's `Date & Time` settings.
-
----
 
 ## Windows 10
 
@@ -47,7 +43,6 @@ If you didn't click on `Allow access` when prompted by Windows, you will need to
 9. Name the rule `Spacemesh UDP` and click Finish.
 
 
----
 
 ## OS X
 The Spacemesh App might be able to accept incoming connections by default depending on your Firewall settings. For example, when you download a signed distribution from Spacemesh. We recommend you follow these steps to confirm that the App can accept incoming connections.
@@ -62,12 +57,9 @@ The Spacemesh App might be able to accept incoming connections by default depend
 
 For additional information about the OS X Firewall please [read this guide](https://support.apple.com/en-il/HT201642) from Apple.
 
----
-
 ## Linux
 If you are running Linux then you should be able to configure your firewall via the command line. Check your linux distro documentation for additional info.
 
----
 
 ## Router Configuration
 
