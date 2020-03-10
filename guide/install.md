@@ -39,13 +39,9 @@ Next, download the App Installer for your OS using one of the links below:
 
 [Spacemesh Setup 0.0.3.exe](https://storage.googleapis.com/smapp/0.0.3/Spacemesh%20Setup%200.0.3.exe)
 
----
-
 ### OS X
 
 [Spacemesh-0.0.3.dmg](https://storage.googleapis.com/smapp/0.0.3/Spacemesh-0.0.3.dmg)
-
----
 
 ### Linux
 
