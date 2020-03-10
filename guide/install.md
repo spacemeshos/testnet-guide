@@ -66,10 +66,17 @@ Next, download the App Installer for your OS using one of the links below:
 
 ## Step 2 - Installing the App
 
-**Locate the Installer you downloaded and double click it** to install the App.
+**Locate the Installer you downloaded and double-click it** to install the App.
 
 ### OS X
-Drag the Spacemesh App icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double click `Spacemesh` to run it.
+Drag the Spacemesh App icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double-click `Spacemesh` to run it.
+
+### Linux
+We've had reports of Linux failing to install the app simply by double-clicking the installer `deb` file. As an alternative, please try running the following command from the terminal:
+
+`> sudo dpkg -i <smapp_installer.deb>`
+
+The app should be installed in `/opt/Spacemesh`, and you should see the app listed under the Applications menu in your window manager.
 
 ### Windows
 Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete.
