@@ -81,4 +81,4 @@ Got stuck? Need additional info? Got some cool ideas for the project?
 
 ## Testnet Resources
 - Browse available [Testnet Guides](all.md).
-- [Report a bug](issues)
+- [Report a bug](issues.md)
