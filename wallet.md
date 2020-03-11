@@ -35,7 +35,7 @@ The left side of the screen displays the Wallet info:
 
 Your Wallet is configured with one main account called `Main Account`.
 
-Think of this account as your crypto bank account. You use this account to hold SMH and to send and receive SMH tokens.
+Think of this account as your crypto bank account. You use this account to hold SMH and to send and receive SMH coins.
 
 Your account is identified by a unique _public address._ It is displayed under the account name in a short form that looks like this: `0xebee....ee0443`. Your full account address is a long hexidecimal number, such as `0xebee4e63a6b0f829f3ad06fb6c4aa80a6860774bc25e9c1b1b2c69b8b4ee0443`.
 
