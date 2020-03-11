@@ -1,6 +1,6 @@
 # Getting Testnet Smesh
 
-There are 3 ways to get Testnet Smesh (SMH) tokens:
+There are 3 ways to get Testnet Smesh (SMH) coins:
 1. Earn Smeshing rewards. Follow [this guide](rewards.md) to set up Smeshing.
 2. Get SMH from the [Spacemesh Tap](https://discord.gg/ASpy52C).
 3. Get SMH sent from another account to your account in a transaction.
@@ -42,4 +42,4 @@ You should see this screen:
 
 > Once Smesh are sent to you, you should see the transaction in the `Transactions` section of your wallet screen, and your account Smesh balance should be updated to include the received SMH.
 
-Congratulations! You have successfully received your first SMH tokens!
+Congratulations! You have successfully received your first SMH coins!
