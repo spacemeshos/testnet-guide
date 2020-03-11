@@ -14,7 +14,7 @@ Let's now proceed to set up the Smesher, Smeshing, and the Wallet. But first, so
 
 A Wallet holds one or more Smesh accounts. An account is identified by a long, unique hexidecimal number, such as `0x20a5...3a1f`.
 
-The Wallet enables you to send and receive Smesh, and in the future, it will enable you to run decentralized applications (dapps) built on Spacemesh. Each account has a balance of Smesh tokens (SMH).
+The Wallet enables you to send and receive Smesh, and in the future, it will enable you to run decentralized applications (dapps) built on Spacemesh. Each account has a balance of Smesh coins (SMH).
 
 You can send SMH from your account up to your coin balance. So for example, if your account coin balance is 10 SMH then you can send up 10 SMH from it to other accounts by executing transactions.
 
