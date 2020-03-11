@@ -14,7 +14,7 @@ You should see the Send SMH screen:
 
 3. Enter the Smesh (SMH) amount you would like to send to the recipient in the `Amount` field.
 
-> The amount must be less than your account's SMH balance, as you cannot spend tokens that you do not have.
+> The amount must be less than your account's SMH balance, as you cannot spend coins that you do not have.
 
 ![](images/v1.0/send_smc_tx_1.png)
 
