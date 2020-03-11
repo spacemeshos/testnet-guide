@@ -25,8 +25,6 @@ The App integrates a Smesher and a Wallet into one package, which we hope you fi
 
 > You do NOT need to run any additional software to join the Testnet, besides running the App on your computer.
 
----
-
 Follow the instructions on this page to download, install and run the App.
 
 ## Step 1 - Downloading the Installer
@@ -52,8 +50,6 @@ Next, download the App Installer for your OS using one of the links below:
 
 ?> If your Linux system does not support Electron apps then you can build a Spacemesh full node and a CLI wallet from source code. For more information see the [go-spacemesh README](https://github.com/spacemeshos/go-spacemesh)
 
----
-
 ### Security Notes
 
 > All software released by Spacemesh is 100% open source. The App Installer you are downloading was packaged from code in the [Spacemesh Open Source software repositories](https://github.com/spacemeshos) available on Github. We provide the Installer to make it convenient for non-developers to join the Spacemesh testnet.
@@ -78,7 +74,5 @@ The app should be installed in `/opt/Spacemesh`, and you should see the app list
 Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete.
 
 > If you see a Windows security alert then check the checkbox 'Priave networks' and click 'Allow access'.
-
----
 
 Next, [follow this guide](guide/setup.md) to set up a wallet and smeshing in the App.
