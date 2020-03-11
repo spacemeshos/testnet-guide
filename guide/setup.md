@@ -22,7 +22,7 @@ You can send SMH from your account up to your coin balance. So for example, if y
 
 ?> We call the process of producing blocks _Smeshing._
 
-?> A _Rewards Account_ is a wallet account you set up and use to receive Smesh tokens for Smeshing.
+?> A _Rewards Account_ is a wallet account you set up and use to receive Smesh coins in exchange for Smeshing.
 
 Your wallet's main account will be used as your Smesher's rewards account. You will receive rewards to this account.
 
