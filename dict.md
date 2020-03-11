@@ -28,7 +28,7 @@ Your Smesher is responsible for submitting blocks with Smesh transactions to the
 The Spacemesh App for your desktop computer includes a Smesher and manages it for you. Future releases of the Testnet will support building and running a Smesher directly from source code.
 
 ## Smeshing
-Smeshing is the process of submitting blocks with transactions to the Testnet network according to the Spacemesh protocol. Before you can Smesh blocks, you need to commit 4GB free storage on your computer hard drive to Spacemesh (for the Open Testnet; this amount will increase to 100GB for the Mainnet).
+Smeshing is the process of submitting blocks with transactions to the Testnet network according to the Spacemesh protocol. Before you can Smesh blocks, you need to commit 4GB free storage on your computer hard drive to Spacemesh (for now; this amount will soon increase to 100GB).
 
 You will be prompted to [set up Smeshing](guide/setup.md) when you run the App for the first time.
 
