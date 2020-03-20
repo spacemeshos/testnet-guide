@@ -1,25 +1,21 @@
 # Smesh Rewards
 
 ## Overview
-Users who run the Smesher in the App and submit blocks to the network, are entitled to Smesh rewards.
+Users who run the Smesher in the App and submit blocks to the network are entitled to Smesh rewards.
 
-After setting up smeshing on your computer you will get your first reward in about 48 hours.
+After setting up smeshing on your computer you will get your first reward in about 49 hours. After this, you will begin receiving a reward at least once a day.
 
-After receiving your first reward, you will begin receiving a reward at least once a day.
-
-Your exact number of daily rewards, and eachh reward amount depends on how many smeshers added blocks to the mesh in that time period.
+Your exact number of daily rewards, and each reward amount, depends on how many Smeshers added blocks to the mesh in that time period. Therefore, your daily reward will vary.
 
 Read on for a more detailed technical explanation.
 
 > Learn more about [Smesh (SMH)](coins.md) coin units.
 
----
-
 ## Rewards Accounts
 
-Smesh rewards appear in the main wallet's account that you created in the Spacemesh App prior to setting up smeshinig.
+Smesh rewards appear in the main Wallet account that you created in the Spacemesh App prior to setting up Smeshing.
 
-This account is associated with your Smesher's identity and is called the `Rewards Account` (aka, the `coinbase account`).
+This account is associated with your Smesher's identity and is called the _Rewards Account_ (aka, the _coinbase account)._
 
 ## Layers, Epochs and Blocks
 
@@ -36,16 +32,16 @@ Your eligibility to contribute blocks to a specific layer is determined by the S
 The Spacemesh protocol guarantees that you will be eligible to submit at least one block in at least one layer in each and every epoch, once you have completed setting up your Smesher and as long as your App is running on your computer.
 
 ## Layer Rewards
-Each layer has a total reward of 50 Smesh. This reward is distributed to the rewards account of each miner who contributed at least one block to that layer.
+Each layer has a total reward of 50 SMH. This reward is distributed to the rewards account of each miner who contributed at least one block to that layer.
 
-So, for example, if a layer includes 10 blocks, each submitted by a different Smesher, 50 SMH will be distributed evenly between the reward accounts of each of the 10 participating Smeshers. So each account will be credited with 5 SMH.
+So, for example, if a layer includes 10 blocks, each submitted by a different Smesher, 50 SMH will be distributed evenly among the reward accounts of each of the 10 participating Smeshers. So each account will be credited with 5 SMH.
 
-Rewards for a layer are distributed to reward accounts 4 layers (20 minutes) after that layer.
+Rewards for a layer are distributed to reward accounts 4 layers (i.e., 20 minutes) after that layer.
 
 ## Transaction Fees
-In addition to the layer reward described above, all Smeshers which submitted at least one block to a layer are entitled for a share of the transaction fees of valid transactions included in blocks in that layer.
+In addition to the layer reward described above, all Smeshers which submitted at least one block to a layer are entitled to a share of the transaction fees of valid transactions included in blocks in that layer.
 
-The transaction fees in a layer, are evenly distributed to all the Smeshers who have submitted a block in the layer.
+The transaction fees in a layer are evenly distributed to all the Smeshers who have submitted a block in the layer (think of it like the wait staff in a restaurant pooling tips).
 
 ## Tracking your Rewards
 
@@ -55,6 +51,6 @@ To view your rewards, click on `ALL TRANSACTIONS` in the Wallet screen. Rewards 
 
 ## Summary
 
-A fixed Smesh amount called the layer reward is evenly distributed between all Smeshers which contributed a block to the layer.
+A fixed amount of SMH called the _layer reward_ is evenly distributed among all Smeshers which contributed a block to the layer.
 
-The transaction fees of transactions included in a layer are evenly distributed between all the Smeshers that contributed a block to that layer.
+The transaction fees of transactions included in a layer are evenly distributed among all the Smeshers that contributed a block to that layer.
