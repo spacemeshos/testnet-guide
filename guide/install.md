@@ -39,7 +39,7 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### OS X
 
-[Spacemesh-0.0.3.dmg](https://storage.googleapis.com/smapp/0.0.4/Spacemesh-0.0.4.dmg)
+[Spacemesh-0.0.4.dmg](https://storage.googleapis.com/smapp/0.0.4/Spacemesh-0.0.4.dmg)
 
 ### Linux
 
