@@ -45,7 +45,7 @@ Next, download the App Installer for your OS using one of the links below:
 
 ?> Debian 8 or newer, Ubuntu 12.04 or newer, Fedora 21 or newer, or any other flavor of Linux which supports Electron apps.
 
-[smapp_0.0.3_amd64.deb](https://storage.googleapis.com/smapp/0.0.4/spacemesh_app_0.0.4_amd64.deb)
+[smapp_0.0.4_amd64.deb](https://storage.googleapis.com/smapp/0.0.4/spacemesh_app_0.0.4_amd64.deb)
 
 
 ?> If your Linux system does not support Electron apps then you can build a Spacemesh full node and a CLI wallet from source code. For more information see the [go-spacemesh README](https://github.com/spacemeshos/go-spacemesh)
