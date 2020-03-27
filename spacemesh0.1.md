@@ -1,4 +1,4 @@
-# Spacemesh 0.1 - Release Highlights
+# Spacemesh 0.1 (TweedleDee) - Release Highlights
 
 Spacemesh 0.1 is the first release of the Spacemesh Testnet. We will release updates with additional features and capabilities on an ongoing basis leading up to the release of the Mainnet.
 
@@ -13,7 +13,7 @@ This guide walks you though and describes the features and the supported functio
 
 ## Spacemesh 0.1 Technical Cheat Sheet
 
-- Network id: 0.
+- Network id: 113.
 - Time to generate Smesh Storage commitment: ~20 minutes on a modern CPU.
 - Layer smeshing reward: 50 SMH.
 - Rewards maturity: 4 layers (20 minutes).
@@ -22,7 +22,7 @@ This guide walks you though and describes the features and the supported functio
 - Number of layers in an epoch:	288.
 - Epoch duration: 24 hours.
 - Smesh transfer transaction fee: 1-3 Smidge (SMD).
-- Time to first reward: ~49 hours.
+- Time to first reward: 24-49 hours from setup.
 
 ## What is not part of Spacemesh 0.1?
 
