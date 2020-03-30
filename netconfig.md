@@ -1,6 +1,8 @@
 # Network configuration
 
 In order to participate in the Spacemesh network and to earn smeshing rewards your computer firewall (and in some cases your home network router) needs to be configured, so the Spacemesh App is able to accept incoming Internet connections on `port 7153` for both `TCP` and `UDP`.
+The App attempts to automatically configure your network using UPnP so in most cases you do not need to manually configure your network to support Spacemesh.
+
 
 ## Computer Clock Configuration
 Please make sure that your computer clock is synced to a time server such as `time.windows.com` or `time.apple.com`. You must be synced to NTP time to be able to connect to the Spacemesh network.
@@ -45,7 +47,7 @@ If you didn't click on `Allow access` when prompted by Windows, you will need to
 
 
 ## OS X
-The Spacemesh App might be able to accept incoming connections by default depending on your Firewall settings. For example, when you download a signed distribution from Spacemesh. We recommend you follow these steps to confirm that the App can accept incoming connections.
+The Spacemesh App might be able to accept incoming connections by default depending on your Firewall settings. For example, when you download a signed app distribution from Spacemesh. We recommend you follow these steps to confirm that the App can accept incoming connections.
 
 1. Open the `System Preferences App`.
 2. Click on `Privacy and Security`.
@@ -65,7 +67,9 @@ If you are running Linux then you should be able to configure your firewall via 
 
 Your home router or Internet access point (or both) may be blocking incoming connections to any device on your home network or not forwarding incoming Spacemesh network traffic to the computer you are running the App on.
 
-In this case, you need to configure your router to forward both UDP and TCP incoming network traffic on port 7153 to the computer that you are running the Spacemesh App on.
+The App attempts to automatically configure your router using UPnP so in most cases you do not need to manually do this.
+
+In you still can't connect to the p2p network then you need to configure your router to forward both UDP and TCP incoming network traffic on port 7153 to the computer that you are running the Spacemesh App on.
 
 To configure your router follow the instructions provided by your router hardware maker for your router model.
 
