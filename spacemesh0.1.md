@@ -28,7 +28,7 @@ This guide walks you though and describes the features and the supported functio
 
 These use cases that are not yet supported in the Spacemesh 0.1 Testnet release:
 
-- Browse the Testnet using a block explorer and a dashboard.
+- Browse the Testnet using an explorer and a dashboard.
 - Run the App in Wallet-only mode without running a local Smesher.
 
 We plan to support these uses cases in subsequent Spacemesh Testnet releases throughout 2020, starting with Spacemesh 0.2.

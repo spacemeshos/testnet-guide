@@ -27,8 +27,8 @@
 ### CPU Usage
 As long as your system and configuration meets the recommended requirements, ongoing utilization of your CPU by the Spacemesh App should be limited during normal operation (after the initial setup phase) to 2 CPU cores.
 
-### Network Config
-You must configure your network to allow the App to accept incoming connections on UDP port 7153 and on TCP port 7153. Follow [this guide](netconfig.md) to configure your network.
+### Network Configuration
+Your network should allow the App to accept incoming connections on UDP port 7153 and on TCP port 7153 and your computer firewall should not block incoming UDP and TPC packets on this port. The App attempts to automatically configure your network using UPnP. In some cases you may need to configure your router and firewall manually. Follow [this guide](netconfig.md) to configure your network.
 
 ### Laptop Usage
 You can install the App, run a Smesher and produce blocks on your laptop if it meets the minimum system requirements. However, you will need to make sure you leave your laptop open and connected to power and to the Internet 24/7.
