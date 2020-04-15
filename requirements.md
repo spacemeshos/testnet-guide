@@ -3,7 +3,7 @@
 ### Minimum System Requirements
 
 - A computer with modern Intel or AMD multi-core CPU (3 cores / 6 native threads).
-- One of the following operating systems: Windows 10 (Home or Pro), OS X, Ubuntu 12.04, Fedora 21, Debian 8.
+- One of the following operating systems: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, Debian 8.
 - 6 GB RAM.
 - 150 GB free space on a magnetic HDD or SSD.
 - An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload.
