@@ -222,3 +222,10 @@ p {
 	max-width: 90%;
 	display: block;
 }
+
+.cover-logo._dark {
+	display: block !important;
+}
+.cover-logo._light {
+	display: none !important;
+}

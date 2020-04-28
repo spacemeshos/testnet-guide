@@ -6,6 +6,8 @@
 	--cover-background-image: none;
 	--cover-heading-color: white;
 	--cover-background-color: #252429;
+	--cover-background-image: none;
+	--cover-background-mask-visibility: hidden;
 	--code-theme-background: #353438;
 	--code-theme-text: white;
 	--code-inline-color: #252429;
@@ -73,4 +75,11 @@ p {
 
 .main-logo {
 	fill: #fff;
+}
+
+.cover-logo._light {
+	display: block !important;
+}
+.cover-logo._dark {
+	display: none !important;
 }
