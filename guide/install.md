@@ -39,17 +39,17 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-[Spacemesh Setup 0.0.7.exe](https://storage.googleapis.com/smapp/0.0.7/Spacemesh%20Setup%200.0.7.exe)
+[Spacemesh Setup 0.0.8.exe](https://storage.googleapis.com/smapp/0.0.8/Spacemesh%20Setup%200.0.8.exe)
 
 ### OS X
 
-[Spacemesh-0.0.7.dmg](https://storage.googleapis.com/smapp/0.0.7/Spacemesh-0.0.7.dmg)
+[Spacemesh-0.0.8.dmg](https://storage.googleapis.com/smapp/0.0.8/Spacemesh-0.0.8.dmg)
 
 ### Linux
 
 ?> Debian 8 or newer, Ubuntu 12.04 or newer, Fedora 21 or newer, or any other flavor of Linux which supports Electron apps.
 
-[smapp_0.0.7.amd64.deb](https://storage.googleapis.com/smapp/0.0.7/smapp_0.0.7_amd64.deb)
+[smapp_0.0.8.amd64.deb](https://storage.googleapis.com/smapp/0.0.8/spacemesh_app_0.0.8_amd64.deb)
 
 
 ?> If your Linux system does not support Electron apps then you can build a Spacemesh full node and a CLI wallet from source code. For more information see the [go-spacemesh README](https://github.com/spacemeshos/go-spacemesh)
