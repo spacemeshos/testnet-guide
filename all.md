@@ -12,6 +12,8 @@
 - [Backing up your wallet](backup.md)
 - [Configuring your network](netconfig.md)
 - [Updating the App](update.md)
+- [Creating a contact](add_contact.md)
+
 
 ## Additional resources
 - [About Smesh (SMH)](coins.md)
