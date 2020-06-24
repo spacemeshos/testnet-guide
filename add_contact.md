@@ -18,7 +18,7 @@ You should see this box appear:
 
  Click `CREATE`.
 
-4. Enter your password:
+4. Enter your wallet's password:
 
 ![](images/v1.0/unlock_wallet.png)
 
