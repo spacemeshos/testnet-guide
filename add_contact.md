@@ -1,6 +1,6 @@
 # Working with Contacts
 
-This feature allows you to save the wallet address
+This feature allows you to save the wallet address of other users as permanent contacts for faster and more convenient transactions. Contacts are saved encrypted to the wallet file for maximum privacy.
 
 ## Adding a Contact
 
@@ -56,4 +56,8 @@ Enter your password:
 
 Go to your `CONTACTS` screen. Notice that your new contact has been added.
 
-![](images/v1.0/transact_contact_added.PNG)
+![](images/v1.0/create_contact_from_txt_3.png)
+
+## Sending Smesh to a Contact
+
+Just click on the contact of your choice, and you'll be taken to the transaction screen!
