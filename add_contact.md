@@ -1,4 +1,8 @@
-# Adding a Contact
+# Working with Contacts
+
+This feature allows you to save the wallet address
+
+## Adding a Contact
 
 1. Navigate to the Contact screen by clicking `CONTACTS` in the top-left side of the screen.
 
@@ -12,20 +16,17 @@ You should see this box appear:
 
 3. Enter the nickname and wallet address in the corresponding fields.
 
+ Click `CREATE`.
 
-![](images/v1.0/insert_contact_details.PNG)
+4. Enter your password:
 
-4. Click `CREATE`.
+![](images/v1.0/unlock_wallet.png)
 
-Enter your password:
+Click `UNLOCK` to confirm
 
-![](images/v1.0/enter_password.PNG)
+5. You should now see this confirmation, as well as your contact listed:
 
-5. Click `UNLOCK` to confirm
-
-You should now see this confirmation, as well as your contact listed:
-
-![](images/v1.0/contact_confirmation.PNG)
+![](images/v1.0/contact_created.png)
 
 Congratulations! You have just created your contact!
 
@@ -37,19 +38,19 @@ Go to the `Transactions` area of your Wallet Screen:
 
 2. Click on a transaction to view its details:
 
-![](images/v1.0/transaction_log_contact.PNG)
+![](images/v1.0/create_contact_from_tx.png)
 
 3. Click the small button next to the wallet address on the `FROM` line.
 
 A purple box will appear on the right, with the wallet address automatically filled in. Choose your desired nickname.
 
-![](images/v1.0/transact_enter_contact_detials.PNG)
+![](images/v1.0/create_contact_from_tx_1.png)
 
 4. Click `CREATE`.
 
 Enter your password:
 
-![](images/v1.0/transact_enter_password.PNG)
+![](images/v1.0/create_contact_from_tx_2.png)
 
 5. Click `UNLOCK` to confirm.
 
