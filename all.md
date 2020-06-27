@@ -13,7 +13,7 @@
 - [Configuring your network](netconfig.md)
 - [Updating the App](update.md)
 - [Creating a contact](add_contact.md)
-- [Using sign text](sign_text.md)
+- [Signing text](sign_text.md)
 
 
 ## Additional resources
