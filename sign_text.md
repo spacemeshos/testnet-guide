@@ -7,7 +7,7 @@ As owner is defined as someone who has access to the account's secret key.
 
 In order to use the `SIGN TEXT` feature, go to `SETTINGS`. Once there, notice the box on the left of the screen and click on `ACCOUNT SETTINGS`.
 
-1. Click on the `SIGN TEXT` button.
+1. Under each account, you'll notice three commands: `RENAME`, `SIGN TEXT`, and `REWARDS ACCOUNT`. Click on the `SIGN TEXT` command.
 
 ![](images/v1.0/sign_text_1.png)
 
