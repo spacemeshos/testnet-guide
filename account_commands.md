@@ -1,3 +1,11 @@
+## Working with Your Accounts
+
+Go to the `SETTINGS` screen and click on `ACCOUNT SETTINGS` in the navigation box on the left.  
+
+Notice the blue buttons underneath each of your accounts. All of them will have `RENAME` and `SIGN TEXT`. If you have more than one account, the ones that are not currently your rewards account will have an additional `SET AS REWARDS ACCOUNT` command.
+
+![](images/v1.0/account_commands.png)
+
 ## Signing Text
 
 `SIGN TEXT` allows you to sign a text message such as your full name or email address.

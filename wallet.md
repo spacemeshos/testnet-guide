@@ -103,15 +103,5 @@ To switch between accounts, click the account drop-down icon in your Wallet disp
 
 Select the account you want to use from the drop-down menu.
 
-## Wallet Commands
-
-Notice the blue `COMMANDS` button underneath your accounts in the wallet screen. Clicking on it will open the Account Commands screen. There you will see two green buttons: `SIGN TEXT` and `SET AS REWARDS ACCOUNT`
-
-![](images/v1.0/account_commands.png)
-
-`SET AS REWARDS ACCOUNT` will allow you to select which of your accounts receives smeshing rewards.
-
-To learn how to use the `SIGN TEXT` feature, [go here](sign_text.md).
-
 ## Additional Guides
 - To learn more about the Testnet, follow a guide from one of the available [Testnet guides](all.md).

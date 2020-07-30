@@ -6,14 +6,14 @@
 - [Setting up the App](guide/setup.md)
 - [Viewing Smesher status](guide/status.md)
 - [Viewing transactions and rewards](wallet_log.md)
-- [Using your Wallet](wallet.md)
+- [Using your wallet](wallet.md)
 - [Sending Smesh](send_coin.md)
 - [Getting Smesh](get_coin.md)
 - [Backing up your wallet](backup.md)
 - [Configuring your network](netconfig.md)
 - [Updating the App](update.md)
 - [Creating a contact](add_contact.md)
-- [Signing text](sign_text.md)
+- [Working with your accounts](account_commands.md)
 
 
 ## Additional resources
