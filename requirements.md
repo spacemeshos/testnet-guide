@@ -8,8 +8,8 @@
 - 150 GB free space on a magnetic HDD or SSD.
 - An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload.
 - Network configuration that allows the App to accept incoming TCP and UDP connections on port 7153.
+- Windows 10 Home, OS X or Linux.
 
-> Note that Spacemesh 0.1 does not support Apps which are not internet routable on _both TCP and UDP on port 7153._ This requirement is temporary and will go away in a future Testnet release.
 ---
 
 ### Recommended System Requirements
@@ -18,7 +18,7 @@
 - 8 GB RAM.
 - 350GB free space on a magnetic HDD or SSD.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
-
+- Windows 10 Home, OS X or Linux.
 ### Linux Systems
 > The Spacemesh App is an Electron App. It is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
 
