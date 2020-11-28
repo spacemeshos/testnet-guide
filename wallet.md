@@ -83,7 +83,7 @@ Follow these steps to create a new account:
 
 ![](images/v1.0/settings_button.png)
 
-2. Scroll down to `ACCOUNT SETTINGS`.
+2. Click on `ACCOUNT SETTINGS` in the navigation bar on the left.
 
 Your screen should look like this:
 
