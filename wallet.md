@@ -14,7 +14,7 @@ You are prompted to secure your Wallet with a password, and we recommend that yo
 
 When you open the Spacemesh App again you should see this screen:
 
-![](images/v1.0/wallet_unlock.png)
+![](images/v1.0/wallet_unlock.PNG)
 
 Enter your Wallet password to unlock access to your wallet.
 
@@ -87,7 +87,7 @@ Follow these steps to create a new account:
 
 Your screen should look like this:
 
-![](images/v1.0/account_settings.png)
+![](images/v1.0/account_settings.PNG)
 
 3. Click `Add Account`.
 
