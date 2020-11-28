@@ -14,7 +14,7 @@ You are prompted to secure your Wallet with a password, and we recommend that yo
 
 When you open the Spacemesh App again you should see this screen:
 
-![](images/v1.0/unlock_wallet.png)
+![](images/v1.0/wallet_unlock.png)
 
 Enter your Wallet password to unlock access to your wallet.
 
