@@ -14,7 +14,7 @@
 - [Updating the App](update.md)
 - [Creating a contact](add_contact.md)
 - [Working with your accounts](account_commands.md)
-- [Configuring app settings](app_settings.md)
+- [Toggling app settings](app_settings.md)
 
 
 ## Additional resources
