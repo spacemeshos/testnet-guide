@@ -49,7 +49,7 @@ Next, download the App Installer for your OS using one of the links below:
 
 ?> Debian 8 or newer, Ubuntu 12.04 or newer, Fedora 21 or newer, or any other flavor of Linux which supports Electron apps.
 
-[spacemesh_app_0.1.6_amd64_ubuntu_18.deb](https://storage.googleapis.com/smapp/v0.1.6/spacemesh_app_0.1.6_amd64_ubuntu_18.deb)
+[spacemesh_app_0.1.6_amd64.deb](https://storage.googleapis.com/smapp/v0.1.6/spacemesh_app_0.1.6_amd64.deb)
 
 For other Linux builds including Snapcraft, please see the [smapp release page](https://github.com/spacemeshos/smapp/releases/tag/v0.1.2).
 
