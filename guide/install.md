@@ -39,17 +39,17 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-[Spacemesh Setup 0.1.7.exe](https://storage.googleapis.com/smapp/v0.1.7/Spacemesh%20Setup%200.1.7.exe)
+[Spacemesh Setup 0.1.9.exe](https://storage.googleapis.com/smapp/v0.1.9/Spacemesh%20Setup%200.1.9.exe)
 
 ### OS X
 
-[Spacemesh-0.1.7.dmg](https://storage.googleapis.com/smapp/v0.1.7/Spacemesh-0.1.7.dmg)
+[Spacemesh-0.1.9.dmg](https://storage.googleapis.com/smapp/v0.1.9/Spacemesh-0.1.9.dmg)
 
 ### Linux
 
 ?> Debian 8 or newer, Ubuntu 12.04 or newer, Fedora 21 or newer, or any other flavor of Linux which supports Electron apps.
 
-[spacemesh_app_0.1.7_amd64.deb](https://storage.googleapis.com/smapp/v0.1.7/spacemesh_app_0.1.7_amd64.deb)
+[spacemesh_app_0.1.9_amd64.deb](https://storage.googleapis.com/smapp/v0.1.9/spacemesh_app_0.1.9_amd64.deb)
 
 For other Linux builds including Snapcraft, please see the [smapp release page](https://github.com/spacemeshos/smapp/releases/tag/v0.1.2).
 
