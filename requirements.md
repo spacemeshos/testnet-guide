@@ -53,5 +53,5 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
 - 16 GB RAM.
 - 350GB free space (HDD or SSD).
-- A graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later.
+- A discrete gaming graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, AMD Radeon RX and Nvidia Geforce RTX cards.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
