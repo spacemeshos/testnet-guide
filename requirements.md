@@ -64,21 +64,22 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 - Creating a proof of space on more than one volume is not yet supported.
 
 ### Recommended Hardware for Proof of Space Data
-We recommend creating proof of space data by using a discrete GPU card in your desktop computer such as an AMD Radeon, an Nvidia Geforce or an Nvidia Tesla.
+We recommend creating proof of space data by using a discrete GPU card in your Desktop Computer such as an AMD Radeon, an Nvidia Geforce or an Nvidia Tesla.
 
-You can also the data using your computer's integrated graphics GPU or CPU. However, doing so will take much longer and the process is less energy efficient.
+You can also use your computer's integrated graphics GPU or main CPU. However, it will take much longer to generate the data, and the process is less energy efficient so we do not recommend it.
 
 #### Supported Discrete GPUs
 The following popular GPU models are supported.
+
 - Nvidia Geforce RTX 2070 / 2080
 - Nvidia GTX 1060
 - AMD Radeon RX 570 / 580
 - AMD Radeon Pro 555x
 - Nvidia Tesla V100, T4, P100 or P4
 
-Other Nvidia cards are supported if they support `CUDA compute API 9.0 or later`.
+Other Nvidia discrete cards should work if they support `CUDA compute API 9.0 or later`.
 
-Other AMD cards are supported if they support the `Vulkan API 1.1 or later`.
+Other AMD discrete cards should work if they support `Vulkan API 1.1 or later`.
 
 #### Performance
 The time it takes to create the proof of space data depends on your GPU compute capabilities.
