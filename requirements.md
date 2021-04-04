@@ -73,7 +73,7 @@ The following popular GPU models are supported.
 
 - Nvidia Geforce RTX 2070 / 2080
 - Nvidia GTX 1060
-- AMD Radeon RX 570 / 580
+- AMD Radeon RX [550](https://www.newegg.com/onda-model-rx550-4g/p/1DW-00C1-00001) / 570 / 580
 - AMD Radeon Pro 555x
 - Nvidia Tesla V100, T4, P100 or P4
 
@@ -88,3 +88,10 @@ The following popular integrated GPUs models are supported but are not recommend
 
 #### Performance
 The time it takes to create the proof of space data depends on your GPU compute capabilities. Entry-level discrete GPUs have slower compute performance compared to high-end ones, and much faster performance than integrated GPUs.
+
+#### Computer Models - Entry Level
+These popular desktop computers should work well as entry-level computers for running Spacemesh and for smeshing.
+
+- [Apple Mac Mini](https://www.apple.com/shop/buy-mac/mac-mini/apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
+- [HP Pavilion Gaming Desktop PC TG01](https://www.amazon.com/HP-Pavilion-i3-10100-Keyboard-TG01-1022/dp/B08NCFRFFD)
+- [HP Pavillion Gaming Desktop PC TP01](https://www.amazon.com/HP-Business-Processor-i9-10850K-Bluetooth/dp/B08257GC1Q)
