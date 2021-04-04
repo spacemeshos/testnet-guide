@@ -39,10 +39,10 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 ## Spacemesh App Requirements - Spacemesh 0.2 - TweedleDum Open Testnet (Not yet released)
 
 ### Minimum System Requirements
-- A computer with modern Intel or AMD CPU (4 cores / 8 native threads).
+- A computer with a modern Intel or AMD CPU (4 cores / 8 native threads) or an Apple M1 CPU.
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
 - 8 GB RAM.
-- 150 GB free space (HDD or SSD).
+- 350 GB free space (HDD or SSD).
 - A graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later.
 - An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload.
 
@@ -53,5 +53,38 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
 - 16 GB RAM.
 - 350GB free space (HDD or SSD).
-- A discrete gaming graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, AMD Radeon RX and Nvidia Geforce RTX cards.
+- A discrete gaming graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, an AMD Radeon RX card or an Nvidia Geforce RTX card.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
+
+### Recommended Free Disk Space
+- The minimum proof of space data size is 250 Gib.
+- You can create a larger proof of space, e.g. 350 GiB, 450 GiB, 550 GiB, etc... as long as you have sufficient free disk space on one of your hard drives.
+- You can use any standard magnetic hard drive (HDD). Use of SSD is possible but there is no advantage in using an SSD over standard HDD drives.
+- You do not need to have temporary disk space larger than your final proof of space data.
+- Creating a proof of space on more than one volume is not yet supported.
+
+### Recommended Hardware for Proof of Space Data
+We recommend creating Spacemesh proof of space data by using a discrete GPU card in your desktop computer such as an AMD Radeon, an Nvidia Geforce or an Nvidia Tesla.
+
+You can also create proof of space data using your computer's CPU, however the process will be take much longer and the less energy efficient.
+
+#### Supported GPUs
+The following popular GPU models are supported. Other Nvidia cards are supported if they support `CUDA compute API 9.0 or later`. Other AMD cards are supported if they support the `Vulkan API 1.1 or later`.
+
+##### Discrete GPUs
+- Nvidia Geforce RTX 2070 / 2080
+- Nvidia GTX 1060
+- AMD Radeon RX 570 / 580
+- AMD Radeon Pro 555x
+- Nvidia Tesla V100, T4, P100 or P4
+
+
+###### Performance
+The time it takes to create the proof of space data depends on your GPU compute capabilities.
+
+Entry level discrete GPUs have slower compute performance compared to high-end ones, and much better performance than integrated GPUs.
+
+###### Integrated GPUs
+The following integrated GPUs models are supported but are not recommended due to their slow performance compared to discrete GPUs.
+- Apple M1
+- Intel UHD Graphics 630
