@@ -57,16 +57,16 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
 ### Recommended Free Disk Space
-- The minimum proof of space data size is 250 Gib.
-- You can create a larger proof of space, e.g. 350 GiB, 450 GiB, 550 GiB, etc... as long as you have sufficient free disk space on one of your hard drives.
-- You can use any standard magnetic hard drive (HDD). Use of SSD is possible but there is no advantage in using an SSD over standard HDD drives.
+- The minimum proof of space data file size is 250 GiB.
+- You can create a larger proof of space data files, e.g. 350 GiB, 450 GiB, 550 GiB, etc... as long as you have sufficient free disk space on one of your hard drives.
+- You can use any magnetic hard drive (HDD) or SSD drive for the proof of space data.
+- There is no significant advantage in using an SSD over HDD.
 - You do not need to have temporary disk space larger than your final proof of space data.
 - Creating a proof of space on more than one volume is not yet supported.
+- You need sufficient disk space for your local Spacemesh p2p node data and for your proof of space data file. We recommend at least 300 GiB of free disk space in total. 250 GiB for the proof of space data file and 50 GiB for node data.
 
 ### Recommended Hardware for Proof of Space Data
-We recommend creating proof of space data by using a discrete GPU card in your Desktop Computer such as an AMD Radeon, an Nvidia Geforce or an Nvidia Tesla.
-
-You can also use your computer's integrated graphics GPU or main CPU. However, it will take much longer to generate the data, and the process is less energy efficient so we do not recommend it.
+We recommend creating the proof of space data using a discrete GPU card in a Desktop Computer such as AMD Radeon, Nvidia Geforce or Nvidia Tesla. You can also create the proof of space data using your computer's integrated graphics card or main CPU. However, it will take much longer to generate the data, and the process is less energy efficient so we do not recommend it.
 
 #### Supported Discrete GPUs
 The following popular GPU models are supported.
@@ -81,12 +81,10 @@ Other Nvidia discrete cards should work if they support `CUDA compute API 9.0 or
 
 Other AMD discrete cards should work if they support `Vulkan API 1.1 or later`.
 
-#### Performance
-The time it takes to create the proof of space data depends on your GPU compute capabilities.
-
-Entry-level discrete GPUs have slower compute performance compared to high-end ones, and much faster performance than integrated GPUs.
-
 #### Integrated GPUs
 The following popular integrated GPUs models are supported but are not recommended due to their slow performance compared to discrete GPUs.
 - Apple M1
 - Intel UHD Graphics 630
+
+#### Performance
+The time it takes to create the proof of space data depends on your GPU compute capabilities. Entry-level discrete GPUs have slower compute performance compared to high-end ones, and much faster performance than integrated GPUs.
