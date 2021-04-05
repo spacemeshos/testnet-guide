@@ -48,7 +48,7 @@ We recommend this setup for users who are comfortable using desktop apps but who
 - A desktop computer with modern Intel or AMD CPU (8 cores / 16 native threads).
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
 - 16 GB RAM.
-- At least 300GB free disk space (HDD or SSD).
+- At least 300 GiB free disk space (HDD or SSD).
 - A discrete gaming graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, an AMD Radeon RX card or an Nvidia Geforce RTX card. The graphics card is used to setup proof of space time data which is required for smeshing.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
@@ -70,7 +70,7 @@ This system will be dedicated to run the node and will not able to support inter
 - A computer with a modern Intel or AMD CPU (2 cores / 4 native threads) or an Apple M1 CPU.
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
 - 4 GB RAM.
-- At least 300 GB free disk space (HDD or SSD).
+- At least 300 GiB free disk space (HDD or SSD).
 - A graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later is needed to setup proof of space time data which is required for smeshing.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
