@@ -81,7 +81,7 @@ This system will be dedicated to run the node and will not able to support inter
 - Creating a proof of space on more than one volume is not supported.
 - You need sufficient disk space for your local Spacemesh p2p node data and for your proof of space data file. We recommend at least 300 GiB of free disk space in total. 250 GiB for the proof of space data file and 50 GiB for node data.
 
-### Recommended Hardware for Proof of Space Data
+### Recommended Hardware for Creating Proof of Space Data
 We recommend creating the proof of space data using a discrete GPU card in a Desktop Computer such as AMD Radeon, Nvidia Geforce or Nvidia Tesla. You can also create the proof of space data using your computer's integrated graphics card or the main CPU. However, it will take much longer to create the data, and the process is less energy efficient so we do not recommend it.
 
 #### Supported Discrete GPUs
@@ -106,7 +106,7 @@ The following popular integrated GPUs models are supported but are not recommend
 The time it takes to create the proof of space data depends on your GPU compute capabilities. Entry-level discrete GPUs have slower compute performance compared to high-end ones, and much faster performance than integrated GPUs.
 
 #### Computer Models - Entry Level
-These popular desktop computers should work well as entry-level computers for running Spacemesh and for smeshing.
+These popular desktop computers should work well as entry-level computers for running the Spacemesh App and to smesh. You should also be able to use these computers for running other interactive apps.
 
 - [Apple Mac Mini](https://www.apple.com/shop/buy-mac/mac-mini/apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
 - [HP Pavillion Gaming Desktop PC TG01](https://www.amazon.com/HP-Pavilion-i3-10100-Keyboard-TG01-1022/dp/B08NCFRFFD)
