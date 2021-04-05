@@ -19,7 +19,7 @@
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
 ### Linux Systems
-> The Spacemesh App is an Electron App. It is supported on any Linux distro that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
+> The Spacemesh App is an Electron App. It is supported on any Linux distribution that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
 
 ## Operational Notes
 
@@ -52,6 +52,13 @@ We recommend this setup for users who are comfortable using desktop apps but who
 - A discrete gaming graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, an AMD Radeon RX card or an Nvidia Geforce RTX card. The graphics card is used to setup proof of space time data which is required for smeshing.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
+The following popular desktop computer models meet these requirements:
+
+- [Apple Mac Mini](https://www.apple.com/shop/buy-mac/mac-mini/apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
+- [HP Pavillion Gaming Desktop PC TG01](https://www.amazon.com/HP-Pavilion-i3-10100-Keyboard-TG01-1022/dp/B08NCFRFFD)
+- [HP Pavillion Gaming Desktop PC TP01](https://www.amazon.com/HP-Business-Processor-i9-10850K-Bluetooth/dp/B08257GC1Q)
+
+
 ----
 
 ### Spacemesh Full p2p Node
@@ -82,7 +89,7 @@ This system will be dedicated to run the node and will not able to support inter
 - You need sufficient disk space for your local Spacemesh p2p node data and for your proof of space data file. We recommend at least 300 GiB of free disk space in total. 250 GiB for the proof of space data file and 50 GiB for node data.
 
 ### Recommended Hardware for Creating Proof of Space Data
-We recommend creating the proof of space data using a discrete GPU card in a Desktop Computer such as AMD Radeon, Nvidia Geforce or Nvidia Tesla. You can also create the proof of space data using your computer's integrated graphics card or the main CPU. However, it will take much longer to create the data, and the process is less energy efficient so we do not recommend it.
+We recommend creating the proof of space data using a discrete GPU card such as AMD Radeon, Nvidia Geforce or Nvidia Tesla. You can also create the proof of space data using your computer's integrated graphics card or the main CPU. However, it will take much longer to create the data, and the process is less energy efficient so we do not recommend it.
 
 #### Supported Discrete GPUs
 The following popular GPU models are supported.
@@ -104,10 +111,3 @@ The following popular integrated GPUs models are supported but are not recommend
 
 #### Performance
 The time it takes to create the proof of space data depends on your GPU compute capabilities. Entry-level discrete GPUs have slower compute performance compared to high-end ones, and much faster performance than integrated GPUs.
-
-#### Computer Models - Entry Level
-These popular desktop computers should work well as entry-level computers for running the Spacemesh App and to smesh. You should also be able to use these computers for running other interactive apps.
-
-- [Apple Mac Mini](https://www.apple.com/shop/buy-mac/mac-mini/apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
-- [HP Pavillion Gaming Desktop PC TG01](https://www.amazon.com/HP-Pavilion-i3-10100-Keyboard-TG01-1022/dp/B08NCFRFFD)
-- [HP Pavillion Gaming Desktop PC TP01](https://www.amazon.com/HP-Business-Processor-i9-10850K-Bluetooth/dp/B08257GC1Q)
