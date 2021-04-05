@@ -39,9 +39,11 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 ## System Requirements - Spacemesh 0.2 - TweedleDum Open Testnet (Not yet released)
 
 
-### System Requirements - Spacemesh App
+### Spacemesh App
 
 The following system is required to run the Spacemesh App (Smapp) and to smesh using a full p2p node managed by Smapp.
+You should be able to use the computer normally for other interactie apps.
+We recommend this setup for users who are comfortable using desktop apps but who are not comfortable using command line apps.
 
 - A desktop computer with modern Intel or AMD CPU (8 cores / 16 native threads).
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
@@ -52,9 +54,10 @@ The following system is required to run the Spacemesh App (Smapp) and to smesh u
 
 ----
 
-### System Requirements - Full p2p Node
+### Spacemesh Full p2p Node
 
 The following system is required to run the a full Spacemesh p2p node and to smesh without running the Spacemesh App.
+We recommend this methods for technical users who are comfortable with the command line and with working with terminal apps.
 This system will be dedicated to run the node and will not able to support interactive use of other apps.
 
 - A computer with a modern Intel or AMD CPU (2 cores / 4 native threads) or an Apple M1 CPU.
