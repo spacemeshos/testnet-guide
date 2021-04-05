@@ -41,7 +41,11 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 
 ### Spacemesh App
 
-> These are the requirements for running the Spacemesh App (Smapp) and to smesh using a full p2p node managed by Smapp. You should be able to use the computer normally for other interactie apps. We recommend this setup for users who are comfortable using desktop apps but who are not comfortable using command line apps.
+Following are the requirements for running the Spacemesh App (Smapp) and to smesh using a full p2p node managed by Smapp.
+
+> We recommend this setup for users who are comfortable using desktop apps but who are not comfortable using command line apps.
+
+With this setup, you should be able to use your computer normally for other interactie apps.
 
 - A desktop computer with a modern Intel, AMD or Apple M1 CPU (4 cores / 8 native threads).
 - Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 18.04 (or later), Fedora 21 (or later), or Debian 8 (or later).
@@ -60,11 +64,11 @@ The following popular desktop computer models meet these requirements:
 
 ### Spacemesh Full p2p Node
 
-These are the requirements for runinh the a full Spacemesh p2p node and to smesh without running the Spacemesh App.
+These are the requirements for running the a full Spacemesh p2p node and to smesh without running the Spacemesh App.
 
->We recommend this methods for technical users who are comfortable with the command line and with working with terminal apps.
+> We recommend this methods for technical users who are comfortable with the command line and with working with terminal apps.
 
-In this setup, the computer will be dedicated to run the node and will not able to support interactive use of other apps.
+With this setup, your computer will be dedicated for running the Spacemesh node and it does not support running other interactive apps.
 
 - A computer with a modern Intel, an AMD CPU (2 cores / 4 native threads) or an Apple M1 CPU.
 - Operating System: Windows 10 Home or Pro, macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
