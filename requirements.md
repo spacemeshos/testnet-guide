@@ -41,20 +41,20 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 
 ### Spacemesh App
 
-Following are the requirements for running the Spacemesh App (Smapp) and to smesh using a full p2p node managed by Smapp.
+Following are the system requirements for running the Spacemesh App (Smapp) and to smesh using a full Spacemesh p2p node managed by Smapp.
 
-> We recommend this setup for users who are comfortable using desktop apps but who are not comfortable using command line apps.
+> We recommend this setup for users who are comfortable using desktop apps but are not comfortable using the command line.
 
-With this setup, you should be able to use your computer normally for other interactie apps.
+With this setup, you should be able to use your computer normally for other interactive apps.
 
 - A desktop computer with a modern Intel, AMD or Apple M1 CPU (4 cores / 8 native threads).
-- Operating System: Windows 10 (Home or Pro), macOS, Ubuntu 18.04 (or later), Fedora 21 (or later), or Debian 8 (or later).
-- Minimum 8 GB RAM. 16 GB RAM is recommended.
-- At least 300 GiB free disk space (HDD or SSD).
-- A discrete gaming graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, an AMD Radeon RX card or an Nvidia Geforce RTX card. The graphics card is used to setup proof of space time data which is required for smeshing.
+- Windows 10 Home or Pro, macOS, Ubuntu 18.04 (or later), Fedora 21 (or later), or Debian 8 (or later).
+- 8 GB RAM minimum. 16 GB RAM recommended.
+- 300 GiB free disk space (HDD or SSD).
+- A discrete graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later. For example, AMD Radeon RX or Nvidia Geforce RTX. The graphics card is used to setup proof of space time data which is required for smeshing.
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
-The following popular desktop computer models meet these requirements:
+The following popular models are examples for computers with these requirements:
 
 - [Apple Mac Mini](https://www.apple.com/shop/buy-mac/mac-mini/apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
 - [HP Pavillion Gaming Desktop PC TG01](https://www.amazon.com/HP-Pavilion-i3-10100-Keyboard-TG01-1022/dp/B08NCFRFFD)
@@ -62,19 +62,19 @@ The following popular desktop computer models meet these requirements:
 
 ----
 
-### Spacemesh Full p2p Node
+### Spacemesh Full Node
 
-These are the requirements for running the a full Spacemesh p2p node and to smesh without running the Spacemesh App.
+Following are the requirements for running the a Spacemesh full node, and to smesh without running the Spacemesh App.
 
-> We recommend this methods for technical users who are comfortable with the command line and with working with terminal apps.
+> We recommend this setup to technical users who are comfortable with the command line.
 
-With this setup, your computer will be dedicated for running the Spacemesh node and it does not support running other interactive apps.
+With this setup, your computer will be dedicated to running the Spacemesh full node and will not be used for running other interactive apps.
 
 - A computer with a modern Intel, an AMD CPU (2 cores / 4 native threads) or an Apple M1 CPU.
-- Operating System: Windows 10 Home or Pro, macOS, Ubuntu 12.04, Fedora 21, or Debian 8.
+- Windows 10 Home or Pro, macOS, Ubuntu 18.04, Fedora 21, or Debian 8.
 - 4 GB RAM.
-- At least 300 GiB free disk space (HDD or SSD).
-- A graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later is required to setup proof of space data which is needed for smeshing.
+- 300 GiB free disk space (HDD or SSD).
+- A graphics card supporting CUDA compute API 9.0 or later, or Vulkan compute API 1.1 or later is recommended to setup proof of space data which is needed for smeshing (see below).
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
 ---
@@ -83,22 +83,24 @@ With this setup, your computer will be dedicated for running the Spacemesh node 
 
 You only need to setup proof of space data once to smesh for an unlimited period of time. The minimum proof of space data size is 250 GiB.
 
-You can create larger proof of space data, e.g. 350 GiB, 450 GiB, 550 GiB, etc... as long as you have sufficient free disk space on one of your hard drives.
+You can create larger proof of space data up to the maximum size in 100 GiB increments from the minimum size. For example, 350 GiB, 450 GiB, 550 GiB, etc... up to the free space in one of your drives.
 
 > The larger your proof of space data is, the higher your smeshing rewards will be.
 
 The maximum proof of space data size has not been finalized yet but is likely to be 250 TiB.
 
-You can use any magnetic hard drive (HDD) or SSD drive for the proof of space data. There is no significant advantage in using an SSD over HDD.
+You can use any magnetic hard drive (HDD) or SSD drive for storing proof of space data. There is no significant advantage in using an SSD over HDD.
 
-You do not need to have temporary disk space larger than your final proof of space data. Creating a proof of space on more than one volume is not supported.
+You do not need to have temporary disk space larger than your final proof of space data.
 
-> You need to have sufficient disk space for your Spacemesh p2p full node data and for your proof of space data. We recommend at least 300 GiB of free disk space in total. 250 GiB for the proof of space data and 50 GiB for the node's local data.
+Creating proof of space data on more than one volume is not yet supported.
+
+> You need to have sufficient disk space for your Spacemesh full node data and for your proof of space data. We recommend at least 300 GiB of free disk space in total. 250 GiB for the proof of space data, and 50 GiB for the node's data.
 
 ### Recommended Hardware for Proof of Space Data Creation
-We recommend creating the proof of space data using a discrete GPU card such as AMD Radeon, Nvidia GeForce or Nvidia Tesla.
+We recommend creating proof of space data using a discrete GPU such as AMD Radeon, Nvidia GeForce or Nvidia Tesla.
 
-> You can also create the proof of space data using your computer's integrated graphics card or its main CPU. However, it will take much longer to create the data, and the process is less energy efficient so we do not recommend it.
+> You can also create the proof of space data using your computer's integrated graphics card or its main CPU. However, it will take much longer, and the process will be less energy efficient so we do not recommend it.
 
 The following popular discrete GPU models are supported.
 
@@ -108,7 +110,7 @@ The following popular discrete GPU models are supported.
 - AMD Radeon Pro 555x
 - Nvidia Tesla V100, T4, P100 or P4
 
-> Other Nvidia discrete cards should work if they support `CUDA compute API 9.0 or later`. Other AMD discrete cards should work if they support `Vulkan API 1.1 or later`.
+> Other Nvidia models should work if they support `CUDA compute API 9.0 or later`. Other AMD models should work if they support `Vulkan API 1.1 or later`.
 
 The following popular integrated GPUs models are supported but are not recommended due to their slow performance compared to discrete GPUs.
 
@@ -116,6 +118,4 @@ The following popular integrated GPUs models are supported but are not recommend
 - Intel UHD Graphics 630
 
 #### Performance
-The time it takes to create the proof of space data depends on your GPU compute capabilities and the data size.
-
-Entry-level discrete GPUs have slower compute performance compared to high-end ones, and much faster performance than integrated GPUs.
+The time it takes to create proof of space data depends on your GPU compute capabilities and the specified data size. Entry-level discrete cards have slower compute capabilities compared to high-end ones, and much better compute performance than integrated GPUs.
