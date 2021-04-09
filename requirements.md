@@ -38,6 +38,7 @@ Occasionally shutting down your laptop or the App may prevent you from Smeshing 
 
 ## System Requirements - Spacemesh 0.2 - TweedleDum Open Testnet (Not yet released)
 
+> Note that all the information below is tentative, and is subject to change around Spacemesh 0.2 testnet launch date.
 
 ### Spacemesh App
 
