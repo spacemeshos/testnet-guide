@@ -119,3 +119,10 @@ The following popular integrated GPUs models are supported but are not recommend
 
 #### Performance
 The time it takes to create proof of space data depends on your GPU compute capabilities and the specified data size. Entry-level discrete cards have slower compute capabilities compared to high-end ones, and much better compute performance than integrated GPUs.
+
+Below are rough estimated times for creating a 250 GiB proof of space data using various popular gpus and cpus models:
+- Nvidia RTX 2070: 10 hours.
+- AMD Radeon RX 580: 20 hours.
+- AMD Radeon Pro 560x: 40 hours.
+- Apple M1: 50 hours.
+- AMD/Intel modern CPU (~3.8ghz), 8 native threads: 185 hours.
