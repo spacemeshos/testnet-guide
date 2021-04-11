@@ -24,7 +24,7 @@ If you didn't click on `Allow access` when prompted by Windows, you may need to 
 
 > Follow these instructions to configure incoming connections rules for these two ports.
 
-### TCP Port 7153 Rule
+### TCP Port 7513 Rule
 
 1. Type `Firewall` in your Windows task bar search box.
 2. Open the `Windows Defender Firewall` app from the search results.
@@ -37,7 +37,7 @@ If you didn't click on `Allow access` when prompted by Windows, you may need to 
 9. Name the rule `Spacemesh TCP` and click Finish.
 
 
-### UDP Port 7153 Rule
+### UDP Port 7513 Rule
 
 1. Type `Firewall` in your Windows task bar search box.
 2. Open the `Windows Defender Firewall` app from the search results.
