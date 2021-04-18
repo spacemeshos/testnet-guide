@@ -82,9 +82,9 @@ With this setup, your computer will be dedicated to running the Spacemesh full n
 
 ### About Proof of Space Data
 
-You only need to setup proof of space data once to smesh for an unlimited period of time. The minimum proof of space data size is 256 GiB.
+You only need to setup proof of space data once to smesh for an unlimited period of time. The minimum proof of space data size is 200 GiB.
 
-You can create larger proof of space data up to the maximum size in 128 GiB increments from the minimum size. For example, 384 GiB, 512 GiB, 640 GiB, etc... up to the free space in a one volume on one or more of your drives.
+You can create larger proof of space data up to the maximum size in 128 GiB increments from the minimum size. For example, 250 GiB, 300 GiB, 350 GiB, etc... up to the free space in a one volume on one or more of your drives.
 
 > The larger your proof of space data is, the higher your smeshing rewards will be.
 
