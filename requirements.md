@@ -82,13 +82,13 @@ With this setup, your computer will be dedicated to running the Spacemesh full n
 
 ### About Proof of Space Data
 
-You only need to setup proof of space data once to smesh for an unlimited period of time. The minimum proof of space data size is 250 GiB.
+You only need to setup proof of space data once to smesh for an unlimited period of time. The minimum proof of space data size is 256 GiB.
 
-You can create larger proof of space data up to the maximum size in 100 GiB increments from the minimum size. For example, 350 GiB, 450 GiB, 550 GiB, etc... up to the free space in one of your drives.
+You can create larger proof of space data up to the maximum size in 128 GiB increments from the minimum size. For example, 384 GiB, 512 GiB, 640 GiB, etc... up to the free space in a one volume on one or more of your drives.
 
 > The larger your proof of space data is, the higher your smeshing rewards will be.
 
-The maximum proof of space data size has not been finalized yet but is likely to be 250 TiB.
+The maximum proof of space data size has not been finalized yet but is likely to be around 1 PiB.
 
 You can use any magnetic hard drive (HDD) or SSD drive for storing proof of space data. There is no significant advantage in using an SSD over HDD.
 
@@ -96,7 +96,7 @@ You do not need to have temporary disk space larger than your final proof of spa
 
 Creating proof of space data on more than one volume is not yet supported.
 
-> You need to have sufficient disk space for your Spacemesh full node data and for your proof of space data. We recommend at least 300 GiB of free disk space in total. 250 GiB for the proof of space data, and 50 GiB for the node's data.
+> You need to have sufficient disk space for your Spacemesh full node data and for your proof of space data. We recommend at least 300 GiB of free disk space in total. 256 GiB for the proof of space data, and 50 GiB for the node's data.
 
 ### Recommended Hardware for Proof of Space Data Creation
 We recommend creating proof of space data using a discrete GPU such as AMD Radeon, Nvidia GeForce or Nvidia Tesla.
@@ -105,11 +105,11 @@ We recommend creating proof of space data using a discrete GPU such as AMD Radeo
 
 The following popular discrete GPU models are supported.
 
-- Nvidia Geforce RTX 2070 / 2080
-- Nvidia GTX 1060
-- AMD Radeon RX [550](https://www.newegg.com/onda-model-rx550-4g/p/1DW-00C1-00001) / 570 / 580
-- AMD Radeon Pro 555x
-- Nvidia Tesla V100, T4, P100 or P4
+- Nvidia Geforce RTX 2070 / 2080.
+- Nvidia GTX 1060.
+- AMD Radeon RX [550](https://www.newegg.com/onda-model-rx550-4g/p/1DW-00C1-00001) / 570 / 580.
+- AMD Radeon Pro 555x.
+- Nvidia Tesla V100, T4, P100 or P4.
 
 > Other Nvidia models should work if they support `CUDA compute API 9.0 or later`. Other AMD models should work if they support `Vulkan API 1.1 or later`.
 
@@ -126,4 +126,4 @@ Below are rough estimated times for creating a 250 GiB proof of space data using
 - AMD Radeon RX 580: 20 hours.
 - AMD Radeon Pro 560x: 40 hours.
 - Apple M1: 50 hours.
-- AMD/Intel modern CPU (~3.8ghz), 8 native threads: 185 hours.
+- AMD/Intel modern CPU (~3.8 ghz), 8 native threads: 185 hours.
