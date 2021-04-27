@@ -39,23 +39,23 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-[Spacemesh Setup 0.1.13.exe](https://storage.googleapis.com/smapp/v0.1.13/Spacemesh%20Setup%200.1.13.exe)
+[Spacemesh Setup 0.1.14.exe](https://storage.googleapis.com/smapp/v0.1.14/Spacemesh%20Setup%200.1.14.exe)
 
 ### OS X
 
-[Spacemesh-0.1.13.dmg](https://storage.googleapis.com/smapp/v0.1.13/Spacemesh-0.1.13.dmg)
+[Spacemesh-0.1.14.dmg](https://storage.googleapis.com/smapp/v0.1.14/Spacemesh-0.1.14.dmg)
 
 ### Linux
 
 ?> Debian 8 or newer, Ubuntu 18.04, Fedora 21 or newer, or any other flavor of Linux which supports Electron apps.
 
-[spacemesh_app_0.1.13_amd64.deb](https://storage.googleapis.com/smapp/v0.1.13/ubuntu18_04/spacemesh_app_0.1.13_amd64.deb)
+[spacemesh_app_0.1.14_amd64.deb](https://storage.googleapis.com/smapp/v0.1.14/ubuntu18_04/spacemesh_app_0.1.14_amd64.deb)
 
 ?> Ubuntu 20.04
 
-[spacemesh_app_0.1.13_amd64.deb]( https://storage.googleapis.com/smapp/v0.1.13/ubuntu20_04/spacemesh_app_0.1.13_amd64.deb)
+[spacemesh_app_0.1.14_amd64.deb]( https://storage.googleapis.com/smapp/v0.1.14/ubuntu20_04/spacemesh_app_0.1.14_amd64.deb)
 
-For other Linux builds including Snapcraft, please see the [smapp release page](https://github.com/spacemeshos/smapp/releases/tag/v0.1.13).
+For other Linux builds including Snapcraft, please see the [smapp release page](https://github.com/spacemeshos/smapp/releases/tag/v0.1.14).
 
 
 ?> If your Linux system does not support Electron apps then you can build a Spacemesh full node and a CLI wallet from source code. For more information see the [go-spacemesh README](https://github.com/spacemeshos/go-spacemesh)
