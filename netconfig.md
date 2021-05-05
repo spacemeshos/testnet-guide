@@ -42,7 +42,7 @@ If you didn't click on `Allow access` when prompted by Windows, you may need to 
 1. Type `Firewall` in your Windows task bar search box.
 2. Open the `Windows Defender Firewall` app from the search results.
 3. Click on `Advanced settings`.
-4. Right-click `Inbound Rules` and select `New Rule...`.
+4. Right-click `Outbound Rules` and select `New Rule...`.
 5. Select `Port` for the new rule type and click `Next`.
 6. Select `UDP` and, enter `7513` in the `Specific local ports` text box click `Next`.
 7. Select `Allow the connection` in the next screen and click `Next`.
