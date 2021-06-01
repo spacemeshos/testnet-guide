@@ -6,7 +6,7 @@ It can take up to 48 hours (2 testnet epochs) after syncing for your first smesh
 
 ## Is there a way to build a node using command-line?
 
-Yes. We have a [CLI full-node](https://github.com/spacemeshos/go-spacemesh) and [CLIWallet](https://github.com/spacemeshos/cli-wallet). and you can join the testnet using them instead of with the Spacemesh App.Please be aware that these products are designed for people who are comfortable with command line apps. If you have any questions about running a node via the CLI then please hit up the #cli channel on our discord.
+Yes. We have a [CLI full-node](https://github.com/spacemeshos/go-spacemesh) and [CLIWallet](https://github.com/spacemeshos/cli-wallet). and you can join the testnet using them instead of with the Spacemesh App. Please be aware that these products are designed for users who are comfortable working with command line. If you have any questions about running a node via the CLI then please hit up the #cli channel on our discord.
 
 ## How do I report an issue?
 
