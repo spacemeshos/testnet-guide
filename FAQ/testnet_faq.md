@@ -30,7 +30,7 @@ In theory it should work fine. You just need to copy the database directory (the
 
 ## How many nodes can I run on the testnet?
 
-As many as you like, but the rewards program will only be one node per participant.
+As many as you like, but there is no advantage to running more than one.
 
 ## Can I use a VPS/VM?
 
