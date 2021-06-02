@@ -26,7 +26,7 @@ The syncing phase of setting up a node can by quite CPU-intensive, but this shou
 
 ## Why is my log file getting so big?
 
-Since the purpose of the testnet is debugging, the logs files can get quite large. However, *very* large log files (larger than a few gigabytes) usually mean some kind of issue with your node, so please notify us about it on the #bug_reports channel on discord.
+Since the purpose of the testnet is debugging, the log files can get quite large. However, *very* large log files (larger than a few gigabytes) usually mean there's some kind of issue with your node, so please notify us about it on the #bug_reports channel on discord.
 
 If you wish to do log rotation, close the App first, compress your current log file before deleting it, then open the App again. A new log file will be created automatically.
 
