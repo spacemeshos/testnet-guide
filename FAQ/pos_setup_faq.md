@@ -1,4 +1,4 @@
-# Tweedledum (0.2) PoST Setup FAQ
+# Tweedledum (0.2) Proof of Space Setup FAQ
 
 ## How long is it going to create Proof of Space data?
 
