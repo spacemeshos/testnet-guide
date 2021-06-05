@@ -8,6 +8,10 @@ The exact time depends on your GPU or CPU capabitlites and the amount of space y
 
 Only once, and you can use the data as long as you keep the files.
 
+## Can I add or remove committed space after the first time I set up Proof of Space data?
+
+Yes.
+
 ## Will I need to redo the entire Proof of Space data setup if I add more space?
 
 No, the process will only be required for the additional space, and not the space you've already committed.
