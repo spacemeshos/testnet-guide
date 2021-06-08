@@ -2,11 +2,11 @@
 
 ## My node is synced. How long before I get rewards?
 
-It can take up to 48 hours (2 testnet epochs) after syncing for your first smeshing rewards to come in.
+It can take up to 48 hours after syncing for your first smeshing rewards to come in.
 
 ## Is there a way to build a node using command-line?
 
-Yes. We have a [CLI full-node](https://github.com/spacemeshos/go-spacemesh) and [CLIWallet](https://github.com/spacemeshos/cli-wallet). and you can join the testnet using them instead of with the Spacemesh App. Please be aware that these products are designed for users who are comfortable working with command line. If you have any questions about running a node via the CLI then please hit up the #cli channel on our discord.
+Yes. We have a [CLI full-node](https://github.com/spacemeshos/go-spacemesh) and [CLIWallet](https://github.com/spacemeshos/cli-wallet), which is another way to run a Spacemesh full node instead of the Spacemesh App. Please be aware that this method is designed for users who are comfortable working with command line. If you have any questions about running a node via the CLI then please hit up the #cli channel on our discord.
 
 ## How do I report an issue?
 
@@ -41,7 +41,3 @@ As many as you like, but since testnet tokens have no value, there is no advanta
 ## Can I use a VPS/VM?
 
 As long as it meets the [minimum requirements](requirements.md), yes. But we discourage users from doing so unless they are already using the VPS/VM for some other purpose as well.
-
-## Can you transfer the node's sync status from one machine to another?
-
-In theory it should work fine. You just need to copy the database directory (the one specified on the command line with --datadir or -d), and the wallet file. It's more likely to work on the same platform (e.g., Linux to Linux) and is not guaranteed to work across platform (e.g., Windows to Linux) - but it might work cross-platform too.

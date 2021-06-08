@@ -7,7 +7,9 @@
 
 **Frequently Asked Questions**
 - [General Testnet FAQ](FAQ/testnet_faq.md)
+- [Tweedledum (0.2) FAQ](FAQ/02_faq.md)
 - [0.2 PoS Setup FAQ](FAQ/pos_setup_faq.md)
+- [P2P Troubleshooting FAQ](FAQ/p2p_faq.md)
 
 **Doing More**
 - [Using your wallet](wallet.md)
