@@ -22,7 +22,18 @@ No, but creating the data with your CPU will take much longer than with GPU.
 
 ## What kind of GPUs can I use to create the PoST data?
 
-Most AMD and Nvidia cards, Apple M1, Intel graphics cards, and any other GPUs that support CUDA or Vulkan compute.
+- A GPU and drivers with CUDA 11.0 support amd (with minimum compute compatibility 5.0 and maximum compute compatibility 8.6) such as a modern Nvidia GPU and Nvidia drivers version R450 or newer 
+- A GPU and drivers with Vulkan 1.2 support such as a modern AMD, Apple M1 processor, and Intel GPU
+- Both discrete and on-board GPUs are supported as long as they support the minimum CUDA or Vulkan runtime version.
+
+## What are the GPU memory requirements?
+
+### Minimum GPU RAM:
+- 16 KiB per CUDA core for CUDA
+- 4 MiB per compute unit for Vulkan
+
+### Recommended GPU RAM:
+- 2080 MiB
 
 ## Do I need a GPU to run a node after initial setup is done?
 
