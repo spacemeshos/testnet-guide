@@ -130,3 +130,12 @@ chmod +x gpu-setup-test
 4. Copy the gpu-post artifacts for your platform to your go-spacemesh directory.
 
 5. Run the full node with this devnet [config file](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/config.json)
+
+---
+
+## Devnet 0.2 Mini Technical FAQ
+Q: My node stopped syncing. I waited a long time but the current layer doesn't advance. What should I do?
+A: Stop the node. Delete local node data folder ~/spacemesh/<devnet_id>/ and start it again.
+
+Q: I've setup smeshing via smrepl and I had later restart the node and now it is not smeshing. How can I keep smeshing after node restart?
+A: After setting post in smrepl, you need to modify your node's config file with the smeshing parameters so your node can continute smeshing using these parameters after you restart it.
