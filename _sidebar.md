@@ -1,3 +1,6 @@
+**Spacemesh 0.2 Devnet**
+- [Joining the Devnet](/devnet.md)
+
 - [Welcome](main.md)
 
 **Getting Started**
