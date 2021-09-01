@@ -11,7 +11,7 @@ Follow these instructions to join the Spacemesh 0.2 devnet.
 - A computer with a modern Intel or AMD x86-64 CPU with at least 2 cores / 4 native threads or an Apple M1 CPU.
 - Windows 10 Home or Pro, macOS or Ubuntu 20.04. Other modern Linux distributions should also work.
 - 4 GB RAM.
-- 300 GiB free disk space (HDD or SSD).
+- 100 GiB free disk space (HDD or SSD).
 - An always-on, unmetered Internet connection with at least 10 mbps download and 1 mbps upload speed.
 
 ## Recommended System Requirements
