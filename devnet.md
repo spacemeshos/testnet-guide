@@ -1,8 +1,8 @@
-# Spacemesh 0.2 Preview Release
+# Spacemesh 0.2 TweedleDev
 
 Latest release: v0.2.0-rc7 (Network Id 203)
 
-> This early Spacemesh 0.2 technical preview release is intended for users who are comfortable with using the command line and terminal applications.
+> TweedleDev is an early Spacemesh 0.2 technical preview release intended for users who are comfortable with using the command line and with terminal applications.
 
 Follow these instructions to join the Spacemesh 0.2 devnet.
 
@@ -92,6 +92,21 @@ Proceed to create a wallet and setup smeshing in smrepl.
 
 ----
 
+### Viewing node logs
+Use this command from another terminal tab or window to view your full node logs.
+
+#### macOS or Linux
+```bash
+tail -f logs.txt
+```
+
+#### Windows (PowerShell)
+```PowerShell
+Get-Content logs.txt –Wait
+```
+
+----
+
 ### Using the gpu-post test app
 Navigate to your directory you extract the zip release to and enter from a terminal:
 
@@ -115,6 +130,7 @@ chmod +x gpu-setup-test
 ```
 
 ---
+
 
 ## Building from Source Code
 
