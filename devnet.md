@@ -27,11 +27,9 @@ Follow these instructions to join the Spacemesh 0.2 devnet.
 - [macOS](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/macOS.zip)
 - [Linux](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/linux.zip)
 
-2. Extract the zip file to a directory
+2. Extract the zip file to a directory and navigate to it in terminal
 
-3. Navigate to the directory in terminal
-
-4. Configure downloaded binaries
+3. Configure downloaded binaries
 
 #### Linux and macOS
 Set binaries execution permissions.
@@ -59,8 +57,7 @@ spctl --add lib*
 spctl --add smrepl
 ```
 
-
-5. Start a Spacemesh full node
+4. Start a Spacemesh full node
 
 #### macOS and Linux
 ```bash
@@ -73,7 +70,9 @@ spctl --add smrepl
 .\go-spacemesh.exe -c config.json > log.txt
 ```
 
-6. Start Smrepl
+5. Start Smrepl
+
+Open another terminal window or tab.
 
 > Due to a known issue please wait for up to 45 seconds from the time you start the go-spacemesh node in the previous step before starting smrepl.
 
