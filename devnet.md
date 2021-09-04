@@ -1,4 +1,4 @@
-# Spacemesh 0.2 TweedleDev
+# TweedleDev - Spacemesh 0.2 Devnet
 
 Latest release: v0.2.0-rc7 (Network Id 203)
 
@@ -152,7 +152,7 @@ chmod +x gpu-setup-test
 ## Devnet 0.2 Mini Technical FAQ
 Q: My node stopped syncing. I waited a long time but the current layer doesn't advance. What should I do?
 
-A: Stop the node process by preccing `ctrl-c` in the terminal window you started the node at. Delete local node data folder `~/spacemesh/<devnet_id>/` and proof of spacetime data from your post directory if you created any, and start it again.
+A: Stop the node process by pressing `ctrl-c` in the terminal window you started the node at. Delete local node data folder `~/spacemesh/<devnet_id>/` and proof of spacetime data from your post directory if you created any, and start it again.
 
 ---
 
