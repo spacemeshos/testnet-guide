@@ -1,6 +1,7 @@
 # TweedleDev - Spacemesh 0.2 Devnet
 
 Latest release: v0.2.1-beta.3 (Network Id 204)
+
 Release date: September 13th, 2021
 
 > TweedleDev is an early Spacemesh 0.2 technical preview release intended for users who are comfortable with using the command line and with terminal applications.
@@ -33,12 +34,10 @@ Follow these instructions to join the Spacemesh 0.2 devnet.
 3. Configure downloaded binaries
 
 #### Linux and macOS
-Set binaries execution permissions.
+Set go-spacemesh execution permissions.
 
 ```bash
 chmod u+x go-spacemesh
-chmod u+x lib*
-chmod u+x smrepl
 ```
 
 #### macOS
