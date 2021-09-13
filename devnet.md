@@ -1,7 +1,7 @@
 # TweedleDev - Spacemesh 0.2 Devnet
 
-Latest release: v0.2.0-rc7 (Network Id 203)
-
+Latest release: v0.2.1-beta.3 (Network Id 204)
+Release date: September 13th, 2021
 
 > TweedleDev is an early Spacemesh 0.2 technical preview release intended for users who are comfortable with using the command line and with terminal applications.
 
@@ -24,9 +24,9 @@ Follow these instructions to join the Spacemesh 0.2 devnet.
 
 1. Download the devnet release zip file for your platform
 
-- [Windows](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/windows.zip)
-- [macOS](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/macOS.zip)
-- [Linux](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/linux.zip)
+- [Windows](https://storage.googleapis.com/go-spacemesh-release-builds/v0.2.1-beta.3/Windows.zip)
+- [macOS](https://storage.googleapis.com/go-spacemesh-release-builds/v0.2.1-beta.3/macOS.zip)
+- [Linux](https://storage.googleapis.com/go-spacemesh-release-builds/v0.2.1-beta.3/Linux.zip)
 
 2. Extract the zip file to a directory and navigate to it in terminal
 
@@ -74,8 +74,6 @@ spctl --add smrepl
 5. Start Smrepl
 
 Open another terminal window or tab.
-
-> Due to a known issue please wait for up to 45 seconds from the time you start the go-spacemesh node in the previous step before starting smrepl.
 
 #### macOS and Linux
 
@@ -132,12 +130,11 @@ chmod +x gpu-setup-test
 
 ---
 
-
 ## Building from Source Code
 
 > You can join the devnet by building this release binaries from source code from our public github repos instead of using our provided binaries.
 
-1. Clone and build go-spacemesh [from this tag](https://github.com/spacemeshos/go-spacemesh/tree/v0.2.0-rc7)
+1. Clone and build go-spacemesh [from this tag](https://github.com/spacemeshos/go-spacemesh/releases/tag/v0.2.1-beta.3)
 
 2. Clone and build smrepl [from this tag](https://github.com/spacemeshos/smrepl/tree/v0.1.32)
 
@@ -145,7 +142,7 @@ chmod +x gpu-setup-test
 
 4. Copy the gpu-post artifacts for your platform to your go-spacemesh directory.
 
-5. Run the full node with this devnet [config file](https://github.com/spacemeshos/go-spacemesh/releases/download/v0.2.0-rc7/config.json)
+5. Run the full node with this devnet [config file](https://storage.googleapis.com/spacecraft-data/devnet204-archive/config.json)
 
 ---
 
