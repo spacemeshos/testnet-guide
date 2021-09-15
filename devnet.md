@@ -45,14 +45,6 @@ sudo xattr -rd com.apple.quarantine lib*
 sudo xattr -rd com.apple.quarantine smrepl
 ```
 
-Or alternatively try
-
-```bash
-spctl --add go-spacemesh
-spctl --add lib*
-spctl --add smrepl
-```
-
 4. Start a Spacemesh full node
 
 #### macOS and Linux
