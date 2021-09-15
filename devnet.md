@@ -4,9 +4,15 @@ Latest release: v0.2.1-beta.3 (Network Id 204)
 
 Release date: September 15th, 2021
 
+## Explore TweedleDev 
+
+- [Explorer](https://explorer.spacemesh.io)
+- [Dashboard](https://dash.spacemesh.io)
+
 > TweedleDev is an early Spacemesh 0.2 technical preview release intended for users who are comfortable with using the command line and with terminal applications.
 
 Follow these instructions to join the Spacemesh 0.2 devnet.
+
 
 ## Minimum System Requirements
 
