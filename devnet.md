@@ -71,7 +71,7 @@ Open another terminal window or tab.
 #### Windows (PowerShell)
 
 ```PowerShell
-.\smrepl_windows_amd64.exe
+.\smrepl.exe
 ```
 
 Proceed to create a wallet and setup smeshing in smrepl.
@@ -143,3 +143,8 @@ A: Stop the node process by pressing `ctrl-c` in the terminal window you started
 Q: I've setup smeshing via smrepl and I had later restart the node and now it is not smeshing. How can I keep smeshing after a node restart?
 
 A: After setting post in smrepl, you need to modify your node's config file with the smeshing parameters so your node can continute smeshing using these parameters after you restart it.
+
+---
+
+Q: I'm getting an error when starting the node on Windows about missing C++ runtime.
+A: Install the latest Visual C++ runtime from Microsoft and try again.
