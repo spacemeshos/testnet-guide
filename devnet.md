@@ -4,7 +4,7 @@ Latest release: v0.2.1-beta.3 (Network Id 204)
 
 Release date: September 15th, 2021
 
-## Explore TweedleDev 
+## Explore TweedleDev
 
 - [Explorer](https://explorer.spacemesh.io)
 - [Dashboard](https://dash.spacemesh.io)
@@ -106,6 +106,7 @@ Navigate to your directory you extract the zip release to and enter from a termi
 ```bash
 export DYLD_LIBRARY_PATH=.:$DYLD_LIBRARY_PATH
 chmod +x gpu-setup-test
+sudo xattr -rd com.apple.quarantine gpu-setup-test
 ./gpu-setup-test
 ```
 
