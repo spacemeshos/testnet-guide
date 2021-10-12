@@ -6,7 +6,7 @@ It can take up to 48 hours after syncing for your first smeshing rewards to come
 
 ## Is there a way to build a node using command-line?
 
-Yes. We have a [CLI full-node](https://github.com/spacemeshos/go-spacemesh) and [CLIWallet](https://github.com/spacemeshos/cli-wallet), which is another way to run a Spacemesh full node instead of the Spacemesh App. Please be aware that this method is designed for users who are comfortable working with command line. If you have any questions about running a node via the CLI then please hit up the #cli channel on our discord.
+Yes. We have a [CLI full-node](https://github.com/spacemeshos/go-spacemesh) and [CLIWallet](https://github.com/spacemeshos/cli-wallet), which is another way to run a Spacemesh full node instead of the Spacemesh App. Please be aware that this method is designed for users who are comfortable working with command line. If you have any questions about running a node via the CLI then please hit up the #terminal channel on our discord.
 
 ## How do I report an issue?
 
