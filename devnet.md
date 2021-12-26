@@ -1,8 +1,8 @@
 # TweedleDev - Spacemesh 0.2 Devnet
 
-Latest release: v0.2.1-beta.3 (Network Id 204)
+Latest release: v0.2.4-beta.0 (Network Id 208)
 
-Release date: September 15th, 2021
+Release date: October 21st, 2021
 
 ## Explore TweedleDev
 
@@ -29,7 +29,11 @@ Follow these instructions to join the Spacemesh 0.2 devnet.
 
 ## Installing and Running
 
-1. Download the devnet release zip file for your platform [from this page](https://github.com/spacemeshos/go-spacemesh/releases/tag/v0.2.1-beta.3).
+1. Download the devnet release zip file for your platform
+
+- [Windows](https://storage.googleapis.com/go-spacemesh-release-builds/v0.2.4-beta.0/Windows.zip)
+- [macOS](https://storage.googleapis.com/go-spacemesh-release-builds/v0.2.4-beta.0/macOS.zip)
+- [Linux](https://storage.googleapis.com/go-spacemesh-release-builds/v0.2.4-beta.0/Linux.zip)
 
 2. Extract the zip file to a directory and navigate to it in terminal
 
