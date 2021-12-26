@@ -3,15 +3,13 @@
   <path d="M34.2 27.5H30c-3.1 0-5.8-2.1-6.8-5l2.4-.8c.6 1.9 2.4 3.3 4.5 3.3h4.2c1.5 0 2.7-1.3 2.7-2.9 0-1.8-1.8-2.3-3.8-2.5l-4-.6c-2.7-.4-6.3-1.2-6.3-5.1 0-3 2.3-5.4 5.2-5.4h4.2c3.2 0 5.8 2.1 6.8 5l-2.3.8c-.7-1.9-2.4-3.2-4.5-3.2h-4.2c-1.5 0-2.7 1.2-2.7 2.8 0 2 2.4 2.4 4.3 2.6l3.7.5c2.9.4 6 1.6 6 5.1 0 3-2.3 5.4-5.2 5.4zM61 19.1c0 4.7-3.7 8.4-8.2 8.4-2.2 0-4.2-.8-5.8-2.4v10.2h-2.5V8.5H47v2.4c1.5-1.5 3.6-2.4 5.8-2.4 4.5 0 8.2 3.8 8.2 8.5v2.1zM58.5 17c0-3.3-2.6-5.9-5.8-5.9-3.2 0-5.8 2.6-5.8 5.9v2c0 3.2 2.6 5.9 5.8 5.9s5.8-2.7 5.8-5.9v-2zm20.1 10.5v-1.8c-1.3 1.2-3 1.8-4.7 1.8h-4c-2.9 0-5.2-2.4-5.2-5.4 0-3 2.4-5.4 5.2-5.4h6c1.3 0 2.7-.2 2.7-1.8 0-2.8-2.4-3.9-4.7-3.9h-2c-2 0-3.8 1.3-4.5 3.2l-2.3-.8c1-3 3.8-4.9 6.8-4.9h2c3.8 0 7.2 2.1 7.2 6.4v12.5l-2.5.1zm-2.8-8.2h-6c-1.5 0-2.7 1.3-2.7 2.9 0 1.5 1.3 2.8 2.7 2.8h4c2.6 0 4.7-2.2 4.7-4.9v-1.2c-.8.3-1.7.4-2.7.4zm23.1-4.8c-.9-2-3-3.4-5.2-3.4-3.2 0-5.8 2.7-5.8 5.9v2c0 3.2 2.6 5.9 5.8 5.9 2.2 0 4.2-1.3 5.2-3.4l2.2 1.1c-1.3 2.9-4.3 4.8-7.5 4.8-4.5 0-8.2-3.8-8.2-8.4v-2c0-4.7 3.7-8.4 8.2-8.4 3.2 0 6.1 1.8 7.5 4.8l-2.2 1.1zm22 4.8H107c.1 3.2 2.7 5.7 5.7 5.7 2.2 0 4.2-1.3 5.2-3.4l2.2 1.1c-1.3 2.9-4.3 4.8-7.5 4.8-4.5 0-8.2-3.8-8.2-8.4v-2c0-4.7 3.7-8.4 8.2-8.4 4.5 0 8.2 3.8 8.2 8.4l.1 2.2zm-8.2-8.2c-3.1 0-5.6 2.5-5.7 5.6h11.5c-.3-3-2.8-5.6-5.8-5.6zm31.7 16.4v-13c0-2.1-1.6-3.4-3.6-3.4-1.8 0-3.2 1.5-3.2 3.4v13.1h-2.5V14.5c0-2.1-1.6-3.4-3.6-3.4-1.8 0-3.3 1.5-3.3 3.4v13.1h-2.5v-19h2.5v1.1c1.1-.8 2.2-1.1 3.6-1.1 1.7 0 3.4.8 4.5 2.2 1.2-1.6 2.9-2.2 4.8-2.2 3.2 0 5.8 2.6 5.8 5.9v13h-2.5zm23.5-8.2H154c.1 3.2 2.7 5.7 5.7 5.7 2.2 0 4.2-1.3 5.2-3.4l2.2 1.1c-1.3 2.9-4.3 4.8-7.5 4.8-4.5 0-8.2-3.8-8.2-8.4v-2c0-4.7 3.7-8.4 8.2-8.4 4.5 0 8.2 3.8 8.2 8.4l.1 2.2c-.1 0 0 0 0 0zm-8.3-8.2c-3.1 0-5.6 2.5-5.7 5.6h11.5c-.2-3-2.7-5.6-5.8-5.6zM183 27.5h-4.2c-3.1 0-5.8-2.1-6.8-5l2.4-.8c.6 1.9 2.4 3.3 4.5 3.3h4.2c1.5 0 2.7-1.3 2.7-2.9 0-1.8-1.8-2.3-3.8-2.5l-3.9-.6c-2.7-.4-6.3-1.2-6.3-5.1 0-3 2.3-5.4 5.2-5.4h4.2c3.1 0 5.8 2.1 6.8 5l-2.3.8c-.7-1.9-2.4-3.2-4.5-3.2H177c-1.5 0-2.7 1.2-2.7 2.8 0 2 2.4 2.4 4.3 2.6l3.7.5c2.9.4 6 1.6 6 5 0 3.1-2.3 5.5-5.3 5.5zm24.3 0V17c0-3.3-2.6-5.9-5.8-5.9-3.1 0-5.8 2.6-5.8 5.9v10.5h-2.5V.4h2.5V11c1.5-1.5 3.6-2.4 5.8-2.4 4.5 0 8.2 3.8 8.2 8.4v10.5h-2.4zm-195.5-.1H3.5L2.9 26l3.6-3.7-3.6-3.7v-1.2l3.6-3.7L2.9 10l.6-1.4h8.3l.6 1.4-3.6 3.7 3.6 3.7v1.2l-3.6 3.7 3.6 3.7-.6 1.4zm-6.3-1.7h4.2l-2.1-2.2-2.1 2.2zM4.7 18l3 3 3-3-3-3-3 3zm.8-7.6l2.1 2.2 2.1-2.2H5.5z"/>
 </svg>
 
-# Welcome to the Spacemesh 0.1 (Tweedledee)
+# Welcome to the Spacemesh 0.2 (Tweedledum)
 
 > **WARNING: Dragons ahead!** This is guide is incomplete and a work in progress. Seek help, fellow traveler, using these [Community Resources](#testnet-community-resources).
 
 Welcome down the Spacemesh Testnet rabbit hole! Please read the intro on this page to learn the basics about Spacemesh and the Testnet and then proceed to the installation guide to get up and running.
 
 **tl;dr? Skip the intro** and [get started](guide/install.md)!
-
-> This guide covers the testnet release we call `Spacemesh 0.1 aka Tweedledee`. Tweedledee is the first and current release of the Spacemesh software platform. It is what we currently test in an open testnet environment. We will update this guide to reflect new features of future Spacemesh software releases.
 
 ---
 
@@ -53,6 +51,9 @@ Spacemesh software is designed to run on the home PCs of everyday users and not 
 The Spacemesh Testnet is a public beta release of the Spacemesh p2p software platform. Anyone with a computer and an Internet connection can join the network from anywhere without permission and participate in the Spacemesh p2p network.
 
 The Open Testnet is designed to test the Spacemesh protocols and software prior to release of the Spacemesh Mainnet and the Spacemesh cryptocurrency. Note that the cryptocurrency enabled by the Testnet is "monopoly money" and has no real world value.
+
+## What is Spacemesh 0.2 (Tweedledum)?
+Spacemesh 0.2 (Tweedledum) is the name of the second major release of the Spacemesh Testnet and it was released on December 26th 2021.
 
 ## What is Spacemesh 0.1 (Tweedledee)?
 Spacemesh 0.1 (Tweedledee) is the name of the first release of the Spacemesh Testnet. Everything described in this guide is about Spacemesh 0.1. In Spacemesh 0.1, we are releasing platform capabilities that we believe are ready for public testing. We have much more in the pipeline and we plan to launch new releases throughout 2020. This guide will be updated as new releases become available.

@@ -1,6 +1,6 @@
-# Installing and Running the App
+# Joining the Testnet
 
-To join the Testnet you need to run the Spacemesh App on your desktop computer.
+To join the Spacemesh 0.2 Tweedledum testnet you need to run the Spacemesh App on your desktop computer.
 
 ## Install Spacemesh Video Tutorial
 

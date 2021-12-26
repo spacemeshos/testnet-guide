@@ -1,5 +1,5 @@
-# Tweedledee
-> Spacemesh Public Testnet
+# Tweedledum
+> Spacemesh 0.2 Public Testnet
 
 ![](images/v1.0/transparentbg.gif ':size=300x300')
 
