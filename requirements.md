@@ -9,7 +9,6 @@
 - 8 GB RAM.
 - 150 GB free space. (HDD or SSD).
 - An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload.
----
 
 #### Recommended System Requirements
 
@@ -41,7 +40,6 @@ A x86-64 cpu such as AMD or Intel cpus.
 - Apple M1
 - Intel UHD Graphics 630
 
----
 
 ## Operational Notes
 
@@ -83,14 +81,10 @@ With this setup, your computer will be dedicated to running the Spacemesh full n
 
 ### About Proof of Space Data
 
-You only need to setup proof of space data once to smesh for an unlimited period of time. The proof of space data size for the Spacemesh 0.2 testnet is 2 KiB, 3 KiB or 4 KiB.
+You only need to setup proof of space data once to smesh for an unlimited period of time. The proof of space data size for the Spacemesh 0.2 testnet is `2 KiB`, `3 KiB` or `4 KiB`. The larger your proof of space data is, the higher your smeshing rewards will be.
 
-Future Spacemesh Testnets will use closer to mainnet data sizes. The proof of space data sizes for these upcoming testnets have not been finalized yet.
-
-> The larger your proof of space data is, the higher your smeshing rewards will be.
+> Upcoming Spacemesh Testnets will use closer to mainnet data sizes. The proof of space data size range for these upcoming testnets has not been finalized yet.
 
 You can use any magnetic hard drive (HDD) or SSD drive for storing proof of space data. There is no significant advantage in using an SSD over HDD.
 
-You do not need to have temporary disk space larger than your final proof of space data.
-
-Creating proof of space data on more than one volume is not yet supported.
+You do not need to have temporary disk space larger than your final proof of space data. Creating proof of space data on more than one volume is not yet supported.
