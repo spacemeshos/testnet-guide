@@ -39,24 +39,17 @@ Next, download the App Installer for your OS using one of the links below:
 
 ### Windows 10
 
-[Spacemesh Setup 0.1.23.exe](https://storage.googleapis.com/smapp/v0.1.23/Spacemesh%20Setup%200.1.23.exe)
+[Spacemesh Setup 200.2.0-beta.2.exe](https://storage.googleapis.com/smapp/v0.2.0-beta.2/Spacemesh%20Setup%200.2.0-beta.2.exe)
 
 ### OS X
 
-[Spacemesh-0.1.23.dmg](https://storage.googleapis.com/smapp/v0.1.23/Spacemesh-0.1.23.dmg)
+[Spacemesh-0.2.0-beta.2.dmg](https://storage.googleapis.com/smapp/v0.2.0-beta.2/Spacemesh-0.2.0-beta.2.dmg)
 
 ### Linux
 
 ?> Debian 8 or newer, Ubuntu 18.04, Fedora 21 or newer, or any other flavor of Linux which supports Electron apps.
 
-[spacemesh_app_0.1.23_amd64.deb](https://storage.googleapis.com/smapp/v0.1.23/ubuntu18_04/spacemesh_app_0.1.23_amd64.deb)
-
-?> Ubuntu 20.04
-
-[spacemesh_app_0.1.23_amd64.deb](https://storage.googleapis.com/smapp/v0.1.23/ubuntu20_04/spacemesh_app_0.1.23_amd64.deb)
-
-For other Linux builds including Snapcraft, please see the [smapp release page](https://github.com/spacemeshos/smapp/releases/tag/v0.1.14).
-
+[spacemesh_app_0.2.0-beta.2_amd64.deb](https://storage.googleapis.com/smapp/v0.2.0-beta.2/spacemesh_app_0.2.0-beta.2_amd64.deb)
 
 ?> If your Linux system does not support Electron apps then you can build a Spacemesh full node and a CLI wallet from source code. For more information see the [go-spacemesh README](https://github.com/spacemeshos/go-spacemesh)
 
@@ -71,7 +64,7 @@ For other Linux builds including Snapcraft, please see the [smapp release page](
 **Locate the Installer you downloaded and double-click it** to install the App.
 
 ### OS X
-Drag the Spacemesh App icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double-click `Spacemesh` to run it.
+Drag the Spacemesh App icon in the installer window to the Applications folder shortcut. Next, open your Applications directory and double-click `Spacemesh` to launch it. Select `Testnet 0.2` from the network selection screen.
 
 ### Linux
 We've had reports of Linux failing to install the app simply by double-clicking the installer `deb` file. As an alternative, please try running the following command from the terminal:
@@ -80,8 +73,10 @@ We've had reports of Linux failing to install the app simply by double-clicking 
 
 The app should be installed in `/opt/Spacemesh`, and you should see the app listed under the Applications menu in your window manager.
 
+Launch the app and select `Testnet 0.2` from the network selection screen.
+
 ### Windows
-Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete.
+Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete. Launch the app and select `Testnet 0.2` from the network selection screen.
 
 > If you see a Windows security alert then check the checkbox 'Priave networks' and click 'Allow access'.
 
