@@ -39,8 +39,8 @@ You can create proof of space data using your computer's integrated graphics car
 - AMD Radeon RX [550](https://www.newegg.com/onda-model-rx550-4g/p/1DW-00C1-00001) / 570 / 580.
 - AMD Radeon Pro 555x.
 - Nvidia Tesla V100, T4, P100 or P4.
-- Apple M1
-- Intel UHD Graphics 630
+- Apple M1.
+- Intel UHD Graphics 630.
 
 
 ## Operational Notes
