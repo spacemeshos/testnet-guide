@@ -1,6 +1,9 @@
 ## Spacemesh 0.2 System Requirements
 
+Updated for Spacemesh 0.2 Beta 2 release.
+
 ### Spacemesh App Requirements
+The following are the requirements for running the Spacemesh App with a managed full Spacemesh node.
 
 #### Minimum System Requirements
 
@@ -23,12 +26,11 @@
 
 #### Supported Processors for proof of space setup
 
-You can also create the proof of space data using your computer's integrated graphics card, a discrete graphics card, or your computer main CPU. The following processors are supported:
+You can create proof of space data using your computer's integrated graphics card, a discrete graphics card, or your computer's main CPU. The following processors are supported:
 
-- A modern Intel or AMD x86-64 cpu
-- An Nvidia GPU with CUDA support (minimum compute compatibility 5.0, maximum compute compatibility 8.6), and Nvidia drivers version R450 or newer. [Nvidia GPUs CUDA compute compatibility info](https://developer.nvidia.com/cuda-gpus)
+- A modern Intel or AMD x86-64 cpu.
+- An Nvidia GPU with CUDA support (minimum compute compatibility 5.0, maximum compute compatibility 8.6), and Nvidia drivers version R450 or newer. [Nvidia GPUs CUDA compute compatibility info](https://developer.nvidia.com/cuda-gpus).
 - A GPU and drivers with Vulkan 1.2 support, such as a modern AMD, Apple M1, and Intel GPUs.
-A x86-64 cpu such as AMD or Intel cpus.
 
 #### Popular Supported Processors Models
 
