@@ -56,21 +56,11 @@ You can install the App, run a Smesher and produce blocks on your laptop if it m
 
 Occasionally shutting down your laptop or the App may prevent you from Smeshing blocks and from earning Smeshing rewards.
 
----
+### Spacemesh Full Node Sysmte Requirements
 
-## System Requirements - Spacemesh 0.2 - TweedleDum Open Testnet (Not yet released)
+Following are the requirements for running the a Spacemesh 0.2 full node without running the Spacemesh App. We recommend this setup to technical users who are comfortable with the command line.
 
-> Note that all the information below is tentative, and is subject to change around Spacemesh 0.2 testnet launch date.
-
-----
-
-### Spacemesh Full Node
-
-Following are the requirements for running the a Spacemesh 0.2 full node, and to smesh without running the Spacemesh App.
-
-> We recommend this setup to technical users who are comfortable with the command line.
-
-With this setup, your computer will be dedicated to running the Spacemesh full node and will not be used for running other interactive apps.
+> With this setup, your computer will be dedicated to running the Spacemesh full node and will not be used for running other interactive apps.
 
 - A computer with a modern Intel, an AMD CPU (2 cores / 4 native threads) or an Apple M1 CPU.
 - Windows 10 Home or Pro, macOS, Ubuntu 18.04, Fedora 21, or Debian 8.
