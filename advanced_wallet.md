@@ -1,6 +1,6 @@
 # Advanced Wallet Features
 
-### Backing up
+# Backing up
 
 There are 3 options to get to Wallet Backup Screen:
 
@@ -23,7 +23,7 @@ Now you are at Wallet Backup Options Screen
 
 ![](images/v1.0/backup_main_screen.png)
 
-#### Option ‘FILE BACKUP’
+### Option ‘FILE BACKUP’
 
 Click on <FILE BACKUP> button and you’ll get to this screen
 
@@ -33,7 +33,7 @@ Clicking on <show file location> button will open file browser window with the w
 
 ![](images/v1.0/backup_file.png)
 
-#### Option ’12 WORDS BACKUP’
+### Option ’12 WORDS BACKUP’
 
 Click on <12 WORDS BACKUP> button and you’ll get to this screen
 
@@ -63,7 +63,7 @@ If you’ve placed the words in the right order than you’ll see this message
 
 Now you can return to main screen by click <DONE> or arrow back (<) button.
 
-### Rename wallet
+# Rename wallet
 
 Go to Settings Screen
 
@@ -82,7 +82,7 @@ If you clicked <SAVE> button you will see the renamed name like this
 ![](images/v1.0/renamed_wallet_complete.png)
 
 
-### Change wallet password
+# Change wallet password
 
 Go to Setting Screen
 
@@ -101,7 +101,7 @@ The screen will look as before clicking <CHANGE>
 
 If you clicked <SAVE> than wallet password will be updated!
 
-### Restoring a wallet from file or from 12 words
+# Restoring a wallet from file or from 12 words
 
 There are 3 options to restore wallet:
 
@@ -133,7 +133,7 @@ After following one of the options you’ll reach this screen
 
 Now there are _2_ options to restore the wallet.
 
-##### _Option A: File Restore_
+_Option A: File Restore_
 
 After clicking on <RESTORE FROM FILE> you’ll get to this screen
 
@@ -150,7 +150,7 @@ After clicking <NEXT> button you will see loader
 And then you’ll continue the regular setup wallet flow!
 
 
-##### _Option B: 12 Words Restore_
+_Option B: 12 Words Restore_
 
 After clicking on <12 WORDS RESTORE> button you’’ll get to this screen
 
@@ -162,7 +162,7 @@ If you’ve typed correct words in correct order than you’ll get to Protect Wa
 
 ![](images/v1.0/protect_wallet.png)
 
-### Adding an account to wallet
+# Adding an account to wallet
 
 Go to Settings Screen
 
@@ -176,7 +176,7 @@ You’ll see <ADD ACCOUNT> button. Click it and you’ll see popup asking to ent
 
 After entering correct password the popup will disappear and you will see new account below existing accounts. Default name for created account is “Account <number>”
 
-### Renaming an account
+# Renaming an account
 
 Go to Settings Screen
 
@@ -200,7 +200,7 @@ After entering correct password and clicking <UNLOCK> button in the popup, it wi
 
 ![](images/v1.0/rename_wallet_complete.png)
 
-### Creating contacts
+# Creating contacts
 
 There are _2_ options to create contact.
 
@@ -247,10 +247,9 @@ After entering the correct password and clicking <UNLOCK> button, the popup will
 
 ![](images/v1.0/create_contact_from_tx_3.png)
 
-### Using existing contacts
+# Using existing contacts
 
-Go to <CONTACTS> tab
-
+Go to <CONTACTS> tab.
 
 Move your mouse over the contact’s nickname you want to send coins to
 
