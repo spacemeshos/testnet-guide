@@ -14,7 +14,7 @@ You are prompted to secure your Wallet with a password, and we recommend that yo
 
 When you open the Spacemesh App again you should see this screen:
 
-![](images/v1.0/wallet_unlock.PNG)
+![](images/v1.0/password.png)
 
 Enter your Wallet password to unlock access to your wallet.
 
@@ -31,8 +31,6 @@ After unlocking your Wallet, you should see the following screen:
 
 The left side of the screen displays the Wallet info:
 
-![](images/v1.0/wallet_details.png ':size=310x496')
-
 Your Wallet is configured with one main account called `Main Account`.
 
 Think of this account as your crypto bank account. You use this account to hold SMH and to send and receive SMH coins.
@@ -48,7 +46,6 @@ You can copy your account's public address to your computer's clipboard by click
 Click the `ALL TRANSACTIONS` button to access your wallet transactions log screen.
 
 Follow [this guide](wallet_logs.md) to learn how to work with the transactions log screen.
-
 
 # Sending Smesh
 
@@ -121,9 +118,6 @@ You should see this screen:
 4. Ask that person to send SMH to this address using his or her Spacemesh wallet.
 
 
-
-
-
 ## Locking Access to your Wallet
 
 > When you are done using your wallet in the App, you should log out from it to prevent other people with direct access to your computer from viewing your SMH balance, from performing transactions and from viewing your transaction history.
@@ -133,44 +127,3 @@ To log out from your wallet, just click on the Lock icon in the top right side o
 ![](images/v1.0/lock_button.png)
 
 To access your wallet again, open the app and re-enter your Wallet password.
-
-## Backing up and your wallet
-
-Follow the steps in [this guide](backup.md) to backup your Wallet and to restore your Wallet from backup.
-
-# Advanced Wallet Features
-
-## Creating a new account
-
-By default, your Wallet is pre-configured with one main account. This is sufficient for performing basic transactions and for receiving rewards for running a Smesher.
-
-You can also add additional accounts to your Wallet. Each new account has its own unique public address, SMH balance and friendly display name.
-
-Follow these steps to create a new account:
-
-1. Go to the settings screen by clicking on the Settings icon on the right side of the App's main screen. It looks like this:
-
-![](images/v1.0/settings_button.png)
-
-2. Click on `ACCOUNT SETTINGS` in the navigation bar on the left.
-
-Your screen should look like this:
-
-![](images/v1.0/account_settings.PNG)
-
-3. Click `Add Account`.
-
-4. Name your new account.
-
-> Newly-added accounts are automatically saved in your Wallet.
-
-You can easily switch between accounts, view another account's Smesh balance, send SMH from any account, or receive SMH into any account.
-
-To switch between accounts, click the account drop-down icon in your Wallet display area. All your accounts should be listed in the drop-down menu:
-
-![](images/v1.0/wallet_accounts.png)
-
-Select the account you want to use from the drop-down menu.
-
-## Additional Guides
-- To learn more about the Testnet, follow a guide from one of the available [Testnet guides](all.md).
