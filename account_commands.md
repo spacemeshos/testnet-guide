@@ -21,7 +21,11 @@ In order to use the `SIGN TEXT` feature, go to `SETTINGS`. Once there, notice th
 
 2. Enter the text you want to sign such as your full name into the text box.
 
+![](images/v1.0/sign_text_2.png)
+
 3. Click the 'SIGN' button.
+
+![](images/v1.0/sign_text_3.png)
 
 The signature text is copied to the clipboard and can be sent to anyone.
 

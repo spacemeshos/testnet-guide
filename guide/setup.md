@@ -34,7 +34,7 @@ Click on `SETUP` to start the setup process.
 
 The next screen should look like this:
 
-![](../images/v1.0/protect_wallet.png)
+![](../images/v1.0/create_wallet_password.png)
 
 The App prompts you to enter a password to protect access to your newly-created wallet and to your Smesher. Proceed by choosing a password (8 or more characters) and confirming it.
 
@@ -61,7 +61,7 @@ This one-time storage commitment enables Spacemesh to reach consensus on a distr
 
 You should now see this screen:
 
-![](../images/v1.0/post_drive.png)
+![](../images/v1.0/pos_setup_1.png)
 
 The App prompts you to set up block Smeshing on your computer. You need to specify the directory that you want Spacemesh to save your PoST init file.
 
@@ -69,7 +69,7 @@ Click `Select Folder` and locate a directory on one of your hard drives.
 
 You should now see this screen:
 
-![](../images/v1.0/post_size.png)
+![](../images/v1.0/pos_setup_3.png)
 
 Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
 

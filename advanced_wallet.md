@@ -1,4 +1,15 @@
-# Advanced Wallet Features
+# Advanced Wallet and Account Features
+
+_Topics_
+- [Backing up your wallet](#backing-up)
+- [Rename your wallet](#rename-wallet)
+- [Change wallet password](#change-wallet-password)
+- [Restore a wallet](#restoring-a-wallet)
+- [Adding an account](#adding-an-account)
+- [Renaming an account](#renaming-an-account)
+- [Signing text](#signing-text)
+- [Creating contacts](#creating-contacts)
+- [Using existing contacts](#using-existing-contacts)
 
 # Backing up
 
@@ -101,7 +112,7 @@ The screen will look as before clicking <CHANGE>
 
 If you clicked <SAVE> than wallet password will be updated!
 
-# Restoring a wallet from file or from 12 words
+# Restoring a wallet
 
 There are 3 options to restore wallet:
 
@@ -162,7 +173,7 @@ If you’ve typed correct words in correct order than you’ll get to Protect Wa
 
 ![](images/v1.0/protect_wallet.png)
 
-# Adding an account to wallet
+# Adding an account
 
 Go to Settings Screen
 
@@ -199,6 +210,33 @@ If you clicked on <SAVE> you will see a popup asking you to enter wallet passwor
 After entering correct password and clicking <UNLOCK> button in the popup, it will disappear and you will see the renamed account!
 
 ![](images/v1.0/rename_wallet_complete.png)
+
+# Signing text
+
+`SIGN TEXT` allows you to sign a text message such as your full name or email address.
+Signing is done with your account's secret key and requires access to it.
+Signing your name with your account proves that the name is the name of the owner of the account.
+As owner is defined as someone who has access to the account's secret key.
+
+In order to use the `SIGN TEXT` feature, go to `SETTINGS`. Once there, notice the box on the left of the screen and click on `ACCOUNT SETTINGS`.
+
+![](images/v1.0/account_commands.png)
+
+1. Under each account, you'll notice three commands: `RENAME`, `SIGN TEXT`, and `REWARDS ACCOUNT`. Click on the `SIGN TEXT` command.
+
+![](images/v1.0/sign_text_1.png)
+
+2. Enter the text you want to sign such as your full name into the text box.
+
+![](images/v1.0/sign_text_2.png)
+
+3. Click the 'SIGN' button.
+
+![](images/v1.0/sign_text_3.png)
+
+The signature text is copied to the clipboard and can be sent to anyone.
+
+4. Create an email or type a text message to the person you want to share the signature with and paste the signature copied to the clipboard in step 3.
 
 # Creating contacts
 

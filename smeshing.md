@@ -81,12 +81,12 @@ To view the smeshing rewards you have received you have to go to the Menu **WALL
 
 At the right of the screen you can see the last transactions, including the smeshing rewards. If you want to see all the transactions click **<ALL TRANSACTIONS>**
 
-![](images/v1.0/wallet_screen_light.png)
+![](images/v1.0/wallet_screen.png)
 
 A new windows with the log of the transactions appears, at the right you can see a daily, monthly or yearly summery of the transactions. **SMESHED** refers to the smeshing rewards.
 
-![](images/v1.0/tx_log_light.png)
+![](images/v1.0/tx_log.png)
 
 If you want to view a transaction in detail, you have to click over it and then information will show up
 
-![](images/v1.0/tx_log_details_light.png)
+![](images/v1.0/tx_log_details.png)
