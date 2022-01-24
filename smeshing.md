@@ -10,15 +10,15 @@ In order to start smeshing you have to run a full Spacemesh p2p node. When runni
 
 After the configuration of the wallet, covered in another section, you need to setup the Proof of Space Directory. First you have to select the directory where de data will be stored. At this moment the minimum free space required is 2KB. To do it, you have to click on **SELECT DIRECTORY**
 
-![](images/v1.0/POS_setup_1.png)
+![](images/v1.0/POS_setup_1_light.png)
 
 Once selected the directory, in our case we created a new directory called post in C:\\ the **<NEXT>** button turns green and now we can click it to continue
 
-![](images/v1.0/POS_setup_2.png)
+![](images/v1.0/POS_setup_2_light.png)
 
 The next step is to select how much free space we want to commit to Spacemesh. The more space you commit, the higher your smeshing rewards will be. We select the maximum available at this point, 4KB, and click on **<NEXT>**
 
-![](images/v1.0/POS_size.png))
+![](images/v1.0/POS_setup_3_light.png)
 
 Now is time to select how we want to create the proof of space, all the options available for us will appear in this section. The **NEXT** button will remain gray till we make a choice.
 
@@ -26,11 +26,11 @@ Now is time to select how we want to create the proof of space, all the options 
 
 Also we have a checkbox available that allows us to pause the PoS creation when someone uses the computer
 
-![](images/v1.0/POS_setup_3.png))
+![](images/v1.0/POS_setup_4_light.png)
 
 Before create the data the Smapp will show us a summary with the creation options selected. If all is correct the we can click **<CREATE DATA>**, if not we can click **<** and go back to change it
 
-![](images/v1.0/POS_setup_4.png)
+![](images/v1.0/POS_setup_5_light.png)
 
 Finally, the proof of space data is being created, the app will start smeshing automatically when the setup is complete.
 
