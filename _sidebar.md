@@ -12,7 +12,7 @@
 - [P2P Troubleshooting FAQ](FAQ/p2p_faq.md)
 
 **Smapp Guide**
-- [Smeshing and setup](smeshing.md)
+- [Smeshing](smeshing.md)
 - [Using your wallet](wallet.md)
 - [Advanced wallet feature](advanced_wallet.md)
 
