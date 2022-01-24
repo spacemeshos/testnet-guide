@@ -91,7 +91,7 @@ This will bring you to a confirmation screen. If everything is as you like it, c
 
 And finally, you should end up here:
 
-![](../images/v1.0/miner_setup_complete.png)
+![](../images/v1.0/POS_setup_done.png)
 
 The one-time storage commitment setup process has now begun. At this stage, due to the small size, it should only take a moment.
 
