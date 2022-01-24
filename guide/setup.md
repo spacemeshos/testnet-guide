@@ -61,17 +61,17 @@ This one-time storage commitment enables Spacemesh to reach consensus on a distr
 
 You should now see this screen:
 
-![](../images/v1.0/pos_setup_1_light.png)
+![](../images/v1.0/POS_setup_1_light.png)
 
 The App prompts you to set up block Smeshing on your computer. You need to specify the directory that you want Spacemesh to save your PoST init file.
 
-![](../images/v1.0/pos_setup_2_light.png)
+![](../images/v1.0/POS_setup_2_light.png)
 
 Click `Select Folder` and locate a directory on one of your hard drives. Click `NEXT`.
 
 You should now see this screen:
 
-![](../images/v1.0/pos_setup_3_light.png)
+![](../images/v1.0/POS_setup_3_light.png)
 
 Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
 
@@ -81,11 +81,11 @@ Select the amount of free space you would like to commit to Spacemesh and click 
 
 You should now see this screen, prompting you to choose your preferred method of POS data generation.
 
-![](../images/v1.0/pos_setup_4_light.png)
+![](../images/v1.0/POS_setup_4_light.png)
 
 Once you've chosen, click `NEXT`.
 
-![](../images/v1.0/pos_setup_5_light.png)
+![](../images/v1.0/POS_setup_5_light.png)
 
 This will bring you to a confirmation screen. If everything is as you like it, click `CREATE DATA`.
 
