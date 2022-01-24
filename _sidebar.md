@@ -14,7 +14,7 @@
 **Smapp Guide**
 - [Smeshing](smeshing.md)
 - [Using your wallet](wallet.md)
-- [Advanced wallet feature](advanced_wallet.md)
+- [Advanced features](advanced_wallet.md)
 
 **Doing More**
 - [Getting help](help.md)
