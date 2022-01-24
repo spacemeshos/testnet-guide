@@ -61,27 +61,39 @@ This one-time storage commitment enables Spacemesh to reach consensus on a distr
 
 You should now see this screen:
 
-![](../images/v1.0/pos_setup_1.png)
+![](../images/v1.0/pos_setup_1_light.png)
 
 The App prompts you to set up block Smeshing on your computer. You need to specify the directory that you want Spacemesh to save your PoST init file.
 
-Click `Select Folder` and locate a directory on one of your hard drives.
+![](../images/v1.0/pos_setup_2_light.png)
+
+Click `Select Folder` and locate a directory on one of your hard drives. Click `NEXT`.
 
 You should now see this screen:
 
-![](../images/v1.0/pos_setup_3.png)
+![](../images/v1.0/pos_setup_3_light.png)
 
 Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
 
 > The more storage you allocate for Spacemesh on your drive, the higher your Smesh rewards will be.
 
-> For Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainnet, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100 GB, 200 GB, 300 GB, etc.
+> During this stage of Testnet 0.2, you can only allocate up to 4kb.
 
-You should now see this screen:
+You should now see this screen, prompting you to choose your preferred method of POS data generation.
+
+![](../images/v1.0/pos_setup_4_light.png)
+
+Once you've chosen, click `NEXT`.
+
+![](../images/v1.0/pos_setup_5_light.png)
+
+This will bring you to a confirmation screen. If everything is as you like it, click `CREATE DATA`.
+
+And finally, you should end up here:
 
 ![](../images/v1.0/miner_setup_complete.png)
 
-The one-time storage commitment setup process has now begun, and it may take from 30 minutes up to one hour to complete, depending on your CPU speed. Your CPU usage will go back to normal once the CPU-intensive setup is complete.
+The one-time storage commitment setup process has now begun. At this stage, due to the small size, it should only take a moment.
 
 > Do not turn off your computer before you get a notification about setup completion.
 
@@ -95,8 +107,20 @@ Click `GOT IT`.
 ### Disable Computer Sleep Mode
 To finish the one-time Smeshing process and have your Smesher participate in the Spacemesh protocol so you can earn `Smeshing rewards`, **you need to make sure that your desktop computer does not go to sleep or hibernate**.
 
-Follow [this guide](no_sleep.md) to disable sleep on your computer.
+## Windows 10
+
+1. Type `Power` in the taskbar search box and click on `Power & sleep settings` in the results.
+2. Navigate to the drop-down titled `When plugged in, PC goes to sleep after` and chose `Never` from the drop-down.
 
 
-## Next...
-You are almost done! You are now ready to check your [Smesher status](guide/status.md).
+## OS X
+
+1. Open the `System Preferences` control panel and click on `Energy Saver`.
+2. Click on the `Power Adapter` tab if you see one.
+3. Check the checkbox labeled `Prevent computer from sleeping automatically when the display is off`.
+
+---
+
+## Linux
+
+Please refer to the Power Settings, Hibernation and Sleep topics in your Linux distribution documentation.
