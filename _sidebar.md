@@ -7,14 +7,15 @@
 
 **Frequently Asked Questions**
 - [General Testnet FAQ](FAQ/testnet_faq.md)
-- [Tweedledum (0.2) FAQ](FAQ/02_faq.md)
+- [0.2 Testnet FAQ](FAQ/02_faq.md)
 - [0.2 PoS Setup FAQ](FAQ/pos_setup_faq.md)
 - [P2P Troubleshooting FAQ](FAQ/p2p_faq.md)
 
 **Smapp Guide**
 - [Smeshing](smeshing.md)
-- [Using your wallet](wallet.md)
-- [Advanced features](advanced_wallet.md)
+- [Using Your Wallet](wallet.md)
+- [Advanced Features](advanced_wallet.md)
+- [Network & Dashboard](net_dash.md)
 
 **Doing More**
 - [Getting help](help.md)
