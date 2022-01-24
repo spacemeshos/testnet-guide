@@ -57,7 +57,7 @@ In the transactions log you should see each transaction you have sent from your 
 
 Click on a transaction to view its details.
 
-![](images/v1.0/tx_details.png)
+![](images/v1.0/tx_log_details.png)
 
 # Sending Smesh
 
