@@ -14,11 +14,11 @@ If you didn't start Smapp in wallet-only mode, you can choose to do so through `
 
 Go to the `SETTINGS` screen and click on `WALLETS` in the navigation bar. Then click on `SWITCH TO WALLET ONLY`.
 
-![](images/v1.0/wallet_only_2.PNG)
+![](images/v1.0/wallet_only_2.png)
 
 This will take you to a screen where you can select the API to connect the wallet to.
 
-![](images/v1.0/wallet_only_3.PNG)
+![](images/v1.0/wallet_only_3.png)
 
 Since you've already set up your wallet, after choosing the API you want, you will be prompted to enter your password.
 
@@ -26,4 +26,4 @@ Since you've already set up your wallet, after choosing the API you want, you wi
 
 After doing so, you will be taken back to your wallet.
 
-![](images/v1.0/wallet_only_4.PNG)
+![](images/v1.0/wallet_only_4.png)
