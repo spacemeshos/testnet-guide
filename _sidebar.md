@@ -1,6 +1,7 @@
 - [Welcome](main.md)
 
 **Smapp Guide**
+- [System Requirements](requirements.md)
 - [Installing](guide/install.md)
 - [Setting up](guide/setup.md)
 - [Smeshing](smeshing.md)
