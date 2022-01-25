@@ -17,7 +17,7 @@ Your Smesher participates in the Spacemesh decentralized consensus protocol and 
 
 Before you can produce blocks, you need to commit 4GB of free storage on your hard drive to Spacemesh. The commitment process only happens once, when you first set up your App, and is used indefinitely to produce more blocks. You will be prompted to start producing blocks and to commit disk storage when you run the Spacemesh App for the first time on your computer.
 
-> For Spacemesh 0.1, the first release of the App, you can only allocate a fixed-size of 4 GB to Spacemesh. In upcoming Testnet releases and for the Spacemesh Mainnet, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100 GB, 200 GB, 300 GB, etc.
+> At this stage of Testnet 0.2, you can only commit a maximum of 4kb. In future Testnet releases and for the Spacemesh Mainnet, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100 GB, 200 GB, 300 GB, etc.
 
 ### Wallet
 The Wallet is a basic Smesh (SMH) coin wallet that you use to maintain your Smesh (SMH) coins account, execute transactions and check the status of incoming transactions initiated by other accounts.
