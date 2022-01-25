@@ -7,6 +7,7 @@
 - [Using Your Wallet](wallet.md)
 - [Advanced Features](advanced_wallet.md)
 - [Network & Dashboard](net_dash.md)
+- [Additional features](additional.md)
 
 **Frequently Asked Questions**
 - [General Testnet FAQ](FAQ/testnet_faq.md)
