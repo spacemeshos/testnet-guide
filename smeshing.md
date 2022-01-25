@@ -21,7 +21,7 @@ First you have to select the directory where de data will be stored. At this mom
 
 ![](images/v1.0/POS_setup_1_light.png)
 
-Once selected the directory, in our case we created a new directory called post in C:\\ the **<NEXT>** button turns green and now we can click it to continue
+Once you've selected the directory, the **<NEXT>** button turns green and now we can click it to continue
 
 ![](images/v1.0/POS_setup_2_light.png)
 
