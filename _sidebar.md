@@ -1,6 +1,6 @@
 - [Welcome](main.md)
 
-**Smapp Guide**
+**Smapp 0.2 Guide**
 - [System Requirements](requirements.md)
 - [Installing](guide/install.md)
 - [Setting up](guide/setup.md)
