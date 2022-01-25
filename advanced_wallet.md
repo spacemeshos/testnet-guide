@@ -246,13 +246,13 @@ _Option 1:_
 
 In order to create new contact go to <CONTACTS> tab!
 
-![](images/v1.0/contacts_screen.png)
+![](images/v1.0/contacts_screen.PNG)
 
 Click on <CREATE NEW CONTACT> button!
 
 The screen will change to this state where you have 2 inputs - one for nickname and second for address!
 
-![](images/v1.0/create_contact.png)
+![](images/v1.0/create_contact.PNG)
 
 After filling the details and pressing <CREATE> button you will see the popup asking to enter wallet password
 
