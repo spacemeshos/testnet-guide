@@ -6,9 +6,9 @@ To join the Spacemesh 0.2 Tweedledum testnet you need to run the Spacemesh App o
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RLhKz0XiH0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## About The Spacemesh App
+## About Smapp (The Spacemesh App)
 
-The Spacemesh App (aka "the App") includes a Spacemesh full p2p node (which we call a Smesher), and a basic Smesh wallet which we call the "Wallet."
+Smapp includes a Spacemesh full p2p node (which we call a Smesher), and a basic Smesh wallet which we call the "Wallet."
 
 ### Smesher
 The Smesher is the software that creates and updates [the Smesh](../coins.md) (SMH) distributed ledger. It also creates and maintains your disk space commitment to the Spacemesh network. The Spacemesh decentralized platform is created by people just like you who run a Smesher on their own desktop computers.
