@@ -1,14 +1,23 @@
 Smeshing is the process of submitting blocks with transactions to the Testnet network according to the Spacemesh protocol. Before you can Smesh blocks, you need to commit free storage on your computer hard drive to Spacemesh
 
+_Topics_
+- [Running a local node](#running a local node)
+- [Setting up POS From Smeshing Screen](#setting-up-pos-from-smeshing-screeng)
+- [Viewing smeshing status](#wiewing-smeshing-status)
+- [Changing smeshing setup](#changing-smeshing-setup)
+- [Viewing your smeshing rewards](#viewing-your-smeshing-rewards)
+
 # Running a local node
 
 In order to start smeshing you have to run a full Spacemesh p2p node. When running the Smapp for the first time you will be prompted to set up a node. Click **<WALLET + NODE>**
 
 ![](images/v1.0/new_wallet.png)
 
-# Setting up Smeshing
+# Setting up PoS from Smeshing Screen
 
-After the configuration of the wallet, covered in another section, you need to setup the Proof of Space Directory. First you have to select the directory where de data will be stored. At this moment the minimum free space required is 2KB. To do it, you have to click on **SELECT DIRECTORY**
+If you started Smapp in wallet-only mode, and you want to start smeshing, you need to set up Proof of Space.
+
+First you have to select the directory where de data will be stored. At this moment the minimum free space required is 2KB. To do it, you have to click on **SELECT DIRECTORY**
 
 ![](images/v1.0/POS_setup_1_light.png)
 
@@ -73,7 +82,7 @@ In order to smeshing again you will have to setup the proof of space again
 
 ![](images/v1.0/POS_smesher_setup.png)
 
-## Viewing your smeshing rewards
+# Viewing your smeshing rewards
 
 To view the smeshing rewards you have received you have to go to the Menu **WALLET**
 
