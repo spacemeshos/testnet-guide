@@ -20,9 +20,7 @@ Before you can produce blocks, you need to commit 4GB of free storage on your ha
 > At this stage of Testnet 0.2, you can only commit a maximum of 4kb. In future Testnet releases and for the Spacemesh Mainnet, the minimum setup will be 100GB and you will be able to determine how much space you would like to allocate, e.g., 100 GB, 200 GB, 300 GB, etc.
 
 ### Wallet
-The Wallet is a basic Smesh (SMH) coin wallet that you use to maintain your Smesh (SMH) coins account, execute transactions and check the status of incoming transactions initiated by other accounts.
-
-> For this release (Spacemesh 0.1), the Wallet works together with your locally-running Smesher and can't be used without running a Smesher on your own computer. Future releases of the App will enable you to use the wallet without running a Smesher on your computer.
+The Wallet is a basic Smesh (SMH) coin wallet that you use to maintain your Smesh (SMH) coins account, execute transactions and check the status of incoming transactions initiated by other accounts. You can run your app in wallet-only mode, if you'd rather not set up a node.
 
 ### App
 The App integrates a Smesher and a Wallet into one package, which we hope you find delightful and easy to use, even without deep technical understanding of cryptocurrency terms and concepts.
