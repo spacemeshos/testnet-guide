@@ -16,7 +16,7 @@ Disk space exclusively committed to the Spacemesh network. The amount of space i
 Smeshing rewards are always sent to a specific wallet account. For this release of the Spacemesh App, this account is automatically set by the App for you when you [set up Smeshing](guide/setup.md) on your first App session.
 
 ## Smesh (SMH)
-The name of the Spacemesh cryptocurrency for the Spacemesh Testnets. One Smesh equals one billion (10^9) Smidges. The App enables you to send and receive Smesh. See [About Smesh and Smidge](coins.md) for more units.
+The name of the Spacemesh cryptocurrency for the Spacemesh Testnets. One Smesh equals one billion (10^9) Smidges. The App enables you to send and receive Smesh.
 
 ## Smesher
 Smesher is the software package that maintains and updates the Spacemesh decentralized ledger according to the Spacemesh protocol. Smeshers form a p2p network by communicating with each other over the Internet.
@@ -36,7 +36,7 @@ You will be prompted to [set up Smeshing](guide/setup.md) when you run the App f
 Smesh are rewarded to those who run Smeshers on their computers and submit blocks with transactions to the network according to the Spacemesh protocol. To earn Smeshing rewards, you need to commit free space on your computer to Spacemesh and leave the app running 24/7 so it will Smesh for you when the protocol determines you are entitled to do so. See [Smesh Rewards](rewards.md).
 
 ## Smidge
-The atomic (indivisible) unit of accounting in the Spacemesh ledger and platform. Transaction fees are displayed in Smidge units in the App. One billion (10^9) Smidges equals one Smesh (SMH). See [About Smesh and Smidge](coins.md) for more units.
+The atomic (indivisible) unit of accounting in the Spacemesh ledger and platform. Transaction fees are displayed in Smidge units in the App. One billion (10^9) Smidges equals one Smesh (SMH).
 
 ## Transaction
 A Smesh transaction (abbreviated "tx") is a transaction from one account (sender) to another account (recipient) in which a specific amount of SMH is transferred. Transactions are executed from the Wallet.
