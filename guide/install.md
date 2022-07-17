@@ -2,10 +2,6 @@
 
 To join the Spacemesh 0.2 Tweedledum testnet you need to run the Spacemesh App on your desktop computer.
 
-## Install Spacemesh Video Tutorial
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RLhKz0XiH0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## About Smapp (The Spacemesh App)
 
 Smapp includes a Spacemesh full p2p node (which we call a Smesher), and a basic Smesh wallet which we call the "Wallet."
