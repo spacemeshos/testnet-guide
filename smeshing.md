@@ -1,7 +1,7 @@
 Smeshing is the process of submitting blocks with transactions to the Testnet network according to the Spacemesh protocol. Before you can Smesh blocks, you need to commit free storage on your computer hard drive to Spacemesh
 
 _Topics_
-- [Running a local node](#running a local node)
+- [Running a local node](#running-a-local-node)
 - [Setting up POS From Smeshing Screen](#setting-up-pos-from-smeshing-screeng)
 - [Viewing smeshing status](#wiewing-smeshing-status)
 - [Changing smeshing setup](#changing-smeshing-setup)
