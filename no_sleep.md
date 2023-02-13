@@ -10,11 +10,11 @@ Follow the steps below to disable your computer from going to sleep after an idl
 
 ## OS X
 
-1. Open the `System Preferences` control panel and click on `Energy Saver`.
-2. Click on the `Power Adapter` tab if you see one.
-3. Check the checkbox labeled `Prevent computer from sleeping automatically when the display is off`.
+On the Apple menu:
 
----
+1. Open the `System Settings`, then click Lock Screen in the sidebar. (You may need to scroll down. Or search)
+2. Click on the `Power Adapter` tab if you see one.
+3. Click the pop-up menu next to `Turn display off on battery when inactive`, on the right, then choose an option.
 
 ## Linux
 
