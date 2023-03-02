@@ -43,7 +43,7 @@ A mesh topology combined with a novel consensus protocol (Proof of Space-Time) t
 
 Spacemesh software is designed to run on the home PCs of everyday users and not on dedicated cloud servers or on specialized non-commodity hardware (e.g., mining farms). A consensus on a distributed canonical ledger is formed by a protocol running on home PCs across the globe. The system remains secure as long as more than 2/3 majority of disk space committed to Spacemesh is controlled by honest participants.
 
-> To learn more about Spacemesh, check out the Spacemesh [blog posts](https://spacemesh.io/posts/), [protocol overview](https://spacemesh.io/overview/) and [FAQ](https://spacemesh.io/faq/).
+> To learn more about Spacemesh, check out the Spacemesh [blog posts](https://spacemesh.io/blog), [protocol overview](https://spacemesh.io/resources/#faq-protocol-highlights) and [FAQ](https://spacemesh.io/resources/#faq).
 
 > To deep-dive into the technical details of the Spacemesh protocol, read the [Spacemesh Protocol paper](https://spacemesh.io/spacemesh-protocol-v1-0) and see the [Protocol documentation](https://github.com/spacemeshos/protocol).
 

@@ -22,7 +22,7 @@ The following are the requirements for running the Spacemesh App with a managed 
 - An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
 
 #### Linux Systems
-> The Spacemesh App is an Electron App. It is supported on any Linux distribution that supports [Electron apps](https://electronjs.org/docs/tutorial/support).
+> The Spacemesh App is an Electron App. It is supported on any Linux distribution that supports Electron apps.
 
 #### Supported Processors for proof of space setup
 
@@ -30,7 +30,7 @@ You can create proof of space data using your computer's integrated graphics car
 
 - A modern Intel or AMD x86-64 cpu.
 - An Nvidia GPU with CUDA support (minimum compute compatibility 5.0, maximum compute compatibility 8.6), and Nvidia drivers version R450 or newer. [Nvidia GPUs CUDA compute compatibility info](https://developer.nvidia.com/cuda-gpus).
-- A GPU and drivers with Vulkan 1.2 support, such as a modern AMD, Apple M1, and Intel GPUs.
+- A GPU and drivers with Vulkan 1.2 support, such as a modern AMD, Apple M1 and M2, and Intel GPUs.
 
 #### Popular Supported Processors Models
 
@@ -39,7 +39,7 @@ You can create proof of space data using your computer's integrated graphics car
 - AMD Radeon RX [550](https://www.newegg.com/onda-model-rx550-4g/p/1DW-00C1-00001) / 570 / 580.
 - AMD Radeon Pro 555x.
 - Nvidia Tesla V100, T4, P100 or P4.
-- Apple M1.
+- Apple M1 and M2.
 - Intel UHD Graphics 630.
 
 
