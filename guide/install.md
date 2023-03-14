@@ -53,6 +53,8 @@ We've had reports of Linux failing to install the app simply by double-clicking 
 
 The app should be installed in `/opt/Spacemesh`, and you should see the app listed under the Applications menu in your window manager. You can now launch the app.
 
+Please note that Ubuntu 20.04 and older are not supported. To be able to fully use the Spacemesh App and avoid experiencing various known issues, we recommend upgrading to Ubuntu 22.04 LTS or any other, more recent release.  
+
 ### Windows
 Follow the on screen instructions. The installer defaults to launch Spacemesh as soon as it is the installation is complete. 
 
