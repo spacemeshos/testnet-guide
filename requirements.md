@@ -1,7 +1,5 @@
 ## Spacemesh Genesis Candidate System Requirements
 
-Updated for Spacemesh 0.2 Beta 2 release.
-
 ### Spacemesh App Requirements
 The following are the requirements for running the Spacemesh App with a managed full Spacemesh node.
 
@@ -63,7 +61,7 @@ Following are the requirements for running the a Spacemesh 0.2 full node without
 > With this setup, your computer will be dedicated to running the Spacemesh full node and will not be used for running other interactive apps.
 
 - A computer with a modern Intel, an AMD CPU (2 cores / 4 native threads) or an Apple M1 CPU.
-- Windows 10 Home or Pro, macOS, Ubuntu 18.04, Fedora 21, or Debian 8.
+- OS: Windows 10/11, macOS, Ubuntu 22.04, Fedora 36.
 - 4 GB RAM.
 - 300 GiB free disk space (HDD or SSD).
 - One of the supported processors for proof of space setup.
