@@ -1,4 +1,4 @@
-## Spacemesh 0.2 System Requirements
+## Spacemesh Genesis Candidate System Requirements
 
 Updated for Spacemesh 0.2 Beta 2 release.
 
