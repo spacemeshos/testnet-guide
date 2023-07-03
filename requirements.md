@@ -73,9 +73,7 @@ Following are the requirements for running the a Spacemesh 0.2 full node without
 
 ### About Proof of Space Data
 
-You only need to setup proof of space data once to smesh for an unlimited period of time. The proof of space data size for the Spacemesh 0.2 testnet is `2 KiB`, `3 KiB` or `4 KiB`. The larger your proof of space data is, the higher your smeshing rewards will be.
-
-> Upcoming Spacemesh Testnets will use closer to mainnet data sizes. The proof of space data size range for these upcoming testnets has not been finalized yet.
+You only need to setup proof of space data once to smesh for an unlimited period of time. The proof of space data size for the Spacemesh genesis candidate testnet is a minimum of 32GB, which you can increase by multiples of 8. The larger your proof of space data is, the higher your smeshing rewards will be.
 
 You can use any magnetic hard drive (HDD) or SSD drive for storing proof of space data. There is no significant advantage in using an SSD over HDD.
 
