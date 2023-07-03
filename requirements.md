@@ -54,7 +54,7 @@ You can install the App, run a Smesher and produce blocks on your laptop if it m
 
 Occasionally shutting down your laptop or the App may prevent you from Smeshing blocks and from earning Smeshing rewards.
 
-### Spacemesh Full Node Sysmte Requirements
+### Spacemesh Full Node System Requirements
 
 Following are the requirements for running the a Spacemesh 0.2 full node without running the Spacemesh App. We recommend this setup to technical users who are comfortable with the command line.
 
