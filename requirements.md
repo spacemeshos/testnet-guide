@@ -8,9 +8,9 @@ The following are the requirements for running the Spacemesh App with a managed 
 #### Minimum System Requirements
 
 - A computer with modern Intel or AMD x86-64 CPU (3 cores / 6 native threads).
-- OS: Windows 10 (Home or Pro), macOS, Ubuntu 18.04, Fedora 21, or Debian 8.
+- OS: Windows 10/11, macOS, Ubuntu 22.04, Fedora 36.
 - 8 GB RAM.
-- 150 GB free space. (HDD or SSD).
+- 32 GB free space. (HDD or SSD).
 - An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload.
 
 #### Recommended System Requirements
