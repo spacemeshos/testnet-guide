@@ -1,5 +1,4 @@
 # WELCOME
-> Genesis Is Coming
 
 ![](images/v1.0/transparentbg.gif ':size=300x300')
 
