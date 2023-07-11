@@ -6,7 +6,7 @@ Follow the installer's on-screen instruction and proceed to launch the App.
 
 You should now see this welcome screen:
 
-![](../images/v1.0/welcome.png)
+![](../images/v2.0/welcome.png)
 
 Let's now proceed to set up the Smesher, Smeshing, and the Wallet. But first, some definitions.
 
@@ -34,9 +34,36 @@ Click on `SETUP` to start the setup process.
 
 The next screen should look like this:
 
-![](../images/v1.0/create_wallet_password.png)
+![](../images/v2.0/new_wallet_setup.png)
 
-The App prompts you to enter a password to protect access to your newly-created wallet and to your Smesher. Proceed by choosing a password (8 or more characters) and confirming it.
+You can now choose between a Wallet with a local p2p node or a Wallet Only mode. Both can be used to execute transactions - send and receive SMH.
+
+The first option will allow you to run a go-spacemesh node locally and Smesh coins if you wish. 
+
+The second one will let you connect to the remote API and access a Wallet quickly - no need to wait for the full node synchronization. 
+
+No matter which option you choose now, you can switch to another mode later using the app settings. 
+
+The next setup steps will be almost the same for both types - Wallet + Node and Wallet - Only. 
+
+---
+
+The second screen will let you choose between Standard or Hardware Wallet. 
+
+![](../images/v2.0/new_wallet_type.png)
+
+---
+
+Then you should choose a network to connect to. In Wallet Only, there will be an additional step regarding choosing the API. If you don’t use any custom setup, just click `NEXT`. 
+
+![](../images/v2.0/select_network.png)
+
+---
+
+In the last step, the App prompts you to enter a password to protect access to your newly-created Wallet. Proceed by choosing a password (8 or more characters) and confirming it.
+
+![](../images/v2.0/protect_wallet.png)
+
 
 > You will need to use the newly-created password to access your Wallet after you have locked access to the App. We recommend saving the password in a password manager, such as [1Password](https://1password.com).
 
@@ -44,7 +71,7 @@ The App prompts you to enter a password to protect access to your newly-created 
 
 Click `NEXT`. You should now see this screen:
 
-![](../images/v1.0/protect_wallet_confirmed.png)
+![](../images/v2.0/wallet_password_protected.png)
 
 
 ## Step 2 - Setting Up Your Smesher
@@ -59,21 +86,23 @@ This one-time storage commitment enables Spacemesh to reach consensus on a distr
 
 > The free space you commit to your Smesher is not used to store any useful data. It will be filled with cryptographic data that is only used to establish your node identity and your block Smeshing eligibility.
 
-You should now see this screen:
+To set up Smesher, go to the Smeshing tab. You should now see this screen, click `SETUP PROOF OF SPACE` button:
 
-![](../images/v1.0/POS_setup_1_light.png)
+![](../images/v2.0/setup_smesher.png)
 
-The App prompts you to set up block Smeshing on your computer. You need to specify the directory that you want Spacemesh to save your PoST init file.
+The App prompts you to set up block Smeshing on your computer. You need to specify an **empty** directory in which Spacemesh can save your PoST init file.  
 
-![](../images/v1.0/POS_setup_2_light.png)
+![](../images/v2.0/pos_dir.png)
 
 Click `Select Folder` and locate a directory on one of your hard drives. Click `NEXT`.
 
 You should now see this screen:
 
-![](../images/v1.0/POS_setup_3_light.png)
+![](../images/v2.0/pos_size.png)
 
 Select the amount of free space you would like to commit to Spacemesh and click `NEXT`.
+
+You can ignore the Max File Size for now. 
 
 > The more storage you allocate for Spacemesh on your drive, the higher your Smesh rewards will be.
 
@@ -81,17 +110,17 @@ Select the amount of free space you would like to commit to Spacemesh and click 
 
 You should now see this screen, prompting you to choose your preferred method of POS data generation.
 
-![](../images/v1.0/POS_setup_4_light.png)
+![](../images/v2.0/pos_processor.png)
 
 Once you've chosen, click `NEXT`.
 
-![](../images/v1.0/POS_setup_5_light.png)
+![](../images/v2.0/pos_confirmation.png)
 
 This will bring you to a confirmation screen. If everything is as you like it, click `CREATE DATA`.
 
 And finally, you should end up here:
 
-![](../images/v1.0/POS_setup_done.png)
+![](../images/v2.0/pos_fireworks.png)
 
 The one-time storage commitment setup process has now begun. At this stage, due to the small size, it should only take a moment.
 
