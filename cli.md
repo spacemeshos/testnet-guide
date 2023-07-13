@@ -8,11 +8,11 @@ Spacemesh is an open-source, common people-oriented project. Our protocol and re
 
 We highly recommend using the officially released packages, which can be easily found on Github, there are proper resources for different Operating Systems. 
 
-It’s crucial to have OpenCL support on your system - especially Linux Users. You can use the command clinfo -l to check it.
+It’s crucial to have OpenCL support on your system - especially Linux Users. You can use the command `clinfo -l` to check it.
 
-Preferably create a new folder for Spacemesh, which must be outside of $GOPATH.
+Preferably create a new directory for Spacemesh, which must be outside of $GOPATH.
 
-In the undermentioned examples, we will be using an "*SM*" folder (mkdir SM) in the home directory. It will be macOS version, please remember to amend the command accordingly to your operating system and needs. 
+In the undermentioned examples, we will be using an `SM` directory (mkdir SM) in the home directory. It will be macOS version, please remember to amend the command accordingly to your operating system and needs. 
 
 To smesh - mine SMESH coins - you have to run a Spacemesh node- [the go-spacemesh node](https://github.com/spacemeshos/go-spacemesh). 
 
@@ -73,7 +73,7 @@ You will be prompted to enter your [BIP39-compatible mnemonics,](https://github.
 
 
 Please read carefully the information you will get. The mnemonics are listed in one row, take your time to save them. It’s crucial to keep them safe, but also correct. Once noted, hit enter/return. 
-![image alt text](image_0.png)
+![image alt text](image1.png)
 
 The next step set up a password for your wallet. No requirements here, but of course the stronger it will be, the better for your wallet's security. You can technically skip this step, but we highly recommend setting up a strong passphrase. 
 
@@ -87,7 +87,7 @@ Copy it to be able to get the public key with the following command:
 Then just insert your password set just a moment ago, and there you go - your public key information is displayed. 
 
 
-![image alt text](image_1.png)
+![image alt text](image2.png)
 
 Once you created your wallet, there was a piece of advice at the end to back up this file immediately. To do so, you can go on and copy the file manually in via finder/file explorer, but its location is by default hidden (…/.spacemesh/…).
 So it might be easier to stay in CLI, and just run copy command, paste the directory you just copied, hit space, and then provide a location where you want your file to be copied to:
