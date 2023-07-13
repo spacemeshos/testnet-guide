@@ -2,17 +2,17 @@
 
 
 ## Step 1 - Setting up a Wallet
-Follow the installer's on-screen instruction and proceed to launch the App.
+Follow the installer's on-screen instructions and proceed to launch the App.
 
 You should now see this welcome screen:
 
 ![](../images/v2.0/welcome.png)
 
-Let's now proceed to set up the Smesher, Smeshing, and the Wallet. But first, some definitions.
+Let's now proceed to set up the Smesher, Smeshing, and Wallet. But first, some definitions.
 
 ## About the Wallet
 
-A Wallet holds one or more Smesh accounts. An account is identified by a long, unique hexidecimal number, such as `0x20a5...3a1f`.
+A Wallet holds one or more Smesh accounts. An account is identified by a long, unique hexadecimal number, such as `0x20a5...3a1f`.
 
 The Wallet enables you to send and receive Smesh, and in the future, it will enable you to run decentralized applications (dapps) built on Spacemesh. Each account has a balance of Smesh coins (SMH).
 
@@ -48,7 +48,7 @@ The next setup steps will be almost the same for both types - Wallet + Node and 
 
 ---
 
-The second screen will let you choose between Standard or Hardware Wallet. 
+The second screen will let you choose between Standard or Hardware Wallet. Currently, Smapp does not support Hardware Wallets. This feature will be implemented in the future, but until then we highly recommend using SMCLI to generate the necessary keys for your ledger setup.
 
 ![](../images/v2.0/new_wallet_type.png)
 
@@ -82,7 +82,7 @@ Spacemesh uses a novel consensus protocol. Instead of constantly solving computa
 
 The storage you commit to Spacemesh is attached to your identity on the Spacemesh decentralized ledger. It determines your eligibility to submit blocks with transactions to the Spacemesh Testnet and to receive rewards for your contribution. **The more free disk space you commit, the more frequently you will produce blocks and receive Smesh rewards.**
 
-This one-time storage commitment enables Spacemesh to reach consensus on a distributed ledger without using Proof-of-Work or Proof-of-Stake algorithms.
+This one-time storage commitment enables Spacemesh to reach a consensus on a distributed ledger without using Proof-of-Work or Proof-of-Stake algorithms.
 
 > The free space you commit to your Smesher is not used to store any useful data. It will be filled with cryptographic data that is only used to establish your node identity and your block Smeshing eligibility.
 
