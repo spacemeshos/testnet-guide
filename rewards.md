@@ -9,8 +9,6 @@ Your exact number of daily rewards, and each reward amount, depends on how many 
 
 Read on for a more detailed technical explanation.
 
-> Learn more about [Smesh (SMH)](coins.md) coin units.
-
 ## Rewards Accounts
 
 Smesh rewards appear in the main Wallet account that you created in the Spacemesh App prior to setting up Smeshing.
