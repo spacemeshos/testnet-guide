@@ -36,6 +36,8 @@ The next screen should look like this:
 
 ![](../images/v2.0/new_wallet_setup.png)
 
+> ☝️ Wallet-only mode is temporarily disabled.
+
 You can now choose between a Wallet with a local p2p node or a Wallet Only mode. Both can be used to execute transactions - send and receive SMH.
 
 The first option will allow you to run a go-spacemesh node locally and Smesh coins if you wish. 
@@ -51,6 +53,8 @@ The next setup steps will be almost the same for both types - Wallet + Node and 
 The second screen will let you choose between Standard or Hardware Wallet. 
 
 ![](../images/v2.0/new_wallet_type.png)
+
+> ☝️ Hardware wallet is not supported.
 
 ---
 
