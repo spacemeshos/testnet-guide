@@ -1,25 +1,23 @@
 ## Spacemesh Genesis Candidate System Requirements
 
-### Spacemesh App Requirements
-The following are the requirements for running the Spacemesh App with a managed full Spacemesh node.
+### System Requirements
 
-#### Minimum System Requirements
+#### Minimum requirements for running a node:
+- CPU: Intel or AMD x86-64 or 64-bit ARM, including Apple Silicon (but not Raspberry Pi)
+Memory: 1GiB+
+- OS: Windows 10/11, MacOS, Ubuntu 22.04+ or Fedora 36+
+- Disk: 50GiB of free disk space
+- An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload
 
-- A computer with modern Intel or AMD x86-64 CPU (3 cores / 6 native threads).
-- OS: Windows 10/11, macOS, Ubuntu 22.04, Fedora 36.
-- 8 GB RAM.
-- 32 GB free space. (HDD or SSD).
-- An always-on, unmetered Internet connection capable of 5 mbps download and 1 mbps upload.
+#### For smeshing in addition to running a node:
+- CPU support for AES-NI
+- 256GiB of free disk space for PoST files
+- Any GPU with OpenCL support
 
-#### Recommended System Requirements
-
-- A desktop computer with modern Intel or AMD x86-64 CPU (4 cores / 8 native threads or better).
-- OS: Windows 10/11, macOS, Ubuntu 22.04, Fedora 36.
-- 16 GB RAM.
-- 350GB free space. (HDD or SSD).
-- An always-on, unmetered Internet connection capable of 10 mbps download and 1 mbps upload.
-
-#### Linux Systems
+#### To support more than the minimum space allocation for smeshing, or to allow uninterrupted use of the computer while the node is running, it’s recommended to have:
+- A hard drive that can sustain at least 100MB/s of sequential read
+- A multi-core CPU from the last 8 years
+  
 > The Spacemesh App is an Electron App. It is supported on any Linux distribution that supports Electron apps.
 
 #### Supported Processors for proof of space setup
