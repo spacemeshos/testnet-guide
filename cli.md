@@ -1,10 +1,8 @@
-Formatting to be checked before publishing
-
-Smesher setup - CLI
+# Smesher setup - CLI
 
 Spacemesh is an open-source, common people-oriented project. Our protocol and repositories are publicly available and one can fork and experiment with the Spacemesh code, but to participate in the network and mine coins, it’s necessary to configure and run the node in a specific way. To do so, besides the GUI (Smapp), there are several CLI tools available.
 
-# Preparation 
+## Preparation 
 
 We highly recommend using the officially released packages, which can be easily found on Github, there are proper resources for different Operating Systems. 
 
@@ -20,7 +18,7 @@ To have a wallet on which you would like to get the rewards -  use [SMCLI](https
 
 To generate the Proof of Space data and participate in the Smeshing process, you can use [the go-spacemesh node](https://github.com/spacemeshos/go-spacemesh) or [POSTCLI tool.](https://github.com/spacemeshos/post/blob/develop/cmd/postcli/README.md)
 
-## Go-spacemesh node
+### Go-spacemesh node
 
 Get the latest [go-spacemesh release from GitHub](https://github.com/spacemeshos/go-spacemesh/releases).
 
@@ -53,7 +51,7 @@ For example, run the following command from the "node" directory we just created
 
 You might see a prompt regarding the firewall or accepting incoming connections, approve it and wait a bit to check if the node continues to run without any errors. You should see the logs being written continuously. 
 
-## SMCLI
+### SMCLI
 
 If you need to create a wallet, you can use our GUI - SMAPP, but if you prefer CLI or you need to extract your public key, our recommendation is [SMCLI](https://github.com/spacemeshos/smcli).
 
@@ -94,7 +92,7 @@ So it might be easier to stay in CLI, and just run copy command, paste the direc
 
 `cp /Users/yourusername/.spacemesh/yourwalletfilename.json /Users/yourusername/SM/yourwalletfilename.json`
 
-# Smeshing 
+## Smeshing 
 
 Now, that you have your go-spacemesh node prepared and a wallet created, you can go ahead and generate the Proof of Space data. For that, you can use the go-spacemesh node or post-cli, a dedicated tool for POST initialization. 
 
@@ -106,7 +104,7 @@ Create a directory for your POS data, for example
 
 `mkdir ./SM/POS`
 
-## go-spacemesh node
+### go-spacemesh node
 
 Go to the node directory. You can run the command indicated in the go-spacemesh README, but the basic scenario requires specifying only the chosen POS directory and the coinbase:
 
@@ -197,7 +195,7 @@ We set 8 as the `numunits`. (8x64=512GiB)
 
 Once we run such a command from the `"./SM/node"` directory, the go-spacemesh application should start running and creating the data in the ./SM/POS directory.
 
-## POSTCLI
+### POSTCLI
 
 If you wish, you can generate your Proof of Space data using a dedicated tool for that - namely POSTCLI.
 Go to the[ POST Releases](https://github.com/spacemeshos/post/releases) and take the latest released package for your operating system. If you get any warnings from your browser regarding the file not commonly downloaded - click keep and once downloaded, unzip it. You can remove the .zip file and move the postcli folder to the Spacemesh node directory (`./SM/node` in our case).
@@ -270,7 +268,7 @@ The postcli tool lets you perform some other actions simply by using these flags
 -reset		whether to reset the datadir before starting
 ```
 
-# How to move POS data between the computers
+## How to move POS data between the computers
 
 If at any point you decide to move your fully generated Proof of Space data for some reason, you can very easily do it. You can also generate the POS files on one PC with a powerful GPU and then set up smeshing with this data on another machine, as generating the proofs doesn’t require huge computing power, a CPU will be enough. 
 
