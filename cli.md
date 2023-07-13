@@ -73,7 +73,7 @@ You will be prompted to enter your [BIP39-compatible mnemonics,](https://github.
 
 
 Please read carefully the information you will get. The mnemonics are listed in one row, take your time to save them. It’s crucial to keep them safe, but also correct. Once noted, hit enter/return. 
-![image alt text](image1.png)
+![image alt text](images/cli/image1.png)
 
 The next step set up a password for your wallet. No requirements here, but of course the stronger it will be, the better for your wallet's security. You can technically skip this step, but we highly recommend setting up a strong passphrase. 
 
@@ -87,7 +87,7 @@ Copy it to be able to get the public key with the following command:
 Then just insert your password set just a moment ago, and there you go - your public key information is displayed. 
 
 
-![image alt text](image2.png)
+![image alt text](images/cli/image2.png)
 
 Once you created your wallet, there was a piece of advice at the end to back up this file immediately. To do so, you can go on and copy the file manually in via finder/file explorer, but its location is by default hidden (…/.spacemesh/…).
 So it might be easier to stay in CLI, and just run copy command, paste the directory you just copied, hit space, and then provide a location where you want your file to be copied to:
@@ -148,7 +148,7 @@ The datadir is the location of your POS data, our recommendation is to use a new
 
 These two first inputs are mandatory. 
 
--`-smeshing-opts-maxfilesize` **uint**    (**default** 4294967296)
+`--smeshing-opts-maxfilesize` **uint**    (**default** 4294967296)
 
 Maxfilezsie is the maximum size of one POS data file. - your Proof of space data by default will not be stored in one enormous file, you can choose here if you want your POS split into more smaller files or fewer bigger files. The default is 2 Gibibyte file (note, it’s not Gigabyte). You might want to customize this value for your convenience of moving the generated POS data to another machine for example. Please keep in mind your file system restrictions. As an example, if you don’t customize this flag (leave the default 2GiB), and choose to generate the minimum 256 of POS data, you will get it in 128 files. 
 
@@ -179,8 +179,6 @@ We keep the values copied from Github for the port and app data directory, it is
 
  For the config, insert the name of your config file, in our example:
 `--config ./config.testnet-05.json`
-
-
 
 
 The smeshing coinbase is a wallet address, for example
@@ -220,7 +218,6 @@ mv ./Downloads/postcli ./SM/node
 Now to check the possible options you can run 
 
 `./postcli --help`
-
  
 
 There are two parameters that are required to be specified by the User in order to use the postcli tool, namely : 
