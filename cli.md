@@ -128,7 +128,7 @@ Here are the flags you probably will need the most when it comes to the Smesher 
 ```
 --smeshing-coinbase          string   coinbase account to accumulate rewards
 --smeshing-opts-datadir      string   (default "/Users/username/post/data")
---smeshing-opts-maxfilesize  unit     (default 4294967296)
+--smeshing-opts-maxfilesize  uint     (default 4294967296)
 --smeshing-opts-numunits     uint32   (default 4)
 --smeshing-opts-provider     int      (default -1)
 ```
@@ -255,9 +255,9 @@ Analogically to the above-mentioned go-spacemesh flags, you can customize the be
 -commitmentAtxId    string   commitment atx id, in hex (required
 -datadir            string   filesystem datadir path (default "/Users/username/post/data")
 -id                 string   miner's id (public key), in hex (generated if not provided)
--labelsPerUnit      unit     the number of labels per unit (default 512)
--maxFileSize        unit     max file size (default 4294967296)
--numUnits           unit     number of units (default 4)
+-labelsPerUnit      uint     the number of labels per unit (default 512)
+-maxFileSize        uint     max file size (default 4294967296)
+-numUnits           uint     number of units (default 4)
 -provider           int      compute provider id (required) (default -1)
 ```
 
