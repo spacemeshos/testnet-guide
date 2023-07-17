@@ -51,6 +51,8 @@ For example, run the following command from the "node" directory we just created
 
 You might see a prompt regarding the firewall or accepting incoming connections, approve it and wait a bit to check if the node continues to run without any errors. You should see the logs being written continuously. 
 
+Please keep in mind, that you can have only one go-spacemesh node running on your machine - this includes also Smapp.
+
 ### SMCLI
 
 If you need to create a wallet, you can use our GUI - SMAPP, but if you prefer CLI or you need to extract your public key, our recommendation is [SMCLI](https://github.com/spacemeshos/smcli).
@@ -124,11 +126,11 @@ Here are the flags you probably will need the most when it comes to the Smesher 
 
 
 ```
---smeshing-coinbase			string		coinbase account to accumulate rewards
---smeshing-opts-datadir		string		(default "/Users/username/post/data")
---smeshing-opts-maxfilesize	uint		(default 4294967296)
---smeshing-opts-numunits		uint32		(default 4)
---smeshing-opts-provider		int		(default -1)
+--smeshing-coinbase          string   coinbase account to accumulate rewards
+--smeshing-opts-datadir      string   (default "/Users/username/post/data")
+--smeshing-opts-maxfilesize  unit     (default 4294967296)
+--smeshing-opts-numunits     uint32   (default 4)
+--smeshing-opts-provider     int      (default -1)
 ```
 
 More details on each flag:
@@ -195,10 +197,14 @@ We set 8 as the `numunits`. (8x64=512GiB)
 
 Once we run such a command from the `"./SM/node"` directory, the go-spacemesh application should start running and creating the data in the ./SM/POS directory.
 
+
 ### POSTCLI
 
 If you wish, you can generate your Proof of Space data using a dedicated tool for that - namely POSTCLI.
-Go to the[ POST Releases](https://github.com/spacemeshos/post/releases) and take the latest released package for your operating system. If you get any warnings from your browser regarding the file not commonly downloaded - click keep and once downloaded, unzip it. You can remove the .zip file and move the postcli folder to the Spacemesh node directory (`./SM/node` in our case).
+
+Taking into account that you cannot run more than one go-spacemesh node on your machine, the postcli tool comes very handy if at any point you would like to generate the POS data while already smeshing. You can run it concurrently with the node. 
+
+Go to the [POST Releases](https://github.com/spacemeshos/post/releases) and take the latest released package for your operating system. If you get any warnings from your browser regarding the file not commonly downloaded - click keep and once downloaded, unzip it. You can remove the .zip file and move the postcli folder to the Spacemesh node directory (`./SM/node` in our case).
 
 ```
 cd Downloads
@@ -246,13 +252,13 @@ Analogically to the above-mentioned go-spacemesh flags, you can customize the be
 
 
 ```
--commitmentAtxId	string	commitment atx id, in hex (required
--datadir	string	filesystem datadir path (default "/Users/username/post/data")
--id	string	miner's id (public key), in hex (generated if not provided)
--labelsPerUnit	uint	the number of labels per unit (default 512)
--maxFileSize	uint	max file size (default 4294967296)
--numUnits	uint	number of units (default 4)
--provider	int	compute provider id (required) (default -1)
+-commitmentAtxId    string   commitment atx id, in hex (required
+-datadir            string   filesystem datadir path (default "/Users/username/post/data")
+-id                 string   miner's id (public key), in hex (generated if not provided)
+-labelsPerUnit      unit     the number of labels per unit (default 512)
+-maxFileSize        unit     max file size (default 4294967296)
+-numUnits           unit     number of units (default 4)
+-provider           int      compute provider id (required) (default -1)
 ```
 
 The generated data is tied to the commitementATXid AND id.
@@ -262,10 +268,10 @@ You can pause creating this data and continue anytime. If you already moved the 
 The postcli tool lets you perform some other actions simply by using these flags:
 
 ```
--genproof		generate proof as a sanity test, after initialization
--printConfig	print the used config and options
--printProviders	print the list of compute providers
--reset		whether to reset the datadir before starting
+-genproof         generate proof as a sanity test, after initialization
+-printConfig      print the used config and options
+-printProviders   print the list of compute providers
+-reset            whether to reset the datadir before starting
 ```
 
 ## How to move POS data between the computers
