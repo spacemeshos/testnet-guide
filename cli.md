@@ -51,7 +51,7 @@ For example, run the following command from the "node" directory we just created
 
 You might see a prompt regarding the firewall or accepting incoming connections, approve it and wait a bit to check if the node continues to run without any errors. You should see the logs being written continuously. 
 
-Please keep in mind, that you can have only one go-spacemesh node running on your machine - this includes also Smapp.
+Please note, that you can have multiple go-spacemesh nodes running on your machine, but they cannot share the same directories.
 
 ### SMCLI
 
@@ -202,7 +202,7 @@ Once we run such a command from the `"./SM/node"` directory, the go-spacemesh ap
 
 If you wish, you can generate your Proof of Space data using a dedicated tool for that - namely POSTCLI.
 
-Taking into account that you cannot run more than one go-spacemesh node on your machine, the postcli tool comes very handy if at any point you would like to generate the POS data while already smeshing. You can run it concurrently with the node. 
+You can run multiple postcli simultaneously, also with go-spacemesh nodes. 
 
 Go to the [POST Releases](https://github.com/spacemeshos/post/releases) and take the latest released package for your operating system. If you get any warnings from your browser regarding the file not commonly downloaded - click keep and once downloaded, unzip it. You can remove the .zip file and move the postcli folder to the Spacemesh node directory (`./SM/node` in our case).
 
