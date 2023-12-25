@@ -32,22 +32,20 @@ mv ./Downloads/macOS/ ./SM/node
 cd SM/node
 ```
 
-In the same directory prepare a network config file. Update the config file name accordingly to the resource you will be using. If you use VS Code you can run: 
+In the same directory prepare a network config file. Update the config file name according to the resource you will be using. If you use VS Code you can run: 
 
-`code config.testnet-05.json`
+`code config.mainnet.json`
 
-To have the content of this file, you should always use the officially published resources, you can find them for example on [Twitter](https://twitter.com/teamspacemesh?s=20).
-
-For the Testnet-05, get the content from here: [https://smapp.spacemesh.network/config.testnet-05.json](https://smapp.spacemesh.network/config.testnet-05.json)
+To have the content of this file, you should always use the officially published resources, you can find them for example [here:]([https://twitter.com/teamspacemesh?s=20](https://configs.spacemesh.network/config.mainnet.json)).
 
 Try running a local node to check if everything is going as expected so far.
 
 `./go-spacemesh --listen [a_multiaddr] --config [configFileLocation] -d [nodeDataFilesPath]`
 
 
-For example, run the following command from the "node" directory we just created (having the testnet config file in the same directory): 
+For example, run the following command from the "node" directory we just created (having the network config file in the same directory): 
 
-`./go-spacemesh --listen /ip4/0.0.0.0/tcp/7513 --config ./config.testnet-05.json -d ./sm_data`
+`./go-spacemesh --listen /ip4/0.0.0.0/tcp/7513 --config ./config.mainnet.json -d ./sm_data`
 
 You might see a prompt regarding the firewall or accepting incoming connections, approve it and wait a bit to check if the node continues to run without any errors. You should see the logs being written continuously. 
 
@@ -154,7 +152,7 @@ Maxfilezsie is the maximum size of one POS data file. - your Proof of space data
 
 `--smeshing-opts-numunits` **uint32**     (**default** 4)
 
-The `smeshing-opts-numunits` flag allows you to indicate how much disk space you want to allocate for the Proof of Space files. The bigger your POS, the more rewards you will be getting. But remember, that generating this data might take days or even weeks, and then it will have to be read through regularly (once per epoch - so once per two weeks in the Mainnet) to create proof that you do have it. If the sequential reading process and proof generation will not be finalized in a specific timeframe, you will not be eligible to get the rewards in the next epoch. We have a dedicated profiler tool to check the recommended POS data size for your hardware, feel free to check it out.
+The `smeshing-opts-numunits` flag allows you to indicate how much disk space you want to allocate for the Proof of Space files. The bigger your POS, the more rewards you will be getting. But remember, that generating this data might take days or even weeks, and then it will have to be read through regularly (once per epoch - so once per two weeks in the Mainnet) to create proof that you do have it. If the sequential reading process and proof generation are not finalized in a specific timeframe, you will not be eligible to get the rewards in the next epoch. We have a dedicated profiler tool to check the recommended POS data size for your hardware, feel free to check it out.
 
 How to use this flag? Just provide an integer - minimum 4 - indicating how many units you would like to generate. How big is one unit? In the Mainnet it will be 64 Gibibytes. Now let’s do the math to understand it. 
 
@@ -166,11 +164,11 @@ The *provider* is the processor you would like to use to generate the POS data. 
 
 As an example let’s specify the POS params as follows and run this command from the abovementioned "node" directory: 
 
-`./go-spacemesh --listen /ip4/0.0.0.0/tcp/7513 --config ./config.testnet-05.json -d ./sm_data --smeshing-coinbase stest1qqqqqqz86qq5r5853yvsksnyh376fwhx5758azgyjnl8h --smeshing-start --smeshing-opts-datadir ./SM/POS --smeshing-opts-numunits 8`
+`./go-spacemesh --listen /ip4/0.0.0.0/tcp/7513 --config ./config.mainnet.json -d ./sm_data --smeshing-coinbase sm1qqqqqq9lrkyea55qpq9dh567jzv6dfcjnl0ytfczsen3h --smeshing-start --smeshing-opts-datadir ./SM/POS --smeshing-opts-numunits 8`
 
 Let’s decompose this example for a better understanding:
 
-We keep the values copied from Github for the port and app data directory, it is absolutely ok to use these default values i.e.:
+We keep the values copied from GitHub for the port and app data directory, it is absolutely ok to use these default values i.e.:
 
 `--listen /ip4/0.0.0.0/tcp/7513`
 
@@ -178,12 +176,12 @@ We keep the values copied from Github for the port and app data directory, it is
 
 
  For the config, insert the name of your config file, in our example:
-`--config ./config.testnet-05.json`
+`--config ./config.mainnet.json`
 
 
 The smeshing coinbase is a wallet address, for example
 
-`--smeshing-coinbase stest1qqqqqqz86qq5r5853yvsksnyh376fwhx5758azgyjnl8h`
+`--smeshing-coinbase sm1qqqqqq9lrkyea55qpq9dh567jzv6dfcjnl0ytfczsen3h`
 
 The POS files location - in our example we prepared
 `--smeshing-opts-datadir ./SM/POS`
@@ -208,8 +206,8 @@ Go to the [POST Releases](https://github.com/spacemeshos/post/releases) and take
 
 ```
 cd Downloads
-unzip postcli-macos-v0.8.2.zip
-rm -rf postcli-macos-v0.8.2.zip
+unzip postcli-macos-v0.10.2.zip
+rm -rf postcli-macos-v0.10.2.zip
 mv ./Downloads/postcli ./SM/node
 ```
 
