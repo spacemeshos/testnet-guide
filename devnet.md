@@ -151,7 +151,7 @@ A: Stop the node process by pressing `ctrl-c` in the terminal window you started
 
 ---
 
-Q: I've setup smeshing via smrepl, and later, I had to restart the node and now it is not smeshing. How can I keep smeshing after a node restart?
+Q: I've setup smeshing via smrepl and I later restarted the node and now it is not smeshing. How can I keep smeshing after a node restart?
 
 A: After setting post in smrepl, you need to modify your node's config file with the smeshing parameters so your node can continue smeshing using these parameters after you restart it.
 
